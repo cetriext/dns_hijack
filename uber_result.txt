@@ -1,0 +1,106 @@
+NXDOMAINS DATA 
+CNAME RECORDS DATA 
+tbs-static.uber.com                                 d31yurxyzoz92v.cloudfront.net                                 IP13.33.169.70,13.33.169.115,13.33.169.54,13.33.169.73
+www.cg-uber.com                                 cg-uber.com                                 IP201.76.51.228
+www.choferes-uber.com                                 ext-cust.squarespace.com                                 IP198.49.23.144,198.185.159.145,198.49.23.145,198.185.159.144
+cn-slow2.uber.com                                 cn-slow2-630950453.us-west-2.elb.amazonaws.com                                 IP52.34.161.114,54.200.154.121
+www.taxi-uber.com                                 web.jimdo.com                                 IP54.171.59.154,52.16.221.149
+tls.automattic.com                                 automattic.com                                 IP192.0.78.25,192.0.78.24
+careersinfo.uber.com                                 uberrecruiting.mktoweb.com                                 IP104.17.72.206,104.17.71.206,104.17.73.206,104.17.70.206,104.17.74.206
+accessibility.uber.com                                 uberpolicy.wpengine.com                                 IP35.184.61.224
+businesses.uber.com                                 uber.mktoweb.com                                 IP192.28.151.47
+www.wine-uber.com                                 www218.wixdns.net                                 IP35.244.22.27
+www.driving-with-uber.com                                 www117.wixdns.net                                 IP35.244.22.27
+beacon.uber.com                                 frontends.uber.com                                 IP104.36.195.226,104.36.195.219,104.36.195.224,104.36.195.227,104.36.195.215
+newsroom.uber.com                                 ubernewblog.wpengine.com                                 IP35.184.61.224
+outages.uberinternal.com                                 commander.aws.uber.com                                 IP54.71.95.242,35.163.136.176,34.223.34.98
+www.maui-uber.com                                 maui-uber.com                                 IP50.63.202.55
+transparencyreport.uber.com                                 uberpolicy.wpengine.com                                 IP35.184.61.224
+mobile-content.uber.com                                 d1rwrtutzhw795.cloudfront.net                                 IP13.33.169.111,13.33.169.18,13.33.169.44,13.33.169.112
+documents.uber.com                                 d1hg3f7gkvosar.cloudfront.net                                 IP13.33.169.83,13.33.169.50,13.33.169.59,13.33.169.98
+team.uberinternal.com                                 confluenc-LoadBala-12DFRI773PX7P-2093075961.us-west-2.elb.amazonaws.com                                 IP35.166.108.116,52.10.237.163
+cn-slow1.uber.com                                 cn-slow1-430152389.us-west-2.elb.amazonaws.com                                 IP52.37.161.40,35.162.212.181
+www.bush-uber.com                                 bush-uber.com                                 IP77.104.167.85
+www.anomaly-uber.com                                 ext-sq.squarespace.com                                 IP198.185.159.144,198.185.159.145,198.49.23.144,198.49.23.145
+io.uber.com                                 d2yf5850gdnqf6.cloudfront.net                                 IP13.33.169.52,13.33.169.71,13.33.169.51,13.33.169.95
+marketplace.uber.com                                 marketplace-prod.us-west-2.elasticbeanstalk.com                                 IP35.162.212.151,52.35.69.23,18.236.22.22
+investor.uber.com                                 webfarm-09.q4web.com                                 IP69.172.200.252
+assets-share.uber.com                                 dgjfjug4gwr33.cloudfront.net                                 IP13.33.169.8,13.33.169.35,13.33.169.60,13.33.169.42
+devbuilds.uber.com                                 d2zyjz862hmi9o.cloudfront.net                                 IP13.33.169.189
+photo.uber.com                                 photo.uber.com.herokudns.com                                 IP54.236.200.27,34.233.213.10,3.219.201.17,52.5.120.69,52.73.84.118,52.2.145.235,52.205.47.13,3.221.209.32
+tb-static.uber.com                                 d5plqxih8ul7m.cloudfront.net                                 IP13.33.169.110,13.33.169.83,13.33.169.120,13.33.169.2
+lert.uber.com                                 lert.uber.com.00d36000000j7x3eaa.live.siteforce.com                                 IP101.53.182.26
+love.uber.com                                 loveuber2.wpengine.com                                 IP35.184.61.224
+people.uber.com                                 ubereng.wpengine.com                                 IP35.184.61.224
+blog.uber.com                                 ubernewblog.wpengine.com                                 IP35.184.61.224
+engineering.uber.com                                 ubereng.wpengine.com                                 IP35.184.61.224
+www.blog.uber.com                                 ubernewblog.wpengine.com                                 IP35.184.61.224
+bizblog.uber.com                                 uber4b.wpengine.com                                 IP35.184.61.224
+safetyreport.uber.com                                 uberpolicy.wpengine.com                                 IP35.184.61.224
+eng.uber.com                                 ubereng.wpengine.com                                 IP35.184.61.224
+restauranthelp.uber.com                                 restauranthelp.uber.com.00do0000000ayryeae.live.siteforce.com                                 IP13.108.234.161,13.108.234.33,13.108.233.33
+webmail.works-uber.com                                 webmail-08.dondominio.net                                 IP31.214.176.12
+NO RECORDS DATA 
+sni145323.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+eat-uber.com                                 NO CNAME ENTRY AVAILABLE
+yolo.uberinternal.com                                 NO CNAME ENTRY AVAILABLE
+pages.et.uber.com                                 NO CNAME ENTRY AVAILABLE
+aqua-uber.com                                 NO CNAME ENTRY AVAILABLE
+ex-uber.com                                 NO CNAME ENTRY AVAILABLE
+www.rafaeltoledo.dev                                 NO CNAME ENTRY AVAILABLE
+newsroomapi.uber.com                                 NO CNAME ENTRY AVAILABLE
+ride-uber.com                                 NO CNAME ENTRY AVAILABLE
+trans-uber.com                                 NO CNAME ENTRY AVAILABLE
+*.riyadh-uber.com                                 NO CNAME ENTRY AVAILABLE
+www.spa-uber.com                                 NO CNAME ENTRY AVAILABLE
+spa-uber.com                                 NO CNAME ENTRY AVAILABLE
+help-uber.com                                 NO CNAME ENTRY AVAILABLE
+lab.usuppliers.uber.com                                 NO CNAME ENTRY AVAILABLE
+patners-uber.com                                 NO CNAME ENTRY AVAILABLE
+pete-uber.com                                 NO CNAME ENTRY AVAILABLE
+driving-with-uber.com                                 NO CNAME ENTRY AVAILABLE
+socio-uber.com                                 NO CNAME ENTRY AVAILABLE
+signin-uber.com                                 NO CNAME ENTRY AVAILABLE
+cupom30-uber.com                                 NO CNAME ENTRY AVAILABLE
+anomaly-uber.com                                 NO CNAME ENTRY AVAILABLE
+blogapi.uber.com                                 NO CNAME ENTRY AVAILABLE
+security-uber.com                                 NO CNAME ENTRY AVAILABLE
+support-uber.com                                 NO CNAME ENTRY AVAILABLE
+descargar-uber.com                                 NO CNAME ENTRY AVAILABLE
+sni.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+sni46121.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+usuppliers.uber.com                                 NO CNAME ENTRY AVAILABLE
+sni183106.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+sni45157.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+taxi-uber.com                                 NO CNAME ENTRY AVAILABLE
+vps.trans-uber.com                                 NO CNAME ENTRY AVAILABLE
+bolt-uber.com                                 NO CNAME ENTRY AVAILABLE
+view.et.uber.com                                 NO CNAME ENTRY AVAILABLE
+rocheleau-uber.com                                 NO CNAME ENTRY AVAILABLE
+mail-uber.com                                 NO CNAME ENTRY AVAILABLE
+speedyfreeze-uber.com                                 NO CNAME ENTRY AVAILABLE
+sni219162.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+click.et.uber.com                                 NO CNAME ENTRY AVAILABLE
+www.petcarpeople.com                                 NO CNAME ENTRY AVAILABLE
+wine-uber.com                                 NO CNAME ENTRY AVAILABLE
+ativaimoveis-sp.com.br                                 NO CNAME ENTRY AVAILABLE
+www.cargo-planner.com                                 NO CNAME ENTRY AVAILABLE
+uberblogapi.10upcdn.com                                 NO CNAME ENTRY AVAILABLE
+www.robota-uber.com                                 NO CNAME ENTRY AVAILABLE
+bush-uber.com                                 NO CNAME ENTRY AVAILABLE
+maui-uber.com                                 NO CNAME ENTRY AVAILABLE
+uber-uber.com                                 NO CNAME ENTRY AVAILABLE
+didi-uber.com                                 NO CNAME ENTRY AVAILABLE
+www.archi-uber.com                                 NO CNAME ENTRY AVAILABLE
+cliente-uber.com                                 NO CNAME ENTRY AVAILABLE
+partener-uber.com                                 NO CNAME ENTRY AVAILABLE
+join-uber.com                                 NO CNAME ENTRY AVAILABLE
+com-today.biz                                 NO CNAME ENTRY AVAILABLE
+promo-vadeuber-uber.com                                 NO CNAME ENTRY AVAILABLE
+ba-uber.com                                 NO CNAME ENTRY AVAILABLE
+user-uber.com                                 NO CNAME ENTRY AVAILABLE
+auth-uber.com                                 NO CNAME ENTRY AVAILABLE
+on-uber.com                                 NO CNAME ENTRY AVAILABLE
+site-uber.com                                 NO CNAME ENTRY AVAILABLE
+aniversario-uber.com                                 NO CNAME ENTRY AVAILABLE
+server1.categorias-uber.com                                 NO CNAME ENTRY AVAILABLE

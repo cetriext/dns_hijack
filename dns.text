@@ -1,0 +1,819 @@
+ThreatCrowd: sts-vis0.starbucks.com
+ThreatCrowd: sts-vis-cert0.starbucks.com
+ThreatCrowd: sts-vis-dev0.starbucks.com
+ThreatCrowd: chdlyncweb01.starbucks.com
+ThreatCrowd: chdlyncedge01.starbucks.com
+ThreatCrowd: chdlyncconf01.starbucks.com
+ThreatCrowd: chdlyncwebapp01.starbucks.com
+ThreatCrowd: bomgaratlas01.starbucks.com
+ThreatCrowd: prodpospa1.starbucks.com
+ThreatCrowd: prodcrmpospa1.starbucks.com
+ThreatCrowd: certcrmpospa1.starbucks.com
+ThreatCrowd: certpospa1.starbucks.com
+ThreatCrowd: fb1.starbucks.com
+ThreatCrowd: sts-vis-cloud1.starbucks.com
+ThreatCrowd: sts-vis-cert-cloud1.starbucks.com
+ThreatCrowd: sts-vis-dev-cloud1.starbucks.com
+ThreatCrowd: vcse1.starbucks.com
+ThreatCrowd: po1.starbucks.com
+ThreatCrowd: bubbles1.starbucks.com
+ThreatCrowd: sts-vis1.starbucks.com
+ThreatCrowd: mrs1.starbucks.com
+ThreatCrowd: sts-vis-cert1.starbucks.com
+ThreatCrowd: sts-vis-dev1.starbucks.com
+ThreatCrowd: vidm-2.starbucks.com
+ThreatCrowd: produpgpospa2.starbucks.com
+ThreatCrowd: prodcrmpospa2.starbucks.com
+ThreatCrowd: certpospa2.starbucks.com
+ThreatCrowd: activesync-iad2.starbucks.com
+ThreatCrowd: hybrid-iad2.starbucks.com
+ThreatCrowd: autodiscover-iad2.starbucks.com
+ThreatCrowd: ews-iad2.starbucks.com
+ThreatCrowd: ldap-chd2.starbucks.com
+ThreatCrowd: pwss-chd2.starbucks.com
+ThreatCrowd: sus-chd2.starbucks.com
+ThreatCrowd: sts-vis-cloud2.starbucks.com
+ThreatCrowd: sts-vis-cert-cloud2.starbucks.com
+ThreatCrowd: sts-vis-dev-cloud2.starbucks.com
+Baidu: stories.starbucks.com
+ThreatCrowd: testacme2.starbucks.com
+Baidu: news.starbucks.com
+ThreatCrowd: secureui2.starbucks.com
+Baidu: jobs.starbucks.com
+ThreatCrowd: sso-group2.starbucks.com
+Baidu: passport.starbucks.com
+ThreatCrowd: globalwcmsvcs2.starbucks.com
+Baidu: members.starbucks.com
+ThreatCrowd: bubbles2.starbucks.com
+ThreatCrowd: sts-vis2.starbucks.com
+ThreatCrowd: mrs2.starbucks.com
+ThreatCrowd: news2.starbucks.com
+ThreatCrowd: sts-vis-cert2.starbucks.com
+ThreatCrowd: tsc-test2.starbucks.com
+ThreatCrowd: sts-vis-dev2.starbucks.com
+ThreatCrowd: www2.starbucks.com
+ThreatCrowd: testwww2.starbucks.com
+ThreatCrowd: mtestwww2.starbucks.com
+ThreatCrowd: retail-level-3.starbucks.com
+ThreatCrowd: bomgaratlas03.starbucks.com
+ThreatCrowd: owa-ec3.starbucks.com
+ThreatCrowd: partner-hub-test-vs-iad-ec3.starbucks.com
+ThreatCrowd: mysite-ec3.starbucks.com
+ThreatCrowd: cert-mysite-ec3.starbucks.com
+ThreatCrowd: search-ec3.starbucks.com
+ThreatCrowd: retail-ec3.starbucks.com
+ThreatCrowd: partner-ec3.starbucks.com
+ThreatCrowd: cert-partner-ec3.starbucks.com
+ThreatCrowd: communities-ec3.starbucks.com
+ThreatCrowd: cert-communities-ec3.starbucks.com
+ThreatCrowd: teams-ec3.starbucks.com
+ThreatCrowd: cert-teams-ec3.starbucks.com
+ThreatCrowd: cert-departments-ec3.starbucks.com
+ThreatCrowd: activesync-iad3.starbucks.com
+ThreatCrowd: sts-vis-cloud3.starbucks.com
+ThreatCrowd: sts-vis-cert-cloud3.starbucks.com
+ThreatCrowd: sts-vis-dev-cloud3.starbucks.com
+ThreatCrowd: mrs3.starbucks.com
+ThreatCrowd: sts-vis-cert3.starbucks.com
+ThreatCrowd: sts-vis-dev3.starbucks.com
+ThreatCrowd: mobility3.starbucks.com
+ThreatCrowd: da04.starbucks.com
+ThreatCrowd: sts-vis-cloud4.starbucks.com
+ThreatCrowd: mrs4.starbucks.com
+ThreatCrowd: sts-vis-dev4.starbucks.com
+ThreatCrowd: mobility4.starbucks.com
+ThreatCrowd: o365.starbucks.com
+ThreatCrowd: dr-o365.starbucks.com
+ThreatCrowd: stageo365.starbucks.com
+ThreatCrowd: dro365.starbucks.com
+ThreatCrowd: testo365.starbucks.com
+ThreatCrowd: pledge5.starbucks.com
+ThreatCrowd: testus5.starbucks.com
+ThreatCrowd: testwww5.starbucks.com
+ThreatCrowd: txnmid-a-v9.starbucks.com
+ThreatCrowd: kdretail-a-v9.starbucks.com
+ThreatCrowd: kdreq-b-v9.starbucks.com
+ThreatCrowd: a.starbucks.com
+ThreatCrowd: smreporting-v9-a.starbucks.com
+ThreatCrowd: reportmid-a.starbucks.com
+ThreatCrowd: ordering-prod-a.starbucks.com
+ThreatCrowd: kdretail-a.starbucks.com
+ThreatCrowd: kdreq-a.starbucks.com
+ThreatCrowd: mta860.a.starbucks.com
+ThreatCrowd: mta705.a.starbucks.com
+ThreatCrowd: b.a.starbucks.com
+ThreatCrowd: m.a.starbucks.com
+ThreatCrowd: ebm.a.starbucks.com
+ThreatCrowd: a.ns.a.starbucks.com
+ThreatCrowd: retailwebappsemea.starbucks.com
+ThreatCrowd: cloudappsemea.starbucks.com
+ThreatCrowd: retailwebaccessemea.starbucks.com
+ThreatCrowd: tea.starbucks.com
+ThreatCrowd: mfa.starbucks.com
+ThreatCrowd: prod00.mfa.starbucks.com
+ThreatCrowd: via.starbucks.com
+ThreatCrowd: mena.starbucks.com
+ThreatCrowd: win.mena.starbucks.com
+ThreatCrowd: www.mena.starbucks.com
+ThreatCrowd: community.mena.starbucks.com
+ThreatCrowd: opportunity.mena.starbucks.com
+ThreatCrowd: ra.starbucks.com
+ThreatCrowd: jira.starbucks.com
+ThreatCrowd: sumatra.starbucks.com
+ThreatCrowd: orchestra.starbucks.com
+ThreatCrowd: beta.starbucks.com
+ThreatCrowd: mobility-rtl-va.starbucks.com
+ThreatCrowd: mobility-us-va.starbucks.com
+ThreatCrowd: owa.starbucks.com
+ThreatCrowd: test1-owa.starbucks.com
+ThreatCrowd: storelink-owa.starbucks.com
+ThreatCrowd: alexa.starbucks.com
+ThreatCrowd: kdreq-b.starbucks.com
+ThreatCrowd: jsslab.starbucks.com
+ThreatCrowd: compass-prodb.starbucks.com
+ThreatCrowd: bi-mstr-web.starbucks.com
+ThreatCrowd: bi-cert-mstr-web.starbucks.com
+ThreatCrowd: bi-test-mstr-web.starbucks.com
+ThreatCrowd: bi-dev-mstr-web.starbucks.com
+ThreatCrowd: certweb.starbucks.com
+ThreatCrowd: testweb.starbucks.com
+ThreatCrowd: devweb.starbucks.com
+ThreatCrowd: tsc-kb.starbucks.com
+ThreatCrowd: p01.productioncontroller-lb.starbucks.com
+ThreatCrowd: testnonb.starbucks.com
+ThreatCrowd: bi-cap-tb.starbucks.com
+ThreatCrowd: awb.starbucks.com
+ThreatCrowd: wwwb.starbucks.com
+ThreatCrowd: testusen-sec.starbucks.com
+ThreatCrowd: activesync.starbucks.com
+ThreatCrowd: ucpc.starbucks.com
+ThreatCrowd: integration.ucpc.starbucks.com
+ThreatCrowd: ct.ucpc.starbucks.com
+ThreatCrowd: wfmnapimpc.starbucks.com
+ThreatCrowd: wfmnaptnpc.starbucks.com
+ThreatCrowd: spc.starbucks.com
+ThreatCrowd: pd.spc.starbucks.com
+ThreatCrowd: wfmnapospc.starbucks.com
+ThreatCrowd: wfmnapaypc.starbucks.com
+ThreatCrowd: sdrc.starbucks.com
+ThreatCrowd: archergrc.starbucks.com
+ThreatCrowd: sandbox-archergrc.starbucks.com
+ThreatCrowd: tsc.starbucks.com
+ThreatCrowd: test10-iad.starbucks.com
+ThreatCrowd: sso-group0-iad.starbucks.com
+ThreatCrowd: sts-vis0-iad.starbucks.com
+ThreatCrowd: sts-vis-cert0-iad.starbucks.com
+ThreatCrowd: sts-vis-dev0-iad.starbucks.com
+ThreatCrowd: sts-vis-cloud1-iad.starbucks.com
+ThreatCrowd: sts-vis-cert-cloud1-iad.starbucks.com
+ThreatCrowd: sts-vis-dev-cloud1-iad.starbucks.com
+ThreatCrowd: sts-vis1-iad.starbucks.com
+ThreatCrowd: sts-vis-cert1-iad.starbucks.com
+ThreatCrowd: test1-iad.starbucks.com
+ThreatCrowd: sts-vis-dev1-iad.starbucks.com
+ThreatCrowd: sts-vis-cloud2-iad.starbucks.com
+ThreatCrowd: sts-vis-cert-cloud2-iad.starbucks.com
+ThreatCrowd: sts-vis-dev-cloud2-iad.starbucks.com
+ThreatCrowd: sso-group2-iad.starbucks.com
+ThreatCrowd: sts-vis2-iad.starbucks.com
+ThreatCrowd: sts-vis-cert2-iad.starbucks.com
+ThreatCrowd: test2-iad.starbucks.com
+ThreatCrowd: sts-vis-dev2-iad.starbucks.com
+ThreatCrowd: sts-vis-cloud3-iad.starbucks.com
+ThreatCrowd: sts-vis-cert-cloud3-iad.starbucks.com
+ThreatCrowd: sts-vis-dev-cloud3-iad.starbucks.com
+ThreatCrowd: sts-vis-cert3-iad.starbucks.com
+ThreatCrowd: test3-iad.starbucks.com
+ThreatCrowd: sts-vis-dev3-iad.starbucks.com
+ThreatCrowd: test4-iad.starbucks.com
+ThreatCrowd: sts-vis-dev4-iad.starbucks.com
+ThreatCrowd: test5-iad.starbucks.com
+ThreatCrowd: test6-iad.starbucks.com
+ThreatCrowd: test7-iad.starbucks.com
+ThreatCrowd: test8-iad.starbucks.com
+ThreatCrowd: da-iad.starbucks.com
+ThreatCrowd: sumatra-iad.starbucks.com
+ThreatCrowd: activesync-iad.starbucks.com
+ThreatCrowd: archergrc-iad.starbucks.com
+ThreatCrowd: hybrid-iad.starbucks.com
+ThreatCrowd: cashmgmt-prod-iad.starbucks.com
+ThreatCrowd: appcafe-iad.starbucks.com
+ThreatCrowd: acme-iad.starbucks.com
+ThreatCrowd: stageacme-iad.starbucks.com
+ThreatCrowd: stagefederate-iad.starbucks.com
+ThreatCrowd: testfederate-iad.starbucks.com
+ThreatCrowd: microsite-iad.starbucks.com
+ThreatCrowd: cpath-iad.starbucks.com
+ThreatCrowd: d-cpath-iad.starbucks.com
+ThreatCrowd: auth-iad.starbucks.com
+ThreatCrowd: api-iad.starbucks.com
+ThreatCrowd: stageapi-iad.starbucks.com
+ThreatCrowd: secureapi-iad.starbucks.com
+ThreatCrowd: secureui-iad.starbucks.com
+ThreatCrowd: stagesecureui-iad.starbucks.com
+ThreatCrowd: outlook-iad.starbucks.com
+ThreatCrowd: mail-iad.starbucks.com
+ThreatCrowd: realm-iad.starbucks.com
+ThreatCrowd: green-iad.starbucks.com
+ThreatCrowd: ldap-iad.starbucks.com
+ThreatCrowd: sso-group-iad.starbucks.com
+ThreatCrowd: bomgar-iad.starbucks.com
+ThreatCrowd: achecker-iad.starbucks.com
+ThreatCrowd: stagewcmsvcs-iad.starbucks.com
+ThreatCrowd: globalwcmsvcs-iad.starbucks.com
+ThreatCrowd: previewwcmsvcs-iad.starbucks.com
+ThreatCrowd: blogs-iad.starbucks.com
+ThreatCrowd: sts-vis-iad.starbucks.com
+ThreatCrowd: cms-iad.starbucks.com
+ThreatCrowd: pwss-iad.starbucks.com
+ThreatCrowd: ms-sts-iad.starbucks.com
+ThreatCrowd: partner-hub-cert-vs-iad.starbucks.com
+ThreatCrowd: ews-iad.starbucks.com
+ThreatCrowd: stageconnect-iad.starbucks.com
+ThreatCrowd: appcafe-cert-iad.starbucks.com
+ThreatCrowd: sts-vis-cert-iad.starbucks.com
+ThreatCrowd: papercut-iad.starbucks.com
+ThreatCrowd: www-iad.starbucks.com
+ThreatCrowd: stagewww-iad.starbucks.com
+ThreatCrowd: previewwww-iad.starbucks.com
+ThreatCrowd: stagesorry-iad.starbucks.com
+ThreatCrowd: retailwebappsiad.starbucks.com
+ThreatCrowd: retailwebaccessiad.starbucks.com
+ThreatCrowd: mobilecarddownload.starbucks.com
+ThreatCrowd: red.starbucks.com
+ThreatCrowd: chd.starbucks.com
+ThreatCrowd: sts-vis0-chd.starbucks.com
+ThreatCrowd: sts-vis-cert0-chd.starbucks.com
+ThreatCrowd: sts-vis-dev0-chd.starbucks.com
+ThreatCrowd: chdlyncwebapp01-chd.starbucks.com
+ThreatCrowd: sts-vis-cloud1-chd.starbucks.com
+ThreatCrowd: sts-vis-cert-cloud1-chd.starbucks.com
+ThreatCrowd: sts-vis-dev-cloud1-chd.starbucks.com
+ThreatCrowd: sts-vis1-chd.starbucks.com
+ThreatCrowd: sts-vis-cert1-chd.starbucks.com
+ThreatCrowd: sts-vis-dev1-chd.starbucks.com
+ThreatCrowd: sts-vis-cloud2-chd.starbucks.com
+ThreatCrowd: sts-vis-cert-cloud2-chd.starbucks.com
+ThreatCrowd: sts-vis-dev-cloud2-chd.starbucks.com
+ThreatCrowd: sts-vis2-chd.starbucks.com
+ThreatCrowd: sts-vis-cert2-chd.starbucks.com
+ThreatCrowd: sts-vis-dev2-chd.starbucks.com
+ThreatCrowd: sts-vis-cloud3-chd.starbucks.com
+ThreatCrowd: sts-vis-cert3-chd.starbucks.com
+ThreatCrowd: sts-vis-dev3-chd.starbucks.com
+ThreatCrowd: sts-vis-dev4-chd.starbucks.com
+ThreatCrowd: sumatra-chd.starbucks.com
+ThreatCrowd: activesync-chd.starbucks.com
+ThreatCrowd: hybrid-chd.starbucks.com
+ThreatCrowd: appcafe-chd.starbucks.com
+ThreatCrowd: acme-chd.starbucks.com
+ThreatCrowd: loadacme-chd.starbucks.com
+ThreatCrowd: stageacme-chd.starbucks.com
+ThreatCrowd: testacme-chd.starbucks.com
+ThreatCrowd: microsite-chd.starbucks.com
+ThreatCrowd: loadstorelanding-chd.starbucks.com
+ThreatCrowd: cpath-chd.starbucks.com
+ThreatCrowd: d-cpath-chd.starbucks.com
+ThreatCrowd: api-chd.starbucks.com
+ThreatCrowd: loadapi-chd.starbucks.com
+ThreatCrowd: stageapi-chd.starbucks.com
+ThreatCrowd: secureapi-chd.starbucks.com
+ThreatCrowd: loadsecureapi-chd.starbucks.com
+ThreatCrowd: stagesecureapi-chd.starbucks.com
+ThreatCrowd: host.openapi-chd.starbucks.com
+ThreatCrowd: loadhost.openapi-chd.starbucks.com
+ThreatCrowd: testhost.openapi-chd.starbucks.com
+ThreatCrowd: testapi-chd.starbucks.com
+ThreatCrowd: mpi-chd.starbucks.com
+ThreatCrowd: secureui-chd.starbucks.com
+ThreatCrowd: loadsecureui-chd.starbucks.com
+ThreatCrowd: stagesecureui-chd.starbucks.com
+ThreatCrowd: outlook-chd.starbucks.com
+ThreatCrowd: global-chd.starbucks.com
+ThreatCrowd: stagedigital-chd.starbucks.com
+ThreatCrowd: mail-chd.starbucks.com
+ThreatCrowd: webmail-chd.starbucks.com
+ThreatCrowd: crl-chd.starbucks.com
+ThreatCrowd: ipm-chd.starbucks.com
+ThreatCrowd: testusen-chd.starbucks.com
+ThreatCrowd: ldap-chd.starbucks.com
+ThreatCrowd: testdesktop-chd.starbucks.com
+ThreatCrowd: fsp-chd.starbucks.com
+ThreatCrowd: ftp-chd.starbucks.com
+ThreatCrowd: sso-group-chd.starbucks.com
+ThreatCrowd: bomgar-chd.starbucks.com
+ThreatCrowd: wcmsvcs-chd.starbucks.com
+ThreatCrowd: global-wcmsvcs-chd.starbucks.com
+ThreatCrowd: loadwcmsvcs-chd.starbucks.com
+ThreatCrowd: stagewcmsvcs-chd.starbucks.com
+ThreatCrowd: loadglobalwcmsvcs-chd.starbucks.com
+ThreatCrowd: testwcmsvcs-chd.starbucks.com
+ThreatCrowd: blogs-chd.starbucks.com
+ThreatCrowd: stageblogs-chd.starbucks.com
+ThreatCrowd: cms-chd.starbucks.com
+ThreatCrowd: webapps-chd.starbucks.com
+ThreatCrowd: vendors-chd.starbucks.com
+ThreatCrowd: pwss-chd.starbucks.com
+ThreatCrowd: ms-sts-chd.starbucks.com
+ThreatCrowd: msdev-sts-chd.starbucks.com
+ThreatCrowd: sus-chd.starbucks.com
+ThreatCrowd: ews-chd.starbucks.com
+ThreatCrowd: loadconnect-chd.starbucks.com
+ThreatCrowd: stageconnect-chd.starbucks.com
+ThreatCrowd: appcafe-cert-chd.starbucks.com
+ThreatCrowd: jsstest-chd.starbucks.com
+ThreatCrowd: stagehost-chd.starbucks.com
+ThreatCrowd: papercut-chd.starbucks.com
+ThreatCrowd: mypartnerinfo-ext-chd.starbucks.com
+ThreatCrowd: www-chd.starbucks.com
+ThreatCrowd: loadwww-chd.starbucks.com
+ThreatCrowd: stagewww-chd.starbucks.com
+ThreatCrowd: testwww-chd.starbucks.com
+ThreatCrowd: stagesorry-chd.starbucks.com
+ThreatCrowd: retailwebaccesschd.starbucks.com
+ThreatCrowd: id.starbucks.com
+ThreatCrowd: cloudid.starbucks.com
+ThreatCrowd: prodcdhapps-oid.starbucks.com
+ThreatCrowd: testcdhapps-oid.starbucks.com
+ThreatCrowd: devcdhapps-oid.starbucks.com
+ThreatCrowd: prodcrmapps-oid.starbucks.com
+ThreatCrowd: certltyapps-oid.starbucks.com
+ThreatCrowd: hybrid.starbucks.com
+ThreatCrowd: appcafe-old.starbucks.com
+ThreatCrowd: givegood.starbucks.com
+ThreatCrowd: soa-prod.starbucks.com
+ThreatCrowd: cdm-prod.starbucks.com
+ThreatCrowd: compass-prod.starbucks.com
+ThreatCrowd: cashmgmt-prod.starbucks.com
+ThreatCrowd: mena.card.starbucks.com
+ThreatCrowd: mobilecard.starbucks.com
+ThreatCrowd: eapi-scmariba-sd.starbucks.com
+ThreatCrowd: cdx-sd.starbucks.com
+ThreatCrowd: e.starbucks.com
+ThreatCrowd: mta960.e.starbucks.com
+ThreatCrowd: mta961.e.starbucks.com
+ThreatCrowd: mta865.e.starbucks.com
+ThreatCrowd: b.e.starbucks.com
+ThreatCrowd: a.mx.b.e.starbucks.com
+ThreatCrowd: b.mx.b.e.starbucks.com
+ThreatCrowd: c.mx.b.e.starbucks.com
+ThreatCrowd: d.mx.b.e.starbucks.com
+ThreatCrowd: f.e.starbucks.com
+ThreatCrowd: reg.e.starbucks.com
+ThreatCrowd: email.e.starbucks.com
+ThreatCrowd: m.e.starbucks.com
+ThreatCrowd: a.mx.m.e.starbucks.com
+ThreatCrowd: b.mx.m.e.starbucks.com
+ThreatCrowd: d.mx.m.e.starbucks.com
+ThreatCrowd: ebm.e.starbucks.com
+ThreatCrowd: a.ns.e.starbucks.com
+ThreatCrowd: b.ns.e.starbucks.com
+ThreatCrowd: c.ns.e.starbucks.com
+ThreatCrowd: d.ns.e.starbucks.com
+ThreatCrowd: e.ns.e.starbucks.com
+ThreatCrowd: f.ns.e.starbucks.com
+ThreatCrowd: d.mx.e.starbucks.com
+ThreatCrowd: workspace.starbucks.com
+ThreatCrowd: trace.starbucks.com
+ThreatCrowd: invoice.starbucks.com
+ThreatCrowd: selfservice.starbucks.com
+ThreatCrowd: retailselfservice.starbucks.com
+ThreatCrowd: customerservice.starbucks.com
+ThreatCrowd: opsexcellence.starbucks.com
+ThreatCrowd: testchde.starbucks.com
+ThreatCrowd: blonde.starbucks.com
+ThreatCrowd: verde.starbucks.com
+ThreatCrowd: stageatde.starbucks.com
+ThreatCrowd: testatde.starbucks.com
+ThreatCrowd: franchisee.starbucks.com
+ThreatCrowd: datacafe.starbucks.com
+ThreatCrowd: appcafe.starbucks.com
+ThreatCrowd: globalstage.starbucks.com
+ThreatCrowd: wwwstage.starbucks.com
+ThreatCrowd: edge.starbucks.com
+ThreatCrowd: ie.starbucks.com
+ThreatCrowd: 1912pike.starbucks.com
+ThreatCrowd: mobile.starbucks.com
+ThreatCrowd: bi-sb-mstr-mobile.starbucks.com
+ThreatCrowd: bi-mstr-mobile.starbucks.com
+ThreatCrowd: bi-cert-mstr-mobile.starbucks.com
+ThreatCrowd: bi-dev-mstr-mobile.starbucks.com
+ThreatCrowd: test4mobile.starbucks.com
+ThreatCrowd: testcardmobile.starbucks.com
+ThreatCrowd: ordering-prod-a-profile.starbucks.com
+ThreatCrowd: orderingprofile.starbucks.com
+ThreatCrowd: me.starbucks.com
+ThreatCrowd: www.me.starbucks.com
+ThreatCrowd: acme.starbucks.com
+ThreatCrowd: dr-acme.starbucks.com
+ThreatCrowd: test3acme.starbucks.com
+ThreatCrowd: test5acme.starbucks.com
+ThreatCrowd: testacme.starbucks.com
+ThreatCrowd: athome.starbucks.com
+ThreatCrowd: meetme.starbucks.com
+ThreatCrowd: testshare.starbucks.com
+ThreatCrowd: explore.starbucks.com
+ThreatCrowd: store.starbucks.com
+ThreatCrowd: testusen7store.starbucks.com
+ThreatCrowd: testdedestore.starbucks.com
+ThreatCrowd: stagestore.starbucks.com
+ThreatCrowd: testukstore.starbucks.com
+ThreatCrowd: testcaenstore.starbucks.com
+ThreatCrowd: stagedeenstore.starbucks.com
+ThreatCrowd: stagefrenstore.starbucks.com
+ThreatCrowd: stageusenstore.starbucks.com
+ThreatCrowd: demostore.starbucks.com
+ThreatCrowd: stagefrfrstore.starbucks.com
+ThreatCrowd: teststore.starbucks.com
+ThreatCrowd: www.teststore.starbucks.com
+ThreatCrowd: sdlgreensecure.starbucks.com
+ThreatCrowd: federate.starbucks.com
+ThreatCrowd: dr-federate.starbucks.com
+Bing: delivery.starbucks.com
+ThreatCrowd: test9federate.starbucks.com
+Bing: cloudapps.starbucks.com
+Bing: investor.starbucks.com
+ThreatCrowd: stagefederate.starbucks.com
+Bing: desktop.starbucks.com
+ThreatCrowd: microsite.starbucks.com
+Bing: athome.starbucks.com
+ThreatCrowd: mysite.starbucks.com
+Bing: www.athome.starbucks.com
+ThreatCrowd: test1-mysite.starbucks.com
+Bing: id.starbucks.com
+ThreatCrowd: remote.starbucks.com
+ThreatCrowd: creative.starbucks.com
+Bing: globalassets.starbucks.com
+ThreatCrowd: awmag.starbucks.com
+Bing: stories.starbucks.com
+ThreatCrowd: testbgbg.starbucks.com
+ThreatCrowd: email.mg.starbucks.com
+ThreatCrowd: storelanding.starbucks.com
+ThreatCrowd: ordering.starbucks.com
+ThreatCrowd: catering.starbucks.com
+ThreatCrowd: gifting.starbucks.com
+ThreatCrowd: smreporting.starbucks.com
+ThreatCrowd: blog.starbucks.com
+ThreatCrowd: certltyupg.starbucks.com
+ThreatCrowd: search.starbucks.com
+ThreatCrowd: test1-search.starbucks.com
+ThreatCrowd: airwatch.starbucks.com
+ThreatCrowd: auth-ash.starbucks.com
+ThreatCrowd: cpath.starbucks.com
+ThreatCrowd: d-cpath.starbucks.com
+ThreatCrowd: testthth.starbucks.com
+ThreatCrowd: auth.starbucks.com
+ThreatCrowd: redeemtweetauth.starbucks.com
+ThreatCrowd: testhkzh.starbucks.com
+ThreatCrowd: wifi.starbucks.com
+ThreatCrowd: api.starbucks.com
+ThreatCrowd: deepbrew-prod-api.starbucks.com
+ThreatCrowd: cdx-prod-api.starbucks.com
+ThreatCrowd: deepbrew-preprod-api.starbucks.com
+ThreatCrowd: cdx-nonprod-api.starbucks.com
+ThreatCrowd: trace-api.starbucks.com
+ThreatCrowd: pro-asp-api.starbucks.com
+ThreatCrowd: dr-api.starbucks.com
+ThreatCrowd: sixevents-api.starbucks.com
+ThreatCrowd: test2api.starbucks.com
+ThreatCrowd: eapi.starbucks.com
+ThreatCrowd: stageapi.starbucks.com
+ThreatCrowd: secureapi.starbucks.com
+ThreatCrowd: test10secureapi.starbucks.com
+ThreatCrowd: test4secureapi.starbucks.com
+ThreatCrowd: test5secureapi.starbucks.com
+ThreatCrowd: test7secureapi.starbucks.com
+ThreatCrowd: testsecureapi.starbucks.com
+ThreatCrowd: openapi.starbucks.com
+ThreatCrowd: test10.openapi.starbucks.com
+ThreatCrowd: test11.openapi.starbucks.com
+ThreatCrowd: test1.openapi.starbucks.com
+ThreatCrowd: host2.openapi.starbucks.com
+ThreatCrowd: dr-host2.openapi.starbucks.com
+ThreatCrowd: loadhost2.openapi.starbucks.com
+ThreatCrowd: stagehost2.openapi.starbucks.com
+ThreatCrowd: drhost2.openapi.starbucks.com
+ThreatCrowd: testhost2.openapi.starbucks.com
+ThreatCrowd: host3.openapi.starbucks.com
+ThreatCrowd: dr-host3.openapi.starbucks.com
+ThreatCrowd: stagehost3.openapi.starbucks.com
+ThreatCrowd: testhost3.openapi.starbucks.com
+ThreatCrowd: host4.openapi.starbucks.com
+ThreatCrowd: test15.openapi.starbucks.com
+ThreatCrowd: test7.openapi.starbucks.com
+ThreatCrowd: test19.openapi.starbucks.com
+ThreatCrowd: test10-iad.openapi.starbucks.com
+ThreatCrowd: test1-iad.openapi.starbucks.com
+ThreatCrowd: test2-iad.openapi.starbucks.com
+ThreatCrowd: test3-iad.openapi.starbucks.com
+ThreatCrowd: test4-iad.openapi.starbucks.com
+ThreatCrowd: test5-iad.openapi.starbucks.com
+ThreatCrowd: test6-iad.openapi.starbucks.com
+ThreatCrowd: test7-iad.openapi.starbucks.com
+ThreatCrowd: host-iad.openapi.starbucks.com
+ThreatCrowd: stagehost-iad.openapi.starbucks.com
+Yahoo: www.starbucks.com
+Yahoo: cloudapps.starbucks.com
+Yahoo: solutions.starbucks.com
+Yahoo: storelink.starbucks.com
+Bing: sdrc.starbucks.com
+Bing: edam.starbucks.com
+Bing: app.starbucks.com
+Bing: itsm.starbucks.com:8443
+Bing: creative.starbucks.com
+Bing: solutions.starbucks.com
+Bing: customerservice.starbucks.com
+Netcraft: e.starbucks.com
+Netcraft: email.mg.starbucks.com
+Netcraft: www.starbucks.com
+Netcraft: store.starbucks.com
+Netcraft: promotions.starbucks.com
+Netcraft: customerservice.starbucks.com
+Netcraft: ebm.e.starbucks.com
+Netcraft: athome.starbucks.com
+Netcraft: members.starbucks.com
+Netcraft: partner.starbucks.com
+Netcraft: roastery.starbucks.com
+Netcraft: globalassets.starbucks.com
+Netcraft: lp.starbucks.com
+Netcraft: news.starbucks.com
+Bing: sim.starbucks.com
+Bing: assets.starbucks.com
+Bing: sts-vis-cloud3.starbucks.com
+Bing: sts-vis-main.starbucks.com
+Bing: content-prod-live.cert.starbucks.com
+Yahoo: customerservice.starbucks.com
+Yahoo: delivery.starbucks.com
+Yahoo: ordering.starbucks.com
+Yahoo: partner.starbucks.com
+Yahoo: investor.starbucks.com
+Bing: main-id-en.test.starbucks.com
+Bing: sts-vis-cloud1.starbucks.com
+Bing: www.starbucks.com
+Bing: passport.starbucks.com
+Bing: developer.starbucks.com
+Bing: id-dev.starbucks.c om
+Bing: catering.starbucks.com
+Bing: tea.starbucks.com
+Bing: ipm.starbucks.com
+Bing: sso-group2.starbucks.com
+Bing: portal.starbucks.com
+Bing: retail-training-videos.starbucks.com
+Bing: storelink.starbucks.com
+Bing: lp.starbucks.com
+Bing: mypartnerinfo-ext.starbucks.com
+Yahoo: stories.starbucks.com
+Yahoo: athome.starbucks.com
+Yahoo: www.athome.starbucks.com
+Yahoo: globalassets.starbucks.com
+Bing: verde.starbucks.com
+Bing: via.starbucks.com
+Bing: sts-vis.starbucks.com
+Bing: pwss.starbucks.com
+Bing: sorry.starbucks.com
+Bing: meet.starbucks.com
+Bing: sso-group0.starbucks.com
+Bing: sgsmsuppliertest.starbucks.com
+Bing: sso-group.starbucks.com
+Bing: id-cert.starbucks.com
+Yahoo: creative.starbucks.com
+Yahoo: app.starbucks.com
+Bing: promotions.starbucks.com
+Bing: globalassetshost.starbucks.com
+Bing: federate.starbucks.com
+Bing: green.starbucks.com
+Bing: assetshost.starbucks.com
+Yahoo: main-id-en.test.starbucks.com
+Yahoo: livingourvalues.starbucks.com
+Yahoo: id.starbucks.com
+Yahoo: content-prod-live.cert.starbucks.com
+Yahoo: id-dev.starbucks.com
+Yahoo: ipm.starbucks.com
+Baidu: athome.starbucks.com
+Baidu: community.starbucks.com
+Baidu: ie.starbucks.com
+Baidu: delivery.starbucks.com
+Baidu: gr.starbucks.com
+Baidu: app.starbucks.com
+Yahoo: sso-group.starbucks.com
+Yahoo: id-cert.starbucks.com
+Yahoo: pwss.starbucks.com
+Yahoo: desktop.starbucks.com
+Yahoo: catering.starbucks.com
+Yahoo: assets.starbucks.com
+Yahoo: developer.starbucks.com
+Yahoo: portal.starbucks.com
+DNSdumpster: mrs2.starbucks.com
+DNSdumpster: mobilecard.starbucks.com
+DNSdumpster: fb1.starbucks.com
+DNSdumpster: mobility-rtl-va.starbucks.com
+DNSdumpster: retailwebaccesschd.starbucks.com
+DNSdumpster: stagefrenstore.starbucks.com
+Yahoo: sgsmsuppliertest.starbucks.com
+Yahoo: passport.starbucks.com
+Yahoo: lp.starbucks.com
+Yahoo: mypartnerinfo-ext.starbucks.com
+Yahoo: federate.starbucks.com
+Yahoo: sts-vis.starbucks.com
+DNSdumpster: d.ns.e.starbucks.com
+DNSdumpster: store.starbucks.com
+DNSdumpster: ie.starbucks.com
+DNSdumpster: smreporting-v9-a.starbucks.com
+Yahoo: globalassetshost.starbucks.com
+Yahoo: green.starbucks.com
+Yahoo: main-es-es.test.starbucks.com
+Yahoo: assetshost.starbucks.com
+DNSdumpster: mena.starbucks.com
+DNSdumpster: testcardmobile.starbucks.com
+DNSdumpster: win.mena.starbucks.com
+DNSdumpster: blonde.starbucks.com
+DNSdumpster: test1-iad.starbucks.com
+Baidu: blonde.starbucks.com
+Baidu: preview.starbucks.com
+Baidu: me.starbucks.com
+Baidu: e.starbucks.com
+Baidu: id.starbucks.com
+Baidu: wifi.starbucks.com
+Baidu: solutions.starbucks.com
+DNSdumpster: globalstage.starbucks.com
+DNSdumpster: bomgar-chd.starbucks.com
+DNSdumpster: retail-level-3.starbucks.com
+DNSdumpster: e.starbucks.com
+DNSdumpster: c.ns.e.starbucks.com
+DNSdumpster: mrs3.starbucks.com
+DNSdumpster: bomgar-iad.starbucks.com
+DNSdumpster: retailwebappsiad.starbucks.com
+DNSdumpster: stagecaenstore.starbucks.com
+DNSdumpster: cloudappschd.starbucks.com
+DNSdumpster: sus-chd2.starbucks.com
+DNSdumpster: bomgarchd.starbucks.com
+DNSdumpster: retailwebaccessemea.starbucks.com
+DNSdumpster: ordering-prod-a-profile.starbucks.com
+DNSdumpster: via.starbucks.com
+DNSdumpster: jdsbeta.starbucks.com
+DNSdumpster: stagedeenstore.starbucks.com
+DNSdumpster: ordering-prod-a.starbucks.com
+DNSdumpster: b.ns.e.starbucks.com
+DNSdumpster: bomgarlab.starbucks.com
+DNSdumpster: chdlyncweb01.starbucks.com
+DNSdumpster: auth-iad.starbucks.com
+DNSdumpster: bomgariad.starbucks.com
+DNSdumpster: appcafe-iad.starbucks.com
+DNSdumpster: sandbox-archergrc.starbucks.com
+DNSdumpster: mta705.a.starbucks.com
+DNSdumpster: bi-cert-mstr-web.starbucks.com
+DNSdumpster: verde.starbucks.com
+DNSdumpster: chdlyncconf01.starbucks.com
+DNSdumpster: mta704.a.starbucks.com
+DNSdumpster: edge.starbucks.com
+DNSdumpster: bi-sb-mstr-mobile.starbucks.com
+DNSdumpster: ews-iad2.starbucks.com
+DNSdumpster: retailwebappsemea.starbucks.com
+DNSdumpster: mta960.e.starbucks.com
+DNSdumpster: bi-dev-mstr-web.starbucks.com
+DNSdumpster: bi-cap-tb.starbucks.com
+DNSdumpster: bomgaratlaschd.starbucks.com
+DNSdumpster: retailwebaccessiad.starbucks.com
+DNSdumpster: f.ns.e.starbucks.com
+DNSdumpster: d.mx.e.starbucks.com
+DNSdumpster: franchisee.starbucks.com
+DNSdumpster: stagesecureui-iad.starbucks.com
+DNSdumpster: athome.starbucks.com
+DNSdumpster: sso-group-iad.starbucks.com
+DNSdumpster: mobility3.starbucks.com
+DNSdumpster: tea.starbucks.com
+DNSdumpster: ipm-chd.starbucks.com
+DNSdumpster: retailwebappschd.starbucks.com
+DNSdumpster: opportunity.mena.starbucks.com
+DNSdumpster: ra.starbucks.com
+DNSdumpster: mobility-us-va.starbucks.com
+DNSdumpster: chdlyncedge01.starbucks.com
+DNSdumpster: cloudappsiad.starbucks.com
+DNSdumpster: soa-prod.starbucks.com
+DNSdumpster: oam-dcc-dev-iad.starbucks.com
+DNSdumpster: bomgaratlasiad.starbucks.com
+DNSdumpster: givegood.starbucks.com
+DNSdumpster: bi-dev-mstr-mobile.starbucks.com
+DNSdumpster: outlook-iad.starbucks.com
+DNSdumpster: storelink-owa.starbucks.com
+DNSdumpster: bi-mstr-web.starbucks.com
+DNSdumpster: pledge5.starbucks.com
+DNSdumpster: autodiscover-iad2.starbucks.com
+DNSdumpster: mail-iad.starbucks.com
+DNSdumpster: sdrc.starbucks.com
+DNSdumpster: orchestra.starbucks.com
+DNSdumpster: alexa.starbucks.com
+DNSdumpster: hybrid-iad2.starbucks.com
+DNSdumpster: ebm.e.starbucks.com
+DNSdumpster: activesync-iad3.starbucks.com
+DNSdumpster: www.mena.starbucks.com
+DNSdumpster: mdpjs.nonprod.starbucks.com
+DNSdumpster: bi-sb-mstr-web.starbucks.com
+DNSdumpster: me.starbucks.com
+DNSdumpster: chdlyncwebapp01.starbucks.com
+DNSdumpster: mta961.e.starbucks.com
+DNSdumpster: bugtest-archergrc.starbucks.com
+DNSdumpster: cloudappsemea.starbucks.com
+DNSdumpster: e.ns.e.starbucks.com
+DNSdumpster: msdev-sts-chd.starbucks.com
+DNSdumpster: dev-archergrc.starbucks.com
+DNSdumpster: bi-test-mstr-web.starbucks.com
+DNSdumpster: mobile.starbucks.com
+DNSdumpster: cert-archergrc.starbucks.com
+DNSdumpster: mena.card.starbucks.com
+DNSdumpster: sumatra.starbucks.com
+DNSdumpster: wwwstage.starbucks.com
+DNSdumpster: pwss-chd2.starbucks.com
+DNSdumpster: mrs1.starbucks.com
+DNSdumpster: stageusenstore.starbucks.com
+DNSdumpster: red.starbucks.com
+DNSdumpster: mdpjs.nonprod2.starbucks.com
+DNSdumpster: awb.starbucks.com
+DNSdumpster: a.ns.e.starbucks.com
+DNSdumpster: archergrc-iad.starbucks.com
+Baidu: www.mena.starbucks.com
+Baidu: psl.starbucks.com
+Baidu: creative.starbucks.com
+starbucks.com
+mail.starbucks.com
+webmail.starbucks.com
+dev.starbucks.com
+sip.starbucks.com
+autodiscover.starbucks.com
+apps.starbucks.com
+start.starbucks.com
+connect.starbucks.com
+help.starbucks.com
+relay.starbucks.com
+cms.starbucks.com
+mdm.starbucks.com
+docs.starbucks.com
+blogs.starbucks.com
+outlook.starbucks.com
+share.starbucks.com
+ldap.starbucks.com
+lyncdiscover.starbucks.com
+sentry.starbucks.com
+play.starbucks.com
+dialin.starbucks.com
+servicedesk.starbucks.com
+ext.starbucks.com
+vc.starbucks.com
+digital.starbucks.com
+mi.starbucks.com
+pegasus.starbucks.com
+cert.starbucks.com
+geo.starbucks.com
+reviews.starbucks.com
+origin-www.starbucks.com
+insight.starbucks.com
+scm.starbucks.com
+fp.starbucks.com
+mexico.starbucks.com
+retail.starbucks.com
+aw.starbucks.com
+crl.starbucks.com
+developers.starbucks.com
+spectrum.starbucks.com
+summer.starbucks.com
+connections.starbucks.com
+sat.starbucks.com
+splunk.starbucks.com
+jss.starbucks.com
+phantom.starbucks.com
+ews.starbucks.com
+ideas.starbucks.com
+quality.starbucks.com
+bomgar.starbucks.com
+token.starbucks.com
+intl.starbucks.com
+testwww.starbucks.com
+communities.starbucks.com
+stars.starbucks.com
+prov.starbucks.com
+teams.starbucks.com
+ranger.starbucks.com
+sus.starbucks.com
+ocsp.starbucks.com
+transportation.starbucks.com
+itsm.starbucks.com
+philippines.starbucks.com
+mpi.starbucks.com
+bubbles.starbucks.com
+bits.starbucks.com
+testapi.starbucks.com
+prisma.starbucks.com
+pdx.starbucks.com
+ucp.starbucks.com
+rsi.starbucks.com
+realm.starbucks.com
+avm.starbucks.com
+departments.starbucks.com
+jiratest.starbucks.com
+dr-www.starbucks.com
+groupon.starbucks.com
+cdx.starbucks.com
+securepayment.starbucks.com
+connecttest.starbucks.com
+stagewww.starbucks.com
+vcse2.starbucks.com

@@ -1,0 +1,611 @@
+produpgpospa2.starbucks.com          bigip-produpgpospa2-starbucks.oracle.com
+stories.starbucks.com          stories.starbucks.com.cdn.cloudflare.net
+retail-ec3.starbucks.com          partner-hub-test-vs-iad-ec3.starbucks.com
+prodcrmpospa2.starbucks.com          prodcrmpospa2-starbucks.nssb-oracle.com
+cert-mysite-ec3.starbucks.com          partner-hub-cert-vs-iad.starbucks.com
+sts-vis-cert-cloud1.starbucks.com          sts-vis-cert-cloud1.gtm.starbucks.com
+search-ec3.starbucks.com          partner-hub-test-vs-iad-ec3.starbucks.com
+prodcrmpospa1.starbucks.com          prodcrmpospa1-starbucks.nssb-oracle.com
+certpospa2.starbucks.com          bigip-certpospa2-starbucks.oracle.com
+testwww5.starbucks.com          testwww.starbucks.com
+sts-vis-cert1-iad.starbucks.com          NODATA AVAILABLE
+communities-ec3.starbucks.com          partner-hub-test-vs-iad-ec3.starbucks.com
+sts-vis-dev4.starbucks.com          sts-vis-dev4-iad.starbucks.com
+activesync-iad3.starbucks.com          NODATA AVAILABLE
+passport.starbucks.com          ssl.cdn.passport.starbucks.com.c.footprint.net
+news.starbucks.com          NODATA AVAILABLE
+sso-group2.starbucks.com          sso-group2-iad.starbucks.com
+jsslab.starbucks.com          jsslab-starbucks.trafficmanager.net
+certpospa1.starbucks.com          bigip-certpospa1-starbucks.oracle.com
+sts-vis1.starbucks.com          sts-vis1-iad.starbucks.com
+testus5.starbucks.com          testwww.starbucks.com
+sts-vis1-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-cert2.starbucks.com          sts-vis-cert2-iad.starbucks.com
+wfmnapimpc.starbucks.com          s00149tmppcpim.trafficmanager.net
+sts-vis2.starbucks.com          sts-vis2-iad.starbucks.com
+owa-ec3.starbucks.com          partner-hub-test-vs-iad-ec3.starbucks.com
+test6-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-dev0-iad.starbucks.com          NODATA AVAILABLE
+mobility4.starbucks.com          mobility4.gtm.starbucks.com
+auth-iad.starbucks.com          NODATA AVAILABLE
+testacme2.starbucks.com          testacme.starbucks.com
+wfmnapospc.starbucks.com          s00149tmppcpos.trafficmanager.net
+wfmnaptnpc.starbucks.com          s00149tmppcptn.trafficmanager.net
+cert-communities-ec3.starbucks.com          partner-hub-cert-vs-iad.starbucks.com
+cert-teams-ec3.starbucks.com          partner-hub-cert-vs-iad.starbucks.com
+sts-vis-cert3.starbucks.com          sts-vis-cert3-iad.starbucks.com
+alexa.starbucks.com          NODATA AVAILABLE
+sts-vis-dev3.starbucks.com          sts-vis-dev3-iad.starbucks.com
+cloudid.starbucks.com          sbuxp.trafficmanager.net
+crl-chd.starbucks.com          NODATA AVAILABLE
+wfmnapaypc.starbucks.com          s00149tmppcpay.trafficmanager.net
+testusen-chd.starbucks.com          testwww-chd.starbucks.com
+kdreq-b.starbucks.com          NODATA AVAILABLE
+test8-iad.starbucks.com          NODATA AVAILABLE
+selfservice.starbucks.com          kdreq-a-v9.starbucks.com
+appcafe.starbucks.com          appcafe.gtm.starbucks.com
+f.e.starbucks.com          f.e.starbucks.com.akamaized.net
+datacafe.starbucks.com          NODATA AVAILABLE
+opsexcellence.starbucks.com          opsexcellence-iad.starbucks.com
+test3-iad.openapi.starbucks.com          NODATA AVAILABLE
+orderingprofile.starbucks.com          ordering-prod-a-profile.starbucks.com
+www-chd.starbucks.com          chd.starbucks.com
+cdx-sd.starbucks.com          sbux-integration-cdx-stable.apigee.net
+webapps-chd.starbucks.com          NODATA AVAILABLE
+d.mx.m.e.starbucks.com          NODATA AVAILABLE
+ct.ucpc.starbucks.com          sbux-integration-ucp-stable.apigee.net
+testwww2.starbucks.com          testwww.starbucks.com
+testcdhapps-oid.starbucks.com          bigip-testcdhapps-oid-starbucks.oracle.com
+testchde.starbucks.com          testwww.starbucks.com
+test1-search.starbucks.com          NODATA AVAILABLE
+soa-prod.starbucks.com          NODATA AVAILABLE
+testhkzh.starbucks.com          testwww.starbucks.com
+www.athome.starbucks.com          br3o6wb.x.incapdns.net
+livingourvalues.starbucks.com          sdlgreen.starbucks.com
+stageatde.starbucks.com          globalstage.starbucks.com
+sts-vis0-chd.starbucks.com          NODATA AVAILABLE
+pdx.starbucks.com          new-public-web-1573560045.us-east-1.elb.amazonaws.com
+kdreq-a.starbucks.com          NODATA AVAILABLE
+test10.openapi.starbucks.com          sbux-oapi-dev-develop.apigee.net
+testacme-chd.starbucks.com          NODATA AVAILABLE
+lp.starbucks.com          swift.postclickmarketing.com
+green.starbucks.com          NODATA AVAILABLE
+reviews.starbucks.com          starbucks.ugc.bazaarvoice.com
+stagefrenstore.starbucks.com          NODATA AVAILABLE
+trace.starbucks.com          s00212atmw2twsprod.trafficmanager.net
+cpath.starbucks.com          cpath.gtm.starbucks.com
+creative.starbucks.com          d2wqy52lo89wsl.cloudfront.net
+mail.starbucks.com          mail-iad.starbucks.com
+ocsp.starbucks.com          ocsp.gtm.starbucks.com
+pro-asp-api.starbucks.com          fd-pips-prod.azurefd.net
+customerservice.starbucks.com          starbucksweb.custhelp.com
+groupon.starbucks.com          clb.cashstar.com
+stagefrfrstore.starbucks.com          starbucks-staging.onelink-translations.com
+ordering.starbucks.com          ordering-prod-a.starbucks.com
+test3acme.starbucks.com          test3-iad.starbucks.com
+beta.starbucks.com          wwwstage.starbucks.com
+jss.starbucks.com          jssprod-starbucks.trafficmanager.net
+test19.openapi.starbucks.com          sbux-oapi-dev-cicd.apigee.net
+bits.starbucks.com          dra-proxy-prod.azurewebsites.net
+partner-hub-test-vs-iad-ec3.starbucks.com          NODATA AVAILABLE
+smreporting.starbucks.com          smreporting-v9-a.starbucks.com
+testatde.starbucks.com          testwww.starbucks.com
+test2api.starbucks.com          test2-iad.starbucks.com
+testukstore.starbucks.com          testukstore.starbucks.com.cdn.cloudflare.net
+main-es-es.test.starbucks.com          testsdlwww.starbucks.com.edgekey-staging.net
+test4mobile.starbucks.com          test4-iad.starbucks.com
+wifi.starbucks.com          d2r4ws0dmq227b.cloudfront.net
+connect.starbucks.com          dndykhjlca702.cloudfront.net
+main-id-en.test.starbucks.com          testsdlwww.starbucks.com.edgekey-staging.net
+promotions.starbucks.com          starbucks-landing.ent-sessionm.com
+retail-training-videos.starbucks.com          retail-training-videos.gtm.starbucks.com
+awmag.starbucks.com          airwatch.starbucks.com
+intl.starbucks.com          cms.starbucks.com
+avm.starbucks.com          avm.trafficmanager.net
+portal.starbucks.com          live-ap-parityapi.pantheonsite.io
+test1.openapi.starbucks.com          sbux-oapi-dev-develop.apigee.net
+mdm.starbucks.com          ds162.awmdm.com
+test15.openapi.starbucks.com          sbux-oapi-dev-develop.apigee.net
+ipm.starbucks.com          ipm-chd.starbucks.com
+mpi.starbucks.com          mpi.gtm.starbucks.com
+realm.starbucks.com          realm-iad.starbucks.com
+crl.starbucks.com          crl.gtm.starbucks.com
+bomgar.starbucks.com          bomgar.trafficmanager.net
+ucp.starbucks.com          sbux-production-ucp-prod.apigee.net
+www.starbucks.com          starbuckssites.starbucks.com.edgekey.net
+explore.starbucks.com          swift.postclickmarketing.com
+stagewww.starbucks.com          wwwstage.starbucks.com
+stagewww-iad.starbucks.com          NODATA AVAILABLE
+testthth.starbucks.com          testwww.starbucks.com
+sgsmsuppliertest.starbucks.com          bs4ay.x.incapdns.net
+www.me.starbucks.com          me.starbucks.com
+pegasus.starbucks.com          ecx-prod-app-provisioninggroup.azurewebsites.net
+ideas.starbucks.com          sdlgreen.starbucks.com
+trace-api.starbucks.com          s00212apmw2gtwyprod.azure-api.net
+bomgaratlas01.starbucks.com          s00151ppipbomatl01.westus.cloudapp.azure.com
+sts-vis-dev-cloud1.starbucks.com          sts-vis-dev-cloud1.gtm.starbucks.com
+activesync-iad2.starbucks.com          NODATA AVAILABLE
+prodpospa1.starbucks.com          bigip-prodpospa1-starbucks.oracle.com
+po1.starbucks.com          NODATA AVAILABLE
+certcrmpospa1.starbucks.com          certcrmpospa1-starbucks.nssb-oracle.com
+sus-chd2.starbucks.com          NODATA AVAILABLE
+autodiscover-iad2.starbucks.com          NODATA AVAILABLE
+sts-vis-cert0.starbucks.com          sts-vis-cert0.gtm.starbucks.com
+hybrid-iad2.starbucks.com          NODATA AVAILABLE
+sts-vis-cert-cloud2.starbucks.com          sts-vis-cert-cloud2.gtm.starbucks.com
+chdlyncwebapp01.starbucks.com          NODATA AVAILABLE
+opportunity.mena.starbucks.com          NODATA AVAILABLE
+chdlyncedge01.starbucks.com          NODATA AVAILABLE
+members.starbucks.com          NODATA AVAILABLE
+vcse1.starbucks.com          NODATA AVAILABLE
+sts-vis-dev1-iad.starbucks.com          NODATA AVAILABLE
+mtestwww2.starbucks.com          testwww.starbucks.com
+win.mena.starbucks.com          NODATA AVAILABLE
+kdreq-b-v9.starbucks.com          NODATA AVAILABLE
+jobs.starbucks.com          NODATA AVAILABLE
+tsc-test2.starbucks.com          NODATA AVAILABLE
+sts-vis-dev0.starbucks.com          sts-vis-dev0.gtm.starbucks.com
+tea.starbucks.com          NODATA AVAILABLE
+hybrid-iad.starbucks.com          NODATA AVAILABLE
+owa.starbucks.com          NODATA AVAILABLE
+sts-vis-cloud3-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-cert0-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-dev4-iad.starbucks.com          NODATA AVAILABLE
+bomgaratlas03.starbucks.com          s00151ppipbomatlas.eastus.cloudapp.azure.com
+ldap-chd2.starbucks.com          NODATA AVAILABLE
+cert-partner-ec3.starbucks.com          partner-hub-cert-vs-iad.starbucks.com
+secureui2.starbucks.com          secureui.starbucks.com
+sts-vis-dev-cloud1-iad.starbucks.com          NODATA AVAILABLE
+activesync-iad.starbucks.com          NODATA AVAILABLE
+pledge5.starbucks.com          NODATA AVAILABLE
+archergrc.starbucks.com          archergrc-iad.starbucks.com
+mena.starbucks.com          NODATA AVAILABLE
+globalwcmsvcs2.starbucks.com          globalwcmsvcs.starbucks.com
+teams-ec3.starbucks.com          partner-hub-test-vs-iad-ec3.starbucks.com
+achecker-iad.starbucks.com          NODATA AVAILABLE
+retail-level-3.starbucks.com          NODATA AVAILABLE
+via.starbucks.com          NODATA AVAILABLE
+mysite-ec3.starbucks.com          partner-hub-test-vs-iad-ec3.starbucks.com
+kdretail-a-v9.starbucks.com          NODATA AVAILABLE
+sso-group0-iad.starbucks.com          NODATA AVAILABLE
+retailwebappsemea.starbucks.com          NODATA AVAILABLE
+partner-ec3.starbucks.com          partner-hub-test-vs-iad-ec3.starbucks.com
+green-iad.starbucks.com          NODATA AVAILABLE
+cpath-iad.starbucks.com          NODATA AVAILABLE
+sdrc.starbucks.com          NODATA AVAILABLE
+previewwww-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-cloud4.starbucks.com          sts-vis-cloud4.gtm.starbucks.com
+pd.spc.starbucks.com          sbux-eapi-dev-develop.apigee.net
+sts-vis-cloud2-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-dev2-iad.starbucks.com          NODATA AVAILABLE
+ews-iad.starbucks.com          NODATA AVAILABLE
+mrs2.starbucks.com          NODATA AVAILABLE
+realm-iad.starbucks.com          NODATA AVAILABLE
+retailwebaccessiad.starbucks.com          NODATA AVAILABLE
+tsc.starbucks.com          NODATA AVAILABLE
+mail-iad.starbucks.com          NODATA AVAILABLE
+sts-vis2-iad.starbucks.com          NODATA AVAILABLE
+pwss-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-iad.starbucks.com          NODATA AVAILABLE
+ra.starbucks.com          NODATA AVAILABLE
+mrs3.starbucks.com          NODATA AVAILABLE
+stagesecureui-iad.starbucks.com          NODATA AVAILABLE
+wwwb.starbucks.com          starbucks.com
+sts-vis-cloud2-chd.starbucks.com          NODATA AVAILABLE
+cashmgmt-prod-iad.starbucks.com          NODATA AVAILABLE
+cms-chd.starbucks.com          NODATA AVAILABLE
+bi-dev-mstr-web.starbucks.com          NODATA AVAILABLE
+sumatra.starbucks.com          NODATA AVAILABLE
+mobility3.starbucks.com          NODATA AVAILABLE
+mfa.starbucks.com          NODATA AVAILABLE
+sts-vis-dev-cloud3.starbucks.com          sts-vis-dev-cloud3.gtm.starbucks.com
+sts-vis-cert-cloud1-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-cert-iad.starbucks.com          NODATA AVAILABLE
+test2-iad.starbucks.com          NODATA AVAILABLE
+testfederate-iad.starbucks.com          NODATA AVAILABLE
+integration.ucpc.starbucks.com          sbux-integration-ucp-master.apigee.net
+tsc-kb.starbucks.com          NODATA AVAILABLE
+sts-vis-dev0-chd.starbucks.com          NODATA AVAILABLE
+bomgar-iad.starbucks.com          NODATA AVAILABLE
+cdm-prod.starbucks.com          NODATA AVAILABLE
+test3-iad.starbucks.com          NODATA AVAILABLE
+mobility-rtl-va.starbucks.com          NODATA AVAILABLE
+red.starbucks.com          NODATA AVAILABLE
+appcafe-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-cert1-chd.starbucks.com          NODATA AVAILABLE
+sso-group-iad.starbucks.com          NODATA AVAILABLE
+sts-vis2-chd.starbucks.com          NODATA AVAILABLE
+loadglobalwcmsvcs-chd.starbucks.com          NODATA AVAILABLE
+sts-vis-cert3-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-dev2.starbucks.com          sts-vis-dev2-iad.starbucks.com
+dro365.starbucks.com          NODATA AVAILABLE
+msdev-sts-chd.starbucks.com          NODATA AVAILABLE
+prodcrmapps-oid.starbucks.com          bigip-prodcrmapps-oid-starbucks.oracle.com
+testusen-sec.starbucks.com          NODATA AVAILABLE
+sts-vis-cert2-iad.starbucks.com          NODATA AVAILABLE
+global-chd.starbucks.com          NODATA AVAILABLE
+sts-vis-cert3-chd.starbucks.com          NODATA AVAILABLE
+mobilecard.starbucks.com          NODATA AVAILABLE
+sts-vis-dev3-chd.starbucks.com          NODATA AVAILABLE
+hybrid-chd.starbucks.com          NODATA AVAILABLE
+ews-iad2.starbucks.com          NODATA AVAILABLE
+stagewww-chd.starbucks.com          NODATA AVAILABLE
+smreporting-v9-a.starbucks.com          NODATA AVAILABLE
+pwss-chd.starbucks.com          NODATA AVAILABLE
+activesync-chd.starbucks.com          NODATA AVAILABLE
+sts-vis0-iad.starbucks.com          NODATA AVAILABLE
+blogs-chd.starbucks.com          NODATA AVAILABLE
+mypartnerinfo-ext-chd.starbucks.com          NODATA AVAILABLE
+bi-mstr-web.starbucks.com          NODATA AVAILABLE
+host.openapi-chd.starbucks.com          NODATA AVAILABLE
+prod00.mfa.starbucks.com          s00294ppipmfa00.eastus.cloudapp.azure.com
+certweb.starbucks.com          NODATA AVAILABLE
+stageapi-chd.starbucks.com          NODATA AVAILABLE
+compass-prodb.starbucks.com          NODATA AVAILABLE
+reportmid-a.starbucks.com          NODATA AVAILABLE
+globalwcmsvcs-iad.starbucks.com          NODATA AVAILABLE
+storelink-owa.starbucks.com          NODATA AVAILABLE
+stagehost-chd.starbucks.com          NODATA AVAILABLE
+secureapi-chd.starbucks.com          NODATA AVAILABLE
+testhost.openapi-chd.starbucks.com          NODATA AVAILABLE
+activesync.starbucks.com          activesync.gtm.starbucks.com
+sandbox-archergrc.starbucks.com          NODATA AVAILABLE
+microsite-chd.starbucks.com          NODATA AVAILABLE
+stagedigital-chd.starbucks.com          NODATA AVAILABLE
+stagesecureapi-chd.starbucks.com          NODATA AVAILABLE
+www-iad.starbucks.com          NODATA AVAILABLE
+api-iad.starbucks.com          NODATA AVAILABLE
+ipm-chd.starbucks.com          NODATA AVAILABLE
+sts-vis-cloud1-iad.starbucks.com          NODATA AVAILABLE
+stagewcmsvcs-iad.starbucks.com          NODATA AVAILABLE
+outlook-chd.starbucks.com          NODATA AVAILABLE
+eapi-scmariba-sd.starbucks.com          NODATA AVAILABLE
+chd.starbucks.com          NODATA AVAILABLE
+vendors-chd.starbucks.com          NODATA AVAILABLE
+ordering-prod-a-profile.starbucks.com          NODATA AVAILABLE
+acme-chd.starbucks.com          NODATA AVAILABLE
+sts-vis-cert-cloud1-chd.starbucks.com          NODATA AVAILABLE
+previewwcmsvcs-iad.starbucks.com          NODATA AVAILABLE
+archergrc-iad.starbucks.com          NODATA AVAILABLE
+bi-dev-mstr-mobile.starbucks.com          NODATA AVAILABLE
+test1-mysite.starbucks.com          NODATA AVAILABLE
+global-wcmsvcs-chd.starbucks.com          NODATA AVAILABLE
+delivery.starbucks.com          NODATA AVAILABLE
+mobility-us-va.starbucks.com          NODATA AVAILABLE
+sts-vis-dev-cloud1-chd.starbucks.com          NODATA AVAILABLE
+stagesorry-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-main.starbucks.com          sts-vis-main.gtm.starbucks.com
+loadapi-chd.starbucks.com          NODATA AVAILABLE
+workspace.starbucks.com          NODATA AVAILABLE
+loadhost.openapi-chd.starbucks.com          NODATA AVAILABLE
+email.mg.starbucks.com          mailgun.org
+sus-chd.starbucks.com          NODATA AVAILABLE
+testbgbg.starbucks.com          testwww.starbucks.com
+stagesecureui-chd.starbucks.com          NODATA AVAILABLE
+sts-vis-cert-cloud3-iad.starbucks.com          NODATA AVAILABLE
+test2-iad.openapi.starbucks.com          NODATA AVAILABLE
+testwww-chd.starbucks.com          NODATA AVAILABLE
+cpath-chd.starbucks.com          NODATA AVAILABLE
+dr-api.starbucks.com          NODATA AVAILABLE
+sts-vis-dev4-chd.starbucks.com          NODATA AVAILABLE
+stageconnect-iad.starbucks.com          NODATA AVAILABLE
+outlook-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-dev3-iad.starbucks.com          NODATA AVAILABLE
+retailwebaccessemea.starbucks.com          NODATA AVAILABLE
+bomgar-chd.starbucks.com          NODATA AVAILABLE
+franchisee.starbucks.com          NODATA AVAILABLE
+acme.starbucks.com          NODATA AVAILABLE
+sso-group-chd.starbucks.com          NODATA AVAILABLE
+certltyupg.starbucks.com          bigip-certltyupg-starbucks.oracle.com
+givegood.starbucks.com          NODATA AVAILABLE
+psl.starbucks.com          NODATA AVAILABLE
+api.starbucks.com          NODATA AVAILABLE
+papercut-chd.starbucks.com          NODATA AVAILABLE
+stagestore.starbucks.com          NODATA AVAILABLE
+testusen7store.starbucks.com          NODATA AVAILABLE
+papercut-iad.starbucks.com          NODATA AVAILABLE
+ms-sts-chd.starbucks.com          NODATA AVAILABLE
+test5acme.starbucks.com          test5-iad.starbucks.com
+prodcdhapps-oid.starbucks.com          bigip-prodcdhapps-oid-starbucks.oracle.com
+testhost2.openapi.starbucks.com          NODATA AVAILABLE
+prov.starbucks.com          NODATA AVAILABLE
+testapi-chd.starbucks.com          NODATA AVAILABLE
+assetshost.starbucks.com          NODATA AVAILABLE
+mobile.starbucks.com          NODATA AVAILABLE
+stagefederate-iad.starbucks.com          NODATA AVAILABLE
+mobilecarddownload.starbucks.com          testcardmobile.starbucks.com
+mysite.starbucks.com          NODATA AVAILABLE
+sso-group2-iad.starbucks.com          NODATA AVAILABLE
+secureui-chd.starbucks.com          NODATA AVAILABLE
+sts-vis-cert0-chd.starbucks.com          NODATA AVAILABLE
+bomgaratlasiad.starbucks.com          NODATA AVAILABLE
+verde.starbucks.com          NODATA AVAILABLE
+sip.starbucks.com          NODATA AVAILABLE
+mpi-chd.starbucks.com          NODATA AVAILABLE
+chdlyncwebapp01-chd.starbucks.com          NODATA AVAILABLE
+webmail-chd.starbucks.com          NODATA AVAILABLE
+ldap.starbucks.com          ldap.gtm.starbucks.com
+share.starbucks.com          NODATA AVAILABLE
+geo.starbucks.com          NODATA AVAILABLE
+ie.starbucks.com          NODATA AVAILABLE
+bugtest-archergrc.starbucks.com          NODATA AVAILABLE
+1912pike.starbucks.com          1912pike.com
+loadwcmsvcs-chd.starbucks.com          NODATA AVAILABLE
+ews-chd.starbucks.com          NODATA AVAILABLE
+devweb.starbucks.com          NODATA AVAILABLE
+cdx-nonprod-api.starbucks.com          s00199cdxtmna.trafficmanager.net
+globalassetshost.starbucks.com          NODATA AVAILABLE
+fb1.starbucks.com          NODATA AVAILABLE
+desktop.starbucks.com          desktop.gtm.starbucks.com
+id-dev.starbucks.com          id-dev.gtm.starbucks.com
+openapi.starbucks.com          sbux-production-oapi-prod-dial.apigee.net
+spectrum.starbucks.com          s00172ppipspecapp00.westus.cloudapp.azure.com
+retailwebappsiad.starbucks.com          NODATA AVAILABLE
+stageconnect-chd.starbucks.com          NODATA AVAILABLE
+loadconnect-chd.starbucks.com          NODATA AVAILABLE
+pwss.starbucks.com          pwss-chd2.starbucks.com
+relay.starbucks.com          NODATA AVAILABLE
+testcardmobile.starbucks.com          NODATA AVAILABLE
+preview.starbucks.com          starbuckssites.starbucks.com.edgekey.net
+aw.starbucks.com          NODATA AVAILABLE
+ext.starbucks.com          NODATA AVAILABLE
+jiratest.starbucks.com          NODATA AVAILABLE
+mi.starbucks.com          NODATA AVAILABLE
+dev-archergrc.starbucks.com          NODATA AVAILABLE
+assets.starbucks.com          assets.starbucks.com.edgesuite.net
+stageblogs-chd.starbucks.com          NODATA AVAILABLE
+acme-iad.starbucks.com          NODATA AVAILABLE
+blonde.starbucks.com          NODATA AVAILABLE
+d-cpath-chd.starbucks.com          NODATA AVAILABLE
+search.starbucks.com          NODATA AVAILABLE
+developers.starbucks.com          NODATA AVAILABLE
+blog.starbucks.com          NODATA AVAILABLE
+retailwebaccesschd.starbucks.com          NODATA AVAILABLE
+test1-owa.starbucks.com          NODATA AVAILABLE
+sts-vis-dev1-chd.starbucks.com          NODATA AVAILABLE
+bomgariad.starbucks.com          NODATA AVAILABLE
+globalstage.starbucks.com          NODATA AVAILABLE
+dr-host3.openapi.starbucks.com          NODATA AVAILABLE
+wwwstage.starbucks.com          NODATA AVAILABLE
+stagedeenstore.starbucks.com          NODATA AVAILABLE
+bubbles.starbucks.com          NODATA AVAILABLE
+hybrid.starbucks.com          hybrid-iad2.starbucks.com
+dev.starbucks.com          dev.starbucks.com.edgekey-staging.net
+stagefederate.starbucks.com          NODATA AVAILABLE
+stageapi.starbucks.com          NODATA AVAILABLE
+wcmsvcs-chd.starbucks.com          NODATA AVAILABLE
+certltyapps-oid.starbucks.com          bigip-certltyapps-oid-starbucks.oracle.com
+cert-archergrc.starbucks.com          NODATA AVAILABLE
+docs.starbucks.com          NODATA AVAILABLE
+solutions.starbucks.com          NODATA AVAILABLE
+testacme.starbucks.com          NODATA AVAILABLE
+stageacme-chd.starbucks.com          NODATA AVAILABLE
+sorry.starbucks.com          NODATA AVAILABLE
+dr-www.starbucks.com          NODATA AVAILABLE
+cloudapps.starbucks.com          cloudapps.gtm.starbucks.com
+apps.starbucks.com          NODATA AVAILABLE
+sumatra-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-cert-cloud3.starbucks.com          sts-vis-cert-cloud3.gtm.starbucks.com
+stagesorry-chd.starbucks.com          NODATA AVAILABLE
+cloudappsiad.starbucks.com          NODATA AVAILABLE
+dr-federate.starbucks.com          NODATA AVAILABLE
+chdlyncconf01.starbucks.com          NODATA AVAILABLE
+retailwebappschd.starbucks.com          NODATA AVAILABLE
+loadhost2.openapi.starbucks.com          NODATA AVAILABLE
+sim.starbucks.com          s00177ptmjira.trafficmanager.net
+kdretail-a.starbucks.com          NODATA AVAILABLE
+microsite-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-cloud3.starbucks.com          sts-vis-cloud3.gtm.starbucks.com
+cms.starbucks.com          NODATA AVAILABLE
+vc.starbucks.com          NODATA AVAILABLE
+deepbrew-prod-api.starbucks.com          s00188trfpdeepbrew.trafficmanager.net
+departments.starbucks.com          NODATA AVAILABLE
+stageusenstore.starbucks.com          NODATA AVAILABLE
+retailselfservice.starbucks.com          kdretail-a-v9.starbucks.com
+test11.openapi.starbucks.com          sbux-oapi-dev-develop.apigee.net
+autodiscover.starbucks.com          autodiscover-iad2.starbucks.com
+drhost2.openapi.starbucks.com          NODATA AVAILABLE
+oam-dcc-dev-iad.starbucks.com          NODATA AVAILABLE
+sentry.starbucks.com          NODATA AVAILABLE
+storelink.starbucks.com          NODATA AVAILABLE
+sumatra-chd.starbucks.com          NODATA AVAILABLE
+mail-chd.starbucks.com          NODATA AVAILABLE
+redeemtweetauth.starbucks.com          starbucksredeemauth.securepromotion.com
+philippines.starbucks.com          NODATA AVAILABLE
+lyncdiscover.starbucks.com          NODATA AVAILABLE
+phantom.starbucks.com          NODATA AVAILABLE
+d-cpath-iad.starbucks.com          NODATA AVAILABLE
+connections.starbucks.com          NODATA AVAILABLE
+mrs4.starbucks.com          activesync.gtm.starbucks.com
+ews.starbucks.com          ews-iad2.starbucks.com
+sts-vis-cert-cloud2-chd.starbucks.com          NODATA AVAILABLE
+auth.starbucks.com          NODATA AVAILABLE
+communities.starbucks.com          NODATA AVAILABLE
+jdsbeta.starbucks.com          NODATA AVAILABLE
+txnmid-a-v9.starbucks.com          NODATA AVAILABLE
+loadsecureui-chd.starbucks.com          NODATA AVAILABLE
+securepayment.starbucks.com          NODATA AVAILABLE
+stagecaenstore.starbucks.com          NODATA AVAILABLE
+blogs.starbucks.com          sdlgreen.starbucks.com
+compass-prod.starbucks.com          NODATA AVAILABLE
+bi-sb-mstr-web.starbucks.com          NODATA AVAILABLE
+testwww.starbucks.com          NODATA AVAILABLE
+id.starbucks.com          id.gtm.starbucks.com
+appcafe-cert-chd.starbucks.com          NODATA AVAILABLE
+bomgarchd.starbucks.com          NODATA AVAILABLE
+partner-hub-cert-vs-iad.starbucks.com          NODATA AVAILABLE
+sus.starbucks.com          applesus.trafficmanager.net
+deepbrew-preprod-api.starbucks.com          s00188trfppdeepbrew.trafficmanager.net
+stageacme-iad.starbucks.com          NODATA AVAILABLE
+test9federate.starbucks.com          NODATA AVAILABLE
+scm.starbucks.com          NODATA AVAILABLE
+demostore.starbucks.com          NODATA AVAILABLE
+testhost3.openapi.starbucks.com          NODATA AVAILABLE
+connecttest.starbucks.com          d2ryli2z4zvqcf.cloudfront.net
+mdpjs.nonprod.starbucks.com          NODATA AVAILABLE
+stagehost3.openapi.starbucks.com          NODATA AVAILABLE
+quality.starbucks.com          www.starbucks.com
+test1-iad.openapi.starbucks.com          NODATA AVAILABLE
+stagewcmsvcs-chd.starbucks.com          NODATA AVAILABLE
+insight.starbucks.com          NODATA AVAILABLE
+awb.starbucks.com          NODATA AVAILABLE
+gr.starbucks.com          NODATA AVAILABLE
+sat.starbucks.com          NODATA AVAILABLE
+www.teststore.starbucks.com          www.teststore.starbucks.com.cdn.cloudflare.net
+test5-iad.openapi.starbucks.com          NODATA AVAILABLE
+testshare.starbucks.com          NODATA AVAILABLE
+cdx.starbucks.com          sbux-production-cdx-prod.apigee.net
+stagehost-iad.openapi.starbucks.com          NODATA AVAILABLE
+test4-iad.openapi.starbucks.com          NODATA AVAILABLE
+edam.starbucks.com          NODATA AVAILABLE
+meet.starbucks.com          NODATA AVAILABLE
+stars.starbucks.com          NODATA AVAILABLE
+ranger.starbucks.com          NODATA AVAILABLE
+api-chd.starbucks.com          NODATA AVAILABLE
+sts-vis-dev2-chd.starbucks.com          NODATA AVAILABLE
+cert-departments-ec3.starbucks.com          partner-hub-cert-vs-iad.starbucks.com
+cms-iad.starbucks.com          NODATA AVAILABLE
+dialin.starbucks.com          NODATA AVAILABLE
+devcdhapps-oid.starbucks.com          bigip-devcdhapps-oid-starbucks.oracle.com
+sts-vis1-chd.starbucks.com          NODATA AVAILABLE
+appcafe-chd.starbucks.com          NODATA AVAILABLE
+cashmgmt-prod.starbucks.com          cashmgmt-prod-iad.starbucks.com
+mypartnerinfo-ext.starbucks.com          mypartnerinfo-ext.gtm.starbucks.com
+developer.starbucks.com          NODATA AVAILABLE
+bi-test-mstr-web.starbucks.com          NODATA AVAILABLE
+host4.openapi.starbucks.com          NODATA AVAILABLE
+d-cpath.starbucks.com          d-cpath.gtm.starbucks.com
+teststore.starbucks.com          www.teststore.starbucks.com
+gifting.starbucks.com          NODATA AVAILABLE
+bi-sb-mstr-mobile.starbucks.com          NODATA AVAILABLE
+sts-vis-dev-cloud3-iad.starbucks.com          NODATA AVAILABLE
+loadwww-chd.starbucks.com          NODATA AVAILABLE
+sts-vis-cloud1-chd.starbucks.com          NODATA AVAILABLE
+prisma.starbucks.com          NODATA AVAILABLE
+cert.starbucks.com          NODATA AVAILABLE
+summer.starbucks.com          NODATA AVAILABLE
+vcse2.starbucks.com          NODATA AVAILABLE
+stagehost2.openapi.starbucks.com          NODATA AVAILABLE
+mexico.starbucks.com          NODATA AVAILABLE
+dr-acme.starbucks.com          NODATA AVAILABLE
+partner.starbucks.com          NODATA AVAILABLE
+host3.openapi.starbucks.com          NODATA AVAILABLE
+sdlgreensecure.starbucks.com          NODATA AVAILABLE
+content-prod-live.cert.starbucks.com          content-prod-live.cert.starbucks.com.edgekey.net
+bomgarlab.starbucks.com          NODATA AVAILABLE
+store.starbucks.com          NODATA AVAILABLE
+globalassets.starbucks.com          globalassets.starbucks.com.edgekey.net
+sts-vis.starbucks.com          sts-vis.gtm.starbucks.com
+origin-www.starbucks.com          www.starbucks.com
+fp.starbucks.com          NODATA AVAILABLE
+starbucks.com          NODATA AVAILABLE
+test7-iad.openapi.starbucks.com          NODATA AVAILABLE
+itsm.starbucks.com          txnmid-a-v9.starbucks.com
+digital.starbucks.com          NODATA AVAILABLE
+sts-vis0.starbucks.com          sts-vis0.gtm.starbucks.com
+sts-vis-cloud2.starbucks.com          sts-vis-cloud2.gtm.starbucks.com
+www.mena.starbucks.com          NODATA AVAILABLE
+mrs1.starbucks.com          NODATA AVAILABLE
+testweb.starbucks.com          NODATA AVAILABLE
+da04.starbucks.com          NODATA AVAILABLE
+pwss-chd2.starbucks.com          NODATA AVAILABLE
+bi-cap-tb.starbucks.com          NODATA AVAILABLE
+sts-vis-dev-cloud2.starbucks.com          sts-vis-dev-cloud2.gtm.starbucks.com
+www2.starbucks.com          NODATA AVAILABLE
+p01.productioncontroller-lb.starbucks.com          sbp01.westus.cloudapp.azure.com
+cloudappsemea.starbucks.com          NODATA AVAILABLE
+bubbles1.starbucks.com          NODATA AVAILABLE
+stageapi-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-dev-cloud2-iad.starbucks.com          NODATA AVAILABLE
+test4-iad.starbucks.com          NODATA AVAILABLE
+orchestra.starbucks.com          NODATA AVAILABLE
+ordering-prod-a.starbucks.com          NODATA AVAILABLE
+test1-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-cloud1.starbucks.com          sts-vis-cloud1.gtm.starbucks.com
+chdlyncweb01.starbucks.com          NODATA AVAILABLE
+secureui-iad.starbucks.com          NODATA AVAILABLE
+sts-vis-cert-cloud2-iad.starbucks.com          NODATA AVAILABLE
+ldap-iad.starbucks.com          NODATA AVAILABLE
+testnonb.starbucks.com          testwww.starbucks.com
+sixevents-api.starbucks.com          six-waf-prod.westus2.cloudapp.azure.com
+ldap-chd.starbucks.com          NODATA AVAILABLE
+bi-cert-mstr-web.starbucks.com          NODATA AVAILABLE
+test7-iad.starbucks.com          NODATA AVAILABLE
+loadacme-chd.starbucks.com          NODATA AVAILABLE
+cdx-prod-api.starbucks.com          s00181cdxtmna.trafficmanager.net
+test5-iad.starbucks.com          NODATA AVAILABLE
+athome.starbucks.com          br3o6wb.x.incapdns.net
+sts-vis-cert2-chd.starbucks.com          NODATA AVAILABLE
+loadstorelanding-chd.starbucks.com          NODATA AVAILABLE
+testwcmsvcs-chd.starbucks.com          NODATA AVAILABLE
+mena.card.starbucks.com          NODATA AVAILABLE
+sso-group.starbucks.com          NODATA AVAILABLE
+investor.starbucks.com          webfarm-50.q4web.com
+appcafe-cert-iad.starbucks.com          NODATA AVAILABLE
+start.starbucks.com          NODATA AVAILABLE
+id-cert.starbucks.com          id-cert.gtm.starbucks.com
+outlook.starbucks.com          outlook-iad.starbucks.com
+token.starbucks.com          NODATA AVAILABLE
+bomgaratlaschd.starbucks.com          NODATA AVAILABLE
+host2.openapi.starbucks.com          NODATA AVAILABLE
+retail.starbucks.com          NODATA AVAILABLE
+dr-host2.openapi.starbucks.com          NODATA AVAILABLE
+testdesktop-chd.starbucks.com          NODATA AVAILABLE
+sts-vis-dev-cloud2-chd.starbucks.com          NODATA AVAILABLE
+edge.starbucks.com          NODATA AVAILABLE
+remote.starbucks.com          NODATA AVAILABLE
+federate.starbucks.com          NODATA AVAILABLE
+microsite.starbucks.com          NODATA AVAILABLE
+help.starbucks.com          bomgar.starbucks.com
+test7.openapi.starbucks.com          sbux-integration-oapi.dn.apigee.net
+teams.starbucks.com          NODATA AVAILABLE
+cloudappschd.starbucks.com          NODATA AVAILABLE
+webmail.starbucks.com          mail.starbucks.com
+app.starbucks.com          starbuckssites.starbucks.com.edgekey.net
+me.starbucks.com          NODATA AVAILABLE
+servicedesk.starbucks.com          NODATA AVAILABLE
+sso-group0.starbucks.com          sso-group0-iad.starbucks.com
+play.starbucks.com          www.starbucks.com
+mdpjs.nonprod2.starbucks.com          NODATA AVAILABLE
+roastery.starbucks.com          roastery.starbucks.com.c.footprint.net
+eapi.starbucks.com          sbux-production-eapi-prod.apigee.net
+splunk.starbucks.com          NODATA AVAILABLE
+testapi.starbucks.com          NODATA AVAILABLE
+a.starbucks.com          NODATA AVAILABLE
+auth-ash.starbucks.com          NODATA AVAILABLE
+transportation.starbucks.com          NODATA AVAILABLE
+sts-vis-cloud3-chd.starbucks.com          NODATA AVAILABLE
+m.a.starbucks.com          NODATA AVAILABLE
+test6-iad.openapi.starbucks.com          NODATA AVAILABLE
+reg.e.starbucks.com          NODATA AVAILABLE
+mta705.a.starbucks.com          NODATA AVAILABLE
+b.a.starbucks.com          NODATA AVAILABLE
+b.ns.e.starbucks.com          NODATA AVAILABLE
+community.starbucks.com          NODATA AVAILABLE
+d.mx.b.e.starbucks.com          NODATA AVAILABLE
+e.ns.e.starbucks.com          NODATA AVAILABLE
+b.e.starbucks.com          NODATA AVAILABLE
+host-iad.openapi.starbucks.com          NODATA AVAILABLE
+d.ns.e.starbucks.com          NODATA AVAILABLE
+ebm.a.starbucks.com          NODATA AVAILABLE
+mta704.a.starbucks.com          NODATA AVAILABLE
+a.ns.a.starbucks.com          NODATA AVAILABLE
+c.mx.b.e.starbucks.com          NODATA AVAILABLE
+b.mx.m.e.starbucks.com          NODATA AVAILABLE
+mta960.e.starbucks.com          NODATA AVAILABLE
+a.mx.m.e.starbucks.com          NODATA AVAILABLE
+mta961.e.starbucks.com          NODATA AVAILABLE
+e.starbucks.com          NODATA AVAILABLE
+a.mx.b.e.starbucks.com          NODATA AVAILABLE
+a.ns.e.starbucks.com          NODATA AVAILABLE
+d.mx.e.starbucks.com          NODATA AVAILABLE
+m.e.starbucks.com          NODATA AVAILABLE
+f.ns.e.starbucks.com          NODATA AVAILABLE
+b.mx.b.e.starbucks.com          NODATA AVAILABLE
+c.ns.e.starbucks.com          NODATA AVAILABLE
+ebm.e.starbucks.com          NODATA AVAILABLE
+ucpc.starbucks.com          sbux-production-ucp-prod.apigee.net
+sts-vis-dev1.starbucks.com          sts-vis-dev1-iad.starbucks.com
+spc.starbucks.com          sbux-production-ucp-prod.apigee.net
+rsi.starbucks.com          NODATA AVAILABLE
+sts-vis-cert1.starbucks.com          sts-vis-cert1-iad.starbucks.com
