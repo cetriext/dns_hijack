@@ -1,0 +1,37 @@
+XSS AWESOME
+
+https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+https://gbhackers.com/top-500-important-xss-cheat-sheet/
+https://xsses.rocks/sample-page/
+https://www.muhaddis.info/advanced-cross-site-scripting-xss-cheat-sheet/
+https://www.jb51.net/tools/xss.htm
+https://n0p.net/penguicon/php_app_sec/mirror/xss.html
+https://www.softwaretestinghelp.com/cross-site-scripting-xss-attack-test/
+
+openredir:-
+
+https://blog.detectify.com/2019/05/16/the-real-impact-of-an-open-redirect/
+
+
+https://medium.com/@chawdamrunal/xss-cheat-sheet-e8b8261963c9
+https://medium.com/@chawdamrunal/what-is-parameter-tampering-5b1beb12c5ba
+https://medium.com/@chawdamrunal/what-is-xss-c91d460375bb
+https://medium.com/swlh/ssrf-in-the-wild-e2c598900434
+https://medium.com/@AkshaySharmaUS/open-redirects-security-done-right-e524a3185496
+https://medium.com/@hakluke/upgrade-xss-from-medium-to-critical-cb96597b6cc4
+https://medium.com/@AkshaySharmaUS/demystifying-java-jndi-attacks-b82018091a59
+https://medium.com/@imashishmathur/the-12-000-intersection-between-clickjacking-xss-and-denial-of-service-f8cdb3c5e6d1
+https://medium.com/@vickieli/bypassing-ssrf-protection-e111ae70727b
+https://medium.com/bugbountywriteup/xss-auditor-the-protector-of-unprotected-f900a5e15b7b
+https://medium.com/swlh/diving-into-unserialize-3586c1ec97e
+https://medium.com/@cablej/getting-started-in-bug-bounties-9990fae0e8e8
+https://medium.com/@lucideus/exploiting-apache-struts2-cve-2017-5638-lucideus-research-83adb9490ede
+https://medium.com/@d0nut/why-building-a-sandbox-in-pure-javascript-is-a-fools-errand-d425b77b2899
+https://www.arneswinnen.net/
+
+CTF
+https://medium.com/bugbountywriteup/nullcon-hackim-ctf-2019-mlauth-misc-500-writeup-e6eb48c66341
+
+Char encoding:-
+https://www.w3.org/International/questions/qa-what-is-encoding
+https://www.geeksforgeeks.org/understanding-character-encoding/

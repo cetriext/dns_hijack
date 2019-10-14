@@ -1,0 +1,1355 @@
+NXDOMAINS DATA 
+devcdhapps.starbucks.com                                 bigip-devcdhapps-starbucks.oracle.com
+devbi.starbucks.com                                 bigip-devbi-starbucks.oracle.com
+certltyupg.starbucks.com                                 bigip-certltyupg-starbucks.oracle.com
+certcdhapps-oid.starbucks.com                                 bigip-certcdhapps-oid-starbucks.oracle.com
+devcrmapps.starbucks.com                                 bigip-devcrmapps-starbucks.oracle.com
+prodltyupg-dr.starbucks.com                                 bigip-prodltyupg-dr-starbucks.oracle.com
+produpgpospa1-dr.starbucks.com                                 bigip-produpgpospa1-dr-starbucks.oracle.com
+yourespresso.starbucks.com                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+produpgpospa2.starbucks.com                                 bigip-produpgpospa2-starbucks.oracle.com
+prodcrmapps.starbucks.com                                 prodcrmapps-starbucks.nssb-oracle.com
+certupgpospa2.starbucks.com                                 bigip-certupgpospa2-starbucks.oracle.com
+tstplmpub.starbucks.com                                 bigip-tstplmpub-starbucks.oracle.com
+tstbi.starbucks.com                                 bigip-tstbi-starbucks.oracle.com
+tst1bi.starbucks.com                                 bigip-tst1bi-starbucks.oracle.com
+tst1crmapps.starbucks.com                                 bigip-tst1crmapps-starbucks.oracle.com
+prodbi.starbucks.com                                 bigip-prodbi-starbucks.oracle.com
+prodedqapps.starbucks.com                                 bigip-prodedqapps-starbucks.oracle.com
+sales.co-opfs.org                                 coopxp.thismoment.com
+www.frappuccino.co.kr                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+certedqapps.starbucks.com                                 bigip-certedqapps-starbucks.oracle.com
+testcdhapps-oid.starbucks.com                                 bigip-testcdhapps-oid-starbucks.oracle.com
+bi-gis-dev.starbucks.com                                 bi-gis.starbucks.com
+p01-tm.productioncontroller.starbucks.com                                 s00175tmp01.trafficmanager.net
+devcdhapps-oid.starbucks.com                                 bigip-devcdhapps-oid-starbucks.oracle.com
+bi-gis-cert.starbucks.com                                 bi-gis.starbucks.com
+social.deloitteuniversity.com                                 deloitteuniversity.thismoment.com
+lstech-asp-sd.starbucks.com                                 lstech-asp-sd.vpc.starbucks.net
+redeemtweetauth.starbucks.com                                 starbucksredeemauth.securepromotion.com
+spectrum-pd.starbucks.com                                 spectrum-pd.vpc.starbucks.net
+www.impactthatmatters.com                                 deloitteglobalxp.thismoment.com
+certltyapps.starbucks.com                                 bigip-certltyapps-starbucks.oracle.com
+lstech-asp-pd.starbucks.com                                 lstech-asp-pd.vpc.starbucks.net
+certupgpospa1.starbucks.com                                 bigip-certupgpospa1-starbucks.oracle.com
+trace-psdev.starbucks.com                                 s00174atww2twsps.trafficmanager.net
+www.deloittedavoslive.com                                 deloitteglobalxp.thismoment.com
+produpgpospa1.starbucks.com                                 bigip-produpgpospa1-starbucks.oracle.com
+tstcrmapps.starbucks.com                                 tstcrmapps-starbucks.nssb-oracle.com
+wfmnaptnpc.starbucks.com                                 s00149tmppcptn.trafficmanager.net
+prodplmpub.starbucks.com                                 bigip-prodplmpub-starbucks.oracle.com
+produpgpospa2-dr.starbucks.com                                 bigip-produpgpospa2-dr-starbucks.oracle.com
+outlookaddin.starbucks.com                                 o365.starbucks.com
+www.frappuccino.ru                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+tazoteatime.starbucks.com                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+www.frappuccino.ca                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+blonde.starbucks.ca                                 wintercanada-1762569678.us-east-1.elb.amazonaws.com
+www.frappuccino.com.tw                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+www.frappuccino.mx                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+www.frappuccino.nl                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+www.frappuccino.asia                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+sco-asp-sd.starbucks.com                                 sco-asp-sd.vpc.starbucks.net
+certcdhapps.starbucks.com                                 bigip-certcdhapps-starbucks.oracle.com
+cupmagic.starbucks.com                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+prodltyupg.starbucks.com                                 produpgcrmapps-starbucks.nssb-oracle.com
+www.frappuccino.ie                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+ws1.starbucks.com                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+tst8crmapps.starbucks.com                                 bigip-tst8crmapps-starbucks.oracle.com
+roast.starbucks.com                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+www.frappuccino.co.uk                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+www.frappuccino.ch                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+test.starbucks.co.uk                                 testintl.starbucks.com
+www.frappuccino.fr                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+ct.spc.starbucks.com                                 sbux-production-ucp-master.apigee.net
+testcdhapps.starbucks.com                                 bigip-testcdhapps-starbucks.oracle.com
+sharecontent.grainger.com                                 graingerecomxp.thismoment.com
+www.frappuccino.es                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+www.frappuccino.de                                 sbloadbalancer-624515223.us-east-1.elb.amazonaws.com
+
+
+
+CNAME RECORDS DATA 
+wfmnaposdv.starbucks.com                                 s00149tmpdvpos.trafficmanager.net                                 IP40.86.96.177
+certcrmpospa2.starbucks.com                                 certcrmpospa2-starbucks.nssb-oracle.com                                 IP144.23.238.206
+certltycrmapps.starbucks.com                                 certltycrmapps-starbucks.nssb-oracle.com                                 IP144.23.238.147
+prodcrmasp.starbucks.com                                 prodcrmasp-starbucks.nssb-oracle.com                                 IP144.23.239.2
+svcardproxytestus.starbucks.com                                 s00307ntmp0svcardproxytest0.trafficmanager.net                                 IP137.135.83.14
+orderingprofile.starbucks.com                                 ordering-prod-a-profile.starbucks.com                                 IP98.99.250.109
+www.beavercreekschool.org                                 live-beavercreek.pantheonsite.io                                 IP23.185.0.4
+certcrmpospa1-dr.starbucks.com                                 bigip-certcrmpospa1-dr-starbucks.oracle.com                                 IP148.87.129.109
+prodltycrmapps.starbucks.com                                 prodltycrmapps-starbucks.nssb-oracle.com                                 IP144.23.238.179
+prodcrmpospa2.starbucks.com                                 prodcrmpospa2-starbucks.nssb-oracle.com                                 IP144.23.238.237
+prodpospa2.starbucks.com                                 bigip-prodpospa2-starbucks.oracle.com                                 IP144.23.238.26
+archergrc.starbucks.com                                 archergrc-iad.starbucks.com                                 IP98.99.254.234
+www.teststore.starbucks.com                                 www.teststore.starbucks.com.cdn.cloudflare.net                                 IP
+5693341270278144-fe4.pantheonsite.io                                 fe4.edge.pantheon.io                                 IP23.185.0.4
+certpospa1.starbucks.com                                 bigip-certpospa1-starbucks.oracle.com                                 IP148.87.218.50
+certcrmpospa1.starbucks.com                                 certcrmpospa1-starbucks.nssb-oracle.com                                 IP144.23.238.205
+testedqapps.starbucks.com                                 bigip-testedqapps-starbucks.oracle.com                                 IP144.23.238.151
+www.myccn.com                                 live-cc-n.pantheonsite.io                                 IP23.185.0.4
+curricularaffairs.medicine.arizona.edu                                 live-college-medicine.pantheonsite.io                                 IP23.185.0.4
+www.mobileironchina.com                                 mobileironchina.com                                 IP184.168.131.241
+prod.parity.starbucks.com                                 ap-parity-prod-01.apigee.net                                 IP52.41.176.121,52.11.19.3,54.213.205.28
+www.heathwood.org                                 live-heathwood-hall.pantheonsite.io                                 IP23.185.0.4
+certcrmpospa2-dr.starbucks.com                                 bigip-certcrmpospa2-dr-starbucks.oracle.com                                 IP148.87.129.110
+www.jewishla.org                                 live-jewishlatest.pantheonsite.io                                 IP23.185.0.4
+ps.spc.starbucks.com                                 sbux-integration-ucp-stable.apigee.net                                 IP13.114.182.56
+www.closebrothersinvoice.com                                 live-close-brothers-invoice-finance.pantheonsite.io                                 IP23.185.0.4
+ld01.gifts.starbucks.com                                 s00293lpipgift01.westus.cloudapp.azure.com                                 IP40.112.215.208
+loadsecureui.starbucks.ie                                 loadglobalsecureui.starbucks.com                                 IP98.99.248.158
+wfmnapayps.starbucks.com                                 s00150tmppspay.trafficmanager.net                                 IP52.176.6.37
+stage00.mfa.starbucks.com                                 s00294spipmfa00.eastus.cloudapp.azure.com                                 IP104.211.28.26
+pd01.gifts.starbucks.com                                 s00293dpipgift01.westus.cloudapp.azure.com                                 IP40.86.184.177
+svcardproxydevus.starbucks.com                                 s00307ntmp0svcardproxydev0.trafficmanager.net                                 IP137.135.82.170
+www.planning.arizona.edu                                 cpanel.uits.arizona.edu                                 IP74.207.249.10
+spectrum-dev.starbucks.com                                 s00172dpipspec01s000.westus.cloudapp.azure.com                                 IP104.42.132.119
+p01.productioncontroller-lb.starbucks.com                                 sbp01.westus.cloudapp.azure.com                                 IP13.91.251.94
+svcgatewayus.starbucks.com                                 s00197tmp0crdfulprod0.trafficmanager.net                                 IP52.191.112.198
+devinternal.gifting.starbucks.com                                 dpapiegiftdevuseastus.trafficmanager.net                                 IP52.168.174.159
+wfmnapaydv.starbucks.com                                 s00149tmpdvpay.trafficmanager.net                                 IP40.86.96.177
+jss.starbucks.com                                 jssprod-starbucks.trafficmanager.net                                 IP13.91.89.122
+scm-asp-st.starbucks.com                                 s00309dpipasp01.westus.cloudapp.azure.com                                 IP40.118.247.218
+wfmnarptst.starbucks.com                                 s00149tmpstrpt.trafficmanager.net                                 IP40.86.86.144
+productioncontroller.starbucks.com                                 3ea6c331-3d03-4ffe-b5c4-43ab7ed25c77.cloudapp.net                                 IP13.91.3.76
+pd00.mfa.starbucks.com                                 s00294dpipmfa00.eastus.cloudapp.azure.com                                 IP52.168.170.63
+ultramarkets.com                                 HDRedirect-LB5-1afb6e2973825a56.elb.us-east-1.amazonaws.com                                 IP23.20.239.12
+playbuilder.starbucks.com                                 s00377ptmpplaybuilder-ui.trafficmanager.net                                 IP138.91.225.201
+p01.productioncontroller-splunkforwarder.starbucks.com                                 sbspbp01.westus.cloudapp.azure.com                                 IP40.118.134.81
+splunkforwarders03.productioncontroller.starbucks.com                                 sbspbs03.westus.cloudapp.azure.com                                 IP104.42.15.154
+www.sbe.arizona.edu                                 cpanel.uits.arizona.edu                                 IP74.207.249.10
+cloudid-cert.starbucks.com                                 sbuxc.trafficmanager.net                                 IP104.42.6.48
+wfmnapayct.starbucks.com                                 s00150tmpctpay.trafficmanager.net                                 IP23.99.206.151
+ArcherGRC.starbucks.com                                 archergrc-iad.starbucks.com                                 IP98.99.254.234
+stage.parity.starbucks.com                                 ap-parity-stage-01.apigee.net                                 IP35.161.115.59,34.208.218.216,52.88.18.112
+stagesecureui.starbucks.ie                                 stageglobalsecureui.starbucks.com                                 IP98.99.252.192
+id-cert.starbucks.com                                 id-cert.gtm.starbucks.com                                 IP98.99.254.41
+retailwebapps.starbucks.com                                 retailwebapps.gtm.starbucks.com                                 IP98.99.248.112
+eapi.starbucks.com                                 sbux-production-eapi-prod.apigee.net                                 IP34.216.23.247
+np.playbuilder.starbucks.com                                 s00314ntmpplaybuilder-ui.trafficmanager.net                                 IP40.117.74.150
+hybrid.starbucks.com                                 hybrid-iad2.starbucks.com                                 IP98.99.254.177
+sbe.arizona.edu                                 cpanel.uits.arizona.edu                                 IP74.207.249.10
+pro-asp-api-cert.starbucks.com                                 fd-pips-cert.azurefd.net                                 IP13.107.246.10
+stag.yessnacks.at                                 6gfafng.x.incapdns.net                                 IP45.60.125.5
+certaccess.starbucks.com                                 certaccess.gtm.starbucks.com                                 IP98.99.252.53
+bomgar.starbucks.com                                 bomgar.trafficmanager.net                                 IP98.99.248.202
+eapi-np.starbucks.com                                 eapi-np.gtm.starbucks.com                                 IP98.99.252.231
+prod1.mein-baby.babyservice.de                                 vzdja.x.incapdns.net                                 IP45.60.27.186
+www.store.starbucks.com                                 www.store.starbucks.com.cdn.cloudflare.net                                 IP
+ordering.starbucks.com                                 ordering-prod-a.starbucks.com                                 IP98.99.250.107
+pro-asp-api.starbucks.com                                 fd-pips-prod.azurefd.net                                 IP13.107.246.10
+prodltycrmapps-dr.starbucks.com                                 bigip-prodltycrmapps-dr-starbucks.oracle.com                                 IP148.87.129.87
+pro-asp-api-test.starbucks.com                                 fd-pips-test.azurefd.net                                 IP13.107.246.10
+svcgatewaydevus.starbucks.com                                 s00307ntmp0svcgtwydev0.trafficmanager.net                                 IP13.90.87.78
+prodcrmpospa1.starbucks.com                                 prodcrmpospa1-starbucks.nssb-oracle.com                                 IP144.23.238.236
+cloudapps.starbucks.com                                 cloudapps.gtm.starbucks.com                                 IP185.204.152.76
+ucpc.starbucks.com                                 sbux-production-ucp-prod.apigee.net                                 IP13.230.217.67
+caci.arizona.edu                                 live-siab2-acii.pantheonsite.io                                 IP23.185.0.4
+promotions.starbucks.com                                 starbucks-landing.ent-sessionm.com                                 IP107.23.35.215,52.72.149.51,34.193.236.132
+roastery.starbucks.com                                 roastery.starbucks.com.c.footprint.net                                 IP4.26.245.126
+wfmnalcnst.starbucks.com                                 s00149tmpstlcn.trafficmanager.net                                 IP40.86.86.144
+fnac.abonnement.nespresso.com                                 yi3pnyd.x.incapdns.net                                 IP45.60.160.130
+lstech-asp-st.starbucks.com                                 s00309-pip-istech.westus.cloudapp.azure.com                                 IP13.64.93.78
+kms-asp-pd.starbucks.com                                 s00172dpipipaaspoc.eastus.cloudapp.azure.com                                 IP23.96.84.143
+trace-api.starbucks.com                                 s00212apmw2gtwyprod.azure-api.net                                 IP52.183.127.32
+globalassets.starbucks.com                                 globalassets.starbucks.com.edgekey.net                                 IP104.108.210.117
+www.addup.org                                 addup.org.cdn.bsd.net                                 IP151.101.0.210,151.101.64.210,151.101.128.210,151.101.192.210
+stag1.gold.nescafe.ru                                 355xwj6.x.incapdns.net                                 IP45.60.160.130
+awconsole-cert.starbucks.com                                 awconsole-cert.gtm.starbucks.com                                 IP98.99.254.171
+stag.hub.purina.fi                                 3bafc.x.incapdns.net                                 IP45.60.160.130
+*.qd.bsd.net                                 qd.bsd.net                                 IP151.101.0.210,151.101.64.210,151.101.128.210,151.101.192.210
+ct00.gifts.starbucks.com                                 s00293cpipgift00.eastus.cloudapp.azure.com                                 IP52.168.78.235
+autodiscover.sbuxflight.com                                 autodiscover.starbucks.com                                 IP98.99.254.176
+wfmnalcnpc.starbucks.com                                 s00149tmppclcn.trafficmanager.net                                 IP40.86.99.202
+editions.covecollective.org                                 live-rc-distro.pantheonsite.io                                 IP23.185.0.4
+ld00.gifts.starbucks.com                                 s00293lpipgift00.eastus.cloudapp.azure.com                                 IP13.92.172.46
+portal.starbucks.com                                 live-ap-parityapi.pantheonsite.io                                 IP23.185.0.4
+www.news.starbucks.com                                 stories.starbucks.com                                 IP104.17.167.3,104.17.168.3
+dev.mfa.starbucks.com                                 s00294tm0mfadev0.trafficmanager.net                                 IP52.224.202.115
+s03-tm.productioncontroller.starbucks.com                                 s00175tms03.trafficmanager.net                                 IP40.118.171.199
+test13.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.134
+cardreloadloadus.starbucks.com                                 s00307ntmp0reloadload0.trafficmanager.net                                 IP40.121.3.126
+cloudid.starbucks.com                                 sbuxp.trafficmanager.net                                 IP23.101.140.203
+ps00.mfa.starbucks.com                                 s00294tpipmfa014.eastus.cloudapp.azure.com                                 IP13.90.213.71
+community.uat.starbucks.com                                 starbucks-uat-vm.uat3.hosted.jivesoftware.com                                 IP204.93.71.24
+perf-solr.starbucks.com                                 perf-solr.westus.cloudapp.azure.com                                 IP138.91.168.214
+test.openapi.starbucks.com                                 sbux-integration-oapi-stable-dial.apigee.net                                 IP34.216.23.38
+prod00.mfa.starbucks.com                                 s00294ppipmfa00.eastus.cloudapp.azure.com                                 IP168.61.50.119
+d02-1-lb.productioncontroller.starbucks.com                                 sbd02-1.westus.cloudapp.azure.com                                 IP168.62.31.213
+prod.athome.starbucks.com                                 br3o6wb.x.incapdns.net                                 IP45.60.125.5
+cdx-prod-api.starbucks.com                                 s00181cdxtmna.trafficmanager.net                                 IP104.42.180.132
+wfmnapimst.starbucks.com                                 s00149tmpstpim.trafficmanager.net                                 IP40.86.86.144
+prod01.mfa.starbucks.com                                 s00294ppipmfa01.westus.cloudapp.azure.com                                 IP104.42.177.247
+test3.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.134
+zh.starbucks.com.hk                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+test.covecollective.org                                 test-rc-distro.pantheonsite.io                                 IP23.185.0.4
+deepbrew-prod-api.starbucks.com                                 s00188trfpdeepbrew.trafficmanager.net                                 IP13.66.244.249
+crossroads.crs.org                                 live-crs-crossroads.pantheonsite.io                                 IP23.185.0.4
+p01-1-lb.productioncontroller.starbucks.com                                 sbp01-1.westus.cloudapp.azure.com                                 IP104.40.73.178
+test8.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.159
+pf.ucpc.starbucks.com                                 sbux-load-gcp-ucp-load-gcp.apigee.net                                 IP35.227.184.71
+sixevents.starbucks.com                                 six-waf-prod.westus2.cloudapp.azure.com                                 IP13.66.167.247
+wfmnaposct.starbucks.com                                 s00150tmpctpos.trafficmanager.net                                 IP23.99.206.151
+scm-asp-ct.starbucks.com                                 s00326dpipscmasp00.westus.cloudapp.azure.com                                 IP40.118.252.54
+ct01.gifts.starbucks.com                                 s00293cpipgift01.westus.cloudapp.azure.com                                 IP104.42.108.62
+prodcrmapps-oid.starbucks.com                                 bigip-prodcrmapps-oid-starbucks.oracle.com                                 IP144.23.241.232
+t02.productioncontroller.starbucks.com                                 s00175tmt02.trafficmanager.net                                 IP40.112.212.235
+icommerceagent.starbucks.com                                 icommerceagent.sbx.pfsweb.com                                 IP192.157.74.131,12.18.76.131
+eastus-svcardproxytestus.starbucks.com                                 s00307tpipsvcpro00.eastus.cloudapp.azure.com                                 IP137.135.83.14
+stories.starbucks.com                                 stories.starbucks.com.cdn.cloudflare.net                                 IP104.17.168.3,104.17.167.3
+autodiscover.starbucks.nl                                 autodiscover.outlook.com                                 IP40.100.138.8,40.100.138.136,40.100.138.152
+digitalcart-cert.starbucks.com                                 s00492nfdrdcs.azurefd.net                                 IP13.107.246.10
+bomgareast.starbucks.com                                 s00151ppipbommaster.eastus.cloudapp.azure.com                                 IP13.90.140.180
+autodiscover.starbucks.de                                 autodiscover.starbucks.com                                 IP98.99.254.176
+certcrmasp-dr.starbucks.com                                 bigip-certcrmasp-dr-starbucks.oracle.com                                 IP148.87.240.218
+eapi-pd.starbucks.com                                 sbux-integration-eapi-master.apigee.net                                 IP34.216.23.38
+transitionalcare.aging.arizona.edu                                 live-aging1.pantheonsite.io                                 IP23.185.0.4
+www.hed.arizona.edu                                 cpanel.uits.arizona.edu                                 IP74.207.249.10
+sd-asp-ct.starbucks.com                                 s00326aspctnprod01.westus.cloudapp.azure.com                                 IP40.112.164.72
+store-en.starbucks.fr                                 www.starbucks.fr                                 IP104.122.9.56
+ucp.starbucks.com                                 sbux-production-ucp-prod.apigee.net                                 IP13.230.10.3
+spc.starbucks.com                                 sbux-production-ucp-prod.apigee.net                                 IP13.230.10.3
+secureui.starbucks.de                                 globalsecureui.starbucks.com                                 IP98.99.252.122
+cloudid-dev.starbucks.com                                 sbuxd.trafficmanager.net                                 IP52.224.147.208
+ct00.mfa.starbucks.com                                 s00294tpipmfa00.eastus.cloudapp.azure.com                                 IP52.168.55.174
+connecttest.starbucks.com                                 d2ryli2z4zvqcf.cloudfront.net                                 IP13.33.169.19,13.33.169.94,13.33.169.119,13.33.169.78
+sgsmsuppliertest.starbucks.com                                 bs4ay.x.incapdns.net                                 IP45.60.67.148
+ld00.mfa.starbucks.com                                 s00294lpipmfa00.eastus.cloudapp.azure.com                                 IP52.224.163.138
+ps01.gifts.starbucks.com                                 s00293tpipgift01.westus.cloudapp.azure.com                                 IP23.99.90.104
+www.problemsolvingjustice.org                                 live-center-for-court-innovation.pantheonsite.io                                 IP23.185.0.4
+test17.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.134
+spectrum.starbucks.com                                 s00172ppipspecapp00.westus.cloudapp.azure.com                                 IP13.64.109.65
+suslab.starbucks.com                                 applesus-lab.trafficmanager.net                                 IP40.78.42.109
+www.starbucks.co.za                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+wfmnaposst.starbucks.com                                 s00149tmpstpos.trafficmanager.net                                 IP40.86.86.144
+openapi.starbucks.com                                 sbux-production-oapi-prod-dial.apigee.net                                 IP34.216.23.130
+pwss.starbucks.com                                 pwss-chd2.starbucks.com                                 IP98.99.250.6
+www.starbucks.nl                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+eastus.digitalcart-cert.starbucks.com                                 s00492n00webdcs.azurewebsites.net                                 IP40.79.154.194
+mcdn-edge-cert.starbucks.com                                 mcdn-edge-cert.starbucks.com.edgesuite.net                                 IP104.77.173.11,104.77.173.9
+www.criminaljusticefailure.org                                 live-center-for-court-innovation.pantheonsite.io                                 IP23.185.0.4
+prod00.gifts.starbucks.com                                 s00293ppipgift00.eastus.cloudapp.azure.com                                 IP13.72.108.38
+sixevents-api.starbucks.com                                 six-waf-prod.westus2.cloudapp.azure.com                                 IP13.66.167.247
+ariba-asp-sd.starbucks.com                                 s00326-pip-aribasd.westus.cloudapp.azure.com                                 IP40.78.71.237
+connect.starbucks.com                                 dndykhjlca702.cloudfront.net                                 IP13.33.169.12,13.33.169.22,13.33.169.111,13.33.169.104
+s03-1-lb.productioncontroller.starbucks.com                                 sbs03-1.westus.cloudapp.azure.com                                 IP40.112.162.212
+stageglobalassets.starbucks.com                                 globalassets.starbucks.com.edgekey.net                                 IP104.108.210.117
+stag1.saboreiaavida.nestle.pt                                 s33osu5.x.incapdns.net                                 IP45.60.125.5
+app.starbucks.co.uk                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+wfmnapay.starbucks.com                                 s00150tmppdpay.trafficmanager.net                                 IP52.176.6.37
+wfmnaptndv.starbucks.com                                 s00149tmpdvptn.trafficmanager.net                                 IP40.86.96.177
+www.starbucks.fr                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+www.spaceskc.com                                 live-mcclatchy.pantheonsite.io                                 IP23.185.0.4
+passport.starbucks.com                                 ssl.cdn.passport.starbucks.com.c.footprint.net                                 IP8.250.43.241
+www.starbucks.ch                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+en.starbucks.nl                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+th.starbucks.co.th                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+prod.faceuptorosacea.com                                 kq7oorg.x.incapdns.net                                 IP45.60.160.130
+www.largerthanlife.com                                 largerthanlife.com                                 IP209.171.113.191
+www.bostonmainstreets.org                                 live-boston-main-streets.pantheonsite.io                                 IP23.185.0.4
+wfmnaptnps.starbucks.com                                 s00150tmppsptn.trafficmanager.net                                 IP52.176.6.37
+prodcdhapps-oid.starbucks.com                                 bigip-prodcdhapps-oid-starbucks.oracle.com                                 IP144.23.238.133
+jsslab.starbucks.com                                 jsslab-starbucks.trafficmanager.net                                 IP52.160.81.171
+eapi-load.starbucks.com                                 sbux-load-gcp-eapi-load-gcp.apigee.net                                 IP35.227.184.71
+www.landscape.arizona.edu                                 cpanel.uits.arizona.edu                                 IP74.207.249.10
+test.parity.starbucks.com                                 ap-parity-test-01.apigee.net                                 IP52.27.222.78,35.161.131.167,54.187.40.187
+pdx.starbucks.com                                 new-public-web-1573560045.us-east-1.elb.amazonaws.com                                 IP52.4.66.249,52.5.74.182
+ldap.starbucks.com                                 ldap.gtm.starbucks.com                                 IP98.99.250.57
+www.thenewbeat.ca                                 live-the-new-beat.pantheonsite.io                                 IP23.185.0.4
+prodcrmpospa2-dr.starbucks.com                                 bigip-prodcrmpospa2-dr-starbucks.oracle.com                                 IP148.87.129.141
+test.idaforstuderende.dk                                 test-idaforstuderende.pantheonsite.io                                 IP23.185.0.4
+ct.ucpc.starbucks.com                                 sbux-integration-ucp-stable.apigee.net                                 IP13.114.182.56
+www.24thstreetpizza.com                                 live-24th-street-pizza.pantheonsite.io                                 IP23.185.0.4
+www.itif.org                                 live-itif.pantheonsite.io                                 IP23.185.0.1
+www.farlekasphotography.com                                 live-farlekas-photography.pantheonsite.io                                 IP23.185.0.4
+cdx-ps.starbucks.com                                 sbux-integration-cdx-stable.apigee.net                                 IP34.216.23.38
+secureui2.starbucks.com                                 secureui.starbucks.com                                 IP98.99.252.79
+mdm.starbucks.com                                 ds162.awmdm.com                                 IP192.30.68.141
+Load.openapi.starbucks.com                                 sbux-load-gcp-oapi-load-gcp.apigee.net                                 IP35.227.184.71
+load.parity.starbucks.com                                 ap-parity-load-01.apigee.net                                 IP34.223.218.220,34.215.9.82,34.211.93.255
+awcm.starbucks.com                                 awcm.gtm.starbucks.com                                 IP98.99.252.156
+pcp.sonoranucedd.fcm.arizona.edu                                 live-pcpsonoranucedd-fcm.pantheonsite.io                                 IP23.185.0.4
+secureui.starbucks.ie                                 globalsecureui.starbucks.com                                 IP98.99.252.122
+www.lifeatthismoment.com                                 lifeatthismoment.com                                 IP162.241.24.179
+www.mo2properties.com                                 live-mo2-properties.pantheonsite.io                                 IP23.185.0.4
+design.asu.edu                                 edge.asu-edu.getpantheon.com                                 IP198.61.150.64
+eastus.digitalcart-dev.starbucks.com                                 s00492n00webdevdcs.azurewebsites.net                                 IP40.71.11.133
+mobility4.starbucks.com                                 mobility4.gtm.starbucks.com                                 IP120.136.132.25
+certltycrmapps-dr.starbucks.com                                 bigip-certltycrmapps-dr-starbucks.oracle.com                                 IP148.87.129.85
+www.starbucks.hu                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+t02.spc.starbucks.com                                 sbux-integration-ucp-master.apigee.net                                 IP52.192.24.183
+www.gethealthyhome.com                                 live-ec-healthyhomes.pantheonsite.io                                 IP23.185.0.4
+cappromo.starbucks.com                                 starbucksogprod-249485271.ap-southeast-1.elb.amazonaws.com                                 IP54.255.137.71,18.140.153.72
+eapi-ct.starbucks.com                                 sbux-integration-eapi-stable.apigee.net                                 IP34.216.23.134
+stage.openapi.starbucks.com                                 sbux-integration-oapi-stage-dial.apigee.net                                 IP34.216.23.38
+businessaffairs.arizona.edu                                 live-ua-business-affairs.pantheonsite.io                                 IP23.185.0.4
+uappc.peds.arizona.edu                                 live-uappc.pantheonsite.io                                 IP23.185.0.4
+*.bbinary.eu                                 712936.parkingcrew.net                                 IP185.53.179.29
+api.martech.starbucks.com                                 sbux-production-eapi-prod.apigee.net                                 IP34.216.23.157
+appcafe-cert.starbucks.com                                 appcafe-cert.gtm.starbucks.com                                 IP98.99.254.170
+www.landscapearchitecture.arizona.edu                                 cpanel.uits.arizona.edu                                 IP74.207.249.10
+5722383033827328-fe1.pantheonsite.io                                 fe1.edge.pantheon.io                                 IP23.185.0.1
+connectadmin.starbucks.com                                 d3amdjk0uar0yf.cloudfront.net                                 IP13.33.169.82,13.33.169.4,13.33.169.109,13.33.169.107
+pd.cdx.starbucks.com                                 sbux-integration-cdx-master.apigee.net                                 IP34.216.23.38
+eastus-svcardproxyloadus.starbucks.com                                 s00307lpipsvcpro00.eastus.cloudapp.azure.com                                 IP13.68.136.119
+stagesecureui.starbucks.com                                 stagesecureui-iad.starbucks.com                                 IP98.99.252.44
+hed.arizona.edu                                 cpanel.uits.arizona.edu                                 IP74.207.249.10
+dev.ucp.starbucks.com                                 sbux-ucp-dev-develop.apigee.net                                 IP34.216.23.134
+www.nsflearnonline.com                                 live-nsf-academy.pantheonsite.io                                 IP23.185.0.4
+trace-cert.starbucks.com                                 s00174atmw2twact.trafficmanager.net                                 IP52.229.30.210
+np.sei.starbucks.com                                 s00404nfd-b451ddc0-7cac-42ba-9f95-ab62400c2b71.azurefd.net                                 IP13.107.246.10
+prodcrmasp-dr.starbucks.com                                 bigip-prodcrmasp-dr-starbucks.oracle.com                                 IP148.87.231.55
+load.openapi.starbucks.com                                 sbux-load-gcp-oapi-load-gcp.apigee.net                                 IP35.227.184.71
+cdx.starbucks.com                                 sbux-production-cdx-prod.apigee.net                                 IP34.216.23.249
+prodpospa1.starbucks.com                                 bigip-prodpospa1-starbucks.oracle.com                                 IP144.23.238.25
+test14.openapi.starbucks.com                                 sbux-integration-oapi-master-dial.apigee.net                                 IP34.216.23.38
+www.thecoterie.org                                 ghs.googlehosted.com                                 IP172.217.31.211
+wfmnapimps.starbucks.com                                 s00150tmppspim.trafficmanager.net                                 IP52.176.6.37
+webmail.starbucks.com                                 mail.starbucks.com                                 IP98.99.254.8
+devltycrmapps.starbucks.com                                 bigip-devltycrmapps-starbucks.oracle.com                                 IP148.87.129.11
+test19.openapi.starbucks.com                                 sbux-oapi-dev-cicd.apigee.net                                 IP34.216.23.38
+customerservice.starbucks.com                                 starbucksweb.custhelp.com                                 IP74.117.200.136
+buyonline.nestlewaters.sa                                 6jqdoio.x.incapdns.net                                 IP45.60.125.5
+wfmnapaypc.starbucks.com                                 s00149tmppcpay.trafficmanager.net                                 IP40.86.99.202
+test1.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.38
+teststore.starbucks.com                                 www.teststore.starbucks.com                                 IP
+www.amrevmuseum.com                                 amrevmuseum.com                                 IP184.168.131.241
+ps00.gifts.starbucks.com                                 s00293tpipgift00.eastus.cloudapp.azure.com                                 IP52.224.48.251
+mydaily.starbucks.com                                 s00457ptmp000001prod.trafficmanager.net                                 IP51.143.59.82
+desktop.starbucks.com                                 desktop.gtm.starbucks.com                                 IP98.99.248.111
+svcgatewayloadus.starbucks.com                                 s00307ntmp0svcgtwyload0.trafficmanager.net                                 IP13.82.189.7
+s03.productioncontroller-lb.starbucks.com                                 sbs03.westus.cloudapp.azure.com                                 IP104.42.70.38
+www.farmtransfernewengland.net                                 farmtransfernewengland.net                                 IP23.185.0.4
+pi.spc.starbucks.com                                 sbux-integration-ucp-master.apigee.net                                 IP13.114.228.22
+wfmnalcnps.starbucks.com                                 s00150tmppslcn.trafficmanager.net                                 IP52.176.6.37
+certltyapps-oid.starbucks.com                                 bigip-certltyapps-oid-starbucks.oracle.com                                 IP148.87.231.187
+s03-1-ag.productioncontroller.starbucks.com                                 93ef0cbf-a1a7-46fb-98db-b412dda13483.cloudapp.net                                 IP40.83.223.203
+connectadmintest.starbucks.com                                 d2dqadl4rp55po.cloudfront.net                                 IP13.33.169.24,13.33.169.91,13.33.169.2,13.33.169.21
+pro-asp-api-dev.starbucks.com                                 fd-pips-dev.azurefd.net                                 IP13.107.246.10
+impact.crs.org                                 live-75anniversary.pantheonsite.io                                 IP23.185.0.4
+cardreloaddevus.starbucks.com                                 s00307ntmp0reloaddev0.trafficmanager.net                                 IP40.114.109.80
+acii.arizona.edu                                 live-uas-acii.pantheonsite.io                                 IP23.185.0.2
+test9.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.38
+ss.cdx.starbucks.com                                 sbux-integration-cdx-master.apigee.net                                 IP34.216.23.159
+transhair.co.uk                                 live-transhaircouk.pantheonsite.io                                 IP23.185.0.4
+*.ultramarkets.com                                 HDRedirect-LB6-54290b28133ca5af.elb.us-east-1.amazonaws.com                                 IP18.211.9.206
+devedqapps.starbucks.com                                 bigip-devedqapps-starbucks.oracle.com                                 IP144.23.238.154
+Trace-dev.starbucks.com                                 s00174atmw2twapd.trafficmanager.net                                 IP40.112.216.189
+eoss.asu.edu                                 edge.asu-edu.getpantheon.com                                 IP198.61.150.64
+wfmnalcn.starbucks.com                                 s00150tmppdlcn.trafficmanager.net                                 IP52.176.6.37
+www.transhair.co.uk                                 live-transhaircouk.pantheonsite.io                                 IP23.185.0.4
+mrs4.starbucks.com                                 activesync.gtm.starbucks.com                                 IP98.99.254.18
+test2.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.38
+pdx-qa.starbucks.com                                 pdx-qa-starbucks-com-22614278.us-east-1.elb.amazonaws.com                                 IP52.0.156.158,52.72.229.59
+ct.cdx.starbucks.com                                 sbux-integration-cdx-stable.apigee.net                                 IP34.216.23.159
+wfmnapimct.starbucks.com                                 s00150tmpctpim.trafficmanager.net                                 IP23.99.206.151
+www.domesticviolencecourts.org                                 live-center-for-court-innovation.pantheonsite.io                                 IP23.185.0.4
+helpdesk.medicine.arizona.edu                                 servicedesk.medicine.arizona.edu                                 IP23.185.0.4
+stagesecureui.starbucks.com.br                                 stageglobalsecureui.starbucks.com                                 IP98.99.252.192
+loadsecureui.starbucks.fr                                 loadglobalsecureui.starbucks.com                                 IP98.99.248.158
+cleveland.civicaction.center                                 live-civic-direct.pantheonsite.io                                 IP23.185.0.1
+appcafe.starbucks.com                                 appcafe.gtm.starbucks.com                                 IP98.99.254.134
+www.raritanheadwaters.org                                 live-raritan-headwaters.pantheonsite.io                                 IP23.185.0.4
+azvdl.arizona.edu                                 live-uas-azvdl.pantheonsite.io                                 IP23.185.0.4
+www.createl.com.au                                 stores.neto.com.au                                 IP104.17.104.211,104.17.101.211,104.17.102.211,104.17.100.211,104.17.103.211
+westus.digitalcart-cert.starbucks.com                                 s00492n01webdcs.azurewebsites.net                                 IP13.93.158.16
+historias.starbucks.com                                 historias.starbucks.com.cdn.cloudflare.net                                 IP104.18.27.28,104.18.26.28
+dev-au.dermaltherapy.com.au                                 dev-newdermal.pantheonsite.io                                 IP23.185.0.1
+OrderingCert.starbucks.com                                 ordering-cert.starbucks.com                                 IP98.99.254.125
+www.waflabincap.security.nestle.com                                 bjnzjyt.x.incapdns.net                                 IP45.60.160.130
+pd.spc.starbucks.com                                 sbux-eapi-dev-develop.apigee.net                                 IP34.216.23.159
+sd.cdx.starbucks.com                                 sbux-integration-cdx-master.apigee.net                                 IP34.216.23.159
+www.starbucks.com.co                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+Ldap.starbucks.com                                 ldap.gtm.starbucks.com                                 IP98.99.250.57
+main.mfa.starbucks.com                                 s00294tm0mfamain0.trafficmanager.net                                 IP52.191.217.62
+testsecureuifr.starbucks.ca                                 testglobalsecureui.starbucks.com                                 IP98.99.254.191
+eapi-ps.starbucks.com                                 sbux-integration-eapi-master.apigee.net                                 IP34.216.23.24
+stag.athome.starbucks.com                                 usqztw6.x.incapdns.net                                 IP45.60.160.130
+stagecafrstore.starbucks.com                                 starbucks-staging.onelink-translations.com                                 IP0.0.0.0
+investor.starbucks.com                                 webfarm-50.q4web.com                                 IP69.172.200.252
+testhuhu.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+testruru.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+testbnen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+www.cabledeals.org                                 live-cabledealsorg.pantheonsite.io                                 IP23.185.0.4
+svcardproxyus.starbucks.com                                 s00307ptmp0svcardproxyprod0.trafficmanager.net                                 IP13.68.196.2
+*.3cdn.net                                 static-asset-cdn-s3.bluestate.digital                                 IP13.33.169.98,13.33.169.84,13.33.169.20,13.33.169.37
+spectrum-api.starbucks.com                                 s00172dpipspec01s001.westus.cloudapp.azure.com                                 IP40.85.156.65
+stag1.kampanya.nescafe.com.tr                                 vuvhjfx.x.incapdns.net                                 IP45.60.125.5
+secureui.starbucks.ca                                 globalsecureui.starbucks.com                                 IP98.99.252.122
+www.alaskahvacr.com                                 live-alaska-hvacr.pantheonsite.io                                 IP23.185.0.4
+deepbrew-preprod-api.starbucks.com                                 s00188trfppdeepbrew.trafficmanager.net                                 IP52.226.134.64
+cdx-nonprod-api.starbucks.com                                 s00199cdxtmna.trafficmanager.net                                 IP52.226.32.51
+www.magneticthemes.com                                 magneticthemes.com                                 IP23.185.0.4
+stag.hub.purina.se                                 aho77.x.incapdns.net                                 IP45.60.160.130
+stag.faceuptorosacea.com                                 o2uus6r.x.incapdns.net                                 IP45.60.160.130
+smreporting.starbucks.com                                 smreporting-v9-a.starbucks.com                                 IP98.99.252.193
+wfmnapos.starbucks.com                                 s00150tmppdpos.trafficmanager.net                                 IP52.176.6.37
+testhkzh.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+partner.nestle.ru                                 zedgngt.x.incapdns.net                                 IP45.60.160.130
+Outlook.starbucks.com                                 outlook-iad.starbucks.com                                 IP98.99.254.66
+vaca.enterprise.co.uk                                 e82pj.x.incapdns.net                                 IP45.60.49.145
+cert-assets.digital.starbucksassets.com                                 cert-assets.digital.starbucksassets.com.edgekey-staging.net                                 IP104.76.246.109
+eastus-svcardproxydevus.starbucks.com                                 s00307dpipsvcpro00.eastus.cloudapp.azure.com                                 IP137.135.82.170
+www.michellebridges.com                                 michellebridges.com                                 IP184.168.131.241
+wfmnarptps.starbucks.com                                 s00150tmppsrpt.trafficmanager.net                                 IP52.176.6.37
+retailwebaccess.starbucks.com                                 retailwebaccess.gtm.starbucks.com                                 IP98.99.248.162
+stage.sei.starbucks.com                                 prod-stage.sei.trafficmanager.net                                 IP13.68.115.248
+www.orbis.org.cn                                 bsd-orbis.map.fastly.net                                 IP151.101.0.210,151.101.64.210,151.101.128.210,151.101.192.210
+autodiscover.starbucks.cn                                 autodiscover.starbucks.com                                 IP98.99.254.176
+prod.yessnacks.com.au                                 h92evyg.x.incapdns.net                                 IP45.60.125.5
+westus-svcgatewayus.starbucks.com                                 s00307ppipsvcgwy01.westus.cloudapp.azure.com                                 IP40.118.233.138
+sd-asp.starbucks.com                                 s00309-sd-asp.westus.cloudapp.azure.com                                 IP23.99.91.189
+test7.openapi.starbucks.com                                 sbux-integration-oapi.dn.apigee.net                                 IP34.216.23.38
+www.solutions.starbucks.com                                 solutions.starbucks.com                                 IP209.67.176.191
+secureui.starbucks.co.uk                                 globalsecureui.starbucks.com                                 IP98.99.252.122
+testthen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+sip-dev.starbucks.com                                 s00188devapssipp.azurewebsites.net                                 IP13.89.245.227
+testsecureui.starbucks.ie                                 testglobalsecureui.starbucks.com                                 IP98.99.254.191
+stagesecureui.starbucks.de                                 stageglobalsecureui.starbucks.com                                 IP98.99.252.192
+www.starbucks.se                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+www.starbucks.vn                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+eastus-cardreloaddevus.starbucks.com                                 s00307dpipreload.eastus.cloudapp.azure.com                                 IP40.114.109.80
+app.starbucks.de                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+testassets.starbucks.com                                 testassets.starbucks.com.edgesuite.net                                 IP23.3.70.167,23.3.70.134
+stageukenstore.starbucks.com                                 starbucks-staging.onelink-translations.com                                 IP0.0.0.0
+ariba-asp-st.starbucks.com                                 s00309dpipasp02.westus.cloudapp.azure.com                                 IP40.118.168.72
+testpees.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+www.starbucks.at                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+testcyel.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+testmyen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+qd.bsd.net                                 bsd-orbis.map.fastly.net                                 IP151.101.0.210,151.101.64.210,151.101.128.210,151.101.192.210
+testgrel.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+testkzkk.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+test.sei.starbucks.com                                 test.sei.trafficmanager.net                                 IP51.143.4.41
+www.starbucks.com.br                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+loadsecureui.starbucks.ca                                 loadglobalsecureui.starbucks.com                                 IP98.99.248.158
+lstech-asp-ct.starbucks.com                                 s00309-pip-lstechct.westus.cloudapp.azure.com                                 IP168.61.21.114
+testdede.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+www.starbucks.it                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+dev-assets.web.starbucksassets.com                                 globalassetsmgd.starbucks.com.edgekey.net                                 IP104.122.9.41
+secureUI2.starbucks.com                                 secureui.starbucks.com                                 IP98.99.252.79
+id.starbucks.com                                 id.gtm.starbucks.com                                 IP185.204.152.84
+cdx-pi.starbucks.com                                 sbux-integration-cdx-stable.apigee.net                                 IP34.216.23.159
+planning.arizona.edu                                 cpanel.uits.arizona.edu                                 IP74.207.249.10
+sustainability.nespresso.com                                 buyjxhq.x.incapdns.net                                 IP45.60.160.130
+svcgatewaytestus.starbucks.com                                 s00307ntmp0svcgtwytest0.trafficmanager.net                                 IP13.82.232.243
+testbgbg.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+www.starbucks.ie                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+testsecureui.starbucks.com.br                                 testglobalsecureui.starbucks.com                                 IP98.99.254.191
+eastus-cardreloadloadus.starbucks.com                                 s00307lpipreload.eastus.cloudapp.azure.com                                 IP40.121.3.126
+www.starbucks.com                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+www.citizen.agency                                 citizen.agency                                 IP68.65.122.166
+mock.sei.starbucks.com                                 mock.sei.trafficmanager.net                                 IP104.209.185.130
+testfrfr.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+www.ascentclouds.com                                 live-ascent-clouds.pantheonsite.io                                 IP23.185.0.1
+sip.starbucks.fr                                 sipdir.online.lync.com                                 IP52.113.67.75
+wfmnalcnct.starbucks.com                                 s00150tmpctlcn.trafficmanager.net                                 IP23.99.206.151
+www.starbucks.com.tr                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+loadglobalassets.starbucks.com                                 globalassets.starbucks.com.edgekey.net                                 IP104.108.210.117
+mred.arizona.edu                                 cpanel.uits.arizona.edu                                 IP74.207.249.10
+testcaen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+activesync.starbucks.com                                 activesync.gtm.starbucks.com                                 IP98.99.254.18
+planning.uahs.arizona.edu                                 live-planninguahs.pantheonsite.io                                 IP23.185.0.4
+dev.sei.starbucks.com                                 dev.sei.trafficmanager.net                                 IP51.143.4.41
+testbrpt.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+prod.sei.starbucks.com                                 prod.sei.trafficmanager.net                                 IP13.68.115.248
+app.starbucks.fr                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+www.orbis.org.tw                                 orbis.org.tw                                 IP43.254.17.15
+www.starbucks.de                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+testchen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+cert-assets.web.starbucksassets.com                                 globalassetsmgd.starbucks.com.edgekey.net                                 IP104.122.9.41
+testvnvi.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+s03.productioncontroller.starbucks.com                                 f260b415-7070-4236-ab4d-476c31b926f0.cloudapp.net                                 IP40.118.171.199
+www.discoverquincy.com                                 live-discoverquincy.pantheonsite.io                                 IP23.185.0.4
+eastus-cardreloadtestus.starbucks.com                                 s00307tpipreload.eastus.cloudapp.azure.com                                 IP40.114.114.235
+wfmnapimdv.starbucks.com                                 s00149tmpdvpim.trafficmanager.net                                 IP40.86.96.177
+www.starbucksromania.ro                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+testzaen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+ews.starbucks.com                                 ews-iad2.starbucks.com                                 IP98.99.254.18
+autodiscover.tazo.com                                 autodiscover.outlook.com                                 IP40.100.138.8,40.100.138.136,40.100.138.120
+eastus-svcgatewaydevus.starbucks.com                                 svcgatewaydevus.eastus.cloudapp.azure.com                                 IP13.90.87.78
+assets.digital.starbucksassets.com                                 assets.digital.starbucksassets.com.edgekey.net                                 IP104.122.9.41
+app.test.starbucks.ie                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+eapi-sd.starbucks.com                                 sbux-integration-eapi-master.apigee.net                                 IP34.216.23.134
+Lyncdiscover.starbucks.fr                                 webdir.online.lync.com                                 IP52.113.67.78
+app.starbucks.com.br                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+wfmnaptnst.starbucks.com                                 s00149tmpstptn.trafficmanager.net                                 IP40.86.86.144
+testares.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+www.starbucks.com.kh                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+en.starbucks.it                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+www.starbucks.cl                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+test18.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.38
+test.starbucks.ca                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+testnzen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+testcafr.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+westus-svcardproxyus.starbucks.com                                 s00307ppipproxy01.westus.cloudapp.azure.com                                 IP104.40.3.136
+www.starbucks.az                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+www.naacp.org                                 live-naacp-site.pantheonsite.io                                 IP23.185.0.4
+app.test.starbucks.fr                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+store-en.starbucks.co.uk                                 www.starbucks.co.uk                                 IP104.122.9.56
+load-assets.digital.starbucksassets.com                                 load-assets.digital.starbucksassets.com-v1.edgekey-staging.net                                 IP104.76.246.109
+lyncdiscover.starbucks.fr                                 webdir.online.lync.com                                 IP52.113.67.78
+en.starbucks.vn                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+www.starbucks.pt                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+sts-vis-dev-cloud2.starbucks.com                                 sts-vis-dev-cloud2.gtm.starbucks.com                                 IP98.99.252.204
+fr-ca.test.starbucks.com                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+help.starbucks.com                                 bomgar.starbucks.com                                 IP98.99.248.202
+app.test.starbucks.com                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+en-us.test.starbucks.com                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+app.test.starbucks.de                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+en-ca.test.starbucks.com                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+pt-br.test.starbucks.com                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+app.starbucks.ie                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+www.starbucks.co.nz                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+www.starbucks.com.kz                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+en-ie.test.starbucks.com                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+parentsmatter.health.arizona.edu                                 live-uas-parentsmatter.pantheonsite.io                                 IP23.185.0.4
+test.starbucks.ie                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+de-de.test.starbucks.com                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+shop-en.starbucks.de                                 www.starbucks.de                                 IP104.122.9.56
+www.crr.math.arizona.edu                                 crr.math.arizona.edu                                 IP23.185.0.4
+en.starbucks.ch                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+en-gb.test.starbucks.com                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+buyonline.nestlewaters.pk                                 r7vo9rj.x.incapdns.net                                 IP45.60.160.130
+www.starbucks.pl                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+app.starbucks.ca                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+app.test.starbucks.com.br                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+stag.hub.purina.no                                 7k8v4.x.incapdns.net                                 IP45.60.160.130
+app.test.starbucks.ca                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+www.starbucks.bg                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+fr.starbucks.ca                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+en.starbucks.at                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+test.spaceskc.com                                 test-mcclatchy.pantheonsite.io                                 IP23.185.0.4
+preview.starbucks.com                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+en.starbucksromania.ro                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+redeemtweet.starbucks.com                                 www.starbucks.com                                 IP104.122.9.56
+wfmnapimpc.starbucks.com                                 s00149tmppcpim.trafficmanager.net                                 IP40.86.99.202
+prodcrmpospa1-dr.starbucks.com                                 bigip-prodcrmpospa1-dr-starbucks.oracle.com                                 IP148.87.129.140
+MRS4.starbucks.com                                 activesync.gtm.starbucks.com                                 IP98.99.254.18
+www.faceuptorosacea.com                                 5hzkr9i.x.incapdns.net                                 IP45.60.125.5
+testltycrmapps.starbucks.com                                 bigip-testltycrmapps-starbucks.oracle.com                                 IP148.87.129.46
+www.coldcreek.com                                 live-coldcreek.pantheonsite.io                                 IP23.185.0.1
+cardreloadtestus.starbucks.com                                 s00307ntmp0reloadtest0.trafficmanager.net                                 IP40.114.114.235
+wifi.starbucks.com                                 d2r4ws0dmq227b.cloudfront.net                                 IP13.33.169.106,13.33.169.52,13.33.169.93,13.33.169.117
+certcrmasp.starbucks.com                                 certcrmasp-starbucks.nssb-oracle.com                                 IP144.23.239.1
+www.mentalhealthcourts.org                                 live-center-for-court-innovation.pantheonsite.io                                 IP23.185.0.4
+spectrum-ct.starbucks.com                                 s00172dpipspectrum.westus.cloudapp.azure.com                                 IP40.85.144.111
+pd01.mfa.starbucks.com                                 s00294dpipmfa01.westus.cloudapp.azure.com                                 IP52.160.86.40
+sim.starbucks.com                                 s00177ptmjira.trafficmanager.net                                 IP13.91.45.240
+secureui.starbucks.fr                                 globalsecureui.starbucks.com                                 IP98.99.252.122
+test15.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.134
+www.timberdental.com                                 ext-sq.squarespace.com                                 IP198.49.23.145,198.185.159.145,198.49.23.144,198.185.159.144
+www.problemsolvingcourts.org                                 live-center-for-court-innovation.pantheonsite.io                                 IP23.185.0.4
+*.quickdonate.io                                 www.quickdonate.io                                 IP151.101.0.210,151.101.64.210,151.101.128.210,151.101.192.210
+testaten.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+brands.nestle-family.com                                 urbadpy.x.incapdns.net                                 IP45.60.160.130
+app.starbucks.com                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+autodiscover.seattlesbest.com                                 autodiscover.starbucks.com                                 IP98.99.254.176
+api.np.playbuilder.starbucks.com                                 s00314ntmpplaybuilder-api.trafficmanager.net                                 IP40.121.39.41
+store.starbucks.ca                                 www.starbucks.ca                                 IP104.122.9.56
+autodiscover.starbucks.com                                 autodiscover-iad2.starbucks.com                                 IP98.99.254.176
+www.starbucks.co.uk                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+dev-sg.dermaltherapy.com.au                                 dev-newdermal.pantheonsite.io                                 IP23.185.0.1
+www.starbucks.ru                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+testsecureui.starbucks.ca                                 testglobalsecureui.starbucks.com                                 IP98.99.254.191
+ps.cdx.starbucks.com                                 sbux-integration-cdx-master.apigee.net                                 IP34.216.23.159
+www.starbucks.com.uy                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+finance.nairabet.com                                 m9k7a.x.incapdns.net                                 IP
+en.starbucks.com.cy                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+www.starbucks.com.cy                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+testptpt.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+*.education-registration.com                                 gxcqh.x.incapdns.net                                 IP54.83.185.242,3.215.151.95
+wfmnaptn.starbucks.com                                 s00150tmppdptn.trafficmanager.net                                 IP52.176.6.37
+loadsecureui.starbucks.de                                 loadglobalsecureui.starbucks.com                                 IP98.99.248.158
+test12.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.134
+www.starbucks.co.th                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+www.kubesteel.com                                 live-kubes-steel.pantheonsite.io                                 IP23.185.0.4
+stage-www.adcentre.com.au                                 test-ad-centre.pantheonsite.io                                 IP23.185.0.1
+dev.api.martech.starbucks.com                                 sbux-eapi-dev-develop.apigee.net                                 IP34.216.23.38
+secureui.starbucks.com.br                                 globalsecureui.starbucks.com                                 IP98.99.252.122
+stagesecurehost.openapi.starbucks.com                                 stagesecurehost-iad.openapi.starbucks.com                                 IP98.99.252.45
+eapi-pi.starbucks.com                                 sbux-integration-eapi-master.apigee.net                                 IP34.216.23.24
+t02-tm.productioncontroller.starbucks.com                                 s00175tmt02.trafficmanager.net                                 IP40.112.212.235
+loadsecureui.starbucks.com.br                                 loadglobalsecureui.starbucks.com                                 IP98.99.248.158
+*.ymcanyc.org                                 ymcanyc.org                                 IP54.83.189.142
+athome.starbucks.com                                 br3o6wb.x.incapdns.net                                 IP45.60.125.5
+test4.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.134
+testruen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+storiesadmin.starbucks.com                                 storiesadmin.starbucks.com.cdn.cloudflare.net                                 IP104.19.244.1,104.19.243.1
+stagesecureui.starbucks.co.uk                                 stageglobalsecureui.starbucks.com                                 IP98.99.252.192
+testsecureui.starbucks.de                                 testglobalsecureui.starbucks.com                                 IP98.99.254.191
+load.mfa.starbucks.com                                 s00294tm0mfaload0.trafficmanager.net                                 IP52.224.136.134
+www.starbucks.com.hk                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+www.starbucks.ca                                 starbuckssites.starbucks.com.edgekey.net                                 IP104.122.9.56
+stagesecureUI.starbucks.com                                 stagesecureui-iad.starbucks.com                                 IP98.99.252.44
+sts-vis-dev-cloud3.starbucks.com                                 sts-vis-dev-cloud3.gtm.starbucks.com                                 IP98.99.252.205
+wfmnaptnct.starbucks.com                                 s00150tmpctptn.trafficmanager.net                                 IP23.99.206.151
+testsecureui.starbucks.co.uk                                 testglobalsecureui.starbucks.com                                 IP98.99.254.191
+gcse.asu.edu                                 live-gcse.pantheonsite.io                                 IP23.185.0.4
+www.starbucks.com.mx                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+testieen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+oem-omcs.starbucks.com                                 bigip-oem-omcs-starbucks.oracle.com                                 IP144.23.238.252
+test.ucp.starbucks.com                                 sbux-integration-ucp-master.apigee.net                                 IP52.194.30.49
+eapi-ss.starbucks.com                                 sbux-integration-eapi-master.apigee.net                                 IP34.216.23.134
+westus.digitalcart-dev.starbucks.com                                 s00492n01webdevdcs.azurewebsites.net                                 IP40.112.243.5
+testthth.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+test20.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.24
+www.athome.starbucks.com                                 br3o6wb.x.incapdns.net                                 IP45.60.125.5
+www.starbucksslovakia.sk                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+testnonb.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+testtrtr.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+www.lincolnyards.com                                 live-sb-properties.pantheonsite.io                                 IP23.185.0.4
+act.endcitizensunited.org                                 act.endcitizensunited.org.dns.bsdedge.net                                 IP13.33.169.23,13.33.169.59,13.33.169.114,13.33.169.99
+mail.starbucks.com                                 mail-iad.starbucks.com                                 IP98.99.254.8
+app.test.starbucks.co.uk                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+cdx-pd.starbucks.com                                 sbux-integration-cdx-stable.apigee.net                                 IP34.216.23.38
+eapi-dev.starbucks.com                                 sbux-eapi-dev-develop.apigee.net                                 IP34.216.23.134
+wfmnarptdv.starbucks.com                                 s00149tmpdvrpt.trafficmanager.net                                 IP40.86.96.177
+test6.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.134
+creative.starbucks.com                                 d2wqy52lo89wsl.cloudfront.net                                 IP13.33.169.83,13.33.169.77,13.33.169.82,13.33.169.89
+certpospa2.starbucks.com                                 bigip-certpospa2-starbucks.oracle.com                                 IP148.87.218.55
+stable.api.martech.starbucks.com                                 sbux-integration-eapi-stable.apigee.net                                 IP34.216.23.38
+testroro.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+test5.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.134
+id-dev.starbucks.com                                 id-dev.gtm.starbucks.com                                 IP98.99.254.40
+loyalty.nestle-purelife.co.th                                 6ddppl4.x.incapdns.net                                 IP45.60.160.130
+sgsmsupplier.starbucks.com                                 uszrn.x.incapdns.net                                 IP45.60.67.148
+tazaperfecta.nescafe.com.mx                                 bjuu5df.x.incapdns.net                                 IP45.60.160.130
+dex.avioaero.com                                 vjz9k.x.incapdns.net                                 IP45.60.16.28
+*.ee.bsd.net                                 bsd-orbis.map.fastly.net                                 IP151.101.0.210,151.101.64.210,151.101.128.210,151.101.192.210
+www.orbiscanada.ca                                 bsd-orbis.map.fastly.net                                 IP151.101.0.210,151.101.64.210,151.101.128.210,151.101.192.210
+www.orbisireland.ie                                 bsd-orbis.map.fastly.net                                 IP151.101.0.210,151.101.64.210,151.101.128.210,151.101.192.210
+boulanger.abonnement.nespresso.com                                 9qm98kk.x.incapdns.net                                 IP45.60.160.130
+intg.mfa.starbucks.com                                 s00294tm0mfaintg0.trafficmanager.net                                 IP52.226.140.33
+fr-wsrfs.ehi.com                                 52jrp44.x.incapdns.net                                 IP45.60.126.190
+mylittlehero.nutrenjunior.com.hk                                 d5j9ohb.x.incapdns.net                                 IP45.60.125.5
+pittsburgh.civicaction.center                                 live-civic-direct.pantheonsite.io                                 IP23.185.0.1
+prod01.gifts.starbucks.com                                 s00293ppipgift01.westus.cloudapp.azure.com                                 IP137.117.18.10
+eastus-svcgatewayloadus.starbucks.com                                 svcgatewayloadus.eastus.cloudapp.azure.com                                 IP13.82.189.7
+pd00.gifts.starbucks.com                                 s00293dpipgift00.eastus.cloudapp.azure.com                                 IP52.191.214.135
+bomgaratlas02.starbucks.com                                 s00151ppipbomatl01.westus.cloudapp.azure.com                                 IP104.209.36.50
+wfmnapim.starbucks.com                                 s00150tmppdpim.trafficmanager.net                                 IP52.176.6.37
+master.api.martech.starbucks.com                                 sbux-integration-eapi-master.apigee.net                                 IP34.216.23.38
+wfmnalcndv.starbucks.com                                 s00149tmpdvlcn.trafficmanager.net                                 IP40.86.96.177
+prod1.kampanya.nescafe.com.tr                                 n5y7k2k.x.incapdns.net                                 IP45.60.125.5
+cardreloadus.starbucks.com                                 s00307ptmp0reload0.trafficmanager.net                                 IP104.211.63.74
+bomgarwest.starbucks.com                                 s00151ppipbommaster.westus.cloudapp.azure.com                                 IP40.78.30.187
+jssdev.starbucks.com                                 jssdev-starbucks.trafficmanager.net                                 IP104.42.15.204
+stage.mfa.starbucks.com                                 s00294tm0mfastage0.trafficmanager.net                                 IP52.191.222.236
+pmasofon.cbcgroup.co.il                                 lduvi.x.incapdns.net                                 IP45.60.27.6
+www.starbucksreserve.com                                 s00380ptmpstarbucksreserve-prod.trafficmanager.net                                 IP40.122.146.42
+darty.abonnement.nespresso.com                                 r79zgcr.x.incapdns.net                                 IP45.60.160.130
+api.playbuilder.starbucks.com                                 s00377ptmpplaybuilder-api.trafficmanager.net                                 IP52.168.67.242
+testatde.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+testcles.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+testcoes.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+testmxes.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+test.starbucks.com.br                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+test11.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.134
+testphen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+testvnen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+test10.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.134
+preview.test.starbucks.com                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+ccm-help.starbucks.com                                 bomgar.starbucks.com                                 IP98.99.248.202
+assets.web.starbucksassets.com                                 globalassetsmgd.starbucks.com.edgekey.net                                 IP104.122.9.41
+www.starbucks.in                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+www.orbis.org.mo                                 bsd-orbis.map.fastly.net                                 IP151.101.0.210,151.101.64.210,151.101.128.210,151.101.192.210
+stagesecureui.starbucks.ca                                 stageglobalsecureui.starbucks.com                                 IP98.99.252.192
+www.starbucks.com.my                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+www.design.asu.edu                                 edge.asu-edu.getpantheon.com                                 IP198.61.150.64
+scm-asp-sd.starbucks.com                                 s00326-pip-scmsd.westus.cloudapp.azure.com                                 IP104.42.150.189
+load.sei.starbucks.com                                 load.sei.trafficmanager.net                                 IP13.66.166.22
+www.farmcreditvoices.com                                 farmcreditvoices.com                                 IP23.185.0.4
+gsoc-help.starbucks.com                                 bomgar.starbucks.com                                 IP98.99.248.202
+bomgaratlas03.starbucks.com                                 s00151ppipbomatlas.eastus.cloudapp.azure.com                                 IP52.170.239.107
+staging-athome.starbucks.com                                 bluecath-env.us-west-1.elasticbeanstalk.com                                 IP
+storiesapi.starbucks.com                                 storiesapi.starbucks.com.cdn.cloudflare.net                                 IP104.18.182.29,104.18.183.29
+www.starbucks.no                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+testkhen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+stageconnect.starbucks.com                                 connect.starbucks.com                                 IP13.33.169.104,13.33.169.12,13.33.169.111,13.33.169.22
+www.starbucks.es                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+trace-api-cert.starbucks.com                                 s00174apmw2gtwyct.azure-api.net                                 IP104.42.224.251
+fr-fr.test.starbucks.com                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+testchfr.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+sts-vis-dev-cloud4.starbucks.com                                 sts-vis-dev-cloud4.gtm.starbucks.com                                 IP98.99.252.183
+testglobalassets.starbucks.com                                 globalassets.starbucks.com.edgekey.net                                 IP104.108.210.117
+tsticommerceagent.starbucks.com                                 tsticommerceagent.sbx.pfsweb.com                                 IP12.18.76.132,192.157.75.132
+wfmnapospc.starbucks.com                                 s00149tmppcpos.trafficmanager.net                                 IP40.86.99.202
+bomgaratlas01.starbucks.com                                 s00151ppipbomatl01.westus.cloudapp.azure.com                                 IP104.209.36.50
+testsecureui.starbucks.fr                                 testglobalsecureui.starbucks.com                                 IP98.99.254.191
+testinen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+testusen.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+autodiscover.starbucks.fr                                 autodiscover.outlook.com                                 IP40.100.140.248,52.98.88.72,40.100.141.8
+www.youthcourts.org                                 live-center-for-court-innovation.pantheonsite.io                                 IP23.185.0.4
+www.starbucks.ph                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+www.elite.b2b.purina.ru                                 2nobqhn.x.incapdns.net                                 IP45.60.160.130
+d02-tm.productioncontroller.starbucks.com                                 s00175tmd02.trafficmanager.net                                 IP40.78.30.200
+www.mred.arizona.edu                                 cpanel.uits.arizona.edu                                 IP74.207.249.10
+registry.teamusa.org                                 registry.teamusa.org.cdn.bsd.net                                 IP151.101.0.210,151.101.64.210,151.101.128.210,151.101.192.210
+t02-ag.productioncontroller.starbucks.com                                 90be717a-8818-4042-b8ad-e1e015420609.cloudapp.net                                 IP40.112.212.235
+outlook.starbucks.com                                 outlook-iad.starbucks.com                                 IP98.99.254.66
+oapi.starbucks.com                                 sbux-production-oapi-prod-oapi.dn.apigee.net                                 IP34.216.23.37
+wfmnarpt.starbucks.com                                 s00150tmppdrpt.trafficmanager.net                                 IP52.176.6.37
+prodcdhapps.starbucks.com                                 bigip-prodcdhapps-starbucks.oracle.com                                 IP144.23.238.114
+ipm.starbucks.com                                 ipm-chd.starbucks.com                                 IP98.99.250.217
+trace-api-systest.starbucks.com                                 s00174apmw2gtwyst.azure-api.net                                 IP52.229.32.183
+bits.starbucks.com                                 dra-proxy-prod.azurewebsites.net                                 IP13.65.45.30
+qa2.clovrmedia.com                                 qa2.linkablenetworks.com                                 IP52.22.224.205,34.192.146.144
+trace.starbucks.com                                 s00212atmw2twsprod.trafficmanager.net                                 IP52.175.202.25
+trace-dev.starbucks.com                                 s00174atmw2twapd.trafficmanager.net                                 IP40.112.216.189
+ucpr.starbucks.com                                 sbux-production-ucp-prod.apigee.net                                 IP13.230.217.67
+digitalcart-dev.starbucks.com                                 s00492nfdrdevdcs.azurefd.net                                 IP13.107.246.10
+www.concordnow.com                                 live-concord-www.pantheonsite.io                                 IP23.185.0.4
+www.neczero.nursing.arizona.edu                                 live-neczero7.pantheonsite.io                                 IP23.185.0.4
+test16.openapi.starbucks.com                                 sbux-oapi-dev-develop.apigee.net                                 IP34.216.23.38
+trace-systest.starbucks.com                                 s00174atww2twsst.trafficmanager.net                                 IP52.229.30.210
+tributo.nescafe.com.mx                                 b9rkuu8.x.incapdns.net                                 IP45.60.160.130
+wfmnaposps.starbucks.com                                 s00150tmppspos.trafficmanager.net                                 IP52.176.6.37
+trace-api-psdev.starbucks.com                                 s00174apmw2gtwyps.azure-api.net                                 IP52.191.138.116
+sus.starbucks.com                                 applesus.trafficmanager.net                                 IP13.64.104.108
+d02.spc.starbucks.com                                 sbux-eapi-dev-develop.apigee.net                                 IP34.216.23.38
+svcardproxyloadus.starbucks.com                                 s00307ntmp0svcardproxyload0.trafficmanager.net                                 IP13.68.136.119
+test1www.starbucks.com                                 test1-iad.starbucks.com                                 IP98.99.252.1
+testeses.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+www.cibs.uahs.arizona.edu                                 ext-cust.squarespace.com                                 IP198.49.23.145,198.185.159.145,198.49.23.144,198.185.159.144
+goto-developerstage.logmeininc.com                                 dev-citrix.pantheonsite.io                                 IP23.185.0.4
+fr.starbucks.ch                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+stagededestore.starbucks.com                                 starbucks-staging.onelink-translations.com                                 IP0.0.0.0
+testiden.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+pi.cdx.starbucks.com                                 sbux-integration-cdx-stable.apigee.net                                 IP34.216.23.38
+testplpl.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+cdx-sd.starbucks.com                                 sbux-integration-cdx-stable.apigee.net                                 IP34.216.23.159
+cdx-ss.starbucks.com                                 sbux-integration-cdx-stable.apigee.net                                 IP34.216.23.24
+integration.ucpc.starbucks.com                                 sbux-integration-ucp-master.apigee.net                                 IP52.192.24.183
+sts-vis-dev-cloud1.starbucks.com                                 sts-vis-dev-cloud1.gtm.starbucks.com                                 IP98.99.252.203
+stagefrfrstore.starbucks.com                                 starbucks-staging.onelink-translations.com                                 IP0.0.0.0
+loadsecureui.starbucks.co.uk                                 loadglobalsecureui.starbucks.com                                 IP98.99.248.158
+soa-test.starbucks.com                                 soa-test.gtm.starbucks.com                                 IP98.99.254.159
+eastus-svcgatewaytestus.starbucks.com                                 svcgatewaytestus.eastus.cloudapp.azure.com                                 IP13.82.232.243
+en.starbuckscoffee.cz                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+eto.coreg.nestle.fr                                 npbaa6w.x.incapdns.net                                 IP45.60.48.96
+eastus-svcgatewayus.starbucks.com                                 s00197pip0crdfulprod0.eastus.cloudapp.azure.com                                 IP52.191.112.198
+wfmnarptct.starbucks.com                                 s00150tmpctrpt.trafficmanager.net                                 IP23.99.206.151
+stagesecureui.starbucks.fr                                 stageglobalsecureui.starbucks.com                                 IP98.99.252.192
+eastus-svcardproxyus.starbucks.com                                 s00307ppipproxy00.eastus.cloudapp.azure.com                                 IP13.68.196.2
+trace-api-dev.starbucks.com                                 s00174apmw2gtwypd.azure-api.net                                 IP13.64.251.129
+en.starbucks.pl                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+ehd-help.starbucks.com                                 bomgar.starbucks.com                                 IP98.99.248.202
+wfmnapayst.starbucks.com                                 s00149tmpstpay.trafficmanager.net                                 IP40.86.86.144
+stage-assets.digital.starbucksassets.com                                 stage-assets.digital.starbucksassets.com.edgekey-staging.net                                 IP104.76.246.109
+westus-cardreloadus.starbucks.com                                 s00307ppipreload01.westus.cloudapp.azure.com                                 IP104.42.75.86
+test.starbucks.de                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+eastus-cardreloadus.starbucks.com                                 s00307ppipreload00.eastus.cloudapp.azure.com                                 IP104.211.63.74
+testnlnl.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+www.q8recard.it                                 rbern.x.incapdns.net                                 IP45.60.58.14
+testhken.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+test.starbucks.fr                                 test.starbucks.com.edgekey-staging.net                                 IP23.51.10.121
+mcdn-edge.starbucks.com                                 mcdn-edge.starbucks.com.akamaized.net                                 IP104.77.173.27,104.77.173.26
+test-assets.web.starbucksassets.com                                 globalassetsmgd.starbucks.com.edgekey-staging.net                                 IP104.76.246.109
+www.starbuckscoffee.cz                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+en.starbucks.bg                                 sdlwww.starbucks.com.edgekey.net                                 IP104.122.4.61
+testczcs.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+testchde.starbucks.com                                 testwww.starbucks.com                                 IP107.162.133.207
+
+
+
+NO RECORDS DATA 
+bi-dc-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+mobility-rtl-az.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+awcm-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+storelink.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bi-cert-mstr-web.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bugtest-archergrc.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bi-test-mstr-web.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bi-sb-mstr-web.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+chdlyncedge01.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+centertheatregroup.org                                 NO CNAME ENTRY AVAILABLE
+gasianet.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+ChdLyncEdge01.Starbucks.com                                 NO CNAME ENTRY AVAILABLE
+Globalsecureui.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+airlock.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+certedam.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+digitalcontent-origin.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+datacafe.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+mcdn-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+alexa.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+ChdLyncWebApp01.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+loadsecurepostback.openapi.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+kubesteel.com                                 NO CNAME ENTRY AVAILABLE
+gifting.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bi-cap.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+*.sanssl-fastly-001.bsdtools.com                                 NO CNAME ENTRY AVAILABLE
+labaccess.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+Loadsecurepostback.openapi.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+sip.starbucks.cn                                 NO CNAME ENTRY AVAILABLE
+edge.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+LABACCESS.STARBUCKS.COM                                 NO CNAME ENTRY AVAILABLE
+starbucks.cn                                 NO CNAME ENTRY AVAILABLE
+ssl437403.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+relayprojtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+globalassetshost.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+mdpjs-westus.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+d02-1-ag.productioncontroller.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+d02-ag.productioncontroller.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+sni.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+LoadGlobalsecureui.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+mrs1.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+loadsecurepayment.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+opportunity.mena.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+rekindle.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+cert-digitalcontent-origin.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+ssl762554.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+loadglobalsecureui.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+ssl762552.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+datacafe-dev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+eapi-scmariba-st.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+pdx-dev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bi-mstr-web.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+*.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+retailwebappsemea.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+OrderingProfileCert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+workspace-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+testapi.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+stagesecurepayment.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+*.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+StageStore.Starbucks.com                                 NO CNAME ENTRY AVAILABLE
+webitrader.com                                 NO CNAME ENTRY AVAILABLE
+ssl946325.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+ssl946381.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+relay.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+sdrc.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+*.hitb.org                                 NO CNAME ENTRY AVAILABLE
+ssl946382.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+plymouthfoam.com                                 NO CNAME ENTRY AVAILABLE
+programs.wpcarey.asu.edu                                 NO CNAME ENTRY AVAILABLE
+purina-felixla.com                                 NO CNAME ENTRY AVAILABLE
+creeperhost.net                                 NO CNAME ENTRY AVAILABLE
+community.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+datacafe-test.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+sjsheriff.org                                 NO CNAME ENTRY AVAILABLE
+*.centertheatregroup.org                                 NO CNAME ENTRY AVAILABLE
+ssl946352.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+dolce-gusto.com.co                                 NO CNAME ENTRY AVAILABLE
+*.sjsheriff.org                                 NO CNAME ENTRY AVAILABLE
+special-t.com                                 NO CNAME ENTRY AVAILABLE
+ssl946324.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+smreporting-v9-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+unfcufoundation.org                                 NO CNAME ENTRY AVAILABLE
+hitb.org                                 NO CNAME ENTRY AVAILABLE
+edam.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+compulabel.com                                 NO CNAME ENTRY AVAILABLE
+*.ciginsurance.com                                 NO CNAME ENTRY AVAILABLE
+scoapportaltest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+mrs3.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bbinary.com                                 NO CNAME ENTRY AVAILABLE
+ChdLyncConf01.Starbucks.com                                 NO CNAME ENTRY AVAILABLE
+ipm-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+trimarksportswear.com                                 NO CNAME ENTRY AVAILABLE
+www.betterhousingcoalition.org                                 NO CNAME ENTRY AVAILABLE
+ssl762553.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+*.compulabel.com                                 NO CNAME ENTRY AVAILABLE
+stagesecurepostback.openapi.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+Stagesecurepostback.openapi.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+sat-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+sip.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+purina.it                                 NO CNAME ENTRY AVAILABLE
+ciginsurance.com                                 NO CNAME ENTRY AVAILABLE
+eartheasy.com                                 NO CNAME ENTRY AVAILABLE
+vidm-dev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.ghac.com                                 NO CNAME ENTRY AVAILABLE
+ecotelligenthomes.com                                 NO CNAME ENTRY AVAILABLE
+*.truststream.co.uk                                 NO CNAME ENTRY AVAILABLE
+dial123.co.uk                                 NO CNAME ENTRY AVAILABLE
+s03-ag.productioncontroller.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+ssl437402.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+sjgov.org                                 NO CNAME ENTRY AVAILABLE
+webappscap.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+eloan.co.il                                 NO CNAME ENTRY AVAILABLE
+ebm.e.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+panelhouse.com.au                                 NO CNAME ENTRY AVAILABLE
+closebrothersinvoice.com                                 NO CNAME ENTRY AVAILABLE
+netomail.com.au                                 NO CNAME ENTRY AVAILABLE
+kdretail-v9-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+stagestore.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+securepostback.openapi.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+ssl946323.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+m-poste.com                                 NO CNAME ENTRY AVAILABLE
+start.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+retailwebappschd.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+nestlebaby.be                                 NO CNAME ENTRY AVAILABLE
+mentalhealthcourts.org                                 NO CNAME ENTRY AVAILABLE
+vip.bbinary.com                                 NO CNAME ENTRY AVAILABLE
+ghac.com                                 NO CNAME ENTRY AVAILABLE
+ctimid-v9-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+gtfbinary.com                                 NO CNAME ENTRY AVAILABLE
+www.yateswood.com                                 NO CNAME ENTRY AVAILABLE
+largerthanlife.com                                 NO CNAME ENTRY AVAILABLE
+sbux-viz-dev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+nsflearnonline.com                                 NO CNAME ENTRY AVAILABLE
+jewishla.org                                 NO CNAME ENTRY AVAILABLE
+members-fr.starbucks.ca                                 NO CNAME ENTRY AVAILABLE
+alpharooms.com                                 NO CNAME ENTRY AVAILABLE
+ssl946351.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+ssl946350.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+nestlebabyvoeding.nl                                 NO CNAME ENTRY AVAILABLE
+geo-server-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+berniesanders.com                                 NO CNAME ENTRY AVAILABLE
+nestlebebe.pt                                 NO CNAME ENTRY AVAILABLE
+aklief.com                                 NO CNAME ENTRY AVAILABLE
+nestleapps2.in                                 NO CNAME ENTRY AVAILABLE
+bancdebinary.com                                 NO CNAME ENTRY AVAILABLE
+dev99.itif.org                                 NO CNAME ENTRY AVAILABLE
+sweetearthfoods.com                                 NO CNAME ENTRY AVAILABLE
+test.ndiba.com                                 NO CNAME ENTRY AVAILABLE
+mena.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+store.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+dev.nativewaystravel.com                                 NO CNAME ENTRY AVAILABLE
+upcrunch.com                                 NO CNAME ENTRY AVAILABLE
+myccn.com                                 NO CNAME ENTRY AVAILABLE
+maggi.co.th                                 NO CNAME ENTRY AVAILABLE
+spaceskc.com                                 NO CNAME ENTRY AVAILABLE
+jewellerydisplayandmore.com.au                                 NO CNAME ENTRY AVAILABLE
+codeload.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+wonderrun.org                                 NO CNAME ENTRY AVAILABLE
+binary-pro.com                                 NO CNAME ENTRY AVAILABLE
+sat.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+fitkitchen.com                                 NO CNAME ENTRY AVAILABLE
+ssl437401.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+jerusalemseason.com                                 NO CNAME ENTRY AVAILABLE
+relaycert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+nescafegold.com.my                                 NO CNAME ENTRY AVAILABLE
+winoptions.com                                 NO CNAME ENTRY AVAILABLE
+yateswood.com                                 NO CNAME ENTRY AVAILABLE
+bbinary.eu                                 NO CNAME ENTRY AVAILABLE
+thenewbeat.ca                                 NO CNAME ENTRY AVAILABLE
+q8recard.it                                 NO CNAME ENTRY AVAILABLE
+impervacloud.com                                 NO CNAME ENTRY AVAILABLE
+concordnow.com                                 NO CNAME ENTRY AVAILABLE
+icsaddis.edu.et                                 NO CNAME ENTRY AVAILABLE
+nescafe3in1.com.ua                                 NO CNAME ENTRY AVAILABLE
+sabic-ip.com                                 NO CNAME ENTRY AVAILABLE
+productosdelcafe.com                                 NO CNAME ENTRY AVAILABLE
+yessnacks.de                                 NO CNAME ENTRY AVAILABLE
+bodypositive.arizona.edu                                 NO CNAME ENTRY AVAILABLE
+*.easyinvest.eu                                 NO CNAME ENTRY AVAILABLE
+medicalpass.com.mx                                 NO CNAME ENTRY AVAILABLE
+abl.com                                 NO CNAME ENTRY AVAILABLE
+tradekz.com                                 NO CNAME ENTRY AVAILABLE
+rami-levy.co.il                                 NO CNAME ENTRY AVAILABLE
+orbis.org.uk                                 NO CNAME ENTRY AVAILABLE
+bsd.net                                 NO CNAME ENTRY AVAILABLE
+ext.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+curanail.co.uk                                 NO CNAME ENTRY AVAILABLE
+api.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+starbucks.com                                 NO CNAME ENTRY AVAILABLE
+raritanheadwaters.org                                 NO CNAME ENTRY AVAILABLE
+bi-ri-dr.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+loadgreen.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+cartaoriocard.com.br                                 NO CNAME ENTRY AVAILABLE
+blonde.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+garagemod.com.br                                 NO CNAME ENTRY AVAILABLE
+gethealthyhome.com                                 NO CNAME ENTRY AVAILABLE
+heathwood.org                                 NO CNAME ENTRY AVAILABLE
+ChdLyncWebApp01.Starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bi-sb-mstr-mobile.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bi-ri.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+digital.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+aw.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+incomm-test.com                                 NO CNAME ENTRY AVAILABLE
+cabledeals.org                                 NO CNAME ENTRY AVAILABLE
+delivery.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+ChdLyncWeb01.Starbucks.com                                 NO CNAME ENTRY AVAILABLE
+dev-archergrc.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+chdlyncweb01.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+Softbinary.com                                 NO CNAME ENTRY AVAILABLE
+bi-dev-mstr-web.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+obmarkets.com                                 NO CNAME ENTRY AVAILABLE
+franchisee.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+mobileironchina.com                                 NO CNAME ENTRY AVAILABLE
+testsecurehost.openapi.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+developer.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+*.obmarkets.com                                 NO CNAME ENTRY AVAILABLE
+mdpjs.nonprod.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+microstrategy.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+retailwebaccessemea.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+amrevmuseum.com                                 NO CNAME ENTRY AVAILABLE
+mena.card.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+*.scm.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+secureUI.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+uat.greenskycredit.com                                 NO CNAME ENTRY AVAILABLE
+scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+gifts.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+reportmid-v9-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bi-dev-mstr-mobile.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+test8securepostback.openapi.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+*.rami-levy.co.il                                 NO CNAME ENTRY AVAILABLE
+epmcert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+testglobalsecureui.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+upstanders.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+testsecureui.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+testdesktop.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.mena.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+givegood.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+sandbox-archergrc.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+geo-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+retailwebaccessiad.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+stageglobalsecureui.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+verde.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+incapsula.com                                 NO CNAME ENTRY AVAILABLE
+*.e-games.com.ph                                 NO CNAME ENTRY AVAILABLE
+StageGlobalsecureui.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+txnapp-v9-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+securepayment.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+members.starbucks.ca                                 NO CNAME ENTRY AVAILABLE
+retailwebaccesschd.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+render.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+*.nicosoftmedia.com                                 NO CNAME ENTRY AVAILABLE
+*.financialbinary.com                                 NO CNAME ENTRY AVAILABLE
+reply.scm.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+media.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+media.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+*.restylanelyft.com                                 NO CNAME ENTRY AVAILABLE
+starbucks.de                                 NO CNAME ENTRY AVAILABLE
+spotoptionexchange.com                                 NO CNAME ENTRY AVAILABLE
+Upstanders.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.frappuccino.com                                 NO CNAME ENTRY AVAILABLE
+ecohotels.com.ph                                 NO CNAME ENTRY AVAILABLE
+biuat-cap.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+rewardsshoppingevent.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+secureui.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+cert-archergrc.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+awb.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+test14securepostback.openapi.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+txnmid-v9-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+roseworks.com.au                                 NO CNAME ENTRY AVAILABLE
+loadwww.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+workspace-dev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.roseworks.com.au                                 NO CNAME ENTRY AVAILABLE
+sei.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+mobility-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+sbux-viz-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+soa-prod.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+hackinthebox.org                                 NO CNAME ENTRY AVAILABLE
+galderma-kundenservice.at                                 NO CNAME ENTRY AVAILABLE
+remoteopeners.com.au                                 NO CNAME ENTRY AVAILABLE
+fivestars-option.com                                 NO CNAME ENTRY AVAILABLE
+candywarehouse.com                                 NO CNAME ENTRY AVAILABLE
+bbb.trakpointe.com                                 NO CNAME ENTRY AVAILABLE
+gsdandme.com                                 NO CNAME ENTRY AVAILABLE
+www.plymouthfoam.com                                 NO CNAME ENTRY AVAILABLE
+*.tradekz.com                                 NO CNAME ENTRY AVAILABLE
+voices-visions.org                                 NO CNAME ENTRY AVAILABLE
+social.dadt.com                                 NO CNAME ENTRY AVAILABLE
+therobotfund.org                                 NO CNAME ENTRY AVAILABLE
+aguasdebarcelona.es                                 NO CNAME ENTRY AVAILABLE
+cryptocloud.com                                 NO CNAME ENTRY AVAILABLE
+myplan-stage.proplan.com                                 NO CNAME ENTRY AVAILABLE
+education-registration.com                                 NO CNAME ENTRY AVAILABLE
+12vfridges.com.au                                 NO CNAME ENTRY AVAILABLE
+jackpotbinary.com                                 NO CNAME ENTRY AVAILABLE
+vendors.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+orion.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+mobility-rtl-va.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+gana.gerber.com.mx                                 NO CNAME ENTRY AVAILABLE
+eapi-scmariba-sd.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+nhsc-usa-cerebro.com                                 NO CNAME ENTRY AVAILABLE
+vitaflo-via.com                                 NO CNAME ENTRY AVAILABLE
+chdlyncwebapp01.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bi-cap-tb.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+stageapi.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+ra.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+retail-level-3.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+ipm-dev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+globalsecureui.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+kdreq-v9-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+cloudappschd.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+test.developer.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+securehost.openapi.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+mfa.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+win.mena.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+Store.Starbucks.com                                 NO CNAME ENTRY AVAILABLE
+members.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+starbuckschannel.com                                 NO CNAME ENTRY AVAILABLE
+starbucks.dk                                 NO CNAME ENTRY AVAILABLE
+*.trimarksportswear.com                                 NO CNAME ENTRY AVAILABLE
+aiguesdebarcelona.cat                                 NO CNAME ENTRY AVAILABLE
+jiratest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+kraftheinzspecportal.com                                 NO CNAME ENTRY AVAILABLE
+workspace.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+farmtransfernewengland.net                                 NO CNAME ENTRY AVAILABLE
+farlekasphotography.com                                 NO CNAME ENTRY AVAILABLE
+serioustreeservices.com                                 NO CNAME ENTRY AVAILABLE
+realm-upg.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+ssl946380.cloudflaressl.com                                 NO CNAME ENTRY AVAILABLE
+lamresearch.com                                 NO CNAME ENTRY AVAILABLE
+www.tribunale.milano.it                                 NO CNAME ENTRY AVAILABLE
+beavercreekschool.org                                 NO CNAME ENTRY AVAILABLE
+youthcourts.org                                 NO CNAME ENTRY AVAILABLE
+e.stories.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+scm.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+test17securepayment.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+rsi.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.gamblernd.com                                 NO CNAME ENTRY AVAILABLE
+starbucks.fr                                 NO CNAME ENTRY AVAILABLE
+discoverquincy.com                                 NO CNAME ENTRY AVAILABLE
+mobility-rtl-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.nativewaystravel.com                                 NO CNAME ENTRY AVAILABLE
+galdermacap.com                                 NO CNAME ENTRY AVAILABLE
+nativewaystravel.com                                 NO CNAME ENTRY AVAILABLE
+betmotion.com                                 NO CNAME ENTRY AVAILABLE
+nplusoneinnovation.com                                 NO CNAME ENTRY AVAILABLE
+happyhour.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+purina-latam.com                                 NO CNAME ENTRY AVAILABLE
+breederclub.it                                 NO CNAME ENTRY AVAILABLE
+bearbrand.co.id                                 NO CNAME ENTRY AVAILABLE
+aguasonline.es                                 NO CNAME ENTRY AVAILABLE
+dysporttherapeutic.ca                                 NO CNAME ENTRY AVAILABLE
+www.mobileiron.com                                 NO CNAME ENTRY AVAILABLE
+testout.com                                 NO CNAME ENTRY AVAILABLE
+project.amsterdam                                 NO CNAME ENTRY AVAILABLE
+transhair.nl                                 NO CNAME ENTRY AVAILABLE
+payserv.net                                 NO CNAME ENTRY AVAILABLE
+*.restylanesilk.com                                 NO CNAME ENTRY AVAILABLE
+1491.ca                                 NO CNAME ENTRY AVAILABLE
+jeuxnestle.nc                                 NO CNAME ENTRY AVAILABLE
+itif.org                                 NO CNAME ENTRY AVAILABLE
+coffeehub.gr                                 NO CNAME ENTRY AVAILABLE
+www.partners.readyrefresh.com                                 NO CNAME ENTRY AVAILABLE
+assets.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+nestle-cereals-lottery.com                                 NO CNAME ENTRY AVAILABLE
+resourcehighprotein.in                                 NO CNAME ENTRY AVAILABLE
+ukoptions.com                                 NO CNAME ENTRY AVAILABLE
+starbucks.com.br                                 NO CNAME ENTRY AVAILABLE
+welcometostaging.com                                 NO CNAME ENTRY AVAILABLE
+theweddinginbox.com                                 NO CNAME ENTRY AVAILABLE
+qtc.qld.gov.au                                 NO CNAME ENTRY AVAILABLE
+yessnacks.fr                                 NO CNAME ENTRY AVAILABLE
+cloudappsiad.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+problemsolvingcourts.org                                 NO CNAME ENTRY AVAILABLE
+www.berniesanders.com                                 NO CNAME ENTRY AVAILABLE
+givegood.starbucks.ca                                 NO CNAME ENTRY AVAILABLE
+nestlehealthpartners.com                                 NO CNAME ENTRY AVAILABLE
+betterhousingcoalition.org                                 NO CNAME ENTRY AVAILABLE
+news.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+yessnacks.pt                                 NO CNAME ENTRY AVAILABLE
+gamblernd.com                                 NO CNAME ENTRY AVAILABLE
+gmibanque.com                                 NO CNAME ENTRY AVAILABLE
+starbucksreserve.com                                 NO CNAME ENTRY AVAILABLE
+www.transhair.nl                                 NO CNAME ENTRY AVAILABLE
+gist-assets.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+kitkatchocolatory.co.uk                                 NO CNAME ENTRY AVAILABLE
+starbucks.ca                                 NO CNAME ENTRY AVAILABLE
+mobility3.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+wwwold.phillipsfoods.com                                 NO CNAME ENTRY AVAILABLE
+etxcapital.com                                 NO CNAME ENTRY AVAILABLE
+restylanelyft.com                                 NO CNAME ENTRY AVAILABLE
+*.managebac.com                                 NO CNAME ENTRY AVAILABLE
+gist-raw.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+havehappyonhand.com                                 NO CNAME ENTRY AVAILABLE
+developer.woolworths.com.au                                 NO CNAME ENTRY AVAILABLE
+mobileiron.com                                 NO CNAME ENTRY AVAILABLE
+gerberprobiotic.com                                 NO CNAME ENTRY AVAILABLE
+mcdn.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.starbucks.tt                                 NO CNAME ENTRY AVAILABLE
+*.gtfbinary.com                                 NO CNAME ENTRY AVAILABLE
+www.project.amsterdam                                 NO CNAME ENTRY AVAILABLE
+yessnacks.es                                 NO CNAME ENTRY AVAILABLE
+maggi.com.mx                                 NO CNAME ENTRY AVAILABLE
+*.vegaopts.com                                 NO CNAME ENTRY AVAILABLE
+MRS2.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+futurepay.com                                 NO CNAME ENTRY AVAILABLE
+ecee.engineering.asu.edu                                 NO CNAME ENTRY AVAILABLE
+chocoduo.cailler.ch                                 NO CNAME ENTRY AVAILABLE
+caas.gov.sg                                 NO CNAME ENTRY AVAILABLE
+lyncdiscover.starbucks.de                                 NO CNAME ENTRY AVAILABLE
+curanail.be                                 NO CNAME ENTRY AVAILABLE
+orchestra.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.ecotelligenthomes.com                                 NO CNAME ENTRY AVAILABLE
+meet.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+cloudappsemea.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.starbucks.be                                 NO CNAME ENTRY AVAILABLE
+reply.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+mfxoptions.com                                 NO CNAME ENTRY AVAILABLE
+pages.scm.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.starbuckschannel.com                                 NO CNAME ENTRY AVAILABLE
+bettopsport.com                                 NO CNAME ENTRY AVAILABLE
+mrs2.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+loadsecureui.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+vegaopts.com                                 NO CNAME ENTRY AVAILABLE
+easyinvest.eu                                 NO CNAME ENTRY AVAILABLE
+yessnacks.com.au                                 NO CNAME ENTRY AVAILABLE
+alembic.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+storelink-owa.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+gist.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+skybinary.com                                 NO CNAME ENTRY AVAILABLE
+test.mobileiron.com                                 NO CNAME ENTRY AVAILABLE
+orbis.org.hk                                 NO CNAME ENTRY AVAILABLE
+spotoption.com                                 NO CNAME ENTRY AVAILABLE
+starbucks.com.bn                                 NO CNAME ENTRY AVAILABLE
+stagedeenstore.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+stagefrenstore.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+orbis.org                                 NO CNAME ENTRY AVAILABLE
+www.welcometostaging.com                                 NO CNAME ENTRY AVAILABLE
+load-digitalcontent-origin.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+dialin.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+gist.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+Lyncdiscover.starbucks.cn                                 NO CNAME ENTRY AVAILABLE
+wearenutrition.es                                 NO CNAME ENTRY AVAILABLE
+codeload.scm.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+orbis.org.cn                                 NO CNAME ENTRY AVAILABLE
+naacp.org                                 NO CNAME ENTRY AVAILABLE
+www.salesforcegov.com                                 NO CNAME ENTRY AVAILABLE
+orbis.org.za                                 NO CNAME ENTRY AVAILABLE
+alembic.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+heinzportal.com                                 NO CNAME ENTRY AVAILABLE
+thecoterie.org                                 NO CNAME ENTRY AVAILABLE
+give.ucsfbenioffchildrens.org                                 NO CNAME ENTRY AVAILABLE
+rsi-rv.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+ymcanyc.org                                 NO CNAME ENTRY AVAILABLE
+raw.scm.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+codeload.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+assets.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+evergreen.brand.dj                                 NO CNAME ENTRY AVAILABLE
+bluestatedigital.com                                 NO CNAME ENTRY AVAILABLE
+gist-assets.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+chdlyncconf01.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+en-gb.test.starbucks.co.uk                                 NO CNAME ENTRY AVAILABLE
+pt-br.test.starbucks.com.br                                 NO CNAME ENTRY AVAILABLE
+cldc.cspq.gouv.qc.ca                                 NO CNAME ENTRY AVAILABLE
+www.spritepour.com                                 NO CNAME ENTRY AVAILABLE
+optioncc.com                                 NO CNAME ENTRY AVAILABLE
+*.sabic-ip.com                                 NO CNAME ENTRY AVAILABLE
+stageusenstore.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+                                 NO CNAME ENTRY AVAILABLE
+thrivingaudios.com                                 NO CNAME ENTRY AVAILABLE
+testsecurepostback.openapi.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+Starbucks.com                                 NO CNAME ENTRY AVAILABLE
+thepersonalizer.co.uk                                 NO CNAME ENTRY AVAILABLE
+sdlgreensecure.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+strategy.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+batchapp-v9-cert.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bomgarlab.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+timberdental.com                                 NO CNAME ENTRY AVAILABLE
+bancaetruria.it                                 NO CNAME ENTRY AVAILABLE
+3cdn.net                                 NO CNAME ENTRY AVAILABLE
+binaropolis.com                                 NO CNAME ENTRY AVAILABLE
+tdoptions.com                                 NO CNAME ENTRY AVAILABLE
+scoapportal.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+solutions.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+orbis.org.mo                                 NO CNAME ENTRY AVAILABLE
+retailwebappsiad.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+mobility-us-az.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+magneticthemes.com                                 NO CNAME ENTRY AVAILABLE
+starbucks.ie                                 NO CNAME ENTRY AVAILABLE
+sip.starbucks.de                                 NO CNAME ENTRY AVAILABLE
+lyncdiscover.starbucks.cn                                 NO CNAME ENTRY AVAILABLE
+pages.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+raw.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+meet.starbucks.fr                                 NO CNAME ENTRY AVAILABLE
+1912pike.com                                 NO CNAME ENTRY AVAILABLE
+MRS3.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+nicosoftmedia.com                                 NO CNAME ENTRY AVAILABLE
+orbiscanada.ca                                 NO CNAME ENTRY AVAILABLE
+en.starbucks.com.gr                                 NO CNAME ENTRY AVAILABLE
+michellebridges.com                                 NO CNAME ENTRY AVAILABLE
+e-games.com.ph                                 NO CNAME ENTRY AVAILABLE
+meet.starbucks.de                                 NO CNAME ENTRY AVAILABLE
+vc.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+uploads.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+barackobamafoundation.org                                 NO CNAME ENTRY AVAILABLE
+bomgariad.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.orbis.org.za                                 NO CNAME ENTRY AVAILABLE
+lyncdiscover.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+mobility-us-va.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.1912pike.com                                 NO CNAME ENTRY AVAILABLE
+optionsmagnat.com                                 NO CNAME ENTRY AVAILABLE
+financialbinary.com                                 NO CNAME ENTRY AVAILABLE
+p01-ag.productioncontroller.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+binarygoal.com                                 NO CNAME ENTRY AVAILABLE
+avatars.scmdev.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+*.optionsmagnat.com                                 NO CNAME ENTRY AVAILABLE
+Lyncdiscover.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+optionsarea.com                                 NO CNAME ENTRY AVAILABLE
+rsi-wat.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+*.binarygoal.com                                 NO CNAME ENTRY AVAILABLE
+render.scm.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+fb1.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+MRS1.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+nestlepurelifehome.com                                 NO CNAME ENTRY AVAILABLE
+alembic.scm.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+rsi-rlp.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+uploads.scm.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+elastic-nprod-westus.ctapis.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+reply.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+render.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+water-sources.com                                 NO CNAME ENTRY AVAILABLE
+test.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+Lyncdiscover.starbucks.de                                 NO CNAME ENTRY AVAILABLE
+verismo.com                                 NO CNAME ENTRY AVAILABLE
+pages.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.orbis.org.hk                                 NO CNAME ENTRY AVAILABLE
+testwww.starbucks.co.uk                                 NO CNAME ENTRY AVAILABLE
+Ext.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+yessnacks.be                                 NO CNAME ENTRY AVAILABLE
+meet.starbucks.cn                                 NO CNAME ENTRY AVAILABLE
+prov.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+starbucks.co.uk                                 NO CNAME ENTRY AVAILABLE
+www.watg.com                                 NO CNAME ENTRY AVAILABLE
+addup.org                                 NO CNAME ENTRY AVAILABLE
+bomgaratlaschd.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+p01-1-ag.productioncontroller.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+developerstage.getgo.com                                 NO CNAME ENTRY AVAILABLE
+*.fivestars-option.com                                 NO CNAME ENTRY AVAILABLE
+gist-assets.scm.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+gist.scm.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+lgbt.arizona.edu                                 NO CNAME ENTRY AVAILABLE
+stagecaenstore.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+*.curanail.be                                 NO CNAME ENTRY AVAILABLE
+www.starbucks.dk                                 NO CNAME ENTRY AVAILABLE
+intl.frappuccino.com                                 NO CNAME ENTRY AVAILABLE
+quickdonate.io                                 NO CNAME ENTRY AVAILABLE
+porlosjovenes.com.mx                                 NO CNAME ENTRY AVAILABLE
+vehiclecheck.staging.avcosystems.com                                 NO CNAME ENTRY AVAILABLE
+www.therobotfund.org                                 NO CNAME ENTRY AVAILABLE
+skylinenationalbank.com                                 NO CNAME ENTRY AVAILABLE
+lionstyle.gg                                 NO CNAME ENTRY AVAILABLE
+yessnacks.at                                 NO CNAME ENTRY AVAILABLE
+illumamacommunity.com.hk                                 NO CNAME ENTRY AVAILABLE
+nestlenoiazomai.gr                                 NO CNAME ENTRY AVAILABLE
+www.orbis.org.uk                                 NO CNAME ENTRY AVAILABLE
+restylanesilk.com                                 NO CNAME ENTRY AVAILABLE
+eventnestle.ru                                 NO CNAME ENTRY AVAILABLE
+nestlefamilyclub.es                                 NO CNAME ENTRY AVAILABLE
+sanpellegrinoyoungchef.com                                 NO CNAME ENTRY AVAILABLE
+homologa.hapboo.com                                 NO CNAME ENTRY AVAILABLE
+tradersleader.com                                 NO CNAME ENTRY AVAILABLE
+yessnacks.com.mt                                 NO CNAME ENTRY AVAILABLE
+*.12vfridges.com.au                                 NO CNAME ENTRY AVAILABLE
+*.jackpotbinary.com                                 NO CNAME ENTRY AVAILABLE
+faceuptorosacea.com                                 NO CNAME ENTRY AVAILABLE
+portalpurina.pt                                 NO CNAME ENTRY AVAILABLE
+*.optionsarea.com                                 NO CNAME ENTRY AVAILABLE
+loadwww.starbucks.ie                                 NO CNAME ENTRY AVAILABLE
+rekindle.starbucks.ca                                 NO CNAME ENTRY AVAILABLE
+managebac.com                                 NO CNAME ENTRY AVAILABLE
+www.starbucks.com.gr                                 NO CNAME ENTRY AVAILABLE
+compasscard.ca                                 NO CNAME ENTRY AVAILABLE
+mdpjs.nonprod2.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+wholeearthfarms.cl                                 NO CNAME ENTRY AVAILABLE
+lomejordelatemporada.com.mx                                 NO CNAME ENTRY AVAILABLE
+gist-raw.scm.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+raw.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+testwww.starbucks.com.br                                 NO CNAME ENTRY AVAILABLE
+avatars.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+loadwww.starbucks.fr                                 NO CNAME ENTRY AVAILABLE
+testwww.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bomgaratlasiad.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+stage-digitalcontent-origin.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+assets.scm.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+uploads.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+t02-1-ag.productioncontroller.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+bomgarchd.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+orbis.org.tw                                 NO CNAME ENTRY AVAILABLE
+orbisireland.ie                                 NO CNAME ENTRY AVAILABLE
+gist-raw.scmtest.starbucks.com                                 NO CNAME ENTRY AVAILABLE
+www.verismo.com                                 NO CNAME ENTRY AVAILABLE

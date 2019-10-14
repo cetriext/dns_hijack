@@ -1,0 +1,817 @@
+       <tr>
+                <td>1/01/16</td>
+                <td>[...redacted...] pre-auth SQLi &amp; arbitrary file upload (CVEs
+                pending)</td>
+                <td>$0</td>
+                <td>reported to vendor</td>
+            </tr>
+            <tr>
+                <td>2/01/16</td>
+                <td>Reflected XSS on [...redacted...]</td>
+                <td>$0</td>
+                <td>discontinued software</td>
+            </tr>
+            <tr>
+                <td>3/01/16</td>
+                <td>Host header poisoning leading to poisoned password reset emails (CVE pending)</td>
+                <td>$0</td>
+                <td>discontinued software</td>
+            </tr>
+            <tr>
+                <td>4/01/16</td>
+                <td>Arbitrary administrator add CSRF on [...redacted...] (CVE
+                pending)</td>
+                <td>$0</td>
+                <td>discontinued software</td>
+            </tr>
+            <tr>
+                <td>5/01/16</td>
+                <td>Arbitrary SMS CSRF on [...redacted...] PoC</td>
+                <td>$0</td>
+                <td>discontinued software</td>
+            </tr>
+            <tr>
+                <td>6/01/16</td>
+                <td>[...redacted...].com - internal [...redacted...] subdomain
+                takeovers:</td>
+                <td>$200</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>7/01/16</td>
+                <td>[...redacted...].com - internal [...redacted...] subdomain
+                takeover:</td>
+                <td>$200</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>8/01/16</td>
+                <td>[...redacted...].com - internal [...redacted...] subdomain
+                takeover:</td>
+                <td>$200</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>9/01/16</td>
+                <td>[...redacted...].com - internal [...redacted...] subdomain
+                takeover:</td>
+                <td>$200</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>10/01/16</td>
+                <td>[...redacted...].com - internal [...redacted...] subdomain
+                takeover</td>
+                <td>$200</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>11/01/16</td>
+                <td>[...redacted...]dev.com - internal [...redacted...]
+                subdomain takeover:</td>
+                <td>$200</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>12/01/16</td>
+                <td>[…redacted…] pre-auth XSS via SQL error message</td>
+                <td>$0</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>13/01/16</td>
+                <td>Dangling EC2 IP address [...redacted...].com</td>
+                <td>$250</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>14/01/16</td>
+                <td>[...redacted...] DOM based XSS through subtitle files
+                within a track element</td>
+                <td>$3,000</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>15/01/16</td>
+                <td>[...redacted...] source code disclosure through public S3
+                bucket</td>
+                <td>$250</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>16/01/16</td>
+                <td>CSRF &amp; Arbitrary file upload vulnerability to a
+                [...redacted...] owned s3 bucket</td>
+                <td>$250</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>17/01/16</td>
+                <td>Three instances of reflected XSS on
+                <a href="https://[...redacted...].af.cm/">https://[...redacted...].af.cm/</a> - [...redacted...]</td>
+                <td>$2,000</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>18/01/16</td>
+                <td>CRITICAL - Ability to write arbitrary scripts to
+                [...redacted...] and [...redacted...] through
+                misconfigured S3 bucket</td>
+                <td>$7,000</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>19/01/16</td>
+                <td>PHP source code disclosure through [...redacted...]&#39;s
+                static S3 bucket</td>
+                <td>$250</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>20/01/16</td>
+                <td>CRITICAL RCE and DoS through the […redacted…] for all clients</td>
+                <td>$1,000</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>21/01/16</td>
+                <td>Insecure implementation of JSON Web Tokens on
+                <a href="https://[...redacted">https://[...redacted</a>...]</td>
+                <td>$750</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>22/01/16</td>
+                <td>Potential SQL Injection on [...redacted...] Joomla
+                […redacted…] application</td>
+                <td>$2,000</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>23/01/16</td>
+                <td>Open Remote bruteforcable MySQL login on
+                [...redacted...].com</td>
+                <td></td>
+                <td>$700</td>
+            </tr>
+            <tr>
+                <td>24/01/16</td>
+                <td>Password based bruteforcable SSH server on
+                [...redacted...].com</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>25/01/16</td>
+                <td>Subdomain takeover of […redacted…] leading to the takeover
+                of multiple pages on [...redacted...].com</td>
+                <td>$2,500</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>26/01/16</td>
+                <td>Multiple issues on [...redacted...].com with the Django
+                Rest API [Info disc, Priv Esc, IDOR]</td>
+                <td></td>
+                <td>$500</td>
+            </tr>
+            <tr>
+                <td>27/01/16</td>
+                <td>[...redacted...] owned Cisco 3750 on the external internet
+                - bruteforcable via Telnet/SSH/HTTP</td>
+                <td>$250</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>28/01/16</td>
+                <td>4 instances of Open DNS resolvers on [...redacted...] owned
+                […redacted…] Administration IPs</td>
+                <td>$750</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>29/01/16</td>
+                <td>Open admin panel functionality for […redacted…] app</td>
+                <td>$250</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>30/01/16</td>
+                <td>Prevent […redacted…] users from using their own account on
+                […redacted…]</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>31/01/16</td>
+                <td>Open Joomla administration panel for the […redacted…]
+                application on […redacted…]</td>
+                <td>$500</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>1/02/16</td>
+                <td>CRITICAL Takeover of ALL event pages on
+                [...redacted...].com leading to phishing of users through
+                takeover of Wufoo forms</td>
+                <td>$2,500</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>2/02/16</td>
+                <td>iMessage XSS (CVE-2016-1764)</td>
+                <td>$0</td>
+                <td>Patched and CVE assigned</td>
+            </tr>
+            <tr>
+                <td>3/02/16</td>
+                <td>[…redacted…] IRC XSS</td>
+                <td>$0</td>
+                <td>reported to vendor - no response</td>
+            </tr>
+            <tr>
+                <td>4/02/16</td>
+                <td>[…redacted…] XSS/LFD</td>
+                <td>$0</td>
+                <td>Patched by vendor (no CVE assigned)</td>
+            </tr>
+            <tr>
+                <td>5/02/16</td>
+                <td>[…redacted…] RCE</td>
+                <td>$0</td>
+                <td>Patched by vendor (no CVE assigned)</td>
+            </tr>
+            <tr>
+                <td>6/02/16</td>
+                <td>Persistent XSS on […redacted…] job posting</td>
+                <td>$0</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>7/02/16</td>
+                <td>Open Chef Administration Panel (w/ ability to register) @
+                [...redacted...].com</td>
+                <td>$0</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>8/02/16</td>
+                <td>Cross-domain data hijacking via SWF files uploaded as JPG
+                on […redacted…]</td>
+                <td>$500</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>9/02/16</td>
+                <td>Open Consul Administration Panel (without authentication)
+                on <a href="https://[...redacted...]/">https://[...redacted...]/</a></td>
+                <td>$500</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>10/02/16</td>
+                <td>XSS via
+                [...redacted...].com/?[redacted]=javascript:alert(document.domain)%3b//</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>11/02/16</td>
+                <td>XSS via
+                [...redacted...].com/?[redacted]=javascript:alert(document.domain)%3b//</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>12/02/16</td>
+                <td>XSS via
+                [...redacted...].com/?[redacted]=javascript:alert(document.domain)%3b//</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>13/02/16</td>
+                <td>XSS via
+                [...redacted...].com/?[redacted]=javascript:alert(document.domain)%3b//</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>14/02/16</td>
+                <td>XSS via
+                [...redacted...].com/?[redacted]=javascript:alert(document.domain)%3b//</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>15/02/16</td>
+                <td>XSS via
+                [...redacted...].com/?[redacted]=javascript:alert(document.domain)%3b//</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>16/02/16</td>
+                <td>XSS via
+                [...redacted...].com/?[redacted]=javascript:alert(document.domain)%3b//</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>17/02/16</td>
+                <td>XSS via
+                [...redacted...].com/?[redacted]=javascript:alert(document.domain)%3b//</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>18/02/16</td>
+                <td>XSS via
+                [...redacted...].com/?[redacted]=javascript:alert(document.domain)%3b//</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>19/02/16</td>
+                <td>XSS via [...redacted...].com/[redacted]</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>20/02/16</td>
+                <td>2nd fully exploitable instance of SQL injection on
+                [...redacted...].com</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>21/02/16</td>
+                <td>Critical RSA Private Key disclosure, Username/Password
+                disclosure for ([...redacted...].com, -
+                [...redacted...].com)</td>
+                <td>$2,000</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>22/02/16</td>
+                <td>[…redacted…] - Bomgar Support Panel Account Bruteforce
+                Vulnerability / Exposed Bomgar APIs</td>
+                <td>$140</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>23/02/16</td>
+                <td>Facebook - Bomgar Support Panel Account Bruteforce
+                Vulnerability / Exposed Bomgar APIs</td>
+                <td>$500</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>24/02/16</td>
+                <td>XSS on [...redacted...].com through uploading SWFs as
+                JPG</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>25/02/16</td>
+                <td>[...redacted...].com 2 x Reflected XSS</td>
+                <td></td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>26/02/16</td>
+                <td>Subdomain Takeover of […redacted…] due to dangling DNS
+                records</td>
+                <td>$500</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>27/02/16</td>
+                <td>Account bruteforce bug on [...redacted...].com</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>28/02/16</td>
+                <td>Critical - Perform administrative actions via an IDOR on
+                [...redacted...].com - Manipulation of the leaderboard and
+                more</td>
+                <td>$7,000</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>29/02/16</td>
+                <td>Open administration interface on [...redacted...]
+                (previously [...redacted...].com)</td>
+                <td>$750</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>1/03/16</td>
+                <td>Denial of service, bandwidth and memory exhaustion on
+                [...redacted...].com</td>
+                <td>$1,337</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>2/03/16</td>
+                <td>Account bruteforce bug for [...redacted...] users</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>3/03/16</td>
+                <td>Ability to map arbitrary VK.com IDs with [...redacted...]
+                players via [...redacted...]</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>4/03/16</td>
+                <td>Exposed Administration Panel
+                (<a href="https://[...redacted...]/">https://[...redacted...]/</a>)</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>5/03/16</td>
+                <td>Reflected Cross-site Scripting on [...redacted...].com</td>
+                <td>$1,500</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>6/03/16</td>
+                <td>PHPInfo + Misc Information Disclosure + Further XSS on
+                [...redacted...].com (<a href="http://[...redacted...]/">http://[...redacted...]/</a>)</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>7/03/16</td>
+                <td>HTML Injection within [...redacted...]&#39;s Offer Email
+                functionality</td>
+                <td></td>
+                <td>Paid out in miles</td>
+            </tr>
+            <tr>
+                <td>8/03/16</td>
+                <td>Meetings on [...redacted...].webex.com exposed to the
+                public through Webex&#39;s Meeting Center</td>
+                <td>$500</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>9/03/16</td>
+                <td>Cross-site scripting on [...redacted...].com,
+                [...redacted...].com, [...redacted...].com and
+                www.[...redacted...].com</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>10/03/16</td>
+                <td>Web.config file information disclosure on
+                [...redacted...].com</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>11/03/16</td>
+                <td>Insecure CORs implementation allowing any origin, ability
+                to steal customer metadata</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>12/03/16</td>
+                <td>Ability to inject arbitrary HTML into emails on
+                […redacted…] behalf via […redacted…] email system on
+                […redacted…]</td>
+                <td>$0</td>
+                <td>Out of scope</td>
+            </tr>
+            <tr>
+                <td>13/03/16</td>
+                <td>RCE in $VendorProduct</td>
+                <td>$0</td>
+                <td>No response from $Vendor</td>
+            </tr>
+            <tr>
+                <td>14/03/16</td>
+                <td>RCE in $VendorProduct</td>
+                <td>$0</td>
+                <td>No response from $Vendor</td>
+            </tr>
+            <tr>
+                <td>15/03/16</td>
+                <td>File disclosure/RCE in [...redacted...]</td>
+                <td>$0</td>
+                <td>No response from $Vendor</td>
+            </tr>
+            <tr>
+                <td>16/03/16</td>
+                <td>Cross-site scripting on [...redacted...] via data URIs</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>17/03/16</td>
+                <td>Reflected cross-site scripting on [...redacted...] via
+                embedding arbitrary SWF files</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>18/03/16</td>
+                <td>Server-side request forgery allowing for the ability to
+                contact internal [...redacted...] AWS hosts such as
+                ElasticSearch and staging instances</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>19/03/16</td>
+                <td>Partial page takeover again on [...redacted...].com</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>20/03/16</td>
+                <td>ASPX Errors (Stack Traces) Info Disc on
+                [...redacted...].com</td>
+                <td>$0</td>
+                <td>Out of scope</td>
+            </tr>
+            <tr>
+                <td>21/03/16</td>
+                <td>Administration Panel Account Bruteforcing Bug on
+                [...redacted...].com</td>
+                <td>$0</td>
+                <td>Out of scope</td>
+            </tr>
+            <tr>
+                <td>22/03/16</td>
+                <td>Take over of accounts on [...redacted...] via Host Header
+                Injection</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>23/03/16</td>
+                <td>Administration Panel Access (no auth required) to the
+                [...redacted...]</td>
+                <td>$3,000</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>24/03/16</td>
+                <td>Reflected XSS on [...redacted...] via ZeroClipboard</td>
+                <td>$1,750</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>25/03/16</td>
+                <td>Administrator access to a Django Administration Panel on
+                *.[…redacted…] via bruteforced credentials</td>
+                <td>$1,000</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>26/03/16</td>
+                <td>Access to all of [...redacted...] Webex Meetings - no
+                authentication required, sensitive meetings (?)</td>
+                <td>$0</td>
+                <td>dupe</td>
+            </tr>
+            <tr>
+                <td>27/03/16</td>
+                <td>Information disclosure (internal IP addresses of all
+                workers, memory usage, status) for [...redacted...].com</td>
+                <td>$250</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>28/03/16</td>
+                <td>Weird CRLF injection flaw on […redacted…] (potential XSS,
+                cookie setting, open redir)</td>
+                <td>$0</td>
+                <td>No valid exploit vector</td>
+            </tr>
+            <tr>
+                <td>29/03/16</td>
+                <td>Tornado debug mode enabled on [...redacted...].com leading
+                to minor info disc (full paths and small snippets of code)</td>
+                <td>$0</td>
+                <td>Out of scope</td>
+            </tr>
+            <tr>
+                <td>30/03/16</td>
+                <td>Access to [...redacted...]&#39;s internal HipChat</td>
+                <td>$2,500</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>31/03/16</td>
+                <td>XXE in […redacted…]</td>
+                <td>$0</td>
+                <td>Reported to vendor - awaiting product patches</td>
+            </tr>
+            <tr>
+                <td>1/04/16</td>
+                <td>Local RCE as root in […redacted…]</td>
+                <td>$0</td>
+                <td>Reported to vendor - awaiting product patches</td>
+            </tr>
+            <tr>
+                <td>2/04/16</td>
+                <td>Cross-site scripting in […redacted…]</td>
+                <td>$0</td>
+                <td>Reported to vendor - awaiting product patches</td>
+            </tr>
+            <tr>
+                <td>2/04/16</td>
+                <td>Unauthenticated access to Apache Solr + Memcached on
+                […redacted…]</td>
+                <td>$0</td>
+                <td>Reported to vendor - awaiting product patches</td>
+            </tr>
+            <tr>
+                <td>3/04/16</td>
+                <td>Cross-site scripting in […redacted…]</td>
+                <td>$0</td>
+                <td>Reported to vendor - awaiting product patches</td>
+            </tr>
+            <tr>
+                <td>4/04/16</td>
+                <td>Cross-site scripting in […redacted…]</td>
+                <td>$0</td>
+                <td>Reported to vendor - awaiting product patches</td>
+            </tr>
+            <tr>
+                <td>5/04/16</td>
+                <td>Cross-site scripting in […redacted…]</td>
+                <td>$0</td>
+                <td>Reported to vendor - awaiting product patches</td>
+            </tr>
+            <tr>
+                <td>6/04/16</td>
+                <td>Cross-site scripting in […redacted…]</td>
+                <td>$0</td>
+                <td>Reported to vendor - awaiting product patches</td>
+            </tr>
+            <tr>
+                <td>7/04/16</td>
+                <td>Cross-site scripting in […redacted…]</td>
+                <td>$0</td>
+                <td>Reported to vendor - awaiting product patches</td>
+            </tr>
+            <tr>
+                <td>8/04/16</td>
+                <td>Atlassian Subdomain Hijack #1</td>
+                <td></td>
+                <td>Swag</td>
+            </tr>
+            <tr>
+                <td>9/04/16</td>
+                <td>Atlassian Subdomain Hijack #2</td>
+                <td></td>
+                <td>Swag</td>
+            </tr>
+            <tr>
+                <td>10/04/16</td>
+                <td>Weird XSS flaw on [...redacted...] owned machine</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>11/04/16</td>
+                <td>Weird XSS flaw on [...redacted...] owned machine #2</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>12/04/16</td>
+                <td>Take over of […redacted…] S3 bucket #1</td>
+                <td>$500</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>13/04/16</td>
+                <td>Take over of […redacted…] S3 bucket #2</td>
+                <td>$500</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>14/04/16</td>
+                <td>[...redacted...] vulnerable to IIS short name
+                disclosure</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>15/04/16</td>
+                <td>Subdomain Hijack of […redacted…]</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>16/04/16</td>
+                <td>Subdomain Hijack of […redacted…]</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>17/04/16</td>
+                <td>Two wordpress administration panels for […redacted…] on
+                WPEngine</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>18/04/16</td>
+                <td>Reflected cross-site scripting on […redacted…]</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>19/04/16</td>
+                <td>Wordpress Database Credentials Leakage + Find and replace
+                MySQL tool (searchreplacedb2.php) on […redacted…] + MySQL root
+                password</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>20/04/16</td>
+                <td>URL Redirection flaw affecting […redacted…] official login
+                flow (<a href="https://login.[...redacted...].com/">https://login.[...redacted...].com/</a>)</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>21/04/16</td>
+                <td>XSS on [...redacted...].com due to Wordpress
+                vulnerability</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>22/04/16</td>
+                <td>Multiple critical risk vulnerabilities affecting
+                […redacted…] on […redacted…].com</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>23/04/16</td>
+                <td>Information disclosure of […redacted…] Jenkins users on
+                […redacted…].com</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>24/04/16</td>
+                <td>Leaked FTP credentials for […redacted…] =&gt; persistent
+                XSS, uploading of files, SOP bypass</td>
+                <td>$800</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>25/04/16</td>
+                <td>[...redacted...] host ([...redacted...].com) vulnerable to
+                IIS short name disclosure</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>26/04/16</td>
+                <td>Open admin panel / Multiple WordPress related issues on
+                [...redacted...].com</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>27/04/16</td>
+                <td>[...redacted...] hosts
+                ([...redacted...].[...redacted...].com
+                [...redacted...].[...redacted...].com) vulnerable to IIS short
+                name disclosure</td>
+                <td></td>
+                <td>To be paid</td>
+            </tr>
+            <tr>
+                <td>28/04/16</td>
+                <td>Publicly exposed Hipchat token leading to the ability to
+                post arbitrary HTML messages to [...redacted...] internal
+                HipChat</td>
+                <td>$500</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>28/04/16</td>
+                <td>Multiple XSS vulnerabilities within libraries referenced on
+                [...redacted...].com:</td>
+                <td>$0</td>
+                <td>Out of scope</td>
+            </tr>
