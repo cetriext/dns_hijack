@@ -66,6 +66,9 @@ process.on("exit", () => {
 
 process.on("SIGINT", () => {
     queues.emptyQueues();
+    performance.mark("B");
+    performance.measure("A to B", "A", "B");
+    console.log("==================> EXIT <=================")
 })
 
 main();
