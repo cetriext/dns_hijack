@@ -19,39 +19,39 @@ new Promise((resolve, reject) =>{
     let location = path.join(path.resolve("./")+"\\output\\");
     switch(type){
         case 1:
-            command = spawn("amass",["enum","-passive", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","2"])
+            command = spawn("amass.exe",["enum","-passive", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","2"])
             processIdentifier = "passive mode"
             break;
         case 2:
-            command = spawn("amass",["enum","-active", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","2"])
+            command = spawn("amass.exe",["enum","-active", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","2"])
             processIdentifier = "active mode"            
             break;
         case 3:
-            command = spawn("amass",["enum","-brute", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","5"])
+            command = spawn("amass.exe",["enum","-brute", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","5"])
             processIdentifier = "brute force mode"       
             break;
         case 4:
-            command = spawn("amass",["enum","-active", "-w","c:\\apps\\words1.txt","-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","2"])
+            command = spawn("amass.exe",["enum","-active", "-w","c:\\apps\\words1.txt","-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","2"])
             processIdentifier = "active mode with wordlist"
             break;
         case 5:
-            command = spawn("amass",["enum","-passive", "-w", "c:\\apps\\words1.txt", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","2"])
+            command = spawn("amass.exe",["enum","-passive", "-w", "c:\\apps\\words1.txt", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","2"])
             processIdentifier = "passive mode with wordlist"
             break;
         case 6:
-            command = spawn("amass",["enum","-brute", "-w", "c:\\apps\\words1.txt", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","5"])
+            command = spawn("amass.exe",["enum","-brute", "-w", "c:\\apps\\words1.txt", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","5"])
             processIdentifier = "brute mode with wordlist"
             break;
         case 7:
-            command = spawn("amass",["enum","-active", "-aw" , "c:\\apps\\words1.txt","-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","2"])
+            command = spawn("amass.exe",["enum","-active", "-aw" , "c:\\apps\\words1.txt","-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","2"])
             processIdentifier = "active mode with alterations and wordlist"
             break;
         case 8:
-            command = spawn("amass",["enum","-passive", "-aw", "c:\\apps\\words1.txt", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","2"])
+            command = spawn("amass.exe",["enum","-passive", "-aw", "c:\\apps\\words1.txt", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","2"])
             processIdentifier = "passive mode with alterations and wordlist"
             break;
         case 9:
-            command = spawn("amass",["enum","-vbrute", "-aw", "c:\\apps\\words1.txt", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","5"])
+            command = spawn("amass.exe",["enum","-vbrute", "-aw", "c:\\apps\\words1.txt", "-o",`${location}amass_${domain}_${type}.txt`, "-d",`${domain}`,"-timeout","5"])
             processIdentifier = "brute mode with alterations and wordlist"
             break;
     }

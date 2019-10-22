@@ -1,0 +1,94 @@
+[2019-10-22T19:02:20.771] [INFO] queue - Adding job to queue: amass domain: starbucks.com
+[2019-10-22T19:02:20.834] [WARN] queue - Existing jobs count :0 ctlogsqueue: 0 censysQueue: 0 crtshQueue: 0 joinQueue: 0 resolveQueue: 0 fbcrtshQueue: 0
+[2019-10-22T19:02:20.834] [INFO] queue - All queues are empty so running amass on domain starbucks.com
+[2019-10-22T19:02:20.871] [INFO] queue - A Queue got resumed queue: amass
+[2019-10-22T19:02:20.872] [INFO] queue - Resuming queue: amass for job on domain: starbucks.com
+[2019-10-22T19:02:20.872] [INFO] queue - Job added to queue: amass for domain: starbucks.com
+[2019-10-22T19:02:20.883] [INFO] queue - A job has started in queue: amass domain: starbucks.com
+[2019-10-22T19:02:20.883] [INFO] queue - Lock aquired Successfully for task: amass domain: starbucks.com
+[2019-10-22T19:02:23.257] [WARN] queue - A job failed in queue: amass for domain: starbucks.com with error: error
+[2019-10-22T19:02:23.260] [INFO] queue - releasing the lock
+[2019-10-22T19:02:42.710] [INFO] queue - Adding job to queue: amass domain: starbucks.com
+[2019-10-22T19:02:42.751] [WARN] queue - Existing jobs count :0 ctlogsqueue: 0 censysQueue: 0 crtshQueue: 0 joinQueue: 0 resolveQueue: 0 fbcrtshQueue: 0
+[2019-10-22T19:02:42.751] [INFO] queue - All queues are empty so running amass on domain starbucks.com
+[2019-10-22T19:02:42.753] [INFO] queue - A Queue got resumed queue: amass
+[2019-10-22T19:02:42.753] [INFO] queue - Resuming queue: amass for job on domain: starbucks.com
+[2019-10-22T19:02:42.754] [INFO] queue - Job added to queue: amass for domain: starbucks.com
+[2019-10-22T19:02:42.755] [INFO] queue - A job has started in queue: amass domain: starbucks.com
+[2019-10-22T19:02:42.756] [INFO] queue - Lock aquired Successfully for task: amass domain: starbucks.com
+[2019-10-22T19:02:42.852] [WARN] queue - A job failed in queue: amass for domain: starbucks.com with error: error
+[2019-10-22T19:02:42.854] [INFO] queue - releasing the lock
+[2019-10-22T19:02:52.860] [INFO] queue - A job has started in queue: amass domain: starbucks.com
+[2019-10-22T19:02:52.861] [INFO] queue - Lock aquired Successfully for task: amass domain: starbucks.com
+[2019-10-22T19:02:52.953] [WARN] queue - A job failed in queue: amass for domain: starbucks.com with error: error
+[2019-10-22T19:02:52.954] [INFO] queue - releasing the lock
+[2019-10-22T19:03:34.441] [INFO] queue - Adding job to queue: amass domain: starbucks.com
+[2019-10-22T19:03:34.475] [WARN] queue - Existing jobs count :0 ctlogsqueue: 0 censysQueue: 0 crtshQueue: 0 joinQueue: 0 resolveQueue: 0 fbcrtshQueue: 0
+[2019-10-22T19:03:34.475] [INFO] queue - All queues are empty so running amass on domain starbucks.com
+[2019-10-22T19:03:34.479] [INFO] queue - A Queue got resumed queue: amass
+[2019-10-22T19:03:34.480] [INFO] queue - Resuming queue: amass for job on domain: starbucks.com
+[2019-10-22T19:03:34.480] [INFO] queue - Job added to queue: amass for domain: starbucks.com
+[2019-10-22T19:03:34.482] [INFO] queue - A job has started in queue: amass domain: starbucks.com
+[2019-10-22T19:03:34.482] [INFO] queue - Lock aquired Successfully for task: amass domain: starbucks.com
+[2019-10-22T19:03:34.578] [WARN] queue - A job failed in queue: amass for domain: starbucks.com with error: error
+[2019-10-22T19:03:34.580] [INFO] queue - releasing the lock
+[2019-10-22T19:07:45.835] [INFO] queue - Adding job to queue: amass domain: starbucks.com
+[2019-10-22T19:07:45.860] [WARN] queue - Existing jobs count :0 ctlogsqueue: 0 censysQueue: 0 crtshQueue: 0 joinQueue: 0 resolveQueue: 0 fbcrtshQueue: 0
+[2019-10-22T19:07:45.860] [INFO] queue - All queues are empty so running amass on domain starbucks.com
+[2019-10-22T19:07:45.867] [INFO] queue - A Queue got resumed queue: amass
+[2019-10-22T19:07:45.867] [INFO] queue - Resuming queue: amass for job on domain: starbucks.com
+[2019-10-22T19:07:45.867] [INFO] queue - Job added to queue: amass for domain: starbucks.com
+[2019-10-22T19:07:45.876] [INFO] queue - A job has started in queue: amass domain: starbucks.com
+[2019-10-22T19:07:45.877] [INFO] queue - Lock aquired Successfully for task: amass domain: starbucks.com
+[2019-10-22T19:07:45.970] [WARN] queue - A job failed in queue: amass for domain: starbucks.com with error: error
+[2019-10-22T19:07:45.971] [INFO] queue - releasing the lock
+[2019-10-22T19:25:55.236] [INFO] queue - Adding job to queue: amass domain: starbucks.com
+[2019-10-22T19:25:55.274] [WARN] queue - Existing jobs count :0 ctlogsqueue: 0 censysQueue: 0 crtshQueue: 0 joinQueue: 0 resolveQueue: 0 fbcrtshQueue: 0
+[2019-10-22T19:25:55.275] [INFO] queue - All queues are empty so running amass on domain starbucks.com
+[2019-10-22T19:25:55.277] [INFO] queue - A Queue got resumed queue: amass
+[2019-10-22T19:25:55.278] [INFO] queue - Resuming queue: amass for job on domain: starbucks.com
+[2019-10-22T19:25:55.278] [INFO] queue - Job added to queue: amass for domain: starbucks.com
+[2019-10-22T19:25:55.279] [INFO] queue - A job has started in queue: amass domain: starbucks.com
+[2019-10-22T19:25:55.279] [INFO] queue - Lock aquired Successfully for task: amass domain: starbucks.com
+[2019-10-22T19:25:55.381] [WARN] queue - A job failed in queue: amass for domain: starbucks.com with error: error
+[2019-10-22T19:25:55.383] [INFO] queue - releasing the lock
+[2019-10-22T19:25:55.384] [INFO] queue - A job has started in queue: amass domain: starbucks.com
+[2019-10-22T19:25:55.386] [INFO] queue - Lock aquired Successfully for task: amass domain: starbucks.com
+[2019-10-22T19:25:55.499] [WARN] queue - A job failed in queue: amass for domain: starbucks.com with error: error
+[2019-10-22T19:25:55.501] [INFO] queue - releasing the lock
+[2019-10-22T19:27:04.491] [INFO] queue - Adding job to queue: amass domain: starbucks.com
+[2019-10-22T19:27:04.529] [WARN] queue - Existing jobs count :0 ctlogsqueue: 0 censysQueue: 0 crtshQueue: 0 joinQueue: 0 resolveQueue: 0 fbcrtshQueue: 0
+[2019-10-22T19:27:04.531] [INFO] queue - All queues are empty so running amass on domain starbucks.com
+[2019-10-22T19:27:04.542] [INFO] queue - A Queue got resumed queue: amass
+[2019-10-22T19:27:04.543] [INFO] queue - Resuming queue: amass for job on domain: starbucks.com
+[2019-10-22T19:27:04.550] [INFO] queue - Job added to queue: amass for domain: starbucks.com
+[2019-10-22T19:27:04.558] [INFO] queue - A job has started in queue: amass domain: starbucks.com
+[2019-10-22T19:27:04.562] [INFO] queue - Lock aquired Successfully for task: amass domain: starbucks.com
+[2019-10-22T19:27:04.665] [WARN] queue - A job failed in queue: amass for domain: starbucks.com with error: error
+[2019-10-22T19:27:04.667] [INFO] queue - releasing the lock
+[2019-10-22T19:27:04.674] [INFO] queue - A job has started in queue: amass domain: starbucks.com
+[2019-10-22T19:27:04.676] [INFO] queue - Lock aquired Successfully for task: amass domain: starbucks.com
+[2019-10-22T19:27:04.791] [WARN] queue - A job failed in queue: amass for domain: starbucks.com with error: error
+[2019-10-22T19:27:04.792] [INFO] queue - releasing the lock
+[2019-10-22T19:27:04.800] [INFO] queue - A job has started in queue: amass domain: starbucks.com
+[2019-10-22T19:27:04.802] [INFO] queue - Lock aquired Successfully for task: amass domain: starbucks.com
+[2019-10-22T19:27:04.910] [WARN] queue - A job failed in queue: amass for domain: starbucks.com with error: error
+[2019-10-22T19:27:04.912] [INFO] queue - releasing the lock
+[2019-10-22T19:28:01.715] [INFO] queue - Adding job to queue: amass domain: starbucks.com
+[2019-10-22T19:28:01.797] [WARN] queue - Existing jobs count :0 ctlogsqueue: 0 censysQueue: 0 crtshQueue: 0 joinQueue: 0 resolveQueue: 0 fbcrtshQueue: 0
+[2019-10-22T19:28:01.799] [INFO] queue - All queues are empty so running amass on domain starbucks.com
+[2019-10-22T19:28:01.804] [INFO] queue - A Queue got resumed queue: amass
+[2019-10-22T19:28:01.808] [INFO] queue - Resuming queue: amass for job on domain: starbucks.com
+[2019-10-22T19:28:01.810] [INFO] queue - Job added to queue: amass for domain: starbucks.com
+[2019-10-22T19:28:01.819] [INFO] queue - A job has started in queue: amass domain: starbucks.com
+[2019-10-22T19:28:01.821] [INFO] queue - Lock aquired Successfully for task: amass domain: starbucks.com
+[2019-10-22T19:28:01.990] [WARN] queue - A job failed in queue: amass for domain: starbucks.com with error: error
+[2019-10-22T19:28:01.995] [INFO] queue - releasing the lock
+[2019-10-22T19:28:01.997] [INFO] queue - A job has started in queue: amass domain: starbucks.com
+[2019-10-22T19:28:02.005] [INFO] queue - Lock aquired Successfully for task: amass domain: starbucks.com
+[2019-10-22T19:28:02.192] [WARN] queue - A job failed in queue: amass for domain: starbucks.com with error: error
+[2019-10-22T19:28:02.198] [INFO] queue - releasing the lock
+[2019-10-22T19:28:02.200] [INFO] queue - A job has started in queue: amass domain: starbucks.com
+[2019-10-22T19:28:02.202] [INFO] queue - Lock aquired Successfully for task: amass domain: starbucks.com
+[2019-10-22T19:28:02.364] [WARN] queue - A job failed in queue: amass for domain: starbucks.com with error: error
+[2019-10-22T19:28:02.365] [INFO] queue - releasing the lock

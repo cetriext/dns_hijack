@@ -8,7 +8,7 @@ module.exports = async function selenium(domain, callback) {
         var result = "";
         let page = 1;
         await driver.get("https://censys.io/login")
-        await driver.findElement(webdriver.By.id("login")).sendKeys("")
+        await driver.findElement(webdriver.By.id("login")).sendKeys("hemachandsai@gmail.com")
         await driver.findElement(webdriver.By.id("password")).sendKeys("11371026@saiI")
         await driver.findElement(webdriver.By.className("button")).click()
         for (let i = 1; i <= 100; i++) {

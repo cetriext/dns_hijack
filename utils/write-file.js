@@ -3,7 +3,7 @@ const path = require("path");
 const logger = require('log4js').getLogger('app');
 
 module.exports = function writeToFile(filename, content, domain){
-    let dst = path.join(path.resolve("./")+ "\\output\\");
+    let dst = path.join(path.resolve("./"), "output" + "/");
     if(content === "amass"){
         let stream = fs.createReadStream(`${filename}`, {encoding: 'utf8'});
         //improvement use pipe method here and try

@@ -1,6 +1,8 @@
 const yargs = require("yargs").argv;
 var http = require("https");
 const log4js = require("log4js");
+require('dotenv').config()
+
 log4js.configure({
     appenders: {
         out: {

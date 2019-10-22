@@ -30,11 +30,11 @@ module.exports = async function queryUsingCTLogs(domain, callback) {
                     // implement retires for vertything to prevent call struvk in window console
                     logger.fatal(`Task ctlogs for domain ${domain}: Error while making http call for hashes \r\n ${error}`)
                     if(JSON.stringify(error).match(/ETIMEDOUT/gi) && errorCount < 5){
-                        logger.debug(`Task ctlogs for domain ${domain}: Error while making http call for hashes retry: ${errorRetries}`)
+                        logger.debug(`Task ctlogs for domain ${domain}: Error while making http call for hashes retry: ${errorCount}`)
+                    } 
+                        logger.error(`Task ctlogs for domain ${domain}: Network Connectivity issues`);
                         loop(nextPage);
-                    } else {
-                        callback("error","")
-                    }
+                        // callback("error","")
                 } else {
                     let err;
                     let url;
@@ -61,7 +61,7 @@ module.exports = async function queryUsingCTLogs(domain, callback) {
                         logger.info(nextPage);
                         logger.info(err[0]);
                         errorCount++;
-                        if(errorCount < 2){
+                        if(errorCount < 5){
                             logger.debug(`Retry attempt: ${errorCount} for domain: ${domain} for hash: ${nextPage}`);
                             loop(nextPage);
                         } else {
@@ -93,7 +93,7 @@ module.exports = async function queryUsingCTLogs(domain, callback) {
                         if (err) {
                             errorRetries++;
                             logger.error(`Task ctlogs for domain: ${domain} Error while fetching domains from hash \r\n ${err}`)
-                            if(errorRetries < 3){
+                            if(errorRetries < 5){
                                 logger.debug(`Task ctlogs for domain ${domain}: Error occured. Retrying hash ${hashArray[iteration - 1]} retry: ${errorRetries}`)
                                 iteration--;
                                 retrieveHash();
@@ -115,7 +115,7 @@ module.exports = async function queryUsingCTLogs(domain, callback) {
                             } catch (e) {
                                 errorRetries++;
                                 logger.error(`Task ctlogs for domain ${domain}: Error while parsing subdomains from hash: ${hashArray[iteration-1]} \r\n ${e}`)
-                                if(JSON.stringify(e).match(/typeerror/gi) && errorRetries < 5){
+                                if(JSON.stringify(e).match(/typeerror/gi) || errorRetries < 5){
                                     logger.debug(`Task ctlogs for domain ${domain}: Error occured. Retrying hash ${hashArray[iteration - 1]} retry: ${errorRetries}`)
                                     iteration--;
                                     retrieveHash();
