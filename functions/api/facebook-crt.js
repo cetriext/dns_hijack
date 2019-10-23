@@ -4,9 +4,6 @@ const path = require("path");
 const log = require("log4js").getLogger("app");
 const writetoFile = require("../../utils/write-file");
 
-const  result = new Set(); 
-let errorCount = 0;
-
 module.exports = function getDomainsFromFacebook(domain, callback){
     domain = domain.replace(/ /g,"")
     url =`https://developers.facebook.com/tools/ct/async/search/?step_size=50&query=${domain}`
@@ -20,7 +17,9 @@ module.exports = function getDomainsFromFacebook(domain, callback){
     makeHttpCall(url, domain, callback);
 }
 
-function makeHttpCall(url, domain, callback){
+function makeHttpCall(url, domain, callback){    
+    const  result = new Set(); 
+    let errorCount = 0;
     http(url,{
         method: 'POST',
         body: `__a=1&fb_dtsg=${process.env.fb_dtsg}`,
