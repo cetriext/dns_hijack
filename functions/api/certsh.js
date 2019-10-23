@@ -10,12 +10,14 @@ module.exports = function getDomainsFromCRTSH(domain, callback, retry = false){
             callback("error","");
         } else {
             let result = new Set();
+            domain = domain.replace(/ /g,"")
             let regexp = new RegExp("<TD>\\S*"+domain+"\\S*<\\/TD>","ig")
+            console.log(regexp)
             let matches = body.match(regexp)
-                if(matches){
-                    matches.map((res) => {
-                        result.add(res)
-                    })
+            if(matches){
+                matches.map((res) => {
+                    result.add(res)
+                })
             }
             logger.info(`Getting subdomains from crtsh completed for domain: ${domain}`)
             let content = "";
