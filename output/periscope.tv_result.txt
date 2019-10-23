@@ -1,0 +1,5 @@
+*.video.periscope.tv
+video.periscope.tv
+*.periscope.tv
+lex-us-west-2.periscope.tv
+help.periscope.tv

@@ -1,0 +1,11 @@
+mta-sts.forwarding.hackerone.com
+mta-sts.managed.hackerone.com
+mta-sts.hackerone.com
+docs.hackerone.com
+support.hackerone.com
+api.hackerone.com
+www.hackerone.com
+*.hackerone.com
+links.hackerone.com
+go.hackerone.com
+info.hackerone.com

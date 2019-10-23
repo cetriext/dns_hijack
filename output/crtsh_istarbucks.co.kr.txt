@@ -1,0 +1,16 @@
+image.istarbucks.co.kr
+*.istarbucks.co.kr
+admin.istarbucks.co.kr
+www.admin.istarbucks.co.kr
+msradmin.istarbucks.co.kr
+www.msradmin.istarbucks.co.kr
+ccc.istarbucks.co.kr
+www.ccc.istarbucks.co.kr
+appdev.istarbucks.co.kr
+www.appdev.istarbucks.co.kr
+autodiscover.istarbucks.co.kr
+www.istarbucks.co.kr
+msr.istarbucks.co.kr
+partner.istarbucks.co.kr
+facebook.istarbucks.co.kr
+www.facebook.istarbucks.co.kr

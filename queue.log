@@ -3088,3 +3088,648 @@
 [2019-10-22T21:17:34.856] [INFO] queue - Job added to queue: ctlogs  for domain: starbucks.com
 [2019-10-22T21:17:34.897] [INFO] queue - A job has started in queue: ctlogs domain: starbucks.com
 [2019-10-22T21:17:34.899] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: starbucks.com
+[2019-10-23T16:29:37.632] [INFO] queue - Adding job to queue: crtsh domain: berush.com 
+[2019-10-23T16:29:37.636] [INFO] queue - Adding job to queue: crtsh domain: bitmoji.com 
+[2019-10-23T16:29:37.636] [INFO] queue - Adding job to queue: crtsh domain: bitstrips.com
+[2019-10-23T16:29:37.636] [INFO] queue - Adding job to queue: crtsh domain: events.semrush.com 
+[2019-10-23T16:29:37.637] [INFO] queue - Adding job to queue: crtsh domain: gnip.com 
+[2019-10-23T16:29:37.637] [INFO] queue - Adding job to queue: crtsh domain: greenhouse.io 
+[2019-10-23T16:29:37.637] [INFO] queue - Adding job to queue: crtsh domain: hacker101.com 
+[2019-10-23T16:29:37.637] [INFO] queue - Adding job to queue: crtsh domain: hackerone-ext-content.com 
+[2019-10-23T16:29:37.637] [INFO] queue - Adding job to queue: crtsh domain: hackerone-user-content.com 
+[2019-10-23T16:29:37.638] [INFO] queue - Adding job to queue: crtsh domain: hackerone.com 
+[2019-10-23T16:29:37.638] [INFO] queue - Adding job to queue: crtsh domain: hackerone.net 
+[2019-10-23T16:29:37.638] [INFO] queue - Adding job to queue: crtsh domain: istarbucks.co.kr 
+[2019-10-23T16:29:37.638] [INFO] queue - Adding job to queue: crtsh domain: labs-semrush.com 
+[2019-10-23T16:29:37.639] [INFO] queue - Adding job to queue: crtsh domain: legalrobot.com 
+[2019-10-23T16:29:37.639] [INFO] queue - Adding job to queue: crtsh domain: mobpub.com 
+[2019-10-23T16:29:37.639] [INFO] queue - Adding job to queue: crtsh domain: onelogin.com 
+[2019-10-23T16:29:37.639] [INFO] queue - Adding job to queue: crtsh domain: paypal.com 
+[2019-10-23T16:29:37.639] [INFO] queue - Adding job to queue: crtsh domain: periscope.tv 
+[2019-10-23T16:29:37.639] [INFO] queue - Adding job to queue: crtsh domain: pscp.tv 
+[2019-10-23T16:29:37.639] [INFO] queue - Adding job to queue: crtsh domain: semrush.com 
+[2019-10-23T16:29:37.640] [INFO] queue - Adding job to queue: crtsh domain: shipt.com
+[2019-10-23T16:29:37.640] [INFO] queue - Adding job to queue: crtsh domain: slack-files.com 
+[2019-10-23T16:29:37.640] [INFO] queue - Adding job to queue: crtsh domain: slack-imgs.com 
+[2019-10-23T16:29:37.640] [INFO] queue - Adding job to queue: crtsh domain: slack-redir.net 
+[2019-10-23T16:29:37.640] [INFO] queue - Adding job to queue: crtsh domain: slack.com 
+[2019-10-23T16:29:37.640] [INFO] queue - Adding job to queue: crtsh domain: slackatwork.com 
+[2019-10-23T16:29:37.641] [INFO] queue - Adding job to queue: crtsh domain: slackb.com 
+[2019-10-23T16:29:37.641] [INFO] queue - Adding job to queue: crtsh domain: spaces.pm 
+[2019-10-23T16:29:37.641] [INFO] queue - Adding job to queue: crtsh domain: starbucks.ca 
+[2019-10-23T16:29:37.641] [INFO] queue - Adding job to queue: crtsh domain: starbucks.co.jp 
+[2019-10-23T16:29:37.641] [INFO] queue - Adding job to queue: crtsh domain: starbucks.co.uk 
+[2019-10-23T16:29:37.641] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com 
+[2019-10-23T16:29:37.641] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.br 
+[2019-10-23T16:29:37.641] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.cn 
+[2019-10-23T16:29:37.642] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.sg 
+[2019-10-23T16:29:37.642] [INFO] queue - Adding job to queue: crtsh domain: starbucks.de 
+[2019-10-23T16:29:37.642] [INFO] queue - Adding job to queue: crtsh domain: starbucks.fr 
+[2019-10-23T16:29:37.642] [INFO] queue - Adding job to queue: crtsh domain: starbucksreserve.com 
+[2019-10-23T16:29:37.642] [INFO] queue - Adding job to queue: crtsh domain: twimg.com 
+[2019-10-23T16:29:37.642] [INFO] queue - Adding job to queue: crtsh domain: twitter.com 
+[2019-10-23T16:29:37.642] [INFO] queue - Adding job to queue: crtsh domain: uber.com 
+[2019-10-23T16:29:37.642] [INFO] queue - Adding job to queue: crtsh domain: uber.com.cn 
+[2019-10-23T16:29:37.642] [INFO] queue - Adding job to queue: crtsh domain: ubunt.com 
+[2019-10-23T16:29:37.643] [INFO] queue - Adding job to queue: crtsh domain: ui.com 
+[2019-10-23T16:29:37.643] [INFO] queue - Adding job to queue: crtsh domain: vine.co 
+[2019-10-23T16:29:37.664] [INFO] queue - Job added to queue: crtsh for domain: berush.com 
+[2019-10-23T16:29:37.664] [INFO] queue - Job added to queue: crtsh for domain: bitmoji.com 
+[2019-10-23T16:29:37.665] [INFO] queue - Job added to queue: crtsh for domain: bitstrips.com
+[2019-10-23T16:29:37.665] [INFO] queue - Job added to queue: crtsh for domain: events.semrush.com 
+[2019-10-23T16:29:37.665] [INFO] queue - Job added to queue: crtsh for domain: gnip.com 
+[2019-10-23T16:29:37.665] [INFO] queue - Job added to queue: crtsh for domain: greenhouse.io 
+[2019-10-23T16:29:37.665] [INFO] queue - Job added to queue: crtsh for domain: hacker101.com 
+[2019-10-23T16:29:37.665] [INFO] queue - Job added to queue: crtsh for domain: hackerone-ext-content.com 
+[2019-10-23T16:29:37.665] [INFO] queue - Job added to queue: crtsh for domain: hackerone-user-content.com 
+[2019-10-23T16:29:37.665] [INFO] queue - Job added to queue: crtsh for domain: hackerone.com 
+[2019-10-23T16:29:37.666] [INFO] queue - Job added to queue: crtsh for domain: hackerone.net 
+[2019-10-23T16:29:37.666] [INFO] queue - Job added to queue: crtsh for domain: istarbucks.co.kr 
+[2019-10-23T16:29:37.666] [INFO] queue - Job added to queue: crtsh for domain: labs-semrush.com 
+[2019-10-23T16:29:37.666] [INFO] queue - Job added to queue: crtsh for domain: legalrobot.com 
+[2019-10-23T16:29:37.666] [INFO] queue - Job added to queue: crtsh for domain: mobpub.com 
+[2019-10-23T16:29:37.666] [INFO] queue - Job added to queue: crtsh for domain: onelogin.com 
+[2019-10-23T16:29:37.666] [INFO] queue - Job added to queue: crtsh for domain: paypal.com 
+[2019-10-23T16:29:37.666] [INFO] queue - Job added to queue: crtsh for domain: periscope.tv 
+[2019-10-23T16:29:37.667] [INFO] queue - Job added to queue: crtsh for domain: pscp.tv 
+[2019-10-23T16:29:37.667] [INFO] queue - Job added to queue: crtsh for domain: semrush.com 
+[2019-10-23T16:29:37.668] [INFO] queue - Job added to queue: crtsh for domain: shipt.com
+[2019-10-23T16:29:37.669] [INFO] queue - Job added to queue: crtsh for domain: slack-files.com 
+[2019-10-23T16:29:37.670] [INFO] queue - Job added to queue: crtsh for domain: slack-imgs.com 
+[2019-10-23T16:29:37.671] [INFO] queue - Job added to queue: crtsh for domain: slack-redir.net 
+[2019-10-23T16:29:37.671] [INFO] queue - Job added to queue: crtsh for domain: slack.com 
+[2019-10-23T16:29:37.672] [INFO] queue - Job added to queue: crtsh for domain: slackatwork.com 
+[2019-10-23T16:29:37.672] [INFO] queue - Job added to queue: crtsh for domain: slackb.com 
+[2019-10-23T16:29:37.673] [INFO] queue - Job added to queue: crtsh for domain: spaces.pm 
+[2019-10-23T16:29:37.673] [INFO] queue - Job added to queue: crtsh for domain: starbucks.ca 
+[2019-10-23T16:29:37.673] [INFO] queue - Job added to queue: crtsh for domain: starbucks.co.jp 
+[2019-10-23T16:29:37.684] [INFO] queue - Job added to queue: crtsh for domain: starbucks.co.uk 
+[2019-10-23T16:29:37.684] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com 
+[2019-10-23T16:29:37.685] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.br 
+[2019-10-23T16:29:37.686] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.cn 
+[2019-10-23T16:29:37.686] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.sg 
+[2019-10-23T16:29:37.697] [INFO] queue - Job added to queue: crtsh for domain: starbucks.de 
+[2019-10-23T16:29:37.698] [INFO] queue - Job added to queue: crtsh for domain: starbucks.fr 
+[2019-10-23T16:29:37.705] [INFO] queue - Job added to queue: crtsh for domain: starbucksreserve.com 
+[2019-10-23T16:29:37.710] [INFO] queue - Job added to queue: crtsh for domain: twimg.com 
+[2019-10-23T16:29:37.717] [INFO] queue - Job added to queue: crtsh for domain: twitter.com 
+[2019-10-23T16:29:37.718] [INFO] queue - Job added to queue: crtsh for domain: uber.com 
+[2019-10-23T16:29:37.728] [INFO] queue - Job added to queue: crtsh for domain: uber.com.cn 
+[2019-10-23T16:29:37.729] [INFO] queue - Job added to queue: crtsh for domain: ubunt.com 
+[2019-10-23T16:29:37.729] [INFO] queue - Job added to queue: crtsh for domain: ui.com 
+[2019-10-23T16:29:37.729] [INFO] queue - Job added to queue: crtsh for domain: vine.co 
+[2019-10-23T16:29:37.740] [INFO] queue - A job has started in queue: crtsh domain: berush.com 
+[2019-10-23T16:29:37.748] [INFO] queue - A job has started in queue: crtsh domain: bitmoji.com 
+[2019-10-23T16:29:37.750] [INFO] queue - A job has started in queue: crtsh domain: bitstrips.com
+[2019-10-23T16:29:37.750] [INFO] queue - A job has started in queue: crtsh domain: events.semrush.com 
+[2019-10-23T16:29:37.760] [INFO] queue - A job has started in queue: crtsh domain: gnip.com 
+[2019-10-23T16:29:37.768] [INFO] queue - A job has started in queue: crtsh domain: greenhouse.io 
+[2019-10-23T16:29:37.770] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: berush.com 
+[2019-10-23T16:29:37.782] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: bitmoji.com 
+[2019-10-23T16:29:37.783] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: bitstrips.com
+[2019-10-23T16:29:37.790] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: events.semrush.com 
+[2019-10-23T16:29:37.793] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: gnip.com 
+[2019-10-23T16:29:37.800] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: greenhouse.io 
+[2019-10-23T16:31:37.614] [INFO] queue - Adding job to queue: crtsh domain: berush.com 
+[2019-10-23T16:31:37.618] [INFO] queue - Adding job to queue: crtsh domain: bitmoji.com 
+[2019-10-23T16:31:37.619] [INFO] queue - Adding job to queue: crtsh domain: bitstrips.com
+[2019-10-23T16:31:37.619] [INFO] queue - Adding job to queue: crtsh domain: events.semrush.com 
+[2019-10-23T16:31:37.619] [INFO] queue - Adding job to queue: crtsh domain: gnip.com 
+[2019-10-23T16:31:37.620] [INFO] queue - Adding job to queue: crtsh domain: greenhouse.io 
+[2019-10-23T16:31:37.620] [INFO] queue - Adding job to queue: crtsh domain: hacker101.com 
+[2019-10-23T16:31:37.620] [INFO] queue - Adding job to queue: crtsh domain: hackerone-ext-content.com 
+[2019-10-23T16:31:37.620] [INFO] queue - Adding job to queue: crtsh domain: hackerone-user-content.com 
+[2019-10-23T16:31:37.620] [INFO] queue - Adding job to queue: crtsh domain: hackerone.com 
+[2019-10-23T16:31:37.621] [INFO] queue - Adding job to queue: crtsh domain: hackerone.net 
+[2019-10-23T16:31:37.621] [INFO] queue - Adding job to queue: crtsh domain: istarbucks.co.kr 
+[2019-10-23T16:31:37.621] [INFO] queue - Adding job to queue: crtsh domain: labs-semrush.com 
+[2019-10-23T16:31:37.621] [INFO] queue - Adding job to queue: crtsh domain: legalrobot.com 
+[2019-10-23T16:31:37.621] [INFO] queue - Adding job to queue: crtsh domain: mobpub.com 
+[2019-10-23T16:31:37.621] [INFO] queue - Adding job to queue: crtsh domain: onelogin.com 
+[2019-10-23T16:31:37.622] [INFO] queue - Adding job to queue: crtsh domain: paypal.com 
+[2019-10-23T16:31:37.622] [INFO] queue - Adding job to queue: crtsh domain: periscope.tv 
+[2019-10-23T16:31:37.622] [INFO] queue - Adding job to queue: crtsh domain: pscp.tv 
+[2019-10-23T16:31:37.622] [INFO] queue - Adding job to queue: crtsh domain: semrush.com 
+[2019-10-23T16:31:37.622] [INFO] queue - Adding job to queue: crtsh domain: shipt.com
+[2019-10-23T16:31:37.622] [INFO] queue - Adding job to queue: crtsh domain: slack-files.com 
+[2019-10-23T16:31:37.623] [INFO] queue - Adding job to queue: crtsh domain: slack-imgs.com 
+[2019-10-23T16:31:37.623] [INFO] queue - Adding job to queue: crtsh domain: slack-redir.net 
+[2019-10-23T16:31:37.623] [INFO] queue - Adding job to queue: crtsh domain: slack.com 
+[2019-10-23T16:31:37.623] [INFO] queue - Adding job to queue: crtsh domain: slackatwork.com 
+[2019-10-23T16:31:37.623] [INFO] queue - Adding job to queue: crtsh domain: slackb.com 
+[2019-10-23T16:31:37.623] [INFO] queue - Adding job to queue: crtsh domain: spaces.pm 
+[2019-10-23T16:31:37.623] [INFO] queue - Adding job to queue: crtsh domain: starbucks.ca 
+[2019-10-23T16:31:37.624] [INFO] queue - Adding job to queue: crtsh domain: starbucks.co.jp 
+[2019-10-23T16:31:37.624] [INFO] queue - Adding job to queue: crtsh domain: starbucks.co.uk 
+[2019-10-23T16:31:37.624] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com 
+[2019-10-23T16:31:37.624] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.br 
+[2019-10-23T16:31:37.624] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.cn 
+[2019-10-23T16:31:37.624] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.sg 
+[2019-10-23T16:31:37.624] [INFO] queue - Adding job to queue: crtsh domain: starbucks.de 
+[2019-10-23T16:31:37.624] [INFO] queue - Adding job to queue: crtsh domain: starbucks.fr 
+[2019-10-23T16:31:37.625] [INFO] queue - Adding job to queue: crtsh domain: starbucksreserve.com 
+[2019-10-23T16:31:37.625] [INFO] queue - Adding job to queue: crtsh domain: twimg.com 
+[2019-10-23T16:31:37.625] [INFO] queue - Adding job to queue: crtsh domain: twitter.com 
+[2019-10-23T16:31:37.625] [INFO] queue - Adding job to queue: crtsh domain: uber.com 
+[2019-10-23T16:31:37.625] [INFO] queue - Adding job to queue: crtsh domain: uber.com.cn 
+[2019-10-23T16:31:37.625] [INFO] queue - Adding job to queue: crtsh domain: ubunt.com 
+[2019-10-23T16:31:37.625] [INFO] queue - Adding job to queue: crtsh domain: ui.com 
+[2019-10-23T16:31:37.625] [INFO] queue - Adding job to queue: crtsh domain: vine.co 
+[2019-10-23T16:31:37.646] [INFO] queue - Job added to queue: crtsh for domain: berush.com 
+[2019-10-23T16:31:37.647] [INFO] queue - Job added to queue: crtsh for domain: bitmoji.com 
+[2019-10-23T16:31:37.647] [INFO] queue - Job added to queue: crtsh for domain: bitstrips.com
+[2019-10-23T16:31:37.647] [INFO] queue - Job added to queue: crtsh for domain: events.semrush.com 
+[2019-10-23T16:31:37.647] [INFO] queue - Job added to queue: crtsh for domain: gnip.com 
+[2019-10-23T16:31:37.648] [INFO] queue - Job added to queue: crtsh for domain: greenhouse.io 
+[2019-10-23T16:31:37.648] [INFO] queue - Job added to queue: crtsh for domain: hacker101.com 
+[2019-10-23T16:31:37.648] [INFO] queue - Job added to queue: crtsh for domain: hackerone-ext-content.com 
+[2019-10-23T16:31:37.648] [INFO] queue - Job added to queue: crtsh for domain: hackerone-user-content.com 
+[2019-10-23T16:31:37.648] [INFO] queue - Job added to queue: crtsh for domain: hackerone.com 
+[2019-10-23T16:31:37.648] [INFO] queue - Job added to queue: crtsh for domain: hackerone.net 
+[2019-10-23T16:31:37.648] [INFO] queue - Job added to queue: crtsh for domain: istarbucks.co.kr 
+[2019-10-23T16:31:37.648] [INFO] queue - Job added to queue: crtsh for domain: labs-semrush.com 
+[2019-10-23T16:31:37.649] [INFO] queue - Job added to queue: crtsh for domain: legalrobot.com 
+[2019-10-23T16:31:37.649] [INFO] queue - Job added to queue: crtsh for domain: mobpub.com 
+[2019-10-23T16:31:37.649] [INFO] queue - Job added to queue: crtsh for domain: onelogin.com 
+[2019-10-23T16:31:37.649] [INFO] queue - Job added to queue: crtsh for domain: paypal.com 
+[2019-10-23T16:31:37.649] [INFO] queue - Job added to queue: crtsh for domain: periscope.tv 
+[2019-10-23T16:31:37.649] [INFO] queue - Job added to queue: crtsh for domain: pscp.tv 
+[2019-10-23T16:31:37.650] [INFO] queue - Job added to queue: crtsh for domain: semrush.com 
+[2019-10-23T16:31:37.650] [INFO] queue - Job added to queue: crtsh for domain: shipt.com
+[2019-10-23T16:31:37.651] [INFO] queue - Job added to queue: crtsh for domain: slack-files.com 
+[2019-10-23T16:31:37.651] [INFO] queue - Job added to queue: crtsh for domain: slack-imgs.com 
+[2019-10-23T16:31:37.652] [INFO] queue - Job added to queue: crtsh for domain: slack-redir.net 
+[2019-10-23T16:31:37.652] [INFO] queue - Job added to queue: crtsh for domain: slack.com 
+[2019-10-23T16:31:37.653] [INFO] queue - Job added to queue: crtsh for domain: slackatwork.com 
+[2019-10-23T16:31:37.653] [INFO] queue - Job added to queue: crtsh for domain: slackb.com 
+[2019-10-23T16:31:37.654] [INFO] queue - Job added to queue: crtsh for domain: spaces.pm 
+[2019-10-23T16:31:37.654] [INFO] queue - Job added to queue: crtsh for domain: starbucks.ca 
+[2019-10-23T16:31:37.654] [INFO] queue - Job added to queue: crtsh for domain: starbucks.co.jp 
+[2019-10-23T16:31:37.655] [INFO] queue - Job added to queue: crtsh for domain: starbucks.co.uk 
+[2019-10-23T16:31:37.655] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com 
+[2019-10-23T16:31:37.666] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.br 
+[2019-10-23T16:31:37.667] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.cn 
+[2019-10-23T16:31:37.670] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.sg 
+[2019-10-23T16:31:37.677] [INFO] queue - Job added to queue: crtsh for domain: starbucks.de 
+[2019-10-23T16:31:37.680] [INFO] queue - Job added to queue: crtsh for domain: starbucks.fr 
+[2019-10-23T16:31:37.687] [INFO] queue - Job added to queue: crtsh for domain: starbucksreserve.com 
+[2019-10-23T16:31:37.688] [INFO] queue - Job added to queue: crtsh for domain: twimg.com 
+[2019-10-23T16:31:37.688] [INFO] queue - Job added to queue: crtsh for domain: twitter.com 
+[2019-10-23T16:31:37.690] [INFO] queue - Job added to queue: crtsh for domain: uber.com 
+[2019-10-23T16:31:37.698] [INFO] queue - Job added to queue: crtsh for domain: uber.com.cn 
+[2019-10-23T16:31:37.700] [INFO] queue - Job added to queue: crtsh for domain: ubunt.com 
+[2019-10-23T16:31:37.707] [INFO] queue - Job added to queue: crtsh for domain: ui.com 
+[2019-10-23T16:31:37.708] [INFO] queue - Job added to queue: crtsh for domain: vine.co 
+[2019-10-23T16:31:37.722] [INFO] queue - A job has started in queue: crtsh domain: berush.com 
+[2019-10-23T16:31:37.724] [INFO] queue - A job has started in queue: crtsh domain: bitmoji.com 
+[2019-10-23T16:31:37.724] [INFO] queue - A job has started in queue: crtsh domain: bitstrips.com
+[2019-10-23T16:31:37.734] [INFO] queue - A job has started in queue: crtsh domain: events.semrush.com 
+[2019-10-23T16:31:37.736] [INFO] queue - A job has started in queue: crtsh domain: gnip.com 
+[2019-10-23T16:31:37.744] [INFO] queue - A job has started in queue: crtsh domain: greenhouse.io 
+[2019-10-23T16:31:37.746] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: berush.com 
+[2019-10-23T16:31:37.759] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: bitmoji.com 
+[2019-10-23T16:31:37.763] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: bitstrips.com
+[2019-10-23T16:31:37.765] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: events.semrush.com 
+[2019-10-23T16:31:37.765] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: gnip.com 
+[2019-10-23T16:31:37.773] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: greenhouse.io 
+[2019-10-23T16:32:47.145] [INFO] queue - Adding job to queue: crtsh domain: berush.com 
+[2019-10-23T16:32:47.151] [INFO] queue - Adding job to queue: crtsh domain: bitmoji.com 
+[2019-10-23T16:32:47.152] [INFO] queue - Adding job to queue: crtsh domain: bitstrips.com
+[2019-10-23T16:32:47.160] [INFO] queue - Adding job to queue: crtsh domain: events.semrush.com 
+[2019-10-23T16:32:47.162] [INFO] queue - Adding job to queue: crtsh domain: gnip.com 
+[2019-10-23T16:32:47.174] [INFO] queue - Adding job to queue: crtsh domain: greenhouse.io 
+[2019-10-23T16:32:47.176] [INFO] queue - Adding job to queue: crtsh domain: hacker101.com 
+[2019-10-23T16:32:47.189] [INFO] queue - Adding job to queue: crtsh domain: hackerone-ext-content.com 
+[2019-10-23T16:32:47.191] [INFO] queue - Adding job to queue: crtsh domain: hackerone-user-content.com 
+[2019-10-23T16:32:47.203] [INFO] queue - Adding job to queue: crtsh domain: hackerone.com 
+[2019-10-23T16:32:47.205] [INFO] queue - Adding job to queue: crtsh domain: hackerone.net 
+[2019-10-23T16:32:47.212] [INFO] queue - Adding job to queue: crtsh domain: istarbucks.co.kr 
+[2019-10-23T16:32:47.215] [INFO] queue - Adding job to queue: crtsh domain: labs-semrush.com 
+[2019-10-23T16:32:47.225] [INFO] queue - Adding job to queue: crtsh domain: legalrobot.com 
+[2019-10-23T16:32:47.228] [INFO] queue - Adding job to queue: crtsh domain: mobpub.com 
+[2019-10-23T16:32:47.240] [INFO] queue - Adding job to queue: crtsh domain: onelogin.com 
+[2019-10-23T16:32:47.242] [INFO] queue - Adding job to queue: crtsh domain: paypal.com 
+[2019-10-23T16:32:47.255] [INFO] queue - Adding job to queue: crtsh domain: periscope.tv 
+[2019-10-23T16:32:47.258] [INFO] queue - Adding job to queue: crtsh domain: pscp.tv 
+[2019-10-23T16:32:47.270] [INFO] queue - Adding job to queue: crtsh domain: semrush.com 
+[2019-10-23T16:32:47.272] [INFO] queue - Adding job to queue: crtsh domain: shipt.com
+[2019-10-23T16:32:47.279] [INFO] queue - Adding job to queue: crtsh domain: slack-files.com 
+[2019-10-23T16:32:47.281] [INFO] queue - Adding job to queue: crtsh domain: slack-imgs.com 
+[2019-10-23T16:32:47.293] [INFO] queue - Adding job to queue: crtsh domain: slack-redir.net 
+[2019-10-23T16:32:47.294] [INFO] queue - Adding job to queue: crtsh domain: slack.com 
+[2019-10-23T16:32:47.294] [INFO] queue - Adding job to queue: crtsh domain: slackatwork.com 
+[2019-10-23T16:32:47.295] [INFO] queue - Adding job to queue: crtsh domain: slackb.com 
+[2019-10-23T16:32:47.296] [INFO] queue - Adding job to queue: crtsh domain: spaces.pm 
+[2019-10-23T16:32:47.296] [INFO] queue - Adding job to queue: crtsh domain: starbucks.ca 
+[2019-10-23T16:32:47.297] [INFO] queue - Adding job to queue: crtsh domain: starbucks.co.jp 
+[2019-10-23T16:32:47.310] [INFO] queue - Adding job to queue: crtsh domain: starbucks.co.uk 
+[2019-10-23T16:32:47.311] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com 
+[2019-10-23T16:32:47.311] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.br 
+[2019-10-23T16:32:47.315] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.cn 
+[2019-10-23T16:32:47.325] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.sg 
+[2019-10-23T16:32:47.327] [INFO] queue - Adding job to queue: crtsh domain: starbucks.de 
+[2019-10-23T16:32:47.339] [INFO] queue - Adding job to queue: crtsh domain: starbucks.fr 
+[2019-10-23T16:32:47.341] [INFO] queue - Adding job to queue: crtsh domain: starbucksreserve.com 
+[2019-10-23T16:32:47.353] [INFO] queue - Adding job to queue: crtsh domain: twimg.com 
+[2019-10-23T16:32:47.356] [INFO] queue - Adding job to queue: crtsh domain: twitter.com 
+[2019-10-23T16:32:47.371] [INFO] queue - Adding job to queue: crtsh domain: uber.com 
+[2019-10-23T16:32:47.372] [INFO] queue - Adding job to queue: crtsh domain: uber.com.cn 
+[2019-10-23T16:32:47.381] [INFO] queue - Adding job to queue: crtsh domain: ubunt.com 
+[2019-10-23T16:32:47.383] [INFO] queue - Adding job to queue: crtsh domain: ui.com 
+[2019-10-23T16:32:47.397] [INFO] queue - Adding job to queue: crtsh domain: vine.co 
+[2019-10-23T16:32:47.423] [INFO] queue - Job added to queue: crtsh for domain: berush.com 
+[2019-10-23T16:32:47.425] [INFO] queue - Job added to queue: crtsh for domain: bitmoji.com 
+[2019-10-23T16:32:47.438] [INFO] queue - Job added to queue: crtsh for domain: bitstrips.com
+[2019-10-23T16:32:47.440] [INFO] queue - Job added to queue: crtsh for domain: events.semrush.com 
+[2019-10-23T16:32:47.453] [INFO] queue - Job added to queue: crtsh for domain: gnip.com 
+[2019-10-23T16:32:47.455] [INFO] queue - Job added to queue: crtsh for domain: greenhouse.io 
+[2019-10-23T16:32:47.462] [INFO] queue - Job added to queue: crtsh for domain: hacker101.com 
+[2019-10-23T16:32:47.465] [INFO] queue - Job added to queue: crtsh for domain: hackerone-ext-content.com 
+[2019-10-23T16:32:47.475] [INFO] queue - Job added to queue: crtsh for domain: hackerone-user-content.com 
+[2019-10-23T16:32:47.477] [INFO] queue - Job added to queue: crtsh for domain: hackerone.com 
+[2019-10-23T16:32:47.490] [INFO] queue - Job added to queue: crtsh for domain: hackerone.net 
+[2019-10-23T16:32:47.492] [INFO] queue - Job added to queue: crtsh for domain: istarbucks.co.kr 
+[2019-10-23T16:32:47.506] [INFO] queue - Job added to queue: crtsh for domain: labs-semrush.com 
+[2019-10-23T16:32:47.508] [INFO] queue - Job added to queue: crtsh for domain: legalrobot.com 
+[2019-10-23T16:32:47.521] [INFO] queue - Job added to queue: crtsh for domain: mobpub.com 
+[2019-10-23T16:32:47.523] [INFO] queue - Job added to queue: crtsh for domain: onelogin.com 
+[2019-10-23T16:32:47.535] [INFO] queue - Job added to queue: crtsh for domain: paypal.com 
+[2019-10-23T16:32:47.537] [INFO] queue - Job added to queue: crtsh for domain: periscope.tv 
+[2019-10-23T16:32:47.543] [INFO] queue - Job added to queue: crtsh for domain: pscp.tv 
+[2019-10-23T16:32:47.544] [INFO] queue - Job added to queue: crtsh for domain: semrush.com 
+[2019-10-23T16:32:47.544] [INFO] queue - Job added to queue: crtsh for domain: shipt.com
+[2019-10-23T16:32:47.553] [INFO] queue - Job added to queue: crtsh for domain: slack-files.com 
+[2019-10-23T16:32:47.558] [INFO] queue - Job added to queue: crtsh for domain: slack-imgs.com 
+[2019-10-23T16:32:47.559] [INFO] queue - Job added to queue: crtsh for domain: slack-redir.net 
+[2019-10-23T16:32:47.559] [INFO] queue - Job added to queue: crtsh for domain: slack.com 
+[2019-10-23T16:32:47.560] [INFO] queue - Job added to queue: crtsh for domain: slackatwork.com 
+[2019-10-23T16:32:47.561] [INFO] queue - Job added to queue: crtsh for domain: slackb.com 
+[2019-10-23T16:32:47.569] [INFO] queue - Job added to queue: crtsh for domain: spaces.pm 
+[2019-10-23T16:32:47.574] [INFO] queue - Job added to queue: crtsh for domain: starbucks.ca 
+[2019-10-23T16:32:47.575] [INFO] queue - Job added to queue: crtsh for domain: starbucks.co.jp 
+[2019-10-23T16:32:47.576] [INFO] queue - Job added to queue: crtsh for domain: starbucks.co.uk 
+[2019-10-23T16:32:47.577] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com 
+[2019-10-23T16:32:47.580] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.br 
+[2019-10-23T16:32:47.581] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.cn 
+[2019-10-23T16:32:47.593] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.sg 
+[2019-10-23T16:32:47.605] [INFO] queue - Job added to queue: crtsh for domain: starbucks.de 
+[2019-10-23T16:32:47.607] [INFO] queue - Job added to queue: crtsh for domain: starbucks.fr 
+[2019-10-23T16:32:47.608] [INFO] queue - Job added to queue: crtsh for domain: starbucksreserve.com 
+[2019-10-23T16:32:47.621] [INFO] queue - Job added to queue: crtsh for domain: twimg.com 
+[2019-10-23T16:32:47.630] [INFO] queue - Job added to queue: crtsh for domain: twitter.com 
+[2019-10-23T16:32:47.641] [INFO] queue - Job added to queue: crtsh for domain: uber.com 
+[2019-10-23T16:32:47.643] [INFO] queue - Job added to queue: crtsh for domain: uber.com.cn 
+[2019-10-23T16:32:47.656] [INFO] queue - Job added to queue: crtsh for domain: ubunt.com 
+[2019-10-23T16:32:47.667] [INFO] queue - Job added to queue: crtsh for domain: ui.com 
+[2019-10-23T16:32:47.671] [INFO] queue - Job added to queue: crtsh for domain: vine.co 
+[2019-10-23T16:32:47.694] [INFO] queue - A job has started in queue: crtsh domain: hacker101.com 
+[2019-10-23T16:32:47.698] [INFO] queue - A job has started in queue: crtsh domain: hackerone-ext-content.com 
+[2019-10-23T16:32:47.720] [INFO] queue - A job has started in queue: crtsh domain: hackerone-user-content.com 
+[2019-10-23T16:32:47.721] [INFO] queue - A job has started in queue: crtsh domain: hackerone.com 
+[2019-10-23T16:32:47.731] [INFO] queue - A job has started in queue: crtsh domain: hackerone.net 
+[2019-10-23T16:32:47.733] [INFO] queue - A job has started in queue: crtsh domain: istarbucks.co.kr 
+[2019-10-23T16:32:47.745] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: hacker101.com 
+[2019-10-23T16:32:47.760] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: hackerone-ext-content.com 
+[2019-10-23T16:32:47.772] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: hackerone-user-content.com 
+[2019-10-23T16:32:47.774] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: hackerone.com 
+[2019-10-23T16:32:47.786] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: hackerone.net 
+[2019-10-23T16:32:47.789] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: istarbucks.co.kr 
+[2019-10-23T16:32:48.911] [TRACE] queue - A job completed in queue: crtsh domain: hackerone-user-content.com 
+[2019-10-23T16:32:48.925] [INFO] queue - A job has started in queue: crtsh domain: labs-semrush.com 
+[2019-10-23T16:32:48.926] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: labs-semrush.com 
+[2019-10-23T16:32:49.797] [TRACE] queue - A job completed in queue: crtsh domain: labs-semrush.com 
+[2019-10-23T16:32:49.802] [INFO] queue - A job has started in queue: crtsh domain: legalrobot.com 
+[2019-10-23T16:32:49.809] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: legalrobot.com 
+[2019-10-23T16:32:50.879] [TRACE] queue - A job completed in queue: crtsh domain: legalrobot.com 
+[2019-10-23T16:32:50.881] [INFO] queue - A job has started in queue: crtsh domain: mobpub.com 
+[2019-10-23T16:32:50.893] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: mobpub.com 
+[2019-10-23T16:33:09.705] [INFO] queue - Adding job to queue: crtsh domain: berush.com 
+[2019-10-23T16:33:09.711] [INFO] queue - Adding job to queue: crtsh domain: bitmoji.com 
+[2019-10-23T16:33:09.711] [INFO] queue - Adding job to queue: crtsh domain: bitstrips.com
+[2019-10-23T16:33:09.711] [INFO] queue - Adding job to queue: crtsh domain: events.semrush.com 
+[2019-10-23T16:33:09.711] [INFO] queue - Adding job to queue: crtsh domain: gnip.com 
+[2019-10-23T16:33:09.711] [INFO] queue - Adding job to queue: crtsh domain: greenhouse.io 
+[2019-10-23T16:33:09.712] [INFO] queue - Adding job to queue: crtsh domain: hacker101.com 
+[2019-10-23T16:33:09.712] [INFO] queue - Adding job to queue: crtsh domain: hackerone-ext-content.com 
+[2019-10-23T16:33:09.712] [INFO] queue - Adding job to queue: crtsh domain: hackerone-user-content.com 
+[2019-10-23T16:33:09.712] [INFO] queue - Adding job to queue: crtsh domain: hackerone.com 
+[2019-10-23T16:33:09.712] [INFO] queue - Adding job to queue: crtsh domain: hackerone.net 
+[2019-10-23T16:33:09.712] [INFO] queue - Adding job to queue: crtsh domain: istarbucks.co.kr 
+[2019-10-23T16:33:09.712] [INFO] queue - Adding job to queue: crtsh domain: labs-semrush.com 
+[2019-10-23T16:33:09.712] [INFO] queue - Adding job to queue: crtsh domain: legalrobot.com 
+[2019-10-23T16:33:09.713] [INFO] queue - Adding job to queue: crtsh domain: mobpub.com 
+[2019-10-23T16:33:09.713] [INFO] queue - Adding job to queue: crtsh domain: onelogin.com 
+[2019-10-23T16:33:09.713] [INFO] queue - Adding job to queue: crtsh domain: paypal.com 
+[2019-10-23T16:33:09.713] [INFO] queue - Adding job to queue: crtsh domain: periscope.tv 
+[2019-10-23T16:33:09.713] [INFO] queue - Adding job to queue: crtsh domain: pscp.tv 
+[2019-10-23T16:33:09.713] [INFO] queue - Adding job to queue: crtsh domain: semrush.com 
+[2019-10-23T16:33:09.713] [INFO] queue - Adding job to queue: crtsh domain: shipt.com
+[2019-10-23T16:33:09.713] [INFO] queue - Adding job to queue: crtsh domain: slack-files.com 
+[2019-10-23T16:33:09.714] [INFO] queue - Adding job to queue: crtsh domain: slack-imgs.com 
+[2019-10-23T16:33:09.714] [INFO] queue - Adding job to queue: crtsh domain: slack-redir.net 
+[2019-10-23T16:33:09.714] [INFO] queue - Adding job to queue: crtsh domain: slack.com 
+[2019-10-23T16:33:09.714] [INFO] queue - Adding job to queue: crtsh domain: slackatwork.com 
+[2019-10-23T16:33:09.714] [INFO] queue - Adding job to queue: crtsh domain: slackb.com 
+[2019-10-23T16:33:09.714] [INFO] queue - Adding job to queue: crtsh domain: spaces.pm 
+[2019-10-23T16:33:09.714] [INFO] queue - Adding job to queue: crtsh domain: starbucks.ca 
+[2019-10-23T16:33:09.714] [INFO] queue - Adding job to queue: crtsh domain: starbucks.co.jp 
+[2019-10-23T16:33:09.715] [INFO] queue - Adding job to queue: crtsh domain: starbucks.co.uk 
+[2019-10-23T16:33:09.715] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com 
+[2019-10-23T16:33:09.715] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.br 
+[2019-10-23T16:33:09.715] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.cn 
+[2019-10-23T16:33:09.715] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.sg 
+[2019-10-23T16:33:09.715] [INFO] queue - Adding job to queue: crtsh domain: starbucks.de 
+[2019-10-23T16:33:09.715] [INFO] queue - Adding job to queue: crtsh domain: starbucks.fr 
+[2019-10-23T16:33:09.715] [INFO] queue - Adding job to queue: crtsh domain: starbucksreserve.com 
+[2019-10-23T16:33:09.716] [INFO] queue - Adding job to queue: crtsh domain: twimg.com 
+[2019-10-23T16:33:09.716] [INFO] queue - Adding job to queue: crtsh domain: twitter.com 
+[2019-10-23T16:33:09.716] [INFO] queue - Adding job to queue: crtsh domain: uber.com 
+[2019-10-23T16:33:09.716] [INFO] queue - Adding job to queue: crtsh domain: uber.com.cn 
+[2019-10-23T16:33:09.716] [INFO] queue - Adding job to queue: crtsh domain: ubunt.com 
+[2019-10-23T16:33:09.716] [INFO] queue - Adding job to queue: crtsh domain: ui.com 
+[2019-10-23T16:33:09.716] [INFO] queue - Adding job to queue: crtsh domain: vine.co 
+[2019-10-23T16:33:09.737] [INFO] queue - Job added to queue: crtsh for domain: berush.com 
+[2019-10-23T16:33:09.738] [INFO] queue - Job added to queue: crtsh for domain: bitmoji.com 
+[2019-10-23T16:33:09.738] [INFO] queue - Job added to queue: crtsh for domain: bitstrips.com
+[2019-10-23T16:33:09.738] [INFO] queue - Job added to queue: crtsh for domain: events.semrush.com 
+[2019-10-23T16:33:09.738] [INFO] queue - Job added to queue: crtsh for domain: gnip.com 
+[2019-10-23T16:33:09.738] [INFO] queue - Job added to queue: crtsh for domain: greenhouse.io 
+[2019-10-23T16:33:09.739] [INFO] queue - Job added to queue: crtsh for domain: hacker101.com 
+[2019-10-23T16:33:09.739] [INFO] queue - Job added to queue: crtsh for domain: hackerone-ext-content.com 
+[2019-10-23T16:33:09.739] [INFO] queue - Job added to queue: crtsh for domain: hackerone-user-content.com 
+[2019-10-23T16:33:09.739] [INFO] queue - Job added to queue: crtsh for domain: hackerone.com 
+[2019-10-23T16:33:09.740] [INFO] queue - Job added to queue: crtsh for domain: hackerone.net 
+[2019-10-23T16:33:09.740] [INFO] queue - Job added to queue: crtsh for domain: istarbucks.co.kr 
+[2019-10-23T16:33:09.740] [INFO] queue - Job added to queue: crtsh for domain: labs-semrush.com 
+[2019-10-23T16:33:09.740] [INFO] queue - Job added to queue: crtsh for domain: legalrobot.com 
+[2019-10-23T16:33:09.740] [INFO] queue - Job added to queue: crtsh for domain: mobpub.com 
+[2019-10-23T16:33:09.740] [INFO] queue - Job added to queue: crtsh for domain: onelogin.com 
+[2019-10-23T16:33:09.740] [INFO] queue - Job added to queue: crtsh for domain: paypal.com 
+[2019-10-23T16:33:09.741] [INFO] queue - Job added to queue: crtsh for domain: periscope.tv 
+[2019-10-23T16:33:09.741] [INFO] queue - Job added to queue: crtsh for domain: pscp.tv 
+[2019-10-23T16:33:09.741] [INFO] queue - Job added to queue: crtsh for domain: semrush.com 
+[2019-10-23T16:33:09.742] [INFO] queue - Job added to queue: crtsh for domain: shipt.com
+[2019-10-23T16:33:09.742] [INFO] queue - Job added to queue: crtsh for domain: slack-files.com 
+[2019-10-23T16:33:09.743] [INFO] queue - Job added to queue: crtsh for domain: slack-imgs.com 
+[2019-10-23T16:33:09.744] [INFO] queue - Job added to queue: crtsh for domain: slack-redir.net 
+[2019-10-23T16:33:09.744] [INFO] queue - Job added to queue: crtsh for domain: slack.com 
+[2019-10-23T16:33:09.745] [INFO] queue - Job added to queue: crtsh for domain: slackatwork.com 
+[2019-10-23T16:33:09.745] [INFO] queue - Job added to queue: crtsh for domain: slackb.com 
+[2019-10-23T16:33:09.746] [INFO] queue - Job added to queue: crtsh for domain: spaces.pm 
+[2019-10-23T16:33:09.747] [INFO] queue - Job added to queue: crtsh for domain: starbucks.ca 
+[2019-10-23T16:33:09.759] [INFO] queue - Job added to queue: crtsh for domain: starbucks.co.jp 
+[2019-10-23T16:33:09.762] [INFO] queue - Job added to queue: crtsh for domain: starbucks.co.uk 
+[2019-10-23T16:33:09.763] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com 
+[2019-10-23T16:33:09.770] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.br 
+[2019-10-23T16:33:09.771] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.cn 
+[2019-10-23T16:33:09.779] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.sg 
+[2019-10-23T16:33:09.780] [INFO] queue - Job added to queue: crtsh for domain: starbucks.de 
+[2019-10-23T16:33:09.781] [INFO] queue - Job added to queue: crtsh for domain: starbucks.fr 
+[2019-10-23T16:33:09.781] [INFO] queue - Job added to queue: crtsh for domain: starbucksreserve.com 
+[2019-10-23T16:33:09.782] [INFO] queue - Job added to queue: crtsh for domain: twimg.com 
+[2019-10-23T16:33:09.782] [INFO] queue - Job added to queue: crtsh for domain: twitter.com 
+[2019-10-23T16:33:09.783] [INFO] queue - Job added to queue: crtsh for domain: uber.com 
+[2019-10-23T16:33:09.783] [INFO] queue - Job added to queue: crtsh for domain: uber.com.cn 
+[2019-10-23T16:33:09.783] [INFO] queue - Job added to queue: crtsh for domain: ubunt.com 
+[2019-10-23T16:33:09.784] [INFO] queue - Job added to queue: crtsh for domain: ui.com 
+[2019-10-23T16:33:09.784] [INFO] queue - Job added to queue: crtsh for domain: vine.co 
+[2019-10-23T16:33:09.797] [INFO] queue - A job has started in queue: crtsh domain: berush.com 
+[2019-10-23T16:33:09.800] [INFO] queue - A job has started in queue: crtsh domain: bitmoji.com 
+[2019-10-23T16:33:09.801] [INFO] queue - A job has started in queue: crtsh domain: bitstrips.com
+[2019-10-23T16:33:09.802] [INFO] queue - A job has started in queue: crtsh domain: events.semrush.com 
+[2019-10-23T16:33:09.803] [INFO] queue - A job has started in queue: crtsh domain: gnip.com 
+[2019-10-23T16:33:09.804] [INFO] queue - A job has started in queue: crtsh domain: greenhouse.io 
+[2019-10-23T16:33:09.804] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: berush.com 
+[2019-10-23T16:33:09.817] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: bitmoji.com 
+[2019-10-23T16:33:09.818] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: bitstrips.com
+[2019-10-23T16:33:09.819] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: events.semrush.com 
+[2019-10-23T16:33:09.820] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: gnip.com 
+[2019-10-23T16:33:09.821] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: greenhouse.io 
+[2019-10-23T16:33:10.679] [TRACE] queue - A job completed in queue: crtsh domain: berush.com 
+[2019-10-23T16:33:10.681] [INFO] queue - A job has started in queue: crtsh domain: hacker101.com 
+[2019-10-23T16:33:10.689] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: hacker101.com 
+[2019-10-23T16:33:47.194] [INFO] queue - Adding job to queue: crtsh domain: berush.com 
+[2019-10-23T16:33:47.198] [INFO] queue - Adding job to queue: crtsh domain: bitmoji.com 
+[2019-10-23T16:33:47.198] [INFO] queue - Adding job to queue: crtsh domain: bitstrips.com
+[2019-10-23T16:33:47.199] [INFO] queue - Adding job to queue: crtsh domain: events.semrush.com 
+[2019-10-23T16:33:47.199] [INFO] queue - Adding job to queue: crtsh domain: gnip.com 
+[2019-10-23T16:33:47.199] [INFO] queue - Adding job to queue: crtsh domain: greenhouse.io 
+[2019-10-23T16:33:47.199] [INFO] queue - Adding job to queue: crtsh domain: hacker101.com 
+[2019-10-23T16:33:47.199] [INFO] queue - Adding job to queue: crtsh domain: hackerone-ext-content.com 
+[2019-10-23T16:33:47.199] [INFO] queue - Adding job to queue: crtsh domain: hackerone-user-content.com 
+[2019-10-23T16:33:47.200] [INFO] queue - Adding job to queue: crtsh domain: hackerone.com 
+[2019-10-23T16:33:47.200] [INFO] queue - Adding job to queue: crtsh domain: hackerone.net 
+[2019-10-23T16:33:47.200] [INFO] queue - Adding job to queue: crtsh domain: istarbucks.co.kr 
+[2019-10-23T16:33:47.200] [INFO] queue - Adding job to queue: crtsh domain: labs-semrush.com 
+[2019-10-23T16:33:47.200] [INFO] queue - Adding job to queue: crtsh domain: legalrobot.com 
+[2019-10-23T16:33:47.200] [INFO] queue - Adding job to queue: crtsh domain: mobpub.com 
+[2019-10-23T16:33:47.201] [INFO] queue - Adding job to queue: crtsh domain: onelogin.com 
+[2019-10-23T16:33:47.201] [INFO] queue - Adding job to queue: crtsh domain: paypal.com 
+[2019-10-23T16:33:47.201] [INFO] queue - Adding job to queue: crtsh domain: periscope.tv 
+[2019-10-23T16:33:47.201] [INFO] queue - Adding job to queue: crtsh domain: pscp.tv 
+[2019-10-23T16:33:47.201] [INFO] queue - Adding job to queue: crtsh domain: semrush.com 
+[2019-10-23T16:33:47.201] [INFO] queue - Adding job to queue: crtsh domain: shipt.com
+[2019-10-23T16:33:47.201] [INFO] queue - Adding job to queue: crtsh domain: slack-files.com 
+[2019-10-23T16:33:47.201] [INFO] queue - Adding job to queue: crtsh domain: slack-imgs.com 
+[2019-10-23T16:33:47.202] [INFO] queue - Adding job to queue: crtsh domain: slack-redir.net 
+[2019-10-23T16:33:47.202] [INFO] queue - Adding job to queue: crtsh domain: slack.com 
+[2019-10-23T16:33:47.202] [INFO] queue - Adding job to queue: crtsh domain: slackatwork.com 
+[2019-10-23T16:33:47.202] [INFO] queue - Adding job to queue: crtsh domain: slackb.com 
+[2019-10-23T16:33:47.202] [INFO] queue - Adding job to queue: crtsh domain: spaces.pm 
+[2019-10-23T16:33:47.202] [INFO] queue - Adding job to queue: crtsh domain: starbucks.ca 
+[2019-10-23T16:33:47.202] [INFO] queue - Adding job to queue: crtsh domain: starbucks.co.jp 
+[2019-10-23T16:33:47.202] [INFO] queue - Adding job to queue: crtsh domain: starbucks.co.uk 
+[2019-10-23T16:33:47.202] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com 
+[2019-10-23T16:33:47.203] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.br 
+[2019-10-23T16:33:47.203] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.cn 
+[2019-10-23T16:33:47.203] [INFO] queue - Adding job to queue: crtsh domain: starbucks.com.sg 
+[2019-10-23T16:33:47.203] [INFO] queue - Adding job to queue: crtsh domain: starbucks.de 
+[2019-10-23T16:33:47.203] [INFO] queue - Adding job to queue: crtsh domain: starbucks.fr 
+[2019-10-23T16:33:47.203] [INFO] queue - Adding job to queue: crtsh domain: starbucksreserve.com 
+[2019-10-23T16:33:47.203] [INFO] queue - Adding job to queue: crtsh domain: twimg.com 
+[2019-10-23T16:33:47.203] [INFO] queue - Adding job to queue: crtsh domain: twitter.com 
+[2019-10-23T16:33:47.204] [INFO] queue - Adding job to queue: crtsh domain: uber.com 
+[2019-10-23T16:33:47.204] [INFO] queue - Adding job to queue: crtsh domain: uber.com.cn 
+[2019-10-23T16:33:47.204] [INFO] queue - Adding job to queue: crtsh domain: ubunt.com 
+[2019-10-23T16:33:47.204] [INFO] queue - Adding job to queue: crtsh domain: ui.com 
+[2019-10-23T16:33:47.204] [INFO] queue - Adding job to queue: crtsh domain: vine.co 
+[2019-10-23T16:33:47.224] [INFO] queue - Job added to queue: crtsh for domain: berush.com 
+[2019-10-23T16:33:47.224] [INFO] queue - Job added to queue: crtsh for domain: bitmoji.com 
+[2019-10-23T16:33:47.224] [INFO] queue - Job added to queue: crtsh for domain: bitstrips.com
+[2019-10-23T16:33:47.224] [INFO] queue - Job added to queue: crtsh for domain: events.semrush.com 
+[2019-10-23T16:33:47.224] [INFO] queue - Job added to queue: crtsh for domain: gnip.com 
+[2019-10-23T16:33:47.225] [INFO] queue - Job added to queue: crtsh for domain: greenhouse.io 
+[2019-10-23T16:33:47.225] [INFO] queue - Job added to queue: crtsh for domain: hacker101.com 
+[2019-10-23T16:33:47.225] [INFO] queue - Job added to queue: crtsh for domain: hackerone-ext-content.com 
+[2019-10-23T16:33:47.225] [INFO] queue - Job added to queue: crtsh for domain: hackerone-user-content.com 
+[2019-10-23T16:33:47.225] [INFO] queue - Job added to queue: crtsh for domain: hackerone.com 
+[2019-10-23T16:33:47.225] [INFO] queue - Job added to queue: crtsh for domain: hackerone.net 
+[2019-10-23T16:33:47.225] [INFO] queue - Job added to queue: crtsh for domain: istarbucks.co.kr 
+[2019-10-23T16:33:47.225] [INFO] queue - Job added to queue: crtsh for domain: labs-semrush.com 
+[2019-10-23T16:33:47.225] [INFO] queue - Job added to queue: crtsh for domain: legalrobot.com 
+[2019-10-23T16:33:47.226] [INFO] queue - Job added to queue: crtsh for domain: mobpub.com 
+[2019-10-23T16:33:47.226] [INFO] queue - Job added to queue: crtsh for domain: onelogin.com 
+[2019-10-23T16:33:47.226] [INFO] queue - Job added to queue: crtsh for domain: paypal.com 
+[2019-10-23T16:33:47.226] [INFO] queue - Job added to queue: crtsh for domain: periscope.tv 
+[2019-10-23T16:33:47.226] [INFO] queue - Job added to queue: crtsh for domain: pscp.tv 
+[2019-10-23T16:33:47.226] [INFO] queue - Job added to queue: crtsh for domain: semrush.com 
+[2019-10-23T16:33:47.227] [INFO] queue - Job added to queue: crtsh for domain: shipt.com
+[2019-10-23T16:33:47.227] [INFO] queue - Job added to queue: crtsh for domain: slack-files.com 
+[2019-10-23T16:33:47.228] [INFO] queue - Job added to queue: crtsh for domain: slack-imgs.com 
+[2019-10-23T16:33:47.228] [INFO] queue - Job added to queue: crtsh for domain: slack-redir.net 
+[2019-10-23T16:33:47.229] [INFO] queue - Job added to queue: crtsh for domain: slack.com 
+[2019-10-23T16:33:47.229] [INFO] queue - Job added to queue: crtsh for domain: slackatwork.com 
+[2019-10-23T16:33:47.230] [INFO] queue - Job added to queue: crtsh for domain: slackb.com 
+[2019-10-23T16:33:47.230] [INFO] queue - Job added to queue: crtsh for domain: spaces.pm 
+[2019-10-23T16:33:47.231] [INFO] queue - Job added to queue: crtsh for domain: starbucks.ca 
+[2019-10-23T16:33:47.231] [INFO] queue - Job added to queue: crtsh for domain: starbucks.co.jp 
+[2019-10-23T16:33:47.232] [INFO] queue - Job added to queue: crtsh for domain: starbucks.co.uk 
+[2019-10-23T16:33:47.242] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com 
+[2019-10-23T16:33:47.242] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.br 
+[2019-10-23T16:33:47.243] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.cn 
+[2019-10-23T16:33:47.243] [INFO] queue - Job added to queue: crtsh for domain: starbucks.com.sg 
+[2019-10-23T16:33:47.244] [INFO] queue - Job added to queue: crtsh for domain: starbucks.de 
+[2019-10-23T16:33:47.244] [INFO] queue - Job added to queue: crtsh for domain: starbucks.fr 
+[2019-10-23T16:33:47.254] [INFO] queue - Job added to queue: crtsh for domain: starbucksreserve.com 
+[2019-10-23T16:33:47.255] [INFO] queue - Job added to queue: crtsh for domain: twimg.com 
+[2019-10-23T16:33:47.263] [INFO] queue - Job added to queue: crtsh for domain: twitter.com 
+[2019-10-23T16:33:47.264] [INFO] queue - Job added to queue: crtsh for domain: uber.com 
+[2019-10-23T16:33:47.265] [INFO] queue - Job added to queue: crtsh for domain: uber.com.cn 
+[2019-10-23T16:33:47.273] [INFO] queue - Job added to queue: crtsh for domain: ubunt.com 
+[2019-10-23T16:33:47.273] [INFO] queue - Job added to queue: crtsh for domain: ui.com 
+[2019-10-23T16:33:47.274] [INFO] queue - Job added to queue: crtsh for domain: vine.co 
+[2019-10-23T16:33:47.286] [INFO] queue - A job has started in queue: crtsh domain: berush.com 
+[2019-10-23T16:33:47.288] [INFO] queue - A job has started in queue: crtsh domain: bitmoji.com 
+[2019-10-23T16:33:47.295] [INFO] queue - A job has started in queue: crtsh domain: bitstrips.com
+[2019-10-23T16:33:47.296] [INFO] queue - A job has started in queue: crtsh domain: events.semrush.com 
+[2019-10-23T16:33:47.305] [INFO] queue - A job has started in queue: crtsh domain: gnip.com 
+[2019-10-23T16:33:47.308] [INFO] queue - A job has started in queue: crtsh domain: greenhouse.io 
+[2019-10-23T16:33:47.308] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: berush.com 
+[2019-10-23T16:33:47.312] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: bitmoji.com 
+[2019-10-23T16:33:47.318] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: bitstrips.com
+[2019-10-23T16:33:47.325] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: events.semrush.com 
+[2019-10-23T16:33:47.326] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: gnip.com 
+[2019-10-23T16:33:47.328] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: greenhouse.io 
+[2019-10-23T16:33:48.455] [TRACE] queue - A job completed in queue: crtsh domain: events.semrush.com 
+[2019-10-23T16:33:48.461] [INFO] queue - A job has started in queue: crtsh domain: hacker101.com 
+[2019-10-23T16:33:48.471] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: hacker101.com 
+[2019-10-23T16:33:48.548] [TRACE] queue - A job completed in queue: crtsh domain: berush.com 
+[2019-10-23T16:33:48.554] [TRACE] queue - A job completed in queue: crtsh domain: bitmoji.com 
+[2019-10-23T16:33:48.563] [INFO] queue - A job has started in queue: crtsh domain: hackerone-ext-content.com 
+[2019-10-23T16:33:48.566] [INFO] queue - A job has started in queue: crtsh domain: hackerone-user-content.com 
+[2019-10-23T16:33:48.573] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: hackerone-ext-content.com 
+[2019-10-23T16:33:48.574] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: hackerone-user-content.com 
+[2019-10-23T16:33:49.101] [TRACE] queue - A job completed in queue: crtsh domain: bitstrips.com
+[2019-10-23T16:33:49.103] [INFO] queue - A job has started in queue: crtsh domain: hackerone.com 
+[2019-10-23T16:33:49.110] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: hackerone.com 
+[2019-10-23T16:33:50.173] [TRACE] queue - A job completed in queue: crtsh domain: hacker101.com 
+[2019-10-23T16:33:50.176] [INFO] queue - A job has started in queue: crtsh domain: hackerone.net 
+[2019-10-23T16:33:50.186] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: hackerone.net 
+[2019-10-23T16:33:50.840] [TRACE] queue - A job completed in queue: crtsh domain: hackerone-user-content.com 
+[2019-10-23T16:33:50.848] [INFO] queue - A job has started in queue: crtsh domain: istarbucks.co.kr 
+[2019-10-23T16:33:50.850] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: istarbucks.co.kr 
+[2019-10-23T16:33:51.155] [TRACE] queue - A job completed in queue: crtsh domain: hackerone-ext-content.com 
+[2019-10-23T16:33:51.157] [INFO] queue - A job has started in queue: crtsh domain: labs-semrush.com 
+[2019-10-23T16:33:51.166] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: labs-semrush.com 
+[2019-10-23T16:33:51.751] [TRACE] queue - A job completed in queue: crtsh domain: hackerone.com 
+[2019-10-23T16:33:51.752] [INFO] queue - A job has started in queue: crtsh domain: legalrobot.com 
+[2019-10-23T16:33:51.758] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: legalrobot.com 
+[2019-10-23T16:33:52.402] [TRACE] queue - A job completed in queue: crtsh domain: hackerone.net 
+[2019-10-23T16:33:52.403] [INFO] queue - A job has started in queue: crtsh domain: mobpub.com 
+[2019-10-23T16:33:52.404] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: mobpub.com 
+[2019-10-23T16:33:52.974] [TRACE] queue - A job completed in queue: crtsh domain: labs-semrush.com 
+[2019-10-23T16:33:52.996] [INFO] queue - A job has started in queue: crtsh domain: onelogin.com 
+[2019-10-23T16:33:52.998] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: onelogin.com 
+[2019-10-23T16:33:53.056] [TRACE] queue - A job completed in queue: crtsh domain: mobpub.com 
+[2019-10-23T16:33:53.058] [INFO] queue - A job has started in queue: crtsh domain: paypal.com 
+[2019-10-23T16:33:53.067] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: paypal.com 
+[2019-10-23T16:33:55.490] [TRACE] queue - A job completed in queue: crtsh domain: legalrobot.com 
+[2019-10-23T16:33:55.498] [INFO] queue - A job has started in queue: crtsh domain: periscope.tv 
+[2019-10-23T16:33:55.500] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: periscope.tv 
+[2019-10-23T16:33:56.307] [TRACE] queue - A job completed in queue: crtsh domain: istarbucks.co.kr 
+[2019-10-23T16:33:56.315] [INFO] queue - A job has started in queue: crtsh domain: pscp.tv 
+[2019-10-23T16:33:56.317] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: pscp.tv 
+[2019-10-23T16:33:56.487] [TRACE] queue - A job completed in queue: crtsh domain: onelogin.com 
+[2019-10-23T16:33:56.488] [INFO] queue - A job has started in queue: crtsh domain: semrush.com 
+[2019-10-23T16:33:56.489] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: semrush.com 
+[2019-10-23T16:33:57.741] [TRACE] queue - A job completed in queue: crtsh domain: periscope.tv 
+[2019-10-23T16:33:57.749] [INFO] queue - A job has started in queue: crtsh domain: shipt.com
+[2019-10-23T16:33:57.751] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: shipt.com
+[2019-10-23T16:33:59.135] [TRACE] queue - A job completed in queue: crtsh domain: gnip.com 
+[2019-10-23T16:33:59.142] [INFO] queue - A job has started in queue: crtsh domain: slack-files.com 
+[2019-10-23T16:33:59.144] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: slack-files.com 
+[2019-10-23T16:33:59.924] [TRACE] queue - A job completed in queue: crtsh domain: pscp.tv 
+[2019-10-23T16:33:59.926] [INFO] queue - A job has started in queue: crtsh domain: slack-imgs.com 
+[2019-10-23T16:33:59.937] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: slack-imgs.com 
+[2019-10-23T16:34:00.223] [TRACE] queue - A job completed in queue: crtsh domain: semrush.com 
+[2019-10-23T16:34:00.225] [INFO] queue - A job has started in queue: crtsh domain: slack-redir.net 
+[2019-10-23T16:34:00.236] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: slack-redir.net 
+[2019-10-23T16:34:01.252] [TRACE] queue - A job completed in queue: crtsh domain: slack-imgs.com 
+[2019-10-23T16:34:01.259] [INFO] queue - A job has started in queue: crtsh domain: slack.com 
+[2019-10-23T16:34:01.267] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: slack.com 
+[2019-10-23T16:34:02.698] [TRACE] queue - A job completed in queue: crtsh domain: shipt.com
+[2019-10-23T16:34:02.706] [INFO] queue - A job has started in queue: crtsh domain: slackatwork.com 
+[2019-10-23T16:34:02.708] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: slackatwork.com 
+[2019-10-23T16:34:04.039] [TRACE] queue - A job completed in queue: crtsh domain: slackatwork.com 
+[2019-10-23T16:34:04.040] [INFO] queue - A job has started in queue: crtsh domain: slackb.com 
+[2019-10-23T16:34:04.040] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: slackb.com 
+[2019-10-23T16:34:04.851] [TRACE] queue - A job completed in queue: crtsh domain: slackb.com 
+[2019-10-23T16:34:04.853] [INFO] queue - A job has started in queue: crtsh domain: spaces.pm 
+[2019-10-23T16:34:04.864] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: spaces.pm 
+[2019-10-23T16:34:05.581] [TRACE] queue - A job completed in queue: crtsh domain: spaces.pm 
+[2019-10-23T16:34:05.583] [INFO] queue - A job has started in queue: crtsh domain: starbucks.ca 
+[2019-10-23T16:34:05.590] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: starbucks.ca 
+[2019-10-23T16:34:06.024] [TRACE] queue - A job completed in queue: crtsh domain: slack-redir.net 
+[2019-10-23T16:34:06.025] [INFO] queue - A job has started in queue: crtsh domain: starbucks.co.jp 
+[2019-10-23T16:34:06.026] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: starbucks.co.jp 
+[2019-10-23T16:34:06.387] [TRACE] queue - A job completed in queue: crtsh domain: slack-files.com 
+[2019-10-23T16:34:06.388] [INFO] queue - A job has started in queue: crtsh domain: starbucks.co.uk 
+[2019-10-23T16:34:06.389] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: starbucks.co.uk 
+[2019-10-23T16:34:06.467] [TRACE] queue - A job completed in queue: crtsh domain: greenhouse.io 
+[2019-10-23T16:34:06.470] [INFO] queue - A job has started in queue: crtsh domain: starbucks.com 
+[2019-10-23T16:34:06.478] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: starbucks.com 
+[2019-10-23T16:34:08.530] [TRACE] queue - A job completed in queue: crtsh domain: starbucks.ca 
+[2019-10-23T16:34:08.537] [INFO] queue - A job has started in queue: crtsh domain: starbucks.com.br 
+[2019-10-23T16:34:08.539] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: starbucks.com.br 
+[2019-10-23T16:34:09.806] [TRACE] queue - A job completed in queue: crtsh domain: starbucks.co.uk 
+[2019-10-23T16:34:09.815] [INFO] queue - A job has started in queue: crtsh domain: starbucks.com.cn 
+[2019-10-23T16:34:09.817] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: starbucks.com.cn 
+[2019-10-23T16:34:10.951] [TRACE] queue - A job completed in queue: crtsh domain: starbucks.com.br 
+[2019-10-23T16:34:10.952] [INFO] queue - A job has started in queue: crtsh domain: starbucks.com.sg 
+[2019-10-23T16:34:10.961] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: starbucks.com.sg 
+[2019-10-23T16:34:10.999] [TRACE] queue - A job completed in queue: crtsh domain: starbucks.co.jp 
+[2019-10-23T16:34:11.006] [INFO] queue - A job has started in queue: crtsh domain: starbucks.de 
+[2019-10-23T16:34:11.008] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: starbucks.de 
+[2019-10-23T16:34:13.519] [TRACE] queue - A job completed in queue: crtsh domain: starbucks.de 
+[2019-10-23T16:34:13.521] [TRACE] queue - A job completed in queue: crtsh domain: starbucks.com.sg 
+[2019-10-23T16:34:13.530] [INFO] queue - A job has started in queue: crtsh domain: starbucks.fr 
+[2019-10-23T16:34:13.532] [INFO] queue - A job has started in queue: crtsh domain: starbucksreserve.com 
+[2019-10-23T16:34:13.540] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: starbucks.fr 
+[2019-10-23T16:34:13.541] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: starbucksreserve.com 
+[2019-10-23T16:34:14.996] [TRACE] queue - A job completed in queue: crtsh domain: starbucksreserve.com 
+[2019-10-23T16:34:15.003] [INFO] queue - A job has started in queue: crtsh domain: twimg.com 
+[2019-10-23T16:34:15.005] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: twimg.com 
+[2019-10-23T16:34:15.649] [TRACE] queue - A job completed in queue: crtsh domain: slack.com 
+[2019-10-23T16:34:15.651] [INFO] queue - A job has started in queue: crtsh domain: twitter.com 
+[2019-10-23T16:34:15.660] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: twitter.com 
+[2019-10-23T16:34:16.483] [TRACE] queue - A job completed in queue: crtsh domain: starbucks.fr 
+[2019-10-23T16:34:16.484] [INFO] queue - A job has started in queue: crtsh domain: uber.com 
+[2019-10-23T16:34:16.494] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: uber.com 
+[2019-10-23T16:34:20.610] [TRACE] queue - A job completed in queue: crtsh domain: starbucks.com.cn 
+[2019-10-23T16:34:20.617] [INFO] queue - A job has started in queue: crtsh domain: uber.com.cn 
+[2019-10-23T16:34:20.620] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: uber.com.cn 
+[2019-10-23T16:34:21.447] [TRACE] queue - A job completed in queue: crtsh domain: uber.com 
+[2019-10-23T16:34:21.454] [INFO] queue - A job has started in queue: crtsh domain: ubunt.com 
+[2019-10-23T16:34:21.464] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: ubunt.com 
+[2019-10-23T16:34:21.753] [TRACE] queue - A job completed in queue: crtsh domain: uber.com.cn 
+[2019-10-23T16:34:21.755] [INFO] queue - A job has started in queue: crtsh domain: ui.com 
+[2019-10-23T16:34:21.765] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: ui.com 
+[2019-10-23T16:34:22.096] [TRACE] queue - A job completed in queue: crtsh domain: ubunt.com 
+[2019-10-23T16:34:22.102] [INFO] queue - A job has started in queue: crtsh domain: vine.co 
+[2019-10-23T16:34:22.103] [INFO] queue - Lock aquired Successfully for task: ctrsh domain: vine.co 
+[2019-10-23T16:34:25.834] [TRACE] queue - A job completed in queue: crtsh domain: vine.co 
+[2019-10-23T16:34:25.842] [TRACE] queue - A job completed in queue: crtsh domain: twimg.com 
+[2019-10-23T16:34:27.463] [TRACE] queue - A job completed in queue: crtsh domain: paypal.com 
+[2019-10-23T16:34:31.441] [TRACE] queue - A job completed in queue: crtsh domain: twitter.com 
+[2019-10-23T16:34:32.881] [TRACE] queue - A job completed in queue: crtsh domain: ui.com 
+[2019-10-23T16:34:38.057] [TRACE] queue - A job completed in queue: crtsh domain: starbucks.com 

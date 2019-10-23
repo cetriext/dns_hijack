@@ -1,0 +1,5 @@
+images.bitmoji.com
+www.images.bitmoji.com
+support.bitmoji.com
+*.bitmoji.com
+sdk.bitmoji.com

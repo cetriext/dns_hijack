@@ -12,7 +12,6 @@ module.exports = function getDomainsFromCRTSH(domain, callback, retry = false){
             let result = new Set();
             domain = domain.replace(/ /g,"")
             let regexp = new RegExp("<TD>\\S*"+domain+"\\S*<\\/TD>","ig")
-            console.log(regexp)
             let matches = body.match(regexp)
             if(matches){
                 matches.map((res) => {
