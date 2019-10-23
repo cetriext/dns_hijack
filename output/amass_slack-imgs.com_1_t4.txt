@@ -1,0 +1,9 @@
+staging.slack-imgs.com
+slack-imgs.com
+dev.slack-imgs.com
+qa.slack-imgs.com
+dev-2014-09-08.slack-imgs.com
+www.slack-imgs.com
+global.slack-imgs.com
+a.slack-imgs.com
+b.slack-imgs.com

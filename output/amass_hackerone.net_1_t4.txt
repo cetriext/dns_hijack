@@ -1,0 +1,5 @@
+errors.hackerone.net
+www.hackerone.net
+hackerone.net
+vpn.hackerone.net
+pn.hackerone.net

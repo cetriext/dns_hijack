@@ -6,6 +6,8 @@ const queryCRTSH = require("../functions/api/certsh.js");
 const queryFBcrtsh = require("../functions/api/facebook-crt.js");
 const joindata = require("../utils/join-data")
 const log4js = require("log4js");
+const yargs = require("yargs").argv;
+
 
 require("dotenv").config();
 
@@ -145,7 +147,7 @@ class Queues{
                 logger.error(`Error while taking lock for task: ctlogs domain: ${job.data.domain} \r\n error: ${err}`)
             });
         })
-        this.fbcrtshQueue.process(4,(job, done) => {
+        this.fbcrtshQueue.process(6,(job, done) => {
             job.takeLock().then((res) => {
                 logger.info(`Lock aquired Successfully for task: fbcrtsh domain: ${job.data.domain}`)
                 queryFBcrtsh(job.data.domain, done);
@@ -153,7 +155,7 @@ class Queues{
                 logger.error(`Error while taking lock for task: ctlogs domain: ${job.data.domain} \r\n error: ${err}`)
             });
         })
-        this.crtshQueue.process(4,(job, done) => {
+        this.crtshQueue.process(6,(job, done) => {
             job.takeLock().then((res) => {
                 logger.info(`Lock aquired Successfully for task: ctrsh domain: ${job.data.domain}`)
                 queryCRTSH(job.data.domain, done);
@@ -272,11 +274,16 @@ class Queues{
         })
     }
     test(){
-        let array = ["starbucks.com"]
-        array.map((domain) => {
-            this.ctlogsQueue.add({domain: domain}).then(() => {
-                logger.info(`Job added to queue: ctlogs  for domain: ${domain}`)
-            })
+        let commands = yargs._;
+            let array = ["berush.com ", "bitmoji.com ", "bitstrips.com", "events.semrush.com ", "gnip.com ", "greenhouse.io ", "hacker101.com ", "hackerone-ext-content.com ", "hackerone-user-content.com ", "hackerone.com ", "hackerone.net ", "istarbucks.co.kr ", "labs-semrush.com ", "legalrobot.com ", "mobpub.com ", "onelogin.com ", "paypal.com ", "periscope.tv ", "pscp.tv ", "semrush.com ", "shipt.com", "slack-files.com ", "slack-imgs.com ", "slack-redir.net ", "slack.com ", "slackatwork.com ", "slackb.com ", "spaces.pm ", "starbucks.ca ", "starbucks.co.jp ", "starbucks.co.uk ", "starbucks.com ", "starbucks.com.br ", "starbucks.com.cn ", "starbucks.com.sg ", "starbucks.de ", "starbucks.fr ", "starbucksreserve.com ", "twimg.com ", "twitter.com ", "uber.com ", "uber.com.cn ", "ubunt.com ", "ui.com ", "vine.co "];
+            array.map((domain) => {
+                if(commands.includes("ctlogs")){
+                    this.addJobToQueue("ctlogs", domain)
+                } else if(commands.includes("crtsh")){
+                    this.addJobToQueue("crtsh", domain)
+                } else if(commands.includes("fbcrtsh")){
+                    this.addJobToQueue("fbcrtsh", domain)
+            }
         })
     }
 }

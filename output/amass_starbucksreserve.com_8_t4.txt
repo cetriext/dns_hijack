@@ -1,0 +1,9 @@
+www.starbucksreserve.com
+cert.sirencatalog.starbucksreserve.com
+preview.sirencatalog.starbucksreserve.com
+ar-milan.starbucksreserve.com
+ar-reserve.starbucksreserve.com
+cert.starbucksreserve.com
+sirencatalog.starbucksreserve.com
+preview.starbucksreserve.com
+www.cert.starbucksreserve.com

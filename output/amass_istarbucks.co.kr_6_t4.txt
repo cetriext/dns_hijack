@@ -1,0 +1,13 @@
+msr.istarbucks.co.kr
+etest.istarbucks.co.kr
+ps1.istarbucks.co.kr
+summer.istarbucks.co.kr
+autodiscover.istarbucks.co.kr
+log.istarbucks.co.kr
+partner.istarbucks.co.kr
+istarbucks.co.kr
+www.istarbucks.co.kr
+blog.istarbucks.co.kr
+lms.istarbucks.co.kr
+static.istarbucks.co.kr
+auth.istarbucks.co.kr
