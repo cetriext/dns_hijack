@@ -1,8 +1,6 @@
 events.semrush.com
 www.events.semrush.com
 ssl803028.cloudflaressl.com
-*.semrush.com
+semrush.com
 ssl803027.cloudflaressl.com
 ssl803026.cloudflaressl.com
-events.semrush.com
-semrush.com

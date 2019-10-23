@@ -13,7 +13,6 @@ pilot-payflowpro.paypal.com
 payflowpro.paypal.com
 mobileclient.paypal.com
 paypal.com
-*.paypal.com
 cxml-xmlpay.paypal.com
 pilot-cxml-xmlpay.paypal.com
 pilot-xml-reg.paypal.com
@@ -21,7 +20,7 @@ buyerauth-post.paypal.com
 pilot-buyerauth-post.paypal.com
 svcs.paypal.com
 svcs.sandbox.paypal.com
-*.stats.paypal.com
+stats.paypal.com
 properties.paypal.com
 www.paypal.com
 fpdbs.paypal.com
@@ -250,7 +249,6 @@ api.stage2p2310.stage.paypal.com
 phx-origin-mobileclient-1.paypal.com
 www.stage2std090.stage.paypal.com
 api.test20.stage.paypal.com
-api-aa.paypal.com
 dctest2.paypal.com
 www.stage2ms061.stage.paypal.com
 sip2.paypal.com
@@ -392,7 +390,6 @@ www.stage2d0090.stage.paypal.com
 api.stage2mobile10.paypal.com
 api.stage2std090.stage.paypal.com
 api.stage2mobile01.paypal.com
-email0.paypal.com
 smsapi.stage2mobile01.paypal.com
 emsadmin.stage2mobile10.paypal.com
 m.stage2mobile01.paypal.com
@@ -600,7 +597,6 @@ api-aa.beta-sandbox.paypal.com
 api.beta-sandbox.paypal.com
 ipn.beta-sandbox.paypal.com
 3pimages.beta-sandbox.paypal.com
-business.beta-sandbox.paypal.com
 securepayments.beta-sandbox.paypal.com
 api-aa-3t.beta-sandbox.paypal.com
 api-3t.beta-sandbox.paypal.com
@@ -630,11 +626,9 @@ pics.sandbox.paypal.com
 old-svcs.sandbox.paypal.com
 test-svcs.sandbox.paypal.com
 sha2-test-svcs.sandbox.paypal.com
-business.sandbox.paypal.com
 reports.sandbox.paypal.com
 api-aa-3t.sandbox.paypal.com
 api.stage2d0093.stage.paypal.com
-api-3t.sandbox.paypal.com
 old-api-3t.sandbox.paypal.com
 api.stage2mb003.stage.paypal.com
 test-api-3t.sandbox.paypal.com
@@ -645,7 +639,6 @@ api-slingshot.sandbox.paypal.com
 test.sandbox.paypal.com
 apiagw.sandbox.paypal.com
 www.stage2md003.stage.paypal.com
-www.sandbox.paypal.com
 origin1-svcs.sanbox.paypal.com
 api.stage2gce003.stage.paypal.com
 origin2-svcs.sanbox.paypal.com
@@ -1080,7 +1073,6 @@ web32.nix.paypal.com
 www.stage2p6598.stage.paypal.com
 web42.nix.paypal.com
 www.stage2md047.stage.paypal.com
-www.paypal.com
 www.stage2md028.stage.paypal.com
 web52.nix.paypal.com
 api.stage2std047.stage.paypal.com
@@ -1288,11 +1280,9 @@ pics.paypal.com
 api.test19.stage.paypal.com
 slc-b-origin-t.paypal.com
 www.ppb.stage.paypal.com
-svcs.paypal.com
 ss-api.paypal.com
 www.risku.stage.paypal.com
 www.spb.stage.paypal.com
-api-3t.paypal.com
 api.syfppc.stage.paypal.com
 api.syfppc-dev.stage.paypal.com
 api.stage2d0129.stage.paypal.com
@@ -1329,7 +1319,6 @@ api.stage2d0139.stage.paypal.com
 he.paypal.com
 pointofsale.paypal.com
 www.stage2d0139.stage.paypal.com
-xmlapi.paypal.com
 slc-a-origin-pointofsale.paypal.com
 mpapi.paypal.com
 www.stage2d0049.stage.paypal.com
@@ -1337,7 +1326,6 @@ slc-b-origin-pointofsale.paypal.com
 twofasapi.paypal.com
 phx-origin-pointofsale.paypal.com
 api.stage2mb049.stage.paypal.com
-mobile.paypal.com
 www.stage2mb049.stage.paypal.com
 64.4.247.26-reservedip.paypal.com
 devblog.paypal.com
@@ -1367,7 +1355,6 @@ slc-a-origin-demo.paypal.com
 www.test19.stage.paypal.com
 api.stage2ms059.stage.paypal.com
 xml-reg.paypal.com
-pilot-xml-reg.paypal.com
 www.stage2ms059.stage.paypal.com
 api.stage2d0029.stage.paypal.com
 fpti.paypal.com
@@ -1385,7 +1372,6 @@ onboarding.paypal.com
 id-auth.paypal.com
 pilot-payflowlink.paypal.com
 www.stage2mb029.stage.paypal.com
-api.paypal.com
 images.payflowlink.paypal.com
 www.ebayqe.stage.paypal.com
 64.4.247.27-reservedip.paypal.com
@@ -1395,7 +1381,6 @@ www.syfppc.stage.paypal.com
 www.stage2d0129.stage.paypal.com
 cbl.paypal.com
 api.stage2p1429.stage.paypal.com
-dl.paypal.com
 64.4.247.28-reservedip.paypal.com
 api-silo-3t-aa-dcg13.slc.paypal.com
 mail.paypal.com
@@ -1433,16 +1418,13 @@ slc-b-origin-demo.paypal.com
 web11.nix.paypal.com
 ppns2.den.paypal.com
 tsp.paypal.com
-business.paypal.com
 payment.paypal.com
 developer.paypal.com
-payflowpro.paypal.com
 admin.paypal.com
 beta.developer.paypal.com
 reports.paypal.com
 creditcenter.paypal.com
 reporting.ppmn.paypal.com
-pilot-payflowpro.paypal.com
 lyncdiscover.paypal.com
 api.ppmn.paypal.com
 proxo.paypal.com
@@ -1452,7 +1434,6 @@ dcg12-origin-mobileclient.paypal.com
 origin-t.paypal.com
 lvs2webfcon.paypal.com
 adjvendor.paypal.com
-api-aa-3t.paypal.com
 announcements.paypal.com
 pointofsale-s.paypal.com
 p.paypal.com
@@ -1486,12 +1467,8 @@ api-raz01-silo.paypal.com
 securepayments.paypal.com
 api-3t-raz01-silo.paypal.com
 slc-a-origin-api-s.paypal.com
-manager.paypal.com
 demo.paypal.com
-paypalmanager.paypal.com
 slc-b-origin-api-s.paypal.com
-partnermanager.paypal.com
-payflowlink.paypal.com
 registration.paypal.com
 pilot-coupons.paypal.com
 payments-reports.paypal.com
@@ -1503,7 +1480,6 @@ t.paypal.com
 api-t.paypal.com
 labs.paypal.com
 trinityres-segmentserv.paypal.com
-fpdbs.paypal.com
 api.financing-mint.paypal.com
 slc2.stats.paypal.com
 slc-a-origin-t.paypal.com
@@ -1530,11 +1506,9 @@ b.sbox.stats.paypal.com
 phx-origin-posprivatevpn-svcs.paypal.com
 tlstest.paypal.com
 posprivatevpn-svcs.paypal.com
-payflowpro.sandbox.paypal.com
 slc-a-origin-posprivatevpn-svcs.paypal.com
 slc.sbox.stats.paypal.com
 slc-b-origin-posprivatevpn-svcs.paypal.com
-pilot-buyerauth-post.paypal.com
 baas.sbox.stats.paypal.com
 securecards.paypal.com
 www.stageout.paypal.com
@@ -1543,8 +1517,6 @@ dcg12-origin-api-m.paypal.com
 posprivate-api-3t.paypal.com
 outbound2.den.paypal.com
 checkout.paypal.com
-test-expresscheckout.paypal.com
-images.paypal.com
 statedbru.paypal.com
 phx-origin-posprivatevpn-api-3t.paypal.com
 phx11av.paypal.com
@@ -1578,7 +1550,6 @@ pilot-payflowpro.ppv.paypal.com
 coupons.paypal.com
 cybercash-cr.ppv.paypal.com
 qa-coupons.paypal.com
-mobileclient.paypal.com
 dcg11-origin-mobileclient.paypal.com
 autodiscover.paypal.com
 rms.ppv.paypal.com
@@ -1590,7 +1561,6 @@ buyerauth-post.ppv.paypal.com
 fpdbs.sandbox.paypal.com
 pilot-buyerauth-post.ppv.paypal.com
 slc-b-origin-posprivatevpn-api-3t.paypal.com
-svcs.sandbox.paypal.com
 3pimages.sandbox.paypal.com
 cxml-xmlpay.ppv.paypal.com
 securepayments.sandbox.paypal.com
@@ -1602,14 +1572,10 @@ api-silo-3t-dcg11.paypal.com
 pandora.sandbox.paypal.com
 email-121.paypal.com
 email-131.paypal.com
-mobileclient.sandbox.paypal.com
 email-141.paypal.com
 origin-c.sandbox.paypal.com
 email-91.paypal.com
-wlsvc.ca1.paypal.com
 mpco-serv.betasandbox.paypal.com
-cxml-xmlpay.paypal.com
-pilot-cxml-xmlpay.paypal.com
 crmgateway.paypal.com
 notifications-90.paypal.com
 mail1.survey.paypal.com
@@ -1630,14 +1596,12 @@ api-silo-aa-dcg12.paypal.com
 api-silo-dcg12.paypal.com
 srv-1038406-1.paypal.com
 api-silo-3t-dcg12.paypal.com
-registration.sandbox.paypal.com
 email-122.paypal.com
 slc-origin-ipnpb-1.paypal.com
 email-132.paypal.com
 email-92.paypal.com
 phxpayflowwebf5-1-test-vip2.paypal.com
 email-113.paypal.com
-buyerauth-post.paypal.com
 api-silo-dcg13.paypal.com
 api-silo-3t-dcg13.paypal.com
 svcs-silo.dcg13.paypal.com
@@ -1647,7 +1611,6 @@ email-133.paypal.com
 email-83.paypal.com
 email-93.paypal.com
 active-c.sandbox.paypal.com
-cupapi.paypal.com
 phxpayflowwebf5-1-test-vip3.paypal.com
 email-112.paypal.com
 email-124.paypal.com
@@ -1660,12 +1623,10 @@ web-silo-slcb.paypal.com
 email-115.paypal.com
 api-silo-slcb.paypal.com
 email-125.paypal.com
-mpltapi.paypal.com
 email-135.paypal.com
 api-silo-3t-slcb.paypal.com
 email-85.paypal.com
 email-95.paypal.com
-svcs.private.paypal.com
 sc5frontf5-1-ext.sc5.paypal.com
 sc5frontf5-1a-ext.sc5.paypal.com
 sc5frontf5-1b-ext.sc5.paypal.com
@@ -1804,7 +1765,6 @@ node-66-211-168-192.networks.paypal.com
 node-64-4-241-247.networks.paypal.com
 3pimages.paypal.com
 node-64-4-241-3.networks.paypal.com
-properties.paypal.com
 network-64-4-241-0.networks.paypal.com
 node-66-211-168-3.networks.paypal.com
 node-64-4-241-100.networks.paypal.com
@@ -1943,7 +1903,6 @@ api-test.paypal.com
 ebayreports.paypal.com
 mpco-test.paypal.com
 about.paypal.com
-av.paypal.com
 ipn.beta-sandbox.pilot.paypal.com
 web63.nix.paypal.com
 ssp.paypal.com
@@ -2239,7 +2198,6 @@ trekker.paypal.com
 www.jpmc.stage.paypal.com
 slcoud1a.slc.paypal.com
 www.stage2d0149.stage.paypal.com
-paypal.com
 ffxadmin.paypal.com
 tms.stats.paypal.com
 www.stage2p2500.stage.paypal.com
@@ -2706,7 +2664,6 @@ www.stage2p1007.stage.paypal.com
 smcserv-vip-a.slc.paypal.com
 api.rm1006.stage.paypal.com
 compliance-admin.paypal.com
-stats.paypal.com
 www.stage2mblvs038.stage.paypal.com
 www.rm1001.stage.paypal.com
 api.rm1004.stage.paypal.com
@@ -2920,7 +2877,6 @@ api.stage2an3007.stage.paypal.com
 www.stage2mblvs031.stage.paypal.com
 sandbox-saml-sign.paypal.com
 www.stage2p1347.stage.paypal.com
-vps-ipn.paypal.com
 api.rm1003.stage.paypal.com
 api.stage2cp01.stage.paypal.com
 www.stage2p7501.stage.paypal.com
@@ -3289,7 +3245,6 @@ www.stage2du38.stage.paypal.com
 FPMS01.stage.paypal.com
 FPMS-client.stage.paypal.com
 Turboroller-api.phx.paypal.com
-*.qa.paypal.com
 FPMS01.live.paypal.com
 FPMS-client.live.paypal.com
 DEMO.PAYPAL.COM
@@ -3304,10 +3259,8 @@ LVS2SIP.paypal.com
 LVS2webfcon.PayPal.com
 Panel.stage.paypal.com
 SHA2-test-svcs.sandbox.paypal.com
-*.paypal.com
 API.paypal.com
 API-3T.paypal.com
-*.stats.paypal.com
 LyncdiscoverInternal.paypal.com
 lyncdiscoverInternal.paypal.com
 POSPRIVATE-API.PAYPAL.COM

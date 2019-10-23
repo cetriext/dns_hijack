@@ -5659,3 +5659,228 @@
 [2019-10-23T21:48:23.934] [TRACE] queue - A job completed in queue: join domain: ui.com
 [2019-10-23T21:48:23.943] [INFO] queue - Lock aquired Successfully for task: join domain: vine.co
 [2019-10-23T21:48:23.966] [TRACE] queue - A job completed in queue: join domain: vine.co
+[2019-10-23T21:50:47.249] [INFO] queue - Adding job to queue: clean domain: berush.com
+[2019-10-23T21:50:47.255] [INFO] queue - Adding job to queue: clean domain: bitmoji.com
+[2019-10-23T21:50:47.256] [INFO] queue - Adding job to queue: clean domain: bitstrips.com
+[2019-10-23T21:50:47.256] [INFO] queue - Adding job to queue: clean domain: events.semrush.com
+[2019-10-23T21:50:47.257] [INFO] queue - Adding job to queue: clean domain: gnip.com
+[2019-10-23T21:50:47.257] [INFO] queue - Adding job to queue: clean domain: greenhouse.io
+[2019-10-23T21:50:47.257] [INFO] queue - Adding job to queue: clean domain: hacker101.com
+[2019-10-23T21:50:47.258] [INFO] queue - Adding job to queue: clean domain: hackerone-ext-content.com
+[2019-10-23T21:50:47.258] [INFO] queue - Adding job to queue: clean domain: hackerone-user-content.com
+[2019-10-23T21:50:47.259] [INFO] queue - Adding job to queue: clean domain: hackerone.com
+[2019-10-23T21:50:47.259] [INFO] queue - Adding job to queue: clean domain: hackerone.net
+[2019-10-23T21:50:47.259] [INFO] queue - Adding job to queue: clean domain: istarbucks.co.kr
+[2019-10-23T21:50:47.260] [INFO] queue - Adding job to queue: clean domain: labs-semrush.com
+[2019-10-23T21:50:47.260] [INFO] queue - Adding job to queue: clean domain: legalrobot.com
+[2019-10-23T21:50:47.261] [INFO] queue - Adding job to queue: clean domain: mobpub.com
+[2019-10-23T21:50:47.261] [INFO] queue - Adding job to queue: clean domain: onelogin.com
+[2019-10-23T21:50:47.262] [INFO] queue - Adding job to queue: clean domain: paypal.com
+[2019-10-23T21:50:47.262] [INFO] queue - Adding job to queue: clean domain: periscope.tv
+[2019-10-23T21:50:47.263] [INFO] queue - Adding job to queue: clean domain: pscp.tv
+[2019-10-23T21:50:47.263] [INFO] queue - Adding job to queue: clean domain: semrush.com
+[2019-10-23T21:50:47.264] [INFO] queue - Adding job to queue: clean domain: shipt.com
+[2019-10-23T21:50:47.264] [INFO] queue - Adding job to queue: clean domain: slack-files.com
+[2019-10-23T21:50:47.264] [INFO] queue - Adding job to queue: clean domain: slack-imgs.com
+[2019-10-23T21:50:47.267] [INFO] queue - Adding job to queue: clean domain: slack-redir.net
+[2019-10-23T21:50:47.268] [INFO] queue - Adding job to queue: clean domain: slack.com
+[2019-10-23T21:50:47.268] [INFO] queue - Adding job to queue: clean domain: slackatwork.com
+[2019-10-23T21:50:47.269] [INFO] queue - Adding job to queue: clean domain: slackb.com
+[2019-10-23T21:50:47.269] [INFO] queue - Adding job to queue: clean domain: spaces.pm
+[2019-10-23T21:50:47.270] [INFO] queue - Adding job to queue: clean domain: starbucks.ca
+[2019-10-23T21:50:47.270] [INFO] queue - Adding job to queue: clean domain: starbucks.co.jp
+[2019-10-23T21:50:47.271] [INFO] queue - Adding job to queue: clean domain: starbucks.co.uk
+[2019-10-23T21:50:47.271] [INFO] queue - Adding job to queue: clean domain: starbucks.com
+[2019-10-23T21:50:47.271] [INFO] queue - Adding job to queue: clean domain: starbucks.com.br
+[2019-10-23T21:50:47.272] [INFO] queue - Adding job to queue: clean domain: starbucks.com.cn
+[2019-10-23T21:50:47.272] [INFO] queue - Adding job to queue: clean domain: starbucks.com.sg
+[2019-10-23T21:50:47.273] [INFO] queue - Adding job to queue: clean domain: starbucks.de
+[2019-10-23T21:50:47.273] [INFO] queue - Adding job to queue: clean domain: starbucks.fr
+[2019-10-23T21:50:47.273] [INFO] queue - Adding job to queue: clean domain: starbucksreserve.com
+[2019-10-23T21:50:47.274] [INFO] queue - Adding job to queue: clean domain: twimg.com
+[2019-10-23T21:50:47.274] [INFO] queue - Adding job to queue: clean domain: twitter.com
+[2019-10-23T21:50:47.275] [INFO] queue - Adding job to queue: clean domain: uber.com
+[2019-10-23T21:50:47.275] [INFO] queue - Adding job to queue: clean domain: uber.com.cn
+[2019-10-23T21:50:47.275] [INFO] queue - Adding job to queue: clean domain: ubunt.com
+[2019-10-23T21:50:47.276] [INFO] queue - Adding job to queue: clean domain: ui.com
+[2019-10-23T21:50:47.279] [INFO] queue - Adding job to queue: clean domain: vine.co
+[2019-10-23T21:50:47.317] [INFO] queue - Job added to queue: clean for domain: berush.com
+[2019-10-23T21:50:47.317] [INFO] queue - Job added to queue: clean for domain: bitmoji.com
+[2019-10-23T21:50:47.317] [INFO] queue - Job added to queue: clean for domain: bitstrips.com
+[2019-10-23T21:50:47.318] [INFO] queue - Job added to queue: clean for domain: events.semrush.com
+[2019-10-23T21:50:47.318] [INFO] queue - Job added to queue: clean for domain: gnip.com
+[2019-10-23T21:50:47.318] [INFO] queue - Job added to queue: clean for domain: greenhouse.io
+[2019-10-23T21:50:47.318] [INFO] queue - Job added to queue: clean for domain: hacker101.com
+[2019-10-23T21:50:47.319] [INFO] queue - Job added to queue: clean for domain: hackerone-ext-content.com
+[2019-10-23T21:50:47.319] [INFO] queue - Job added to queue: clean for domain: hackerone-user-content.com
+[2019-10-23T21:50:47.319] [INFO] queue - Job added to queue: clean for domain: hackerone.com
+[2019-10-23T21:50:47.319] [INFO] queue - Job added to queue: clean for domain: hackerone.net
+[2019-10-23T21:50:47.319] [INFO] queue - Job added to queue: clean for domain: istarbucks.co.kr
+[2019-10-23T21:50:47.320] [INFO] queue - Job added to queue: clean for domain: labs-semrush.com
+[2019-10-23T21:50:47.320] [INFO] queue - Job added to queue: clean for domain: legalrobot.com
+[2019-10-23T21:50:47.320] [INFO] queue - Job added to queue: clean for domain: mobpub.com
+[2019-10-23T21:50:47.320] [INFO] queue - Job added to queue: clean for domain: onelogin.com
+[2019-10-23T21:50:47.321] [INFO] queue - Job added to queue: clean for domain: paypal.com
+[2019-10-23T21:50:47.322] [INFO] queue - Job added to queue: clean for domain: periscope.tv
+[2019-10-23T21:50:47.323] [INFO] queue - Job added to queue: clean for domain: pscp.tv
+[2019-10-23T21:50:47.324] [INFO] queue - Job added to queue: clean for domain: semrush.com
+[2019-10-23T21:50:47.324] [INFO] queue - Job added to queue: clean for domain: shipt.com
+[2019-10-23T21:50:47.325] [INFO] queue - Job added to queue: clean for domain: slack-files.com
+[2019-10-23T21:50:47.326] [INFO] queue - Job added to queue: clean for domain: slack-imgs.com
+[2019-10-23T21:50:47.327] [INFO] queue - Job added to queue: clean for domain: slack-redir.net
+[2019-10-23T21:50:47.327] [INFO] queue - Job added to queue: clean for domain: slack.com
+[2019-10-23T21:50:47.339] [INFO] queue - Job added to queue: clean for domain: slackatwork.com
+[2019-10-23T21:50:47.341] [INFO] queue - Job added to queue: clean for domain: slackb.com
+[2019-10-23T21:50:47.342] [INFO] queue - Job added to queue: clean for domain: spaces.pm
+[2019-10-23T21:50:47.342] [INFO] queue - Job added to queue: clean for domain: starbucks.ca
+[2019-10-23T21:50:47.345] [INFO] queue - Job added to queue: clean for domain: starbucks.co.jp
+[2019-10-23T21:50:47.354] [INFO] queue - Job added to queue: clean for domain: starbucks.co.uk
+[2019-10-23T21:50:47.364] [INFO] queue - Job added to queue: clean for domain: starbucks.com
+[2019-10-23T21:50:47.368] [INFO] queue - Job added to queue: clean for domain: starbucks.com.br
+[2019-10-23T21:50:47.373] [INFO] queue - Job added to queue: clean for domain: starbucks.com.cn
+[2019-10-23T21:50:47.381] [INFO] queue - Job added to queue: clean for domain: starbucks.com.sg
+[2019-10-23T21:50:47.382] [INFO] queue - Job added to queue: clean for domain: starbucks.de
+[2019-10-23T21:50:47.389] [INFO] queue - Job added to queue: clean for domain: starbucks.fr
+[2019-10-23T21:50:47.397] [INFO] queue - Job added to queue: clean for domain: starbucksreserve.com
+[2019-10-23T21:50:47.405] [INFO] queue - Job added to queue: clean for domain: twimg.com
+[2019-10-23T21:50:47.407] [INFO] queue - Job added to queue: clean for domain: twitter.com
+[2019-10-23T21:50:47.408] [INFO] queue - Job added to queue: clean for domain: uber.com
+[2019-10-23T21:50:47.415] [INFO] queue - Job added to queue: clean for domain: uber.com.cn
+[2019-10-23T21:50:47.429] [INFO] queue - Job added to queue: clean for domain: ubunt.com
+[2019-10-23T21:50:47.431] [INFO] queue - Job added to queue: clean for domain: ui.com
+[2019-10-23T21:50:47.442] [INFO] queue - Job added to queue: clean for domain: vine.co
+[2019-10-23T21:50:47.491] [INFO] queue - A job has started in queue: clean domain: berush.com
+[2019-10-23T21:50:47.497] [INFO] queue - A job has started in queue: clean domain: bitmoji.com
+[2019-10-23T21:50:47.504] [INFO] queue - A job has started in queue: clean domain: bitstrips.com
+[2019-10-23T21:50:47.506] [INFO] queue - Lock aquired Successfully for task: clean domain: berush.com
+[2019-10-23T21:50:47.521] [INFO] queue - Lock aquired Successfully for task: clean domain: bitmoji.com
+[2019-10-23T21:50:47.530] [INFO] queue - Lock aquired Successfully for task: clean domain: bitstrips.com
+[2019-10-23T21:50:47.551] [TRACE] queue - A job completed in queue: clean domain: berush.com
+[2019-10-23T21:50:47.556] [TRACE] queue - A job completed in queue: clean domain: bitmoji.com
+[2019-10-23T21:50:47.562] [TRACE] queue - A job completed in queue: clean domain: bitstrips.com
+[2019-10-23T21:50:47.573] [INFO] queue - A job has started in queue: clean domain: events.semrush.com
+[2019-10-23T21:50:47.578] [INFO] queue - A job has started in queue: clean domain: gnip.com
+[2019-10-23T21:50:47.585] [INFO] queue - A job has started in queue: clean domain: greenhouse.io
+[2019-10-23T21:50:47.591] [INFO] queue - Lock aquired Successfully for task: clean domain: events.semrush.com
+[2019-10-23T21:50:47.609] [INFO] queue - Lock aquired Successfully for task: clean domain: gnip.com
+[2019-10-23T21:50:47.624] [INFO] queue - Lock aquired Successfully for task: clean domain: greenhouse.io
+[2019-10-23T21:50:47.648] [TRACE] queue - A job completed in queue: clean domain: events.semrush.com
+[2019-10-23T21:50:47.658] [TRACE] queue - A job completed in queue: clean domain: gnip.com
+[2019-10-23T21:50:47.660] [TRACE] queue - A job completed in queue: clean domain: greenhouse.io
+[2019-10-23T21:50:47.663] [INFO] queue - A job has started in queue: clean domain: hacker101.com
+[2019-10-23T21:50:47.676] [INFO] queue - A job has started in queue: clean domain: hackerone-ext-content.com
+[2019-10-23T21:50:47.678] [INFO] queue - A job has started in queue: clean domain: hackerone-user-content.com
+[2019-10-23T21:50:47.681] [INFO] queue - Lock aquired Successfully for task: clean domain: hacker101.com
+[2019-10-23T21:50:47.692] [INFO] queue - Lock aquired Successfully for task: clean domain: hackerone-ext-content.com
+[2019-10-23T21:50:47.707] [INFO] queue - Lock aquired Successfully for task: clean domain: hackerone-user-content.com
+[2019-10-23T21:50:47.728] [TRACE] queue - A job completed in queue: clean domain: hacker101.com
+[2019-10-23T21:50:47.730] [TRACE] queue - A job completed in queue: clean domain: hackerone-ext-content.com
+[2019-10-23T21:50:47.742] [TRACE] queue - A job completed in queue: clean domain: hackerone-user-content.com
+[2019-10-23T21:50:47.746] [INFO] queue - A job has started in queue: clean domain: hackerone.com
+[2019-10-23T21:50:47.758] [INFO] queue - A job has started in queue: clean domain: hackerone.net
+[2019-10-23T21:50:47.760] [INFO] queue - A job has started in queue: clean domain: istarbucks.co.kr
+[2019-10-23T21:50:47.766] [INFO] queue - Lock aquired Successfully for task: clean domain: hackerone.com
+[2019-10-23T21:50:47.791] [INFO] queue - Lock aquired Successfully for task: clean domain: hackerone.net
+[2019-10-23T21:50:47.807] [INFO] queue - Lock aquired Successfully for task: clean domain: istarbucks.co.kr
+[2019-10-23T21:50:47.827] [TRACE] queue - A job completed in queue: clean domain: hackerone.com
+[2019-10-23T21:50:47.829] [TRACE] queue - A job completed in queue: clean domain: hackerone.net
+[2019-10-23T21:50:47.834] [INFO] queue - A job has started in queue: clean domain: labs-semrush.com
+[2019-10-23T21:50:47.844] [INFO] queue - A job has started in queue: clean domain: legalrobot.com
+[2019-10-23T21:50:47.858] [TRACE] queue - A job completed in queue: clean domain: istarbucks.co.kr
+[2019-10-23T21:50:47.864] [INFO] queue - Lock aquired Successfully for task: clean domain: labs-semrush.com
+[2019-10-23T21:50:47.882] [INFO] queue - Lock aquired Successfully for task: clean domain: legalrobot.com
+[2019-10-23T21:50:47.909] [INFO] queue - A job has started in queue: clean domain: mobpub.com
+[2019-10-23T21:50:47.923] [TRACE] queue - A job completed in queue: clean domain: labs-semrush.com
+[2019-10-23T21:50:47.928] [TRACE] queue - A job completed in queue: clean domain: legalrobot.com
+[2019-10-23T21:50:47.938] [INFO] queue - Lock aquired Successfully for task: clean domain: mobpub.com
+[2019-10-23T21:50:47.953] [INFO] queue - A job has started in queue: clean domain: onelogin.com
+[2019-10-23T21:50:47.959] [INFO] queue - A job has started in queue: clean domain: paypal.com
+[2019-10-23T21:50:47.968] [TRACE] queue - A job completed in queue: clean domain: mobpub.com
+[2019-10-23T21:50:47.974] [INFO] queue - Lock aquired Successfully for task: clean domain: onelogin.com
+[2019-10-23T21:50:47.993] [INFO] queue - Lock aquired Successfully for task: clean domain: paypal.com
+[2019-10-23T21:50:48.014] [INFO] queue - A job has started in queue: clean domain: periscope.tv
+[2019-10-23T21:50:48.029] [TRACE] queue - A job completed in queue: clean domain: onelogin.com
+[2019-10-23T21:50:48.033] [TRACE] queue - A job completed in queue: clean domain: paypal.com
+[2019-10-23T21:50:48.043] [INFO] queue - Lock aquired Successfully for task: clean domain: periscope.tv
+[2019-10-23T21:50:48.061] [INFO] queue - A job has started in queue: clean domain: pscp.tv
+[2019-10-23T21:50:48.069] [INFO] queue - A job has started in queue: clean domain: semrush.com
+[2019-10-23T21:50:48.075] [TRACE] queue - A job completed in queue: clean domain: periscope.tv
+[2019-10-23T21:50:48.082] [INFO] queue - Lock aquired Successfully for task: clean domain: pscp.tv
+[2019-10-23T21:50:48.097] [INFO] queue - Lock aquired Successfully for task: clean domain: semrush.com
+[2019-10-23T21:50:48.132] [INFO] queue - A job has started in queue: clean domain: shipt.com
+[2019-10-23T21:50:48.141] [TRACE] queue - A job completed in queue: clean domain: pscp.tv
+[2019-10-23T21:50:48.147] [TRACE] queue - A job completed in queue: clean domain: semrush.com
+[2019-10-23T21:50:48.156] [INFO] queue - Lock aquired Successfully for task: clean domain: shipt.com
+[2019-10-23T21:50:48.176] [INFO] queue - A job has started in queue: clean domain: slack-files.com
+[2019-10-23T21:50:48.183] [INFO] queue - A job has started in queue: clean domain: slack-imgs.com
+[2019-10-23T21:50:48.189] [TRACE] queue - A job completed in queue: clean domain: shipt.com
+[2019-10-23T21:50:48.196] [INFO] queue - Lock aquired Successfully for task: clean domain: slack-files.com
+[2019-10-23T21:50:48.226] [INFO] queue - Lock aquired Successfully for task: clean domain: slack-imgs.com
+[2019-10-23T21:50:48.233] [INFO] queue - A job has started in queue: clean domain: slack-redir.net
+[2019-10-23T21:50:48.241] [TRACE] queue - A job completed in queue: clean domain: slack-files.com
+[2019-10-23T21:50:48.250] [TRACE] queue - A job completed in queue: clean domain: slack-imgs.com
+[2019-10-23T21:50:48.253] [INFO] queue - Lock aquired Successfully for task: clean domain: slack-redir.net
+[2019-10-23T21:50:48.278] [INFO] queue - A job has started in queue: clean domain: slack.com
+[2019-10-23T21:50:48.281] [INFO] queue - A job has started in queue: clean domain: slackatwork.com
+[2019-10-23T21:50:48.290] [TRACE] queue - A job completed in queue: clean domain: slack-redir.net
+[2019-10-23T21:50:48.294] [INFO] queue - Lock aquired Successfully for task: clean domain: slack.com
+[2019-10-23T21:50:48.374] [INFO] queue - Lock aquired Successfully for task: clean domain: slackatwork.com
+[2019-10-23T21:50:48.384] [INFO] queue - A job has started in queue: clean domain: slackb.com
+[2019-10-23T21:50:48.393] [TRACE] queue - A job completed in queue: clean domain: slack.com
+[2019-10-23T21:50:48.398] [TRACE] queue - A job completed in queue: clean domain: slackatwork.com
+[2019-10-23T21:50:48.407] [INFO] queue - Lock aquired Successfully for task: clean domain: slackb.com
+[2019-10-23T21:50:48.424] [INFO] queue - A job has started in queue: clean domain: spaces.pm
+[2019-10-23T21:50:48.428] [INFO] queue - A job has started in queue: clean domain: starbucks.ca
+[2019-10-23T21:50:48.440] [TRACE] queue - A job completed in queue: clean domain: slackb.com
+[2019-10-23T21:50:48.445] [INFO] queue - Lock aquired Successfully for task: clean domain: spaces.pm
+[2019-10-23T21:50:48.462] [INFO] queue - Lock aquired Successfully for task: clean domain: starbucks.ca
+[2019-10-23T21:50:48.480] [INFO] queue - A job has started in queue: clean domain: starbucks.co.jp
+[2019-10-23T21:50:48.489] [TRACE] queue - A job completed in queue: clean domain: spaces.pm
+[2019-10-23T21:50:48.494] [TRACE] queue - A job completed in queue: clean domain: starbucks.ca
+[2019-10-23T21:50:48.502] [INFO] queue - Lock aquired Successfully for task: clean domain: starbucks.co.jp
+[2019-10-23T21:50:48.517] [INFO] queue - A job has started in queue: clean domain: starbucks.co.uk
+[2019-10-23T21:50:48.520] [INFO] queue - A job has started in queue: clean domain: starbucks.com
+[2019-10-23T21:50:48.527] [TRACE] queue - A job completed in queue: clean domain: starbucks.co.jp
+[2019-10-23T21:50:48.533] [INFO] queue - Lock aquired Successfully for task: clean domain: starbucks.co.uk
+[2019-10-23T21:50:48.550] [INFO] queue - Lock aquired Successfully for task: clean domain: starbucks.com
+[2019-10-23T21:50:48.586] [INFO] queue - A job has started in queue: clean domain: starbucks.com.br
+[2019-10-23T21:50:48.590] [TRACE] queue - A job completed in queue: clean domain: starbucks.co.uk
+[2019-10-23T21:50:48.591] [TRACE] queue - A job completed in queue: clean domain: starbucks.com
+[2019-10-23T21:50:48.608] [INFO] queue - Lock aquired Successfully for task: clean domain: starbucks.com.br
+[2019-10-23T21:50:48.624] [INFO] queue - A job has started in queue: clean domain: starbucks.com.cn
+[2019-10-23T21:50:48.626] [INFO] queue - A job has started in queue: clean domain: starbucks.com.sg
+[2019-10-23T21:50:48.642] [TRACE] queue - A job completed in queue: clean domain: starbucks.com.br
+[2019-10-23T21:50:48.645] [INFO] queue - Lock aquired Successfully for task: clean domain: starbucks.com.cn
+[2019-10-23T21:50:48.658] [INFO] queue - Lock aquired Successfully for task: clean domain: starbucks.com.sg
+[2019-10-23T21:50:48.674] [INFO] queue - A job has started in queue: clean domain: starbucks.de
+[2019-10-23T21:50:48.676] [TRACE] queue - A job completed in queue: clean domain: starbucks.com.cn
+[2019-10-23T21:50:48.692] [TRACE] queue - A job completed in queue: clean domain: starbucks.com.sg
+[2019-10-23T21:50:48.694] [INFO] queue - Lock aquired Successfully for task: clean domain: starbucks.de
+[2019-10-23T21:50:48.708] [INFO] queue - A job has started in queue: clean domain: starbucks.fr
+[2019-10-23T21:50:48.715] [INFO] queue - A job has started in queue: clean domain: starbucksreserve.com
+[2019-10-23T21:50:48.726] [TRACE] queue - A job completed in queue: clean domain: starbucks.de
+[2019-10-23T21:50:48.728] [INFO] queue - Lock aquired Successfully for task: clean domain: starbucks.fr
+[2019-10-23T21:50:48.750] [INFO] queue - Lock aquired Successfully for task: clean domain: starbucksreserve.com
+[2019-10-23T21:50:48.767] [INFO] queue - A job has started in queue: clean domain: twimg.com
+[2019-10-23T21:50:48.774] [TRACE] queue - A job completed in queue: clean domain: starbucks.fr
+[2019-10-23T21:50:48.781] [TRACE] queue - A job completed in queue: clean domain: starbucksreserve.com
+[2019-10-23T21:50:48.792] [INFO] queue - Lock aquired Successfully for task: clean domain: twimg.com
+[2019-10-23T21:50:48.809] [INFO] queue - A job has started in queue: clean domain: twitter.com
+[2019-10-23T21:50:48.814] [INFO] queue - A job has started in queue: clean domain: uber.com
+[2019-10-23T21:50:48.823] [TRACE] queue - A job completed in queue: clean domain: twimg.com
+[2019-10-23T21:50:48.828] [INFO] queue - Lock aquired Successfully for task: clean domain: twitter.com
+[2019-10-23T21:50:48.851] [INFO] queue - Lock aquired Successfully for task: clean domain: uber.com
+[2019-10-23T21:50:48.873] [INFO] queue - A job has started in queue: clean domain: uber.com.cn
+[2019-10-23T21:50:48.879] [TRACE] queue - A job completed in queue: clean domain: twitter.com
+[2019-10-23T21:50:48.887] [TRACE] queue - A job completed in queue: clean domain: uber.com
+[2019-10-23T21:50:48.894] [INFO] queue - Lock aquired Successfully for task: clean domain: uber.com.cn
+[2019-10-23T21:50:48.912] [INFO] queue - A job has started in queue: clean domain: ubunt.com
+[2019-10-23T21:50:48.919] [INFO] queue - A job has started in queue: clean domain: ui.com
+[2019-10-23T21:50:48.925] [TRACE] queue - A job completed in queue: clean domain: uber.com.cn
+[2019-10-23T21:50:48.932] [INFO] queue - Lock aquired Successfully for task: clean domain: ubunt.com
+[2019-10-23T21:50:48.946] [INFO] queue - Lock aquired Successfully for task: clean domain: ui.com
+[2019-10-23T21:50:48.963] [INFO] queue - A job has started in queue: clean domain: vine.co
+[2019-10-23T21:50:48.966] [TRACE] queue - A job completed in queue: clean domain: ubunt.com
+[2019-10-23T21:50:48.972] [TRACE] queue - A job completed in queue: clean domain: ui.com
+[2019-10-23T21:50:48.979] [INFO] queue - Lock aquired Successfully for task: clean domain: vine.co
+[2019-10-23T21:50:48.993] [TRACE] queue - A job completed in queue: clean domain: vine.co

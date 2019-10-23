@@ -31,7 +31,6 @@ e.starbucks.com.cn
 cn.openvpn.west.wx.starbucks.com.cn
 cn.stg.openvpn.pos.dqr-boards.starbucks.com.cn
 cn.auth.starbucks.com.cn
-rewards.starbucks.com.cn
 roastery.starbucks.com.cn
 invoice.starbucks.com.cn
 zh.starbucks.com.cn
@@ -472,13 +471,9 @@ jf04zqh.o2odservice.starbucks.com.cn
 rewards.www.starbucks.com.cn
 huabei.starbucks.com.cn
 giftcards.starbucks.com.cn
-*.starbucks.com.cn
 Xbzstaging.starbucks.com.cn
-*.arm.starbucks.com.cn
-*.dqr.starbucks.com.cn
 customerexperienceSTG.starbucks.com.cn
 CEreport.starbucks.com.cn
-*.egifting.starbucks.com.cn
 Stg.admin.dqr.starbucks.com.cn
 Stg.app.dqr.starbucks.com.cn
 Stg.dqr.starbucks.com.cn
@@ -489,12 +484,9 @@ Score.sec-stg.starbucks.com.cn
 pulse.Sec.starbucks.com.cn
 Score.sec.starbucks.com.cn
 Roastery.starbucks.com.cn
-*.stg.starbucks.com.cn
 Xbz.starbucks.com.cn
 Stg.sgan.starbucks.com.cn
-*.ams-stg.starbucks.com.cn
 ssl406236.yunjiasussl.com
 ssl406235.yunjiasussl.com
 ssl406234.yunjiasussl.com
-*.hostucan.cn
 hostucan.cn

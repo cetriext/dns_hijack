@@ -1,6 +1,3 @@
 slackb.com
-*.slackb.com
 www.slackb.com
 dev.slackb.com
-slackb.com
-*.slackb.com

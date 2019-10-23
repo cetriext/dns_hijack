@@ -9,14 +9,3 @@ cert.sirencatalog.starbucksreserve.com
 cert.starbucksreserve.com
 www.cert.starbucksreserve.com
 roastery.starbucks.com
-www.starbucksreserve.com
-ar-milan.starbucksreserve.com
-sirencatalog.starbucksreserve.com
-cert.sirencatalog.starbucksreserve.com
-www.cert.starbucksreserve.com
-preview.sirencatalog.starbucksreserve.com
-cert.starbucksreserve.com
-preview.starbucksreserve.com
-ar-reserve.starbucksreserve.com
-starbucksreserve.com
-roastery.starbucks.com
