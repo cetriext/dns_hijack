@@ -10,8 +10,7 @@ module.exports = function getDomainsFromCRTSH(domain, callback, retry = false){
             callback("error","");
         } else {
             let result = new Set();
-            console.log(body);
-            let regexp = new RegExp("<TD>\\S*"+domain+"\\S*<\/TD>","ig")
+            let regexp = new RegExp("<TD>\\S*"+domain+"\\S*<\\/TD>","ig")
             let matches = body.match(regexp)
                 if(matches){
                     matches.map((res) => {
