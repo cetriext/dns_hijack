@@ -17,6 +17,28 @@ module.exports = function joinAmassData(domain, callback){
             })
         }
     })
+    dirData.map((file) => {
+        if(file.match(domain) && file.match(/crtsh/)){
+            let fileData = fs.readFileSync(location+file, "utf8");
+            fileData.split("\n").map((entry) => {
+                if(entry){
+                    entry = entry.replace("\n","")
+                    result.add(entry)
+                }
+            })
+        }
+    })
+    dirData.map((file) => {
+        if(file.match(domain) && file.match(/ctlogs/)){
+            let fileData = fs.readFileSync(location+file, "utf8");
+            fileData.split("\n").map((entry) => {
+                if(entry){
+                    entry = entry.replace("\n","")
+                    result.add(entry)
+                }
+            })
+        }
+    })
     let content = "";
     result.forEach((entry) => {
         content += entry + "\n"
