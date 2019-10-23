@@ -31,6 +31,6 @@ module.exports = function cleanResultsFile(domain, callback){
         content += entry + "\n"
     })
     fs.writeFileSync(location+ `${domain}_result.txt`, content);
-    logger.info(`Done cleaning result file for domain: ${domain} initialCount: ${intitalLength0} finalCount: ${result.size}`)
+    logger.info(`Done cleaning result file for domain: ${domain} initialCount: ${intitalLength} finalCount: ${result.size}`)
     callback(null, "success");
 }
