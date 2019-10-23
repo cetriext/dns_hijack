@@ -1,0 +1,12 @@
+store.ui.com
+*.ui.com
+*.ubnt.com
+ubnt.com
+ui.com
+*.dev.ui.com
+*.stg.ui.com
+goubiquiti.com
+uwn.com
+*.goubiquiti.com
+*.uwn.com
+www.ui.com

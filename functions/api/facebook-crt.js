@@ -32,7 +32,7 @@ function makeHttpCall(url, domain, callback){
         jar: j
     },(err, resp, body) => {
         if(err){
-            log.err(`Error in task: facebookcrt for domain: ${domain} with error: \r\n ${err}`);
+            log.error(`Error in task: facebookcrt for domain: ${domain} with error: \r\n ${err}`);
             errorCount++;
             if(errorCount < 5){
                 makeHttpCall(url, domain, callback);

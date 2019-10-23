@@ -323,9 +323,9 @@ class Queues{
     }
     test(){
         let commands = yargs._;
-            let array = ["berush.com ", "bitmoji.com", "bitstrips.com", "events.semrush.com ", "gnip.com", "greenhouse.io", "hacker101.com", "hackerone-ext-content.com", "hackerone-user-content.com", "hackerone.com", "hackerone.net", "istarbucks.co.kr", "labs-semrush.com", "legalrobot.com", "mobpub.com", "onelogin.com", "paypal.com", "periscope.tv", "pscp.tv", "semrush.com", "shipt.com", "slack-files.com", "slack-imgs.com", "slack-redir.net", "slack.com", "slackatwork.com", "slackb.com", "spaces.pm", "starbucks.ca", "starbucks.co.jp", "starbucks.co.uk", "starbucks.com", "starbucks.com.br", "starbucks.com.cn", "starbucks.com.sg", "starbucks.de", "starbucks.fr", "starbucksreserve.com", "twimg.com", "twitter.com", "uber.com", "uber.com.cn", "ubunt.com", "ui.com", "vine.co"];
+            let array = ["berush.com", "bitmoji.com", "bitstrips.com", "events.semrush.com ", "gnip.com", "greenhouse.io", "hacker101.com", "hackerone-ext-content.com", "hackerone-user-content.com", "hackerone.com", "hackerone.net", "istarbucks.co.kr", "labs-semrush.com", "legalrobot.com", "mobpub.com", "onelogin.com", "paypal.com", "periscope.tv", "pscp.tv", "semrush.com", "shipt.com", "slack-files.com", "slack-imgs.com", "slack-redir.net", "slack.com", "slackatwork.com", "slackb.com", "spaces.pm", "starbucks.ca", "starbucks.co.jp", "starbucks.co.uk", "starbucks.com", "starbucks.com.br", "starbucks.com.cn", "starbucks.com.sg", "starbucks.de", "starbucks.fr", "starbucksreserve.com", "twimg.com", "twitter.com", "uber.com", "uber.com.cn", "ubunt.com", "ui.com", "vine.co"];
             array.map((domain) => {
-                domain.replace(/ /g,"")
+                domain = domain.replace(/ /g,"")
                 if(commands.includes("ctlogs")){
                     this.addJobToQueue("ctlogs", domain)
                 } else if(commands.includes("crtsh")){

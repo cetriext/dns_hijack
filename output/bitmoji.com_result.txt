@@ -1,0 +1,10 @@
+www.images.bitmoji.com
+images.bitmoji.com
+support.lensstudio.snapchat.com
+support.spectacles.com
+support.snapstore.com
+support.bitmoji.com
+bitmoji.com
+support.lensstudio.com
+*.bitmoji.com
+sdk.bitmoji.com

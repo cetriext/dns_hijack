@@ -1,0 +1,15 @@
+*.staging-internal.bitstrips.com
+*.production-internal.bitstrips.com
+*.bitstrips.com
+avatar-api.bitstrips.com
+rendering-server-testing.prod.us-east.bitstrips.com
+rendering-service-internal.prod.us-east.bitstrips.com
+bitstrips.com
+character-rendering-service.prod.us-east.bitstrips.com
+rendering-service.wip.us-east.bitstrips.com
+character-rendering-service.staging.us-east.bitstrips.com
+rendering-service.staging.us-east.bitstrips.com
+rendering-service.prod.us-east.bitstrips.com
+staging.bitstrips.com
+secure.bitstrips.com
+www.secure.bitstrips.com
