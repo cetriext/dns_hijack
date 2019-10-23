@@ -3,3 +3,11 @@ ssl424551.cloudflaressl.com
 berush.com
 ssl424550.cloudflaressl.com
 sni.cloudflaressl.com
+berush.com
+www.berush.com
+teaser.berush.com
+bnpparibas.berush.com
+*.berush.com
+sni.cloudflaressl.com
+ssl424550.cloudflaressl.com
+ssl424551.cloudflaressl.com

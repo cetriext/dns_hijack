@@ -1,0 +1,11 @@
+box.ubunt.com
+www.ubunt.com
+one.ubunt.com
+wiki.ubunt.com
+help.ubunt.com
+server.ubunt.com
+security.ubunt.com
+archive.ubunt.com
+corp.ubunt.com
+download.ubunt.com
+ubunt.com
