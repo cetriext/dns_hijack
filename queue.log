@@ -4757,3 +4757,229 @@
 [2019-10-23T18:35:55.641] [TRACE] queue - A job completed in queue: clean domain: ui.com
 [2019-10-23T18:35:55.650] [INFO] queue - Lock aquired Successfully for task: clean domain: vine.co
 [2019-10-23T18:35:55.664] [TRACE] queue - A job completed in queue: clean domain: vine.co
+[2019-10-23T21:14:01.641] [INFO] queue - Adding job to queue: fbcrtsh domain: berush.com 
+[2019-10-23T21:14:01.652] [INFO] queue - Adding job to queue: fbcrtsh domain: bitmoji.com
+[2019-10-23T21:14:01.653] [INFO] queue - Adding job to queue: fbcrtsh domain: bitstrips.com
+[2019-10-23T21:14:01.653] [INFO] queue - Adding job to queue: fbcrtsh domain: events.semrush.com 
+[2019-10-23T21:14:01.654] [INFO] queue - Adding job to queue: fbcrtsh domain: gnip.com
+[2019-10-23T21:14:01.655] [INFO] queue - Adding job to queue: fbcrtsh domain: greenhouse.io
+[2019-10-23T21:14:01.655] [INFO] queue - Adding job to queue: fbcrtsh domain: hacker101.com
+[2019-10-23T21:14:01.656] [INFO] queue - Adding job to queue: fbcrtsh domain: hackerone-ext-content.com
+[2019-10-23T21:14:01.656] [INFO] queue - Adding job to queue: fbcrtsh domain: hackerone-user-content.com
+[2019-10-23T21:14:01.657] [INFO] queue - Adding job to queue: fbcrtsh domain: hackerone.com
+[2019-10-23T21:14:01.659] [INFO] queue - Adding job to queue: fbcrtsh domain: hackerone.net
+[2019-10-23T21:14:01.660] [INFO] queue - Adding job to queue: fbcrtsh domain: istarbucks.co.kr
+[2019-10-23T21:14:01.661] [INFO] queue - Adding job to queue: fbcrtsh domain: labs-semrush.com
+[2019-10-23T21:14:01.661] [INFO] queue - Adding job to queue: fbcrtsh domain: legalrobot.com
+[2019-10-23T21:14:01.662] [INFO] queue - Adding job to queue: fbcrtsh domain: mobpub.com
+[2019-10-23T21:14:01.662] [INFO] queue - Adding job to queue: fbcrtsh domain: onelogin.com
+[2019-10-23T21:14:01.663] [INFO] queue - Adding job to queue: fbcrtsh domain: paypal.com
+[2019-10-23T21:14:01.663] [INFO] queue - Adding job to queue: fbcrtsh domain: periscope.tv
+[2019-10-23T21:14:01.664] [INFO] queue - Adding job to queue: fbcrtsh domain: pscp.tv
+[2019-10-23T21:14:01.665] [INFO] queue - Adding job to queue: fbcrtsh domain: semrush.com
+[2019-10-23T21:14:01.665] [INFO] queue - Adding job to queue: fbcrtsh domain: shipt.com
+[2019-10-23T21:14:01.666] [INFO] queue - Adding job to queue: fbcrtsh domain: slack-files.com
+[2019-10-23T21:14:01.667] [INFO] queue - Adding job to queue: fbcrtsh domain: slack-imgs.com
+[2019-10-23T21:14:01.667] [INFO] queue - Adding job to queue: fbcrtsh domain: slack-redir.net
+[2019-10-23T21:14:01.668] [INFO] queue - Adding job to queue: fbcrtsh domain: slack.com
+[2019-10-23T21:14:01.668] [INFO] queue - Adding job to queue: fbcrtsh domain: slackatwork.com
+[2019-10-23T21:14:01.669] [INFO] queue - Adding job to queue: fbcrtsh domain: slackb.com
+[2019-10-23T21:14:01.670] [INFO] queue - Adding job to queue: fbcrtsh domain: spaces.pm
+[2019-10-23T21:14:01.671] [INFO] queue - Adding job to queue: fbcrtsh domain: starbucks.ca
+[2019-10-23T21:14:01.672] [INFO] queue - Adding job to queue: fbcrtsh domain: starbucks.co.jp
+[2019-10-23T21:14:01.673] [INFO] queue - Adding job to queue: fbcrtsh domain: starbucks.co.uk
+[2019-10-23T21:14:01.678] [INFO] queue - Adding job to queue: fbcrtsh domain: starbucks.com
+[2019-10-23T21:14:01.680] [INFO] queue - Adding job to queue: fbcrtsh domain: starbucks.com.br
+[2019-10-23T21:14:01.681] [INFO] queue - Adding job to queue: fbcrtsh domain: starbucks.com.cn
+[2019-10-23T21:14:01.682] [INFO] queue - Adding job to queue: fbcrtsh domain: starbucks.com.sg
+[2019-10-23T21:14:01.683] [INFO] queue - Adding job to queue: fbcrtsh domain: starbucks.de
+[2019-10-23T21:14:01.685] [INFO] queue - Adding job to queue: fbcrtsh domain: starbucks.fr
+[2019-10-23T21:14:01.686] [INFO] queue - Adding job to queue: fbcrtsh domain: starbucksreserve.com
+[2019-10-23T21:14:01.688] [INFO] queue - Adding job to queue: fbcrtsh domain: twimg.com
+[2019-10-23T21:14:01.688] [INFO] queue - Adding job to queue: fbcrtsh domain: twitter.com
+[2019-10-23T21:14:01.689] [INFO] queue - Adding job to queue: fbcrtsh domain: uber.com
+[2019-10-23T21:14:01.690] [INFO] queue - Adding job to queue: fbcrtsh domain: uber.com.cn
+[2019-10-23T21:14:01.691] [INFO] queue - Adding job to queue: fbcrtsh domain: ubunt.com
+[2019-10-23T21:14:01.691] [INFO] queue - Adding job to queue: fbcrtsh domain: ui.com
+[2019-10-23T21:14:01.692] [INFO] queue - Adding job to queue: fbcrtsh domain: vine.co
+[2019-10-23T21:14:01.721] [INFO] queue - Job added to queue: fbcrtsh for domain: berush.com 
+[2019-10-23T21:14:01.723] [INFO] queue - Job added to queue: fbcrtsh for domain: bitmoji.com
+[2019-10-23T21:14:01.724] [INFO] queue - Job added to queue: fbcrtsh for domain: bitstrips.com
+[2019-10-23T21:14:01.725] [INFO] queue - Job added to queue: fbcrtsh for domain: events.semrush.com 
+[2019-10-23T21:14:01.725] [INFO] queue - Job added to queue: fbcrtsh for domain: gnip.com
+[2019-10-23T21:14:01.726] [INFO] queue - Job added to queue: fbcrtsh for domain: greenhouse.io
+[2019-10-23T21:14:01.726] [INFO] queue - Job added to queue: fbcrtsh for domain: hacker101.com
+[2019-10-23T21:14:01.727] [INFO] queue - Job added to queue: fbcrtsh for domain: hackerone-ext-content.com
+[2019-10-23T21:14:01.728] [INFO] queue - Job added to queue: fbcrtsh for domain: hackerone-user-content.com
+[2019-10-23T21:14:01.728] [INFO] queue - Job added to queue: fbcrtsh for domain: hackerone.com
+[2019-10-23T21:14:01.729] [INFO] queue - Job added to queue: fbcrtsh for domain: hackerone.net
+[2019-10-23T21:14:01.729] [INFO] queue - Job added to queue: fbcrtsh for domain: istarbucks.co.kr
+[2019-10-23T21:14:01.730] [INFO] queue - Job added to queue: fbcrtsh for domain: labs-semrush.com
+[2019-10-23T21:14:01.730] [INFO] queue - Job added to queue: fbcrtsh for domain: legalrobot.com
+[2019-10-23T21:14:01.731] [INFO] queue - Job added to queue: fbcrtsh for domain: mobpub.com
+[2019-10-23T21:14:01.731] [INFO] queue - Job added to queue: fbcrtsh for domain: onelogin.com
+[2019-10-23T21:14:01.731] [INFO] queue - Job added to queue: fbcrtsh for domain: paypal.com
+[2019-10-23T21:14:01.732] [INFO] queue - Job added to queue: fbcrtsh for domain: periscope.tv
+[2019-10-23T21:14:01.732] [INFO] queue - Job added to queue: fbcrtsh for domain: pscp.tv
+[2019-10-23T21:14:01.733] [INFO] queue - Job added to queue: fbcrtsh for domain: semrush.com
+[2019-10-23T21:14:01.733] [INFO] queue - Job added to queue: fbcrtsh for domain: shipt.com
+[2019-10-23T21:14:01.734] [INFO] queue - Job added to queue: fbcrtsh for domain: slack-files.com
+[2019-10-23T21:14:01.734] [INFO] queue - Job added to queue: fbcrtsh for domain: slack-imgs.com
+[2019-10-23T21:14:01.734] [INFO] queue - Job added to queue: fbcrtsh for domain: slack-redir.net
+[2019-10-23T21:14:01.735] [INFO] queue - Job added to queue: fbcrtsh for domain: slack.com
+[2019-10-23T21:14:01.735] [INFO] queue - Job added to queue: fbcrtsh for domain: slackatwork.com
+[2019-10-23T21:14:01.736] [INFO] queue - Job added to queue: fbcrtsh for domain: slackb.com
+[2019-10-23T21:14:01.736] [INFO] queue - Job added to queue: fbcrtsh for domain: spaces.pm
+[2019-10-23T21:14:01.736] [INFO] queue - Job added to queue: fbcrtsh for domain: starbucks.ca
+[2019-10-23T21:14:01.737] [INFO] queue - Job added to queue: fbcrtsh for domain: starbucks.co.jp
+[2019-10-23T21:14:01.740] [INFO] queue - Job added to queue: fbcrtsh for domain: starbucks.co.uk
+[2019-10-23T21:14:01.741] [INFO] queue - Job added to queue: fbcrtsh for domain: starbucks.com
+[2019-10-23T21:14:01.742] [INFO] queue - Job added to queue: fbcrtsh for domain: starbucks.com.br
+[2019-10-23T21:14:01.743] [INFO] queue - Job added to queue: fbcrtsh for domain: starbucks.com.cn
+[2019-10-23T21:14:01.743] [INFO] queue - Job added to queue: fbcrtsh for domain: starbucks.com.sg
+[2019-10-23T21:14:01.744] [INFO] queue - Job added to queue: fbcrtsh for domain: starbucks.de
+[2019-10-23T21:14:01.744] [INFO] queue - Job added to queue: fbcrtsh for domain: starbucks.fr
+[2019-10-23T21:14:01.745] [INFO] queue - Job added to queue: fbcrtsh for domain: starbucksreserve.com
+[2019-10-23T21:14:01.746] [INFO] queue - Job added to queue: fbcrtsh for domain: twimg.com
+[2019-10-23T21:14:01.747] [INFO] queue - Job added to queue: fbcrtsh for domain: twitter.com
+[2019-10-23T21:14:01.747] [INFO] queue - Job added to queue: fbcrtsh for domain: uber.com
+[2019-10-23T21:14:01.748] [INFO] queue - Job added to queue: fbcrtsh for domain: uber.com.cn
+[2019-10-23T21:14:01.748] [INFO] queue - Job added to queue: fbcrtsh for domain: ubunt.com
+[2019-10-23T21:14:01.749] [INFO] queue - Job added to queue: fbcrtsh for domain: ui.com
+[2019-10-23T21:14:01.749] [INFO] queue - Job added to queue: fbcrtsh for domain: vine.co
+[2019-10-23T21:14:01.769] [INFO] queue - A job has started in queue: fbcrtsh domain: berush.com 
+[2019-10-23T21:14:01.771] [INFO] queue - A job has started in queue: fbcrtsh domain: bitmoji.com
+[2019-10-23T21:14:01.772] [INFO] queue - A job has started in queue: fbcrtsh domain: bitstrips.com
+[2019-10-23T21:14:01.774] [INFO] queue - A job has started in queue: fbcrtsh domain: events.semrush.com 
+[2019-10-23T21:14:01.774] [INFO] queue - A job has started in queue: fbcrtsh domain: gnip.com
+[2019-10-23T21:14:01.776] [INFO] queue - A job has started in queue: fbcrtsh domain: greenhouse.io
+[2019-10-23T21:14:01.777] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: berush.com 
+[2019-10-23T21:14:01.840] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: bitmoji.com
+[2019-10-23T21:14:01.850] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: bitstrips.com
+[2019-10-23T21:14:01.857] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: events.semrush.com 
+[2019-10-23T21:14:01.860] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: gnip.com
+[2019-10-23T21:14:01.863] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: greenhouse.io
+[2019-10-23T21:14:02.583] [TRACE] queue - A job completed in queue: fbcrtsh domain: berush.com 
+[2019-10-23T21:14:02.603] [TRACE] queue - A job completed in queue: fbcrtsh domain: events.semrush.com 
+[2019-10-23T21:14:02.610] [INFO] queue - A job has started in queue: fbcrtsh domain: hacker101.com
+[2019-10-23T21:14:02.615] [INFO] queue - A job has started in queue: fbcrtsh domain: hackerone-ext-content.com
+[2019-10-23T21:14:02.620] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: hacker101.com
+[2019-10-23T21:14:02.625] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: hackerone-ext-content.com
+[2019-10-23T21:14:02.656] [TRACE] queue - A job completed in queue: fbcrtsh domain: bitmoji.com
+[2019-10-23T21:14:02.658] [INFO] queue - A job has started in queue: fbcrtsh domain: hackerone-user-content.com
+[2019-10-23T21:14:02.660] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: hackerone-user-content.com
+[2019-10-23T21:14:02.772] [TRACE] queue - A job completed in queue: fbcrtsh domain: bitstrips.com
+[2019-10-23T21:14:02.775] [INFO] queue - A job has started in queue: fbcrtsh domain: hackerone.com
+[2019-10-23T21:14:02.777] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: hackerone.com
+[2019-10-23T21:14:03.782] [TRACE] queue - A job completed in queue: fbcrtsh domain: hackerone-ext-content.com
+[2019-10-23T21:14:03.786] [INFO] queue - A job has started in queue: fbcrtsh domain: hackerone.net
+[2019-10-23T21:14:03.789] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: hackerone.net
+[2019-10-23T21:14:04.363] [TRACE] queue - A job completed in queue: fbcrtsh domain: hackerone-user-content.com
+[2019-10-23T21:14:04.365] [INFO] queue - A job has started in queue: fbcrtsh domain: istarbucks.co.kr
+[2019-10-23T21:14:04.369] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: istarbucks.co.kr
+[2019-10-23T21:14:04.452] [TRACE] queue - A job completed in queue: fbcrtsh domain: hacker101.com
+[2019-10-23T21:14:04.456] [INFO] queue - A job has started in queue: fbcrtsh domain: labs-semrush.com
+[2019-10-23T21:14:04.458] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: labs-semrush.com
+[2019-10-23T21:14:05.235] [TRACE] queue - A job completed in queue: fbcrtsh domain: hackerone.net
+[2019-10-23T21:14:05.240] [INFO] queue - A job has started in queue: fbcrtsh domain: legalrobot.com
+[2019-10-23T21:14:05.247] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: legalrobot.com
+[2019-10-23T21:14:05.941] [TRACE] queue - A job completed in queue: fbcrtsh domain: labs-semrush.com
+[2019-10-23T21:14:05.947] [INFO] queue - A job has started in queue: fbcrtsh domain: mobpub.com
+[2019-10-23T21:14:05.951] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: mobpub.com
+[2019-10-23T21:14:06.839] [TRACE] queue - A job completed in queue: fbcrtsh domain: mobpub.com
+[2019-10-23T21:14:06.842] [INFO] queue - A job has started in queue: fbcrtsh domain: onelogin.com
+[2019-10-23T21:14:06.844] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: onelogin.com
+[2019-10-23T21:14:07.024] [TRACE] queue - A job completed in queue: fbcrtsh domain: hackerone.com
+[2019-10-23T21:14:07.030] [INFO] queue - A job has started in queue: fbcrtsh domain: paypal.com
+[2019-10-23T21:14:07.034] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: paypal.com
+[2019-10-23T21:14:10.427] [TRACE] queue - A job completed in queue: fbcrtsh domain: legalrobot.com
+[2019-10-23T21:14:10.432] [INFO] queue - A job has started in queue: fbcrtsh domain: periscope.tv
+[2019-10-23T21:14:10.436] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: periscope.tv
+[2019-10-23T21:14:11.140] [TRACE] queue - A job completed in queue: fbcrtsh domain: onelogin.com
+[2019-10-23T21:14:11.141] [INFO] queue - A job has started in queue: fbcrtsh domain: pscp.tv
+[2019-10-23T21:14:11.144] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: pscp.tv
+[2019-10-23T21:14:11.277] [TRACE] queue - A job completed in queue: fbcrtsh domain: istarbucks.co.kr
+[2019-10-23T21:14:11.282] [INFO] queue - A job has started in queue: fbcrtsh domain: semrush.com
+[2019-10-23T21:14:11.287] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: semrush.com
+[2019-10-23T21:14:13.171] [TRACE] queue - A job completed in queue: fbcrtsh domain: periscope.tv
+[2019-10-23T21:14:13.176] [INFO] queue - A job has started in queue: fbcrtsh domain: shipt.com
+[2019-10-23T21:14:13.180] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: shipt.com
+[2019-10-23T21:14:15.149] [TRACE] queue - A job completed in queue: fbcrtsh domain: pscp.tv
+[2019-10-23T21:14:15.160] [INFO] queue - A job has started in queue: fbcrtsh domain: slack-files.com
+[2019-10-23T21:14:15.168] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: slack-files.com
+[2019-10-23T21:14:15.545] [TRACE] queue - A job completed in queue: fbcrtsh domain: semrush.com
+[2019-10-23T21:14:15.550] [INFO] queue - A job has started in queue: fbcrtsh domain: slack-imgs.com
+[2019-10-23T21:14:15.553] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: slack-imgs.com
+[2019-10-23T21:14:16.373] [TRACE] queue - A job completed in queue: fbcrtsh domain: slack-imgs.com
+[2019-10-23T21:14:16.379] [INFO] queue - A job has started in queue: fbcrtsh domain: slack-redir.net
+[2019-10-23T21:14:16.382] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: slack-redir.net
+[2019-10-23T21:14:19.189] [TRACE] queue - A job completed in queue: fbcrtsh domain: slack-files.com
+[2019-10-23T21:14:19.192] [INFO] queue - A job has started in queue: fbcrtsh domain: slack.com
+[2019-10-23T21:14:19.194] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: slack.com
+[2019-10-23T21:14:19.506] [TRACE] queue - A job completed in queue: fbcrtsh domain: shipt.com
+[2019-10-23T21:14:19.508] [INFO] queue - A job has started in queue: fbcrtsh domain: slackatwork.com
+[2019-10-23T21:14:19.510] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: slackatwork.com
+[2019-10-23T21:14:20.258] [TRACE] queue - A job completed in queue: fbcrtsh domain: slackatwork.com
+[2019-10-23T21:14:20.261] [INFO] queue - A job has started in queue: fbcrtsh domain: slackb.com
+[2019-10-23T21:14:20.262] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: slackb.com
+[2019-10-23T21:14:20.638] [TRACE] queue - A job completed in queue: fbcrtsh domain: slack-redir.net
+[2019-10-23T21:14:20.643] [INFO] queue - A job has started in queue: fbcrtsh domain: spaces.pm
+[2019-10-23T21:14:20.646] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: spaces.pm
+[2019-10-23T21:14:21.092] [TRACE] queue - A job completed in queue: fbcrtsh domain: slackb.com
+[2019-10-23T21:14:21.097] [INFO] queue - A job has started in queue: fbcrtsh domain: starbucks.ca
+[2019-10-23T21:14:21.148] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: starbucks.ca
+[2019-10-23T21:14:21.239] [TRACE] queue - A job completed in queue: fbcrtsh domain: spaces.pm
+[2019-10-23T21:14:21.242] [INFO] queue - A job has started in queue: fbcrtsh domain: starbucks.co.jp
+[2019-10-23T21:14:21.244] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: starbucks.co.jp
+[2019-10-23T21:14:23.327] [TRACE] queue - A job completed in queue: fbcrtsh domain: starbucks.ca
+[2019-10-23T21:14:23.331] [INFO] queue - A job has started in queue: fbcrtsh domain: starbucks.co.uk
+[2019-10-23T21:14:23.335] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: starbucks.co.uk
+[2019-10-23T21:14:25.664] [TRACE] queue - A job completed in queue: fbcrtsh domain: starbucks.co.uk
+[2019-10-23T21:14:25.668] [INFO] queue - A job has started in queue: fbcrtsh domain: starbucks.com
+[2019-10-23T21:14:25.669] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: starbucks.com
+[2019-10-23T21:14:25.881] [TRACE] queue - A job completed in queue: fbcrtsh domain: slack.com
+[2019-10-23T21:14:25.884] [INFO] queue - A job has started in queue: fbcrtsh domain: starbucks.com.br
+[2019-10-23T21:14:25.886] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: starbucks.com.br
+[2019-10-23T21:14:26.270] [TRACE] queue - A job completed in queue: fbcrtsh domain: starbucks.co.jp
+[2019-10-23T21:14:26.272] [INFO] queue - A job has started in queue: fbcrtsh domain: starbucks.com.cn
+[2019-10-23T21:14:26.274] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: starbucks.com.cn
+[2019-10-23T21:14:27.298] [TRACE] queue - A job completed in queue: fbcrtsh domain: starbucks.com.br
+[2019-10-23T21:14:27.301] [INFO] queue - A job has started in queue: fbcrtsh domain: starbucks.com.sg
+[2019-10-23T21:14:27.303] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: starbucks.com.sg
+[2019-10-23T21:14:28.819] [TRACE] queue - A job completed in queue: fbcrtsh domain: starbucks.com.sg
+[2019-10-23T21:14:28.826] [INFO] queue - A job has started in queue: fbcrtsh domain: starbucks.de
+[2019-10-23T21:14:28.828] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: starbucks.de
+[2019-10-23T21:14:30.847] [TRACE] queue - A job completed in queue: fbcrtsh domain: starbucks.de
+[2019-10-23T21:14:30.852] [INFO] queue - A job has started in queue: fbcrtsh domain: starbucks.fr
+[2019-10-23T21:14:30.854] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: starbucks.fr
+[2019-10-23T21:14:33.268] [TRACE] queue - A job completed in queue: fbcrtsh domain: starbucks.fr
+[2019-10-23T21:14:33.274] [INFO] queue - A job has started in queue: fbcrtsh domain: starbucksreserve.com
+[2019-10-23T21:14:33.276] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: starbucksreserve.com
+[2019-10-23T21:14:33.879] [TRACE] queue - A job completed in queue: fbcrtsh domain: starbucksreserve.com
+[2019-10-23T21:14:33.884] [INFO] queue - A job has started in queue: fbcrtsh domain: twimg.com
+[2019-10-23T21:14:33.887] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: twimg.com
+[2019-10-23T21:14:36.679] [TRACE] queue - A job completed in queue: fbcrtsh domain: gnip.com
+[2019-10-23T21:14:36.685] [INFO] queue - A job has started in queue: fbcrtsh domain: twitter.com
+[2019-10-23T21:14:36.688] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: twitter.com
+[2019-10-23T21:14:41.662] [TRACE] queue - A job completed in queue: fbcrtsh domain: twimg.com
+[2019-10-23T21:14:41.666] [INFO] queue - A job has started in queue: fbcrtsh domain: uber.com
+[2019-10-23T21:14:41.669] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: uber.com
+[2019-10-23T21:14:41.747] [TRACE] queue - A job completed in queue: fbcrtsh domain: starbucks.com.cn
+[2019-10-23T21:14:41.751] [INFO] queue - A job has started in queue: fbcrtsh domain: uber.com.cn
+[2019-10-23T21:14:41.753] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: uber.com.cn
+[2019-10-23T21:14:42.673] [TRACE] queue - A job completed in queue: fbcrtsh domain: uber.com.cn
+[2019-10-23T21:14:42.678] [INFO] queue - A job has started in queue: fbcrtsh domain: ubunt.com
+[2019-10-23T21:14:42.680] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: ubunt.com
+[2019-10-23T21:14:43.169] [TRACE] queue - A job completed in queue: fbcrtsh domain: ubunt.com
+[2019-10-23T21:14:43.176] [INFO] queue - A job has started in queue: fbcrtsh domain: ui.com
+[2019-10-23T21:14:43.177] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: ui.com
+[2019-10-23T21:14:46.242] [TRACE] queue - A job completed in queue: fbcrtsh domain: greenhouse.io
+[2019-10-23T21:14:46.247] [INFO] queue - A job has started in queue: fbcrtsh domain: vine.co
+[2019-10-23T21:14:46.250] [INFO] queue - Lock aquired Successfully for task: fbcrtsh domain: vine.co
+[2019-10-23T21:14:46.591] [TRACE] queue - A job completed in queue: fbcrtsh domain: uber.com
+[2019-10-23T21:14:49.130] [TRACE] queue - A job completed in queue: fbcrtsh domain: vine.co
+[2019-10-23T21:14:50.420] [TRACE] queue - A job completed in queue: fbcrtsh domain: twitter.com
+[2019-10-23T21:14:52.951] [TRACE] queue - A job completed in queue: fbcrtsh domain: ui.com
+[2019-10-23T21:15:10.750] [TRACE] queue - A job completed in queue: fbcrtsh domain: paypal.com
+[2019-10-23T21:16:26.988] [TRACE] queue - A job completed in queue: fbcrtsh domain: starbucks.com
+[2019-10-23T21:16:26.996] [DEBUG] queue - Queue empty queuename: FBCRTSH

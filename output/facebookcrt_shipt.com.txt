@@ -1,0 +1,8 @@
+kerfuffle.shipt.com
+prod-kerfuffle.shipt.com
+staging-kerfuffle.shipt.com
+shipt.com
+www.shipt.com
+shop.shipt.com
+*.shipt.com
+*.staging.shipt.com
