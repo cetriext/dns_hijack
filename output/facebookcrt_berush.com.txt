@@ -1,5 +1,0 @@
-*.berush.com
-ssl424551.cloudflaressl.com
-berush.com
-ssl424550.cloudflaressl.com
-sni.cloudflaressl.com

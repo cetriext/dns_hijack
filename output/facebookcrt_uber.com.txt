@@ -1,4 +1,0 @@
-blog.uber.com
-*.uber.com
-uber.com
-team.uber.com

@@ -1,2 +1,0 @@
-*.greenhouse.io
-greenhouse.io

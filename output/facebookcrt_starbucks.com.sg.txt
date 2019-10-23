@@ -1,7 +1,0 @@
-campaign.starbucks.com.sg
-mobile.starbucks.com.sg
-ssl.starbucks.com.sg
-card.starbucks.com.sg
-ev.starbucks.com.sg
-www.starbucks.com.sg
-starbucks.com.sg
