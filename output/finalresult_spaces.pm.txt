@@ -1,0 +1,15 @@
+NXDOMAIN DATA
+
+
+
+CNAME RECORD DATA
+
+cdn.spaces.pm                                     dohnr6b94gh72.cloudfront.net.                     13.249.219.8
+www.spaces.pm                                     www.spaces.pm.                                    52.216.187.26
+spaces.pm                                         spaces.pm.                                        52.216.100.202
+
+
+NORECORD RECORD DATA
+
+preview.spaces.pm                                 
+                                                  

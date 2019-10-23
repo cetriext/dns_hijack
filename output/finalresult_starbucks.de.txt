@@ -1,0 +1,245 @@
+NXDOMAIN DATA
+
+www.starbucksstore.co.uk                          colo-euro-starbucks.onelink-translations.com.     lookup colo-euro-starbucks.onelink-translations.com.: getaddrinfow: The requested name is valid, but no data of the requested type was found.
+uk.starbucksstore.co.uk                           colo-euro-starbucks.onelink-translations.com.     lookup colo-euro-starbucks.onelink-translations.com.: getaddrinfow: The requested name is valid, but no data of the requested type was found.
+fr.starbucksstore.ca                              colo-euro-starbucks.onelink-translations.com.     lookup colo-euro-starbucks.onelink-translations.com.: getaddrinfow: The requested name is valid, but no data of the requested type was found.
+fr.starbucksstore.fr                              colo-euro-starbucks.onelink-translations.com.     lookup colo-euro-starbucks.onelink-translations.com.: getaddrinfow: The requested name is valid, but no data of the requested type was found.
+www.starbucksstore.de                             colo-euro-starbucks.onelink-translations.com.     lookup colo-euro-starbucks.onelink-translations.com.: getaddrinfow: The requested name is valid, but no data of the requested type was found.
+de.starbucksstore.de                              colo-euro-starbucks.onelink-translations.com.     lookup colo-euro-starbucks.onelink-translations.com.: getaddrinfow: The requested name is valid, but no data of the requested type was found.
+www.starbucksstore.fr                             colo-euro-starbucks.onelink-translations.com.     lookup colo-euro-starbucks.onelink-translations.com.: getaddrinfow: The requested name is valid, but no data of the requested type was found.
+test.starbucks.co.uk                              testintl.starbucks.com.                           lookup testintl.starbucks.com.: no such host
+store.starbucks.com                               store.starbucks.com.                              lookup store.starbucks.com.: no such host
+test.starbucks.com                                test.starbucks.com.                               lookup test.starbucks.com.: no such host
+Store.Starbucks.com                               Store.Starbucks.com.                              lookup Store.Starbucks.com.: no such host
+
+
+CNAME RECORD DATA
+
+app.test.starbucks.ca                             test.starbucks.com.edgekey-staging.net.           104.81.195.191
+test.starbucks.ca                                 test.starbucks.com.edgekey-staging.net.           104.81.195.191
+fr-fr.test.starbucks.com                          test.starbucks.com.edgekey-staging.net.           104.81.195.191
+app.test.starbucks.fr                             test.starbucks.com.edgekey-staging.net.           104.81.195.191
+app.test.starbucks.ie                             test.starbucks.com.edgekey-staging.net.           104.81.195.191
+testsecureui.starbucks.de                         testglobalsecureui.starbucks.com.                 98.99.254.191
+loadsecureui.starbucks.ca                         loadglobalsecureui.starbucks.com.                 98.99.248.158
+secureui.starbucks.ca                             globalsecureui.starbucks.com.                     98.99.252.122
+loadsecureui.starbucks.co.uk                      loadglobalsecureui.starbucks.com.                 98.99.248.158
+loadsecureui.starbucks.fr                         loadglobalsecureui.starbucks.com.                 98.99.248.158
+autodiscover.starbucks.de                         autodiscover.starbucks.com.                       98.99.254.176
+loadsecureui.starbucks.ie                         loadglobalsecureui.starbucks.com.                 98.99.248.158
+stagesecureui.starbucks.ca                        stageglobalsecureui.starbucks.com.                98.99.252.192
+autodiscover.starbucks.com                        autodiscover-iad2.starbucks.com.                  98.99.254.176
+app.test.starbucks.com.br                         test.starbucks.com.edgekey-staging.net.           104.81.195.191
+en-gb.test.starbucks.com                          test.starbucks.com.edgekey-staging.net.           104.81.195.191
+www.solutions.starbucks.co.uk                     solutions.starbucks.co.uk.                        209.67.176.191
+loadsecureui.starbucks.com.br                     loadglobalsecureui.starbucks.com.                 98.99.248.158
+autodiscover.starbucks.cn                         autodiscover.starbucks.com.                       98.99.254.176
+webmail.starbucks.com                             mail.starbucks.com.                               98.99.254.8
+en-ie.test.starbucks.com                          test.starbucks.com.edgekey-staging.net.           104.81.195.191
+en-us.test.starbucks.com                          test.starbucks.com.edgekey-staging.net.           104.81.195.191
+test.starbucks.de                                 test.starbucks.com.edgekey-staging.net.           104.81.195.191
+de-de.test.starbucks.com                          test.starbucks.com.edgekey-staging.net.           104.81.195.191
+app.test.starbucks.co.uk                          test.starbucks.com.edgekey-staging.net.           104.81.195.191
+secureui.starbucks.de                             globalsecureui.starbucks.com.                     98.99.252.122
+preview.test.starbucks.com                        test.starbucks.com.edgekey-staging.net.           104.81.195.191
+stagesecureui.starbucks.de                        stageglobalsecureui.starbucks.com.                98.99.252.192
+app.test.starbucks.com                            test.starbucks.com.edgekey-staging.net.           104.81.195.191
+testsecureui.starbucks.ca                         testglobalsecureui.starbucks.com.                 98.99.254.191
+mail.starbucks.com                                mail-iad.starbucks.com.                           98.99.254.8
+secureui.starbucks.com.br                         globalsecureui.starbucks.com.                     98.99.252.122
+app.test.starbucks.de                             test.starbucks.com.edgekey-staging.net.           104.81.195.191
+testsecureui.starbucks.co.uk                      testglobalsecureui.starbucks.com.                 98.99.254.191
+pt-br.test.starbucks.com                          test.starbucks.com.edgekey-staging.net.           104.81.195.191
+testsecureui.starbucks.com.br                     testglobalsecureui.starbucks.com.                 98.99.254.191
+secureui.starbucks.co.uk                          globalsecureui.starbucks.com.                     98.99.252.122
+stagesecureui.starbucks.com.br                    stageglobalsecureui.starbucks.com.                98.99.252.192
+test.starbucks.fr                                 test.starbucks.com.edgekey-staging.net.           104.81.195.191
+fr-ca.test.starbucks.com                          test.starbucks.com.edgekey-staging.net.           104.81.195.191
+stagesecureui.starbucks.com                       stagesecureui-iad.starbucks.com.                  98.99.252.44
+en-ca.test.starbucks.com                          test.starbucks.com.edgekey-staging.net.           104.81.195.191
+stagesecureui.starbucks.co.uk                     stageglobalsecureui.starbucks.com.                98.99.252.192
+test.starbucks.com.br                             test.starbucks.com.edgekey-staging.net.           104.81.195.191
+testsecureui.starbucks.ie                         testglobalsecureui.starbucks.com.                 98.99.254.191
+testsecureuifr.starbucks.ca                       testglobalsecureui.starbucks.com.                 98.99.254.191
+testsecureui.starbucks.fr                         testglobalsecureui.starbucks.com.                 98.99.254.191
+test.starbucks.ie                                 test.starbucks.com.edgekey-staging.net.           104.81.195.191
+stagesecureui.starbucks.fr                        stageglobalsecureui.starbucks.com.                98.99.252.192
+app.dev.starbucks.co.uk                           dev.starbucks.com.edgekey-staging.net.            104.81.205.134
+dev.starbucks.de                                  dev.starbucks.com.edgekey-staging.net.            104.81.205.134
+dev.starbucks.com                                 dev.starbucks.com.edgekey-staging.net.            104.81.205.134
+app.dev.starbucks.de                              dev.starbucks.com.edgekey-staging.net.            104.81.205.134
+dev.starbucks.ca                                  dev.starbucks.com.edgekey-staging.net.            104.81.205.134
+app.dev.starbucks.com                             dev.starbucks.com.edgekey-staging.net.            104.81.205.134
+dev.starbucks.ie                                  dev.starbucks.com.edgekey-staging.net.            104.81.205.134
+app.dev.starbucks.fr                              dev.starbucks.com.edgekey-staging.net.            104.81.205.134
+dev.starbucks.fr                                  dev.starbucks.com.edgekey-staging.net.            104.81.205.134
+app.starbucks.de                                  starbuckssites.starbucks.com.edgekey.net.         184.84.107.23
+app.starbucks.ie                                  starbuckssites.starbucks.com.edgekey.net.         184.84.107.23
+fr.starbucks.ca                                   starbuckssites.starbucks.com.edgekey.net.         184.84.107.23
+app.starbucks.com.br                              starbuckssites.starbucks.com.edgekey.net.         184.84.107.23
+app.starbucks.co.uk                               starbuckssites.starbucks.com.edgekey.net.         184.84.107.23
+www.starbucks.com                                 starbuckssites.starbucks.com.edgekey.net.         184.84.107.23
+preview.starbucks.com                             starbuckssites.starbucks.com.edgekey.net.         184.84.107.23
+store.starbucks.fr                                store.starbucks.fr.                               204.74.99.103
+chdlyncweb01.starbucks.com                        chdlyncweb01.starbucks.com.                       199.233.179.60
+store-en.starbucks.fr                             www.starbucks.fr.                                 184.84.107.23
+store-en.starbucks.co.uk                          www.starbucks.co.uk.                              184.84.107.23
+store.starbucks.co.uk                             store.starbucks.co.uk.                            204.74.99.103
+dialin.starbucks.com                              dialin.starbucks.com.                             199.233.179.60
+icommerceagent.starbucks.ca                       icommerceagent.sbx.pfsweb.com.                    12.18.76.131
+icommerceagent.starbucks.fr                       icommerceagent.sbx.pfsweb.com.                    12.18.76.131
+icommerceagent.starbucks.co.uk                    icommerceagent.sbx.pfsweb.com.                    12.18.76.131
+tsticommerceagent.starbucks.co.uk                 tsticommerceagent.sbx.pfsweb.com.                 12.18.76.132
+tsticommerceagent.starbucks.com                   tsticommerceagent.sbx.pfsweb.com.                 12.18.76.132
+stageglobalassets.starbucks.com                   globalassets.starbucks.com.edgekey.net.           184.30.49.107
+globalassets.starbucks.com                        globalassets.starbucks.com.edgekey.net.           184.30.49.107
+store.starbucks.ca                                www.starbucks.ca.                                 184.84.107.23
+loadwww.starbucks.nl                              loadwww.starbucks.nl.                             98.99.248.44
+meet.starbucks.de                                 meet.starbucks.de.                                199.233.179.60
+sip.starbucks.com                                 sip.starbucks.com.                                199.233.179.46
+loadwww.starbucks.co.uk                           loadwww.starbucks.co.uk.                          98.99.248.45
+testwww.starbucks.com                             testwww.starbucks.com.                            107.162.133.207
+solutions.starbucks.co.uk                         solutions.starbucks.co.uk.                        209.67.176.191
+lyncdiscover.starbucks.com                        lyncdiscover.starbucks.com.                       199.233.179.60
+starbucks.de                                      starbucks.de.                                     96.6.72.68
+sip.starbucks.cn                                  sip.starbucks.cn.                                 199.233.179.46
+chdlyncconf01.starbucks.com                       chdlyncconf01.starbucks.com.                      199.233.179.30
+preview.starbucks.de                              globalstage.starbucks.com.                        98.99.252.42
+starbucks.com                                     starbucks.com.                                    118.215.38.62
+lyncdiscover.starbucks.cn                         lyncdiscover.starbucks.cn.                        199.233.179.60
+ChdLyncEdge01.Starbucks.com                       ChdLyncEdge01.Starbucks.com.                      199.233.179.46
+Lyncdiscover.starbucks.de                         Lyncdiscover.starbucks.de.                        199.233.179.60
+starbucks.co.uk                                   starbucks.co.uk.                                  96.6.72.68
+chdlyncedge01.starbucks.com                       chdlyncedge01.starbucks.com.                      199.233.179.29
+lyncdiscover.starbucks.de                         lyncdiscover.starbucks.de.                        199.233.179.60
+sip.starbucks.de                                  sip.starbucks.de.                                 199.233.179.46
+starbucks.cn                                      starbucks.cn.                                     180.153.48.188
+starbucks.ie                                      starbucks.ie.                                     23.79.201.60
+meet.starbucks.cn                                 meet.starbucks.cn.                                199.233.179.60
+store-fr.starbucks.ca                             fr.starbucks.ca.                                  184.84.107.23
+meet.starbucks.fr                                 meet.starbucks.fr.                                199.233.179.60
+x.e.starbucks.de                                  ats.ccmp.eu.                                      62.27.116.23
+starbucks.com.br                                  starbucks.com.br.                                 104.100.26.40
+stageglobalsecureui.starbucks.com                 stageglobalsecureui.starbucks.com.                98.99.252.192
+StageGlobalsecureui.starbucks.com                 StageGlobalsecureui.starbucks.com.                98.99.252.192
+cert.starbucks.com                                cert.starbucks.com.                               98.99.254.201
+lyncdiscover.starbucks.fr                         webdir.online.lync.com.                           52.113.67.14
+shop.starbucks.de                                 www.starbucks.de.                                 184.84.107.23
+shop-en.starbucks.de                              www.starbucks.de.                                 184.84.107.23
+loadwww.starbucks.ca                              loadwww.starbucks.ca.                             98.99.248.41
+ChdLyncConf01.Starbucks.com                       ChdLyncConf01.Starbucks.com.                      199.233.179.30
+loadglobalsecureui.starbucks.com                  loadglobalsecureui.starbucks.com.                 98.99.248.158
+LoadGlobalsecureui.starbucks.com                  LoadGlobalsecureui.starbucks.com.                 98.99.248.158
+ChdLyncWeb01.Starbucks.com                        ChdLyncWeb01.Starbucks.com.                       199.233.179.60
+solutions.starbucks.fr                            solutions.starbucks.fr.                           209.67.176.191
+solutions.starbucks.ie                            solutions.starbucks.ie.                           209.67.176.191
+green.starbucks.com                               green.starbucks.com.                              107.162.134.102
+loadwww.starbucks.com.br                          loadwww.starbucks.com.br.                         98.99.248.40
+en-gb.test.starbucks.co.uk                        en-gb.test.starbucks.co.uk.                       23.41.211.170
+alexa.starbucks.com                               alexa.starbucks.com.                              98.99.254.147
+www.starbucksstore.ca                             www.starbucksstore.ca.                            107.150.141.160
+cert.starbucks.com.br                             cert.starbucks.com.edgekey-staging.net.           104.81.204.227
+cert.starbucks.co.uk                              cert.starbucks.com.edgekey-staging.net.           104.81.204.227
+cert.starbucks.ie                                 cert.starbucks.com.edgekey-staging.net.           104.81.204.227
+solutions.starbucks.nl                            solutions.starbucks.nl.                           209.67.176.191
+globalsecureui.starbucks.com                      globalsecureui.starbucks.com.                     98.99.252.122
+Globalsecureui.starbucks.com                      Globalsecureui.starbucks.com.                     98.99.252.122
+testglobalsecureui.starbucks.com                  testglobalsecureui.starbucks.com.                 98.99.254.191
+www.solutions.starbucks.se                        www.solutions.starbucks.se.                       209.67.176.191
+solutions.starbucks.se                            solutions.starbucks.se.                           209.67.176.191
+l.e.starbucks.de                                  rts.ccmp.eu.                                      62.27.116.25
+starbucks.fr                                      starbucks.fr.                                     96.6.72.68
+solutions.starbucks.de                            solutions.starbucks.de.                           209.67.176.191
+www.solutions.starbucks.ch                        www.solutions.starbucks.ch.                       209.67.176.191
+www.solutions.starbucks.no                        www.solutions.starbucks.no.                       209.67.176.191
+loadwww.starbucks.de                              loadwww.starbucks.de.                             98.99.248.42
+solutions.starbucks.no                            solutions.starbucks.no.                           209.67.176.191
+www.solutions.starbucks.fr                        www.solutions.starbucks.fr.                       209.67.176.191
+www.solutions.starbucks.be                        www.solutions.starbucks.be.                       209.67.176.191
+autodiscover.seattlesbest.com                     autodiscover.starbucks.com.                       98.99.254.176
+loadsecureui.starbucks.com                        loadsecureui.starbucks.com.                       98.99.248.38
+www.solutions.starbucks.at                        www.solutions.starbucks.at.                       209.67.176.191
+autodiscover.sbuxflight.com                       autodiscover.starbucks.com.                       98.99.254.176
+starbucks.nl                                      starbucks.nl.                                     204.74.99.103
+www.solutions.starbucks.dk                        www.solutions.starbucks.dk.                       209.67.176.191
+Lyncdiscover.starbucks.fr                         webdir.online.lync.com.                           52.113.67.14
+pt-br.test.starbucks.com.br                       pt-br.test.starbucks.com.br.                      23.41.211.170
+Lyncdiscover.starbucks.com                        Lyncdiscover.starbucks.com.                       199.233.179.60
+ews.starbucks.com                                 ews-iad2.starbucks.com.                           98.99.254.18
+starbucksmy.com                                   starbucksmy.com.                                  52.77.139.210
+secureui.starbucks.com                            secureui.starbucks.com.                           98.99.252.79
+www.solutions.starbucks.de                        www.solutions.starbucks.de.                       209.67.176.191
+Lyncdiscover.starbucks.cn                         Lyncdiscover.starbucks.cn.                        199.233.179.60
+www.solutions.starbucks.fi                        www.solutions.starbucks.fi.                       209.67.176.191
+solutions.starbucks.dk                            solutions.starbucks.dk.                           209.67.176.191
+autodiscover.starbucks.fr                         autodiscover.outlook.com.                         40.100.138.136
+autodiscover.starbucks.nl                         autodiscover.outlook.com.                         40.100.138.136
+www.solutions.starbucks.ie                        www.solutions.starbucks.ie.                       209.67.176.191
+starbucks.ca                                      starbucks.ca.                                     96.6.72.68
+www.solutions.starbucks.nl                        www.solutions.starbucks.nl.                       209.67.176.191
+solutions.starbucks.fi                            solutions.starbucks.fi.                           209.67.176.191
+solutions.starbucks.at                            solutions.starbucks.at.                           209.67.176.191
+neu.starbucks.de                                  neu.starbucks.de.                                 194.145.89.19
+store.starbucks.de                                store.starbucks.de.                               204.74.99.103
+solutions.starbucks.ch                            solutions.starbucks.ch.                           209.67.176.191
+testsecureui.starbucks.com                        testsecureui.starbucks.com.                       98.99.252.19
+solutions.starbucks.be                            solutions.starbucks.be.                           209.67.176.191
+sip.starbucks.fr                                  sipdir.online.lync.com.                           52.113.67.75
+e.starbucks.de                                    e.starbucks.de.                                   62.27.116.41
+dr-www.starbucks.de                               dr-www.starbucks.de.                              98.99.248.190
+
+
+NORECORD RECORD DATA
+
+win.starbucks.de                                  
+store-en.starbucks.ca                             
+gaeste-service.starbucks.de                       
+www.app.test.starbucks.fr                         
+appdev.starbucks.com                              
+www.preview.test.starbucks.de                     
+www.test.starbucks.de                             
+www.preview.test.starbucks.com.br                 
+                                                  
+en-ca.test.starbucks.ca                           
+fr.app.starbucks.ca                               
+mobilelogin.starbucks.com                         
+www.preview.test.starbucks.ie                     
+www.app.test.starbucks.com                        
+Globalloadsecureui.starbucks.com                  
+fr-ca.test.starbucks.ca                           
+www.store.starbucks.ca                            
+www.shop-en.starbucks.de                          
+www.starbucksmy.com                               
+Globalstagesecureui.starbucks.com                 
+www.test.starbucks.ca                             
+preview.test.starbucks.de                         
+www.store-en.starbucks.fr                         
+www.test.starbucks.com.br                         
+www.preview.test.starbucks.fr                     
+www.store-en.starbucks.ca                         
+www.store-en.starbucks.co.uk                      
+www.app.test.starbucks.de                         
+chdlyncpool01.starbucks.net                       
+preview.test.starbucks.ie                         
+www.app.test.starbucks.com.br                     
+en-ie.test.starbucks.ie                           
+www.test.starbucks.co.uk                          
+webmail.sbux.com                                  
+www.app.test.starbucks.co.uk                      
+chdlyncpool01.starbucks.com                       
+www.app.test.starbucks.ca                         
+preview.test.starbucks.ca                         
+www.preview.test.starbucks.ca                     
+www.test.starbucks.fr                             
+de-de.test.starbucks.de                           
+fr.solutions.starbucks.co.uk                      
+www.test.starbucks.com                            
+www.app.test.starbucks.ie                         
+es.solutions.starbucks.co.uk                      
+administration.solutions.starbucks.co.uk          
+www.test.starbucks.ie                             
+preview.test.starbucks.fr                         
+www.preview.test.starbucks.com                    
+preview.test.starbucks.co.uk                      
+fr-fr.test.starbucks.fr                           
+loadfr.starbucks.ca                               

@@ -1,0 +1,239 @@
+NXDOMAIN DATA
+
+hlsads-llrc.us-east-1.m.lv.twimg.com              twimgm1.s.llnwi.net.                              lookup twimgm1.s.llnwi.net.: no such host
+hlslive-llc.med2.m.lv.twimg.com                   twimgm1.s.llnwi.net.                              lookup twimgm1.s.llnwi.net.: no such host
+hlslive-llcg5.med1.m.lv.twimg.com                 twimgm1.s.llnwi.net.                              lookup twimgm1.s.llnwi.net.: no such host
+med1.m.lv.twimg.com                               med1.m.lv.twimg.com.                              lookup med1.m.lv.twimg.com.: no such host
+twimg.com                                         twimg.com.                                        lookup twimg.com.: no such host
+med1.qa.m.lv.twimg.com                            med1.qa.m.lv.twimg.com.                           lookup med1.qa.m.lv.twimg.com.: no such host
+m.lv.twimg.com                                    m.lv.twimg.com.                                   lookup m.lv.twimg.com.: no such host
+med2.m.lv.twimg.com                               med2.m.lv.twimg.com.                              lookup med2.m.lv.twimg.com.: no such host
+hlslive-llcg13.med1.m.lv.twimg.com                twimgm1.hs.llnwd.net.                             lookup twimgm1.hs.llnwd.net.: no such host
+hlslive-llcg11.med1.m.lv.twimg.com                twimgm1.hs.llnwd.net.                             lookup twimgm1.hs.llnwd.net.: no such host
+hlsads-llrc.us-west-2.m.lv.twimg.com              twimgm1.s.llnwi.net.                              lookup twimgm1.s.llnwi.net.: no such host
+hlslive-llcg1.med1.m.lv.twimg.com                 twimgm1.s.llnwi.net.                              lookup twimgm1.s.llnwi.net.: no such host
+hlslive-llcg10.med1.m.lv.twimg.com                twimgm1.hs.llnwd.net.                             lookup twimgm1.hs.llnwd.net.: no such host
+hlslive-llcg3.med1.m.lv.twimg.com                 twimgm1.s.llnwi.net.                              lookup twimgm1.s.llnwi.net.: no such host
+hlslive-llcg4.med1.m.lv.twimg.com                 twimgm1.s.llnwi.net.                              lookup twimgm1.s.llnwi.net.: no such host
+med2.qa.m.lv.twimg.com                            med2.qa.m.lv.twimg.com.                           lookup med2.qa.m.lv.twimg.com.: no such host
+us-east-1.qa.m.lv.twimg.com                       us-east-1.qa.m.lv.twimg.com.                      lookup us-east-1.qa.m.lv.twimg.com.: no such host
+hlslive-llc.med1.m.lv.twimg.com                   twimgm1.s.llnwi.net.                              lookup twimgm1.s.llnwi.net.: no such host
+us-west-2.m.lv.twimg.com                          us-west-2.m.lv.twimg.com.                         lookup us-west-2.m.lv.twimg.com.: no such host
+p.lv.twimg.com                                    p.lv.twimg.com.                                   lookup p.lv.twimg.com.: no such host
+hlslive-llcg14.med1.m.lv.twimg.com                twimgm1.hs.llnwd.net.                             lookup twimgm1.hs.llnwd.net.: no such host
+twvid.com                                         twvid.com.                                        lookup twvid.com.: no such host
+vncdn.co                                          vncdn.co.                                         lookup vncdn.co.: no such host
+
+
+CNAME RECORD DATA
+
+l.twimg.com                                       s.twitter.com.                                    104.244.42.131
+www.twitter.com                                   twitter.com.                                      104.244.42.1
+mobile3.twimg.com                                 d1dyykd32h0o14.cloudfront.net.                    13.32.32.15
+amp.twimg.com                                     twimg.twitter.map.fastly.net.                     151.101.8.159
+syndication.twimg.com                             syndication.twimg.com.                            104.244.42.200
+video-0.twimg.com                                 video-zero.twimg.com.                             104.244.43.35
+edge.cnames.video.twimg.com                       wildcard.twimg.com.                               151.101.8.159
+p.twimg.com                                       wildcard.twimg.com.                               151.101.8.159
+ma2.twimg.com                                     wildcard.twimg.com.                               151.101.8.159
+ma0.twimg.com                                     wildcard.twimg.com.                               151.101.8.159
+ma1.twimg.com                                     wildcard.twimg.com.                               151.101.8.159
+pbs-t-1.twimg.com                                 pbs-ft.twimg.com.                                 151.101.8.159
+abs.twimg.com                                     cs196.wac.edgecastcdn.net.                        192.229.237.96
+ma.twimg.com                                      cs196.wac.edgecastcdn.net.                        192.229.237.96
+g2.twimg.com                                      cs196.wac.edgecastcdn.net.                        192.229.237.96
+pbs.twimg.com                                     cs196.wac.edgecastcdn.net.                        192.229.237.96
+gu.twimg.com                                      cs196.wac.edgecastcdn.net.                        192.229.237.96
+cdn.syndication.twimg.com                         cs196.wac.edgecastcdn.net.                        192.229.237.96
+video-t-1.twimg.com                               video-ft.twimg.com.                               151.101.8.158
+platform.twitter.com                              cs472.wac.edgecastcdn.net.                        192.229.237.25
+hlslive-l3cg20.med2.m.lv.twimg.com                hlslive-l3cg20.med2.m.lv.twimg.com.c.footprint.net.8.253.134.240
+pbs-t-5.twimg.com                                 pbs-ddtest.twimg.com.edgekey-staging.net.         104.71.90.197
+oem.twimg.com                                     twimg.twitter.map.fastly.net.                     151.101.8.159
+pbs-ec.twimg.com                                  cs196.wac.edgecastcdn.net.                        192.229.237.96
+ttc.twimg.com                                     twimg.twitter.map.fastly.net.                     151.101.8.159
+pbs-t-4.twimg.com                                 pbs-ft.twimg.com.                                 151.101.8.159
+dnt.twimg.com                                     cs196.wac.edgecastcdn.net.                        192.229.237.96
+g.twimg.com                                       cs196.wac.edgecastcdn.net.                        192.229.237.96
+twitter.com                                       twitter.com.                                      104.244.42.1
+wildcard.twimg.com                                twimg.twitter.map.fastly.net.                     151.101.8.159
+hca.twimg.com                                     cs196.wac.edgecastcdn.net.                        192.229.237.96
+zero.twimg.com                                    zero.twimg.com.                                   104.244.43.35
+pbs-zero.twimg.com                                pbs-zero.twimg.com.                               104.244.43.99
+ma-0.twimg.com                                    ma-zero.twimg.com.                                104.244.43.195
+o-0.twimg.com                                     o-zero.twimg.com.                                 104.244.43.227
+syndication.twitter.com                           syndication.twitter.com.                          104.244.42.200
+pr-ft.twimg.com                                   pr-ft.twimg.com.                                  104.244.46.7
+admedia.twimg.com                                 d1adnxorz3apul.cloudfront.net.                    13.32.32.179
+video-ft.twimg.com                                video.twitter.map.fastly.net.                     151.101.8.158
+pbs-h2.twimg.com                                  pbs.twimg.com.                                    192.229.237.96
+hlslive-l3c.med1.m.lv.twimg.com                   hlslive-l3c.med1.m.lv.twimg.com.c.footprint.net.  8.253.129.239
+hlslive-l3cg5.med2.m.lv.twimg.com                 hlslive-l3cg5.med2.m.lv.twimg.com.c.footprint.net.8.253.140.109
+hlsads-l3rc.us-east-1.m.lv.twimg.com              hlsads-l3rc.us-east-1.m.lv.twimg.com.c.footprint.net.8.12.192.253
+abs-zero.twimg.com                                abs-zero.twimg.com.                               104.244.43.131
+video-ak.twimg.com                                video.twimg.akadns.net.                           23.211.225.205
+o-zero.twimg.com                                  o-zero.twimg.com.                                 104.244.43.227
+hlslive-l3cg1.med1.m.lv.twimg.com                 hlslive-l3cg1.med1.m.lv.twimg.com.c.footprint.net.8.253.134.240
+mobile1.twimg.com                                 d1dyykd32h0o14.cloudfront.net.                    13.32.32.15
+fastly-public-purge.twimg.com                     twimg.twitter.map.fastly.net.                     151.101.8.159
+video-t-5.twimg.com                               video-ddtest.twimg.com.edgekey-staging.net.       104.71.90.198
+pbs-ft.twimg.com                                  twimg.twitter.map.fastly.net.                     151.101.8.159
+pbs-eb.twimg.com                                  wildcard.twimg.com.                               151.101.8.159
+ma-zero.twimg.com                                 ma-zero.twimg.com.                                104.244.43.195
+star.twimg.com                                    star.twimg.com.                                   104.244.42.9
+twitter.twimg.com                                 twitter.twimg.com.                                204.92.19.202
+fastly-private-purge.twimg.com                    fastly-private-purge.twimg.com.                   104.244.46.7
+video-zero.twimg.com                              video-zero.twimg.com.                             104.244.43.35
+hlslive-l3cg5.med1.m.lv.twimg.com                 hlslive-l3cg5.med1.m.lv.twimg.com.c.footprint.net.8.253.129.239
+tweet.twimg.com                                   tweet.twimg.com.                                  209.167.231.15
+hlslive-l3cg13.med1.m.lv.twimg.com                hlslive-l3cg13.med1.m.lv.twimg.com.c.footprint.net.8.253.134.240
+hlslive-l3cg20.med1.m.lv.twimg.com                hlslive-l3cg20.med1.m.lv.twimg.com.c.footprint.net.8.253.129.239
+hlslive-l3c.med2.m.lv.twimg.com                   hlslive-l3c.med2.m.lv.twimg.com.c.footprint.net.  8.253.129.239
+hlslive-l3cg14.med1.m.lv.twimg.com                hlslive-l3cg14.med1.m.lv.twimg.com.c.footprint.net.8.253.134.240
+video.twimg.com                                   cs296.wpc.edgecastcdn.net.                        117.18.232.102
+hlslive-l3cg10.med1.m.lv.twimg.com                hlslive-l3cg10.med1.m.lv.twimg.com.c.footprint.net.8.253.140.109
+pbs-t-3.twimg.com                                 pbs-ft.twimg.com.                                 151.101.8.159
+video-t-4.twimg.com                               video-ft.twimg.com.                               151.101.8.158
+pbs-0.twimg.com                                   pbs-zero.twimg.com.                               104.244.43.99
+video-t-2.twimg.com                               video-ft.twimg.com.                               151.101.8.158
+video-t-3.twimg.com                               video-ft.twimg.com.                               151.101.8.158
+ea.twimg.com                                      cs196.wac.edgecastcdn.net.                        192.229.237.96
+ton.twimg.com                                     cs196.wac.edgecastcdn.net.                        192.229.237.96
+amp2.twimg.com                                    twimg.twitter.map.fastly.net.                     151.101.8.159
+video-ec.twimg.com                                cs296.wpc.edgecastcdn.net.                        117.18.232.102
+Platform.twitter.com                              cs472.wac.edgecastcdn.net.                        192.229.237.25
+t.co                                              t.co.                                             104.244.42.5
+g-o.twimg.com                                     g-o.twimg.com.                                    104.244.42.137
+pbs-o.twimg.com                                   pbs-o.twimg.com.                                  104.244.42.137
+upload.twitter.com                                upload.twitter.com.                               104.244.42.75
+s.twimg.com                                       d2rdfnizen5apl.cloudfront.net.                    13.249.219.25
+media-api.m.lv.twimg.com                          media-api.skynet.twitter.bamgrid.com.             52.40.241.63
+mobile2.twimg.com                                 d1dyykd32h0o14.cloudfront.net.                    13.32.32.15
+probe.twitter.com                                 probe.twitter.com.                                104.244.42.67
+api.twitter.com                                   api.twitter.com.                                  104.244.42.2
+ton-0.twimg.com                                   ton-zero.twimg.com.                               104.244.43.3
+pr.twimg.com                                      pr-ft.twimg.com.                                  104.244.46.7
+cdn.syndication.twitter.com                       syndication.twitter.com.                          104.244.42.200
+caps.twitter.com                                  s.twitter.com.                                    104.244.42.131
+pbs-t-2.twimg.com                                 pbs-ft.twimg.com.                                 151.101.8.159
+P.twimg.com                                       wildcard.twimg.com.                               151.101.8.159
+ton.twitter.com                                   ton.twitter.com.                                  104.244.42.84
+mobile.twitter.com                                mobile.twitter.com.                               104.244.42.6
+analytics.twitter.com                             ads.twitter.com.                                  104.244.42.67
+r.twimg.com                                       r.twimg.com.                                      199.59.150.43
+tweetdeck.twitter.com                             td.twitter.com.                                   104.244.42.68
+fastly-purge.twimg.com                            fastly-public-purge.twimg.com.                    151.101.8.159
+v.cdn.vine.co                                     platform.twitter.map.fastly.net.                  151.101.8.157
+mtc.cdn.vine.co                                   platform.twitter.map.fastly.net.                  151.101.8.157
+status.twitter.com                                cs322.wac.edgecastcdn.net.                        192.229.237.154
+hlslive-l3cg3.med1.m.lv.twimg.com                 hlslive-l3cg3.med1.m.lv.twimg.com.c.footprint.net.8.253.129.239
+hlslive-l3cg4.med1.m.lv.twimg.com                 hlslive-l3cg4.med1.m.lv.twimg.com.c.footprint.net.8.253.134.240
+pbs-ak.twimg.com                                  pbs.twimg.akadns.net.                             23.211.225.204
+
+
+NORECORD RECORD DATA
+
+cdn.api.twitter.com                               
+si2.twimg.com                                     
+si0.twimg.com                                     
+si3.twimg.com                                     
+ft.e.lv.twimg.com                                 
+pbs-h1.twimg.com                                  
+www.ma.twimg.com                                  
+preview.cdn.twitter.com                           
+gs.twimg.com                                      
+si5.twimg.com                                     
+p-du-1.ft.e.lv.twimg.com                          
+us-west.2.qa.m.lv.twimg.com                       
+o.twimg.com                                       
+sa.twimg.com                                      
+us-west-1.m.lv.twimg.com                          
+httpspbs.twimg.com                                
+p.twttr.com                                       
+m.twimg.com                                       
+widgets.twimg.com                                 
+www.twimg.com                                     
+hlslive-akcg1.med2.m.lv.twimg.com                 
+dtc-internal.twimg.com                            
+i3.twimg.com                                      
+tailfeather.twimg.com                             
+p.twitter.com                                     
+                                                  
+us-west-2.qa.m.lv.twimg.com                       
+cdn-dev.api.twitter.com                           
+hlslive-akcg3.med1.m.lv.twimg.com                 
+pbs-h2-ec.twimg.com                               
+f.e.lv.twimg.com                                  
+a4.twimg.com                                      
+crashlytics.twimg.com                             
+hlslive-akcg5.med2.m.lv.twimg.com                 
+widgets.platform.twitter.com                      
+hlsads-akrc.us-east-1.m.lv.twimg.com              
+ll.e.lv.twimg.com                                 
+ec.e.lv.twimg.com                                 
+hlslive-akcg4.med1.m.lv.twimg.com                 
+p-fr-1.ft.e.lv.twimg.com                          
+p-fr-1.e.lv.twimg.com                             
+p-va-1.e.lv.twimg.com                             
+platform1.twitter.com                             
+p-ca-1.ec.e.lv.twimg.com                          
+platform2.twitter.com                             
+hlslive-akcg5.med1.m.lv.twimg.com                 
+preview-dev.cdn.twitter.com                       
+urls.api.twitter.com                              
+p-sg-1.e.lv.twimg.com                             
+t-ca-1.e.lv.twimg.com                             
+t-ca-1.ft.e.lv.twimg.com                          
+eb.syndication.twimg.com                          
+e.lv.twimg.com                                    
+ton-ta.twimg.com                                  
+platform3.twitter.com                             
+hlslive-akcg20.med2.m.lv.twimg.com                
+pbs-ta.twimg.com                                  
+a5.twimg.com                                      
+ipv6.twimg.com                                    
+failover-urls.api.twitter.com                     
+eip-tata.video.twimg.com                          
+p-va-1.ft.e.lv.twimg.com                          
+a2.twimg.com                                      
+cd-eb1.twimg.com                                  
+p-ca-1.ft.e.lv.twimg.com                          
+sydndication.twimg.com                            
+preview-stage.cdn.twitter.com                     
+p-ca-1.e.lv.twimg.com                             
+platform0.twitter.com                             
+anywhere.platform.twitter.com                     
+video-h2.twimg.com                                
+cdn.api.twimg.com                                 
+us-west.2-qa.m.lv.twimg.com                       
+namp.twimg.com                                    
+yndication.twimg.com                              
+hlslive-akc.med2.m.lv.twimg.com                   
+hlslive-akcg20.med1.m.lv.twimg.com                
+a1.twimg.com                                      
+p-0.twimg.com                                     
+p-syd-1.ft.e.lv.twimg.com                         
+cdn.digits.com                                    
+p-va-1.ec.e.lv.twimg.com                          
+httpscdn.syndication.twimg.com                    
+p-du-1.e.lv.twimg.com                             
+a0.twimg.com                                      
+www.pbs.twimg.com                                 
+a3.twimg.com                                      
+cdn.svndication.twimg.com                         
+med1.twimg.com                                    
+pbs-h1-ec.twimg.com                               
+image-proxy-origin.twimg.com                      
+o-ta.twimg.com                                    
+syndication-o.twitter.com                         
+p-sg-1.ft.e.lv.twimg.com                          
+preview-0.cdn.twitter.com                         
+v.twimg.com                                       
+us-west-1.qa.m.lv.twimg.com                       
+p-tyo-1.ft.e.lv.twimg.com                         
+hlsads-akrc.us-west-2.m.lv.twimg.com              
+p-sel-1.ft.e.lv.twimg.com                         
+hlslive-akc.med1.m.lv.twimg.com                   
+wildcard-eb.twimg.com                             
+test.twimg.com                                    
+hlsads-l3rc.us-west-2.m.lv.twimg.com              

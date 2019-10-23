@@ -1,0 +1,815 @@
+NXDOMAIN DATA
+
+de.twitter.com                                    de.twitter.com.                                   lookup de.twitter.com.: no such host
+access.twitter.com                                access.twitter.com.                               lookup access.twitter.com.: no such host
+twvid.com                                         twvid.com.                                        lookup twvid.com.: no such host
+_thirdparty.twitter.com                           _thirdparty.twitter.com.                          lookup _thirdparty.twitter.com.: no such host
+e.twitter.com                                     e.twitter.com.                                    lookup e.twitter.com.: no such host
+twimg.com                                         twimg.com.                                        lookup twimg.com.: no such host
+partnerstream1.twitter.com                        partnerstream1.twitter.com.                       lookup partnerstream1.twitter.com.: no such host
+staging2-partnerstream1.twitter.com               partnerstream1.twitter.com.                       lookup partnerstream1.twitter.com.: no such host
+
+
+CNAME RECORD DATA
+
+p.twimg.com                                       wildcard.twimg.com.                               151.101.8.159
+platform.twitter.com                              cs472.wac.edgecastcdn.net.                        192.229.237.25
+www.twitter.com                                   twitter.com.                                      104.244.42.1
+cdn.syndication.twitter.com                       syndication.twitter.com.                          104.244.42.200
+ton.twitter.com                                   ton.twitter.com.                                  104.244.42.84
+tweetdeck.twitter.com                             td.twitter.com.                                   104.244.42.68
+status.twitter.com                                cs322.wac.edgecastcdn.net.                        192.229.237.154
+assets0.twitter.com                               static.twitter.com.                               104.244.42.3
+assets2.twitter.com                               static.twitter.com.                               104.244.42.3
+skyboxing.twitter.com                             s.twitter.com.                                    104.244.42.131
+ces.twitter.com                                   s.twitter.com.                                    104.244.42.131
+rally.twitter.com                                 s.twitter.com.                                    104.244.42.131
+groups.twitter.com                                s.twitter.com.                                    104.244.42.131
+nwhl.twitter.com                                  s.twitter.com.                                    104.244.42.131
+discovery.twitter.com                             s.twitter.com.                                    104.244.42.131
+vmas.twitter.com                                  s.twitter.com.                                    104.244.42.131
+e3.twitter.com                                    s.twitter.com.                                    104.244.42.131
+gov.twitter.com                                   s.twitter.com.                                    104.244.42.131
+laliga.twitter.com                                s.twitter.com.                                    104.244.42.131
+www.debates.twitter.com                           s.twitter.com.                                    104.244.42.131
+forzarc.twitter.com                               s.twitter.com.                                    104.244.42.131
+translate.twitter.com                             s.twitter.com.                                    104.244.42.131
+birdseye-beta.twitter.com                         s.twitter.com.                                    104.244.42.131
+search.twitter.com                                s.twitter.com.                                    104.244.42.131
+billboard.twitter.com                             s.twitter.com.                                    104.244.42.131
+blog.ru.twitter.com                               s.twitter.com.                                    104.244.42.131
+zedd.twitter.com                                  s.twitter.com.                                    104.244.42.131
+momentmaker.twitter.com                           s.twitter.com.                                    104.244.42.131
+ads.twitter.com                                   s.twitter.com.                                    104.244.42.131
+ms3.twitter.com                                   s.twitter.com.                                    104.244.42.131
+vast.twitter.com                                  s.twitter.com.                                    104.244.42.131
+nike.twitter.com                                  s.twitter.com.                                    104.244.42.131
+pulse.twitter.com                                 s.twitter.com.                                    104.244.42.131
+train.twitter.com                                 s.twitter.com.                                    104.244.42.131
+2012.twitter.com                                  s.twitter.com.                                    104.244.42.131
+upload.twitter.com                                upload.twitter.com.                               104.244.42.75
+tinteractive.twitter.com                          s.twitter.com.                                    104.244.42.131
+cards-dev.twitter.com                             s.twitter.com.                                    104.244.42.131
+2014.twitter.com                                  s.twitter.com.                                    104.244.42.131
+sms-be-vip.twitter.com                            s.twitter.com.                                    104.244.42.131
+mmafighting.twitter.com                           s.twitter.com.                                    104.244.42.131
+brandhub.twitter.com                              s.twitter.com.                                    104.244.42.131
+buzzfeed.twitter.com                              s.twitter.com.                                    104.244.42.131
+developer.twitter.com                             s.twitter.com.                                    104.244.42.131
+partners.twitter.com                              s.twitter.com.                                    104.244.42.131
+flightschool.twitter.com                          s.twitter.com.                                    104.244.42.131
+euro2012.twitter.com                              s.twitter.com.                                    104.244.42.131
+gnip-api.twitter.com                              s.twitter.com.                                    104.244.42.131
+hope140.twitter.com                               s.twitter.com.                                    104.244.42.131
+askobama.twitter.com                              s.twitter.com.                                    104.244.42.131
+engineering.twitter.com                           s.twitter.com.                                    104.244.42.131
+partners-staging.twitter.com                      s.twitter.com.                                    104.244.42.131
+afl.twitter.com                                   s.twitter.com.                                    104.244.42.131
+happening.twitter.com                             s.twitter.com.                                    104.244.42.131
+comicon.twitter.com                               s.twitter.com.                                    104.244.42.131
+fashionweekmi.twitter.com                         s.twitter.com.                                    104.244.42.131
+business-staging.twitter.com                      s.twitter.com.                                    104.244.42.131
+lnb.twitter.com                                   s.twitter.com.                                    104.244.42.131
+mit-election.twitter.com                          s.twitter.com.                                    104.244.42.131
+wimbledon.twitter.com                             s.twitter.com.                                    104.244.42.131
+ukelection.twitter.com                            s.twitter.com.                                    104.244.42.131
+showtimeboxing.twitter.com                        s.twitter.com.                                    104.244.42.131
+ifl.twitter.com                                   s.twitter.com.                                    104.244.42.131
+melbournecup.twitter.com                          s.twitter.com.                                    104.244.42.131
+pbs.twitter.com                                   s.twitter.com.                                    104.244.42.131
+blog.twitter.com                                  s.twitter.com.                                    104.244.42.131
+bullriding.twitter.com                            s.twitter.com.                                    104.244.42.131
+chirp.twitter.com                                 s.twitter.com.                                    104.244.42.131
+lol.twitter.com                                   s.twitter.com.                                    104.244.42.131
+biz.twitter.com                                   s.twitter.com.                                    104.244.42.131
+discover.twitter.com                              s.twitter.com.                                    104.244.42.131
+faith.twitter.com                                 s.twitter.com.                                    104.244.42.131
+nascar.twitter.com                                s.twitter.com.                                    104.244.42.131
+data.twitter.com                                  s.twitter.com.                                    104.244.42.131
+jobs.twitter.com                                  s.twitter.com.                                    104.244.42.131
+ijf.twitter.com                                   s.twitter.com.                                    104.244.42.131
+ms2.twitter.com                                   s.twitter.com.                                    104.244.42.131
+nhl.twitter.com                                   s.twitter.com.                                    104.244.42.131
+blog.kr.twitter.com                               s.twitter.com.                                    104.244.42.131
+bet.twitter.com                                   s.twitter.com.                                    104.244.42.131
+sambee.twitter.com                                s.twitter.com.                                    104.244.42.131
+ads-beta.twitter.com                              s.twitter.com.                                    104.244.42.131
+aboveandbeyond.twitter.com                        s.twitter.com.                                    104.244.42.131
+vivelatino.twitter.com                            s.twitter.com.                                    104.244.42.131
+depechemode.twitter.com                           s.twitter.com.                                    104.244.42.131
+dreamforce.twitter.com                            s.twitter.com.                                    104.244.42.131
+6nations.twitter.com                              s.twitter.com.                                    104.244.42.131
+calendar.twitter.com                              s.twitter.com.                                    104.244.42.131
+tv-api.twitter.com                                s.twitter.com.                                    104.244.42.131
+investor.twitter.com                              s.twitter.com.                                    104.244.42.131
+globalcitizenfestival.twitter.com                 s.twitter.com.                                    104.244.42.131
+publisher.twitter.com                             s.twitter.com.                                    104.244.42.131
+bloombergtechnology.twitter.com                   s.twitter.com.                                    104.244.42.131
+cards.twitter.com                                 s.twitter.com.                                    104.244.42.131
+birdseye.twitter.com                              s.twitter.com.                                    104.244.42.131
+eclipse2017.twitter.com                           s.twitter.com.                                    104.244.42.131
+wnba.twitter.com                                  s.twitter.com.                                    104.244.42.131
+sdcc.twitter.com                                  s.twitter.com.                                    104.244.42.131
+globalcitizen.twitter.com                         s.twitter.com.                                    104.244.42.131
+zacbrown.twitter.com                              s.twitter.com.                                    104.244.42.131
+partners-api.twitter.com                          s.twitter.com.                                    104.244.42.131
+ms4.twitter.com                                   s.twitter.com.                                    104.244.42.131
+cfl.twitter.com                                   s.twitter.com.                                    104.244.42.131
+sms.twitter.com                                   s.twitter.com.                                    104.244.42.131
+wwe.twitter.com                                   s.twitter.com.                                    104.244.42.131
+pbr.twitter.com                                   s.twitter.com.                                    104.244.42.131
+2011.twitter.com                                  s.twitter.com.                                    104.244.42.131
+polygon.twitter.com                               s.twitter.com.                                    104.244.42.131
+bbmas.twitter.com                                 s.twitter.com.                                    104.244.42.131
+mll.twitter.com                                   s.twitter.com.                                    104.244.42.131
+rockinrio.twitter.com                             s.twitter.com.                                    104.244.42.131
+nabc.twitter.com                                  s.twitter.com.                                    104.244.42.131
+ema.twitter.com                                   s.twitter.com.                                    104.244.42.131
+jtbc.twitter.com                                  s.twitter.com.                                    104.244.42.131
+converse.twitter.com                              s.twitter.com.                                    104.244.42.131
+cards-staging.twitter.com                         s.twitter.com.                                    104.244.42.131
+safety.twitter.com                                s.twitter.com.                                    104.244.42.131
+warmup.twitter.com                                s.twitter.com.                                    104.244.42.131
+stanford.twitter.com                              s.twitter.com.                                    104.244.42.131
+echidna.twitter.com                               s.twitter.com.                                    104.244.42.131
+mail.twitter.com                                  s.twitter.com.                                    104.244.42.131
+www2.twitter.com                                  www2.twitter.com.                                 199.59.149.198
+mx1.twitter.com                                   mx1.twitter.com.                                  199.59.148.144
+atla-partnerstream1.twitter.com                   atla-partnerstream1.twitter.com.                  199.16.156.22
+api-45-0-0.twitter.com                            api-45-0-0.twitter.com.                           69.195.168.128
+api-26-0-0.twitter.com                            api-26-0-0.twitter.com.                           69.195.187.128
+api4.twitter.com                                  api4.twitter.com.                                 199.59.149.232
+integratedsearch.twitter.com                      integratedsearch.twitter.com.                     199.16.156.11
+api-21-0-0.twitter.com                            api-21-0-0.twitter.com.                           69.195.166.128
+api-22-0-0.twitter.com                            api-22-0-0.twitter.com.                           69.195.167.128
+api-28-0-0.twitter.com                            api-28-0-0.twitter.com.                           69.195.160.128
+api.twitter.com                                   api.twitter.com.                                  104.244.42.2
+mta72.e.twitter.com                               mta72.e.twitter.com.                              136.147.183.236
+mta19.e.twitter.com                               mta19.e.twitter.com.                              136.147.183.184
+info.twitter.com                                  info.twitter.com.                                 199.59.148.207
+spruce-goose-bg.twitter.com                       spruce-goose-bg.twitter.com.                      199.59.150.102
+download.twitter.com                              download.twitter.com.                             199.16.156.18
+spruce-goose-ah.twitter.com                       spruce-goose-ah.twitter.com.                      199.59.150.77
+mta67.e.twitter.com                               mta67.e.twitter.com.                              136.147.183.231
+spruce-goose-bm.twitter.com                       spruce-goose-bm.twitter.com.                      199.59.150.108
+spring-chicken.twitter.com                        spring-chicken.twitter.com.                       199.16.156.128
+sao-api.twitter.com                               sao-api.twitter.com.                              104.244.45.253
+sin-api.twitter.com                               sin-api.twitter.com.                              104.244.45.250
+partnerstream2.twitter.com                        stream.twitter.com.                               199.59.150.42
+mx2.twitter.com                                   mx2.twitter.com.                                  199.59.148.205
+spruce-goose-ae.twitter.com                       spruce-goose-ae.twitter.com.                      199.59.150.74
+mta66.e.twitter.com                               mta66.e.twitter.com.                              136.147.183.230
+tweetdeck.com                                     tweetdeck.com.                                    199.59.148.21
+gtcp-na.twitter.com                               gtcp-na.twitter.com.                              35.186.207.124
+slides.twitter.com                                slides.twitter.com.                               216.146.46.10
+api-0-4-2.twitter.com                             api-0-4-2.twitter.com.                            209.237.197.128
+web.tweetdeck.com                                 td.twitter.com.                                   104.244.42.68
+sa.twitter.com                                    sa.twitter.com.                                   199.16.156.41
+api3-backup.twitter.com                           api3-backup.twitter.com.                          199.59.149.205
+api-25-0-0.twitter.com                            api-25-0-0.twitter.com.                           69.195.173.128
+api-0-4-7.twitter.com                             api-0-4-7.twitter.com.                            209.237.201.128
+mia-api.twitter.com                               mia-api.twitter.com.                              104.244.45.246
+analytics.twitter.com                             ads.twitter.com.                                  104.244.42.67
+api-0-4-6.twitter.com                             api-0-4-6.twitter.com.                            209.237.200.128
+fra-api.twitter.com                               fra-api.twitter.com.                              104.244.45.254
+sms-atla.twitter.com                              sms-atla.twitter.com.                             199.16.156.42
+www3-backup.twitter.com                           www3-backup.twitter.com.                          199.59.149.203
+mta11.e.twitter.com                               mta11.e.twitter.com.                              136.147.183.176
+syndication.twimg.com                             syndication.twimg.com.                            104.244.42.200
+api-stream.twitter.com                            probe.twitter.com.                                104.244.42.67
+spruce-goose-bh.twitter.com                       spruce-goose-bh.twitter.com.                      199.59.150.103
+pbs-ec.twimg.com                                  cs196.wac.edgecastcdn.net.                        192.229.237.96
+abs.twimg.com                                     cs196.wac.edgecastcdn.net.                        192.229.237.96
+ton.twimg.com                                     cs196.wac.edgecastcdn.net.                        192.229.237.96
+gu.twimg.com                                      cs196.wac.edgecastcdn.net.                        192.229.237.96
+hca.twimg.com                                     cs196.wac.edgecastcdn.net.                        192.229.237.96
+ea.twimg.com                                      cs196.wac.edgecastcdn.net.                        192.229.237.96
+api-38-0-0.twitter.com                            api-38-0-0.twitter.com.                           69.195.185.128
+mail-in.twitter.com                               mail-in.twitter.com.                              199.59.148.207
+api-23-0-0.twitter.com                            api-23-0-0.twitter.com.                           69.195.182.128
+spring-chicken-bg.twitter.com                     spring-chicken-bg.twitter.com.                    199.16.156.172
+spruce-goose-bk.twitter.com                       spruce-goose-bk.twitter.com.                      199.59.150.106
+spruce-goose-ay.twitter.com                       spruce-goose-ay.twitter.com.                      199.59.150.94
+dc-api.twitter.com                                dc-api.twitter.com.                               104.244.45.3
+api-46-0-0.twitter.com                            api-46-0-0.twitter.com.                           69.195.169.128
+pbs-o.twimg.com                                   pbs-o.twimg.com.                                  104.244.42.137
+assets3.twitter.com                               static.twitter.com.                               104.244.42.3
+spring-chicken-ae.twitter.com                     spring-chicken-ae.twitter.com.                    199.16.156.144
+spring-chicken-az.twitter.com                     spring-chicken-az.twitter.com.                    199.16.156.165
+mta13.e.twitter.com                               mta13.e.twitter.com.                              136.147.183.178
+Platform.twitter.com                              cs472.wac.edgecastcdn.net.                        192.229.237.25
+t.co                                              t.co.                                             104.244.42.5
+atl-api.twitter.com                               atl-api.twitter.com.                              104.244.45.247
+spruce-goose-bz.twitter.com                       spruce-goose-bz.twitter.com.                      199.59.150.121
+mx.twitter.com                                    mx.twitter.com.                                   199.59.149.106
+mta64.e.twitter.com                               mta64.e.twitter.com.                              136.147.183.228
+syd-api.twitter.com                               syd-api.twitter.com.                              104.244.45.251
+v.cdn.vine.co                                     platform.twitter.map.fastly.net.                  151.101.8.157
+video.twimg.com                                   cs296.wpc.edgecastcdn.net.                        117.18.232.102
+P.twimg.com                                       wildcard.twimg.com.                               151.101.8.159
+pbs-h2.twimg.com                                  pbs.twimg.com.                                    192.229.237.96
+ma0.twimg.com                                     wildcard.twimg.com.                               151.101.8.159
+ma3.twimg.com                                     wildcard.twimg.com.                               151.101.8.159
+ma1.twimg.com                                     wildcard.twimg.com.                               151.101.8.159
+ma-0.twimg.com                                    ma-zero.twimg.com.                                104.244.43.195
+o-0.twimg.com                                     o-zero.twimg.com.                                 104.244.43.227
+pbs-0.twimg.com                                   pbs-zero.twimg.com.                               104.244.43.99
+concon-staging.twitter.com                        s.twitter.com.                                    104.244.42.131
+fyf.twitter.com                                   s.twitter.com.                                    104.244.42.131
+cheddar.twitter.com                               s.twitter.com.                                    104.244.42.131
+www.tnf.twitter.com                               s.twitter.com.                                    104.244.42.131
+obs.twitter.com                                   s.twitter.com.                                    104.244.42.131
+video.twitter.com                                 s.twitter.com.                                    104.244.42.131
+spruce-goose-ak.twitter.com                       spruce-goose-ak.twitter.com.                      199.59.150.80
+syndication-o.twimg.com                           syndication-o.twimg.com.                          104.244.42.9
+mls.twitter.com                                   s.twitter.com.                                    104.244.42.131
+mobile.twitter.com                                mobile.twitter.com.                               104.244.42.6
+legalrequests.twitter.com                         s.twitter.com.                                    104.244.42.131
+fly.twitter.com                                   s.twitter.com.                                    104.244.42.131
+nikebreaking2.twitter.com                         s.twitter.com.                                    104.244.42.131
+api.tweetdeck.com                                 td.twitter.com.                                   104.244.42.68
+assets1.twitter.com                               static.twitter.com.                               104.244.42.3
+ms1.twitter.com                                   s.twitter.com.                                    104.244.42.131
+scribe.twitter.com                                s.twitter.com.                                    104.244.42.131
+pic.twitter.com                                   s.twitter.com.                                    104.244.42.131
+spring-chicken-cd.twitter.com                     spring-chicken-cd.twitter.com.                    199.16.156.138
+spruce-goose-ab.twitter.com                       spruce-goose-ab.twitter.com.                      199.59.150.71
+mta26.e.twitter.com                               mta26.e.twitter.com.                              136.147.183.191
+spruce-goose-al.twitter.com                       spruce-goose-al.twitter.com.                      199.59.150.81
+spruce-goose-bv.twitter.com                       spruce-goose-bv.twitter.com.                      199.59.150.117
+donate.twitter.com                                s.twitter.com.                                    104.244.42.131
+spruce-goose-bl.twitter.com                       spruce-goose-bl.twitter.com.                      199.59.150.107
+spring-chicken-ad.twitter.com                     spring-chicken-ad.twitter.com.                    199.16.156.143
+pop-api.twitter.com                               pop-api.twitter.com.                              104.244.45.129
+lon-api.twitter.com                               lon-api.twitter.com.                              104.244.45.255
+tw-ton.twitter.com                                tw-ton.twitter.com.                               104.244.42.212
+api-44-0-0.twitter.com                            api-44-0-0.twitter.com.                           69.195.165.128
+api-39-0-0.twitter.com                            api-39-0-0.twitter.com.                           69.195.175.128
+twitter.com                                       twitter.com.                                      104.244.42.129
+mta16.e.twitter.com                               mta16.e.twitter.com.                              136.147.183.181
+fb-staging.twitter.com                            fb-staging.twitter.com.                           199.59.148.202
+elections.twitter.com                             s.twitter.com.                                    104.244.42.131
+streetgigs.twitter.com                            s.twitter.com.                                    104.244.42.131
+frenchelections.twitter.com                       s.twitter.com.                                    104.244.42.131
+thegameawards.twitter.com                         s.twitter.com.                                    104.244.42.131
+apps.twitter.com                                  s.twitter.com.                                    104.244.42.131
+blog.tweetdeck.com                                td.twitter.com.                                   104.244.42.68
+goldenglobes.twitter.com                          s.twitter.com.                                    104.244.42.131
+records.twitter.com                               s.twitter.com.                                    104.244.42.131
+spring-chicken-bz.twitter.com                     spring-chicken-bz.twitter.com.                    199.16.156.134
+api-0-4-3.twitter.com                             api-0-4-3.twitter.com.                            209.237.198.128
+api-35-0-0.twitter.com                            api-35-0-0.twitter.com.                           69.195.164.128
+api-20-0-0.twitter.com                            api-20-0-0.twitter.com.                           69.195.186.128
+api-1-0-0.twitter.com                             api-1-0-0.twitter.com.                            209.237.193.128
+api-41-0-0.twitter.com                            api-41-0-0.twitter.com.                           69.195.171.128
+zbb.twitter.com                                   s.twitter.com.                                    104.244.42.131
+api-31-0-0.twitter.com                            api-31-0-0.twitter.com.                           69.195.183.128
+api-0-4-8.twitter.com                             api-0-4-8.twitter.com.                            209.237.204.128
+mta70.e.twitter.com                               mta70.e.twitter.com.                              136.147.183.234
+spring-chicken-bb.twitter.com                     spring-chicken-bb.twitter.com.                    199.16.156.167
+spring-chicken-bl.twitter.com                     spring-chicken-bl.twitter.com.                    199.16.156.177
+ham-catapult.twitter.com                          ham-catapult.twitter.com.                         199.16.156.142
+search2.twitter.com                               search2.twitter.com.                              199.16.156.11
+spring-chicken-at.twitter.com                     spring-chicken-at.twitter.com.                    199.16.156.159
+spruce-goose-as.twitter.com                       spruce-goose-as.twitter.com.                      199.59.150.88
+smf-api.twitter.com                               smf-api.twitter.com.                              104.244.45.248
+spring-chicken-bp.twitter.com                     spring-chicken-bp.twitter.com.                    199.16.156.181
+spruce-goose-be.twitter.com                       spruce-goose-be.twitter.com.                      199.59.150.100
+spruce-goose-bw.twitter.com                       spruce-goose-bw.twitter.com.                      199.59.150.118
+gtcp-dc.twitter.com                               gtcp-dc.twitter.com.                              35.186.226.218
+spruce-goose-ca.twitter.com                       spruce-goose-ca.twitter.com.                      199.59.150.122
+spruce-goose-bi.twitter.com                       spruce-goose-bi.twitter.com.                      199.59.150.104
+sitestream.twitter.com                            sitestream.twitter.com.                           199.59.150.42
+spring-chicken-af.twitter.com                     spring-chicken-af.twitter.com.                    199.16.156.145
+gtcp-pop.twitter.com                              gtcp-pop.twitter.com.                             35.190.14.255
+intl.twitter.com                                  intl.twitter.com.                                 199.59.148.36
+api-0-4-4.twitter.com                             api-0-4-4.twitter.com.                            209.237.199.128
+spring-chicken-bc.twitter.com                     spring-chicken-bc.twitter.com.                    199.16.156.168
+api-0-4-5.twitter.com                             api-0-4-5.twitter.com.                            209.237.203.128
+api-40-0-0.twitter.com                            api-40-0-0.twitter.com.                           69.195.181.128
+api-30-0-0.twitter.com                            api-30-0-0.twitter.com.                           69.195.180.128
+drl.twitter.com                                   s.twitter.com.                                    104.244.42.131
+mta2.e.twitter.com                                mta2.e.twitter.com.                               136.147.183.167
+spruce-goose-cc.twitter.com                       spruce-goose-cc.twitter.com.                      199.59.150.124
+gton.twitter.com                                  gtcp.twitter.com.                                 35.227.244.19
+mta65.e.twitter.com                               mta65.e.twitter.com.                              136.147.183.229
+spring-chicken-bu.twitter.com                     spring-chicken-bu.twitter.com.                    199.16.156.186
+spring-chicken-ap.twitter.com                     spring-chicken-ap.twitter.com.                    199.16.156.155
+spruce-goose-bb.twitter.com                       spruce-goose-bb.twitter.com.                      199.59.150.97
+spring-chicken-bf.twitter.com                     spring-chicken-bf.twitter.com.                    199.16.156.171
+spruce-goose-br.twitter.com                       spruce-goose-br.twitter.com.                      199.59.150.113
+mta8.e.twitter.com                                mta8.e.twitter.com.                               136.147.183.173
+support.twitter.com                               support.twitter.com.                              104.244.42.135
+datastream.twitter.com                            datastream.twitter.com.                           199.59.148.125
+awards.twitter.com                                s.twitter.com.                                    104.244.42.131
+theemawards.twitter.com                           s.twitter.com.                                    104.244.42.131
+people.twitter.com                                s.twitter.com.                                    104.244.42.131
+help.twitter.com                                  s.twitter.com.                                    104.244.42.131
+marchmadness.twitter.com                          s.twitter.com.                                    104.244.42.131
+assets4.twitter.com                               static.twitter.com.                               104.244.42.3
+td.twitter.com                                    td.twitter.com.                                   104.244.42.68
+redbull.twitter.com                               s.twitter.com.                                    104.244.42.131
+neptune.twitter.com                               s.twitter.com.                                    104.244.42.131
+essence.twitter.com                               s.twitter.com.                                    104.244.42.131
+empire.twitter.com                                s.twitter.com.                                    104.244.42.131
+moments.twitter.com                               s.twitter.com.                                    104.244.42.131
+bloombergmarkets.twitter.com                      s.twitter.com.                                    104.244.42.131
+ms5.twitter.com                                   s.twitter.com.                                    104.244.42.131
+iem.twitter.com                                   s.twitter.com.                                    104.244.42.131
+api-29-0-0.twitter.com                            api-29-0-0.twitter.com.                           69.195.161.128
+gaggle.twitter.com                                ghs.google.com.                                   172.217.31.211
+spruce-goose-ba.twitter.com                       spruce-goose-ba.twitter.com.                      199.59.150.96
+spruce-goose-bu.twitter.com                       spruce-goose-bu.twitter.com.                      199.59.150.116
+mta28.e.twitter.com                               mta28.e.twitter.com.                              136.147.183.193
+spring-chicken-cc.twitter.com                     spring-chicken-cc.twitter.com.                    199.16.156.137
+tyo-api.twitter.com                               tyo-api.twitter.com.                              104.244.45.249
+spruce-goose.twitter.com                          spruce-goose.twitter.com.                         199.59.150.64
+mta69.e.twitter.com                               mta69.e.twitter.com.                              136.147.183.233
+spruce-goose-ai.twitter.com                       spruce-goose-ai.twitter.com.                      199.59.150.78
+www.search.twitter.com                            search.twitter.com.                               104.244.42.3
+mta73.e.twitter.com                               mta73.e.twitter.com.                              136.147.183.237
+spruce-goose-cd.twitter.com                       spruce-goose-cd.twitter.com.                      199.59.150.125
+mta27.e.twitter.com                               mta27.e.twitter.com.                              136.147.183.192
+mta6.e.twitter.com                                mta6.e.twitter.com.                               136.147.183.171
+publish.twitter.com                               publish.twitter.com.                              104.244.42.3
+spring-chicken-bj.twitter.com                     spring-chicken-bj.twitter.com.                    199.16.156.175
+mta68.e.twitter.com                               mta68.e.twitter.com.                              136.147.183.232
+mx3.twitter.com                                   mx3.twitter.com.                                  199.59.148.207
+ms.twitter.com                                    ms.twitter.com.                                   199.59.148.91
+mta.e.twitter.com                                 mta.e.twitter.com.                                136.147.183.166
+spring-chicken-bw.twitter.com                     spring-chicken-bw.twitter.com.                    199.16.156.188
+spring-chicken-au.twitter.com                     spring-chicken-au.twitter.com.                    199.16.156.160
+spring-chicken-ba.twitter.com                     spring-chicken-ba.twitter.com.                    199.16.156.166
+spring-chicken-ca.twitter.com                     spring-chicken-ca.twitter.com.                    199.16.156.135
+spring-chicken-aq.twitter.com                     spring-chicken-aq.twitter.com.                    199.16.156.156
+spruce-goose-bj.twitter.com                       spruce-goose-bj.twitter.com.                      199.59.150.105
+spruce-goose-cb.twitter.com                       spruce-goose-cb.twitter.com.                      199.59.150.123
+mta25.e.twitter.com                               mta25.e.twitter.com.                              136.147.183.190
+spruce-goose-aa.twitter.com                       spruce-goose-aa.twitter.com.                      199.59.150.70
+spruce-goose-aj.twitter.com                       spruce-goose-aj.twitter.com.                      199.59.150.79
+facebook3.twitter.com                             facebook3.twitter.com.                            199.59.148.209
+spring-chicken-ac.twitter.com                     spring-chicken-ac.twitter.com.                    199.16.156.142
+ss.twitter.com                                    ss.twitter.com.                                   199.59.150.10
+spring-chicken-bq.twitter.com                     spring-chicken-bq.twitter.com.                    199.16.156.182
+
+
+NORECORD RECORD DATA
+
+preview.cdn.twitter.com                           
+si4.twimg.com                                     
+atlc-vpn2-au.net.twitter.com                      
+si2.twimg.com                                     
+jp.twimg.com                                      
+mta39.e.twitter.com                               
+mta40.e.twitter.com                               
+13.twitter.com                                    
+si0.twimg.com                                     
+si3.twimg.com                                     
+si1.twimg.com                                     
+p.twitter.com                                     
+mta32.e.twitter.com                               
+mta42.e.twitter.com                               
+si5.twimg.com                                     
+12.twitter.com                                    
+api-staging148.smf1.twitter.com                   
+nessus4.smf1.twitter.com                          
+status1.twitter.com                               
+cdn-eb.syndication.twitter.com                    
+ton-vine.twitter.com                              
+curator.twitter.com                               
+en.twitter.com                                    
+es.twitter.com                                    
+blog.es.twitter.com                               
+fr.twitter.com                                    
+blog.fr.twitter.com                               
+ham-cannon.twitter.com                            
+blog.it.twitter.com                               
+it.twitter.com                                    
+deknisa.twitter.com                               
+beta.twitter.com                                  
+co.id.twitter.com                                 
+platform1.twitter.com                             
+platform2.twitter.com                             
+netnod-ix-ge-a-sth-1500.twitter.com               
+i3.twimg.com                                      
+mobile-staging1.twitter.com                       
+audubon.nyc1.twitter.com                          
+cuckoo-lb.smfc.twitter.com                        
+www.mobile.twitter.com                            
+eqix-ma-sv5.twitter.com                           
+netnod-ix-ge-b-sth-4470.twitter.com               
+mta34.e.twitter.com                               
+mta30.e.twitter.com                               
+mobile-staging5.twitter.com                       
+www.m.twitter.com                                 
+ja.twitter.com                                    
+blog.jp.twitter.com                               
+d.twitter.com                                     
+quickread.twitter.com                             
+eqix-ma-ch.twitter.com                            
+o.twimg.com                                       
+anywhere.platform.twitter.com                     
+mobile-staging3.twitter.com                       
+mta47.e.twitter.com                               
+pulseone1.smfc.twitter.com                        
+audubon.mil1.twitter.com                          
+audubon.smfc.twitter.com                          
+oauth.twitter.com                                 
+netnod-ix-ge-b-sth-1500.twitter.com               
+image.e.twitter.com                               
+gif-staging.twitter.com                           
+mta46.e.twitter.com                               
+mta36.e.twitter.com                               
+hashtag.twitter.com                               
+pulseone-api.smfc.twitter.com                     
+geo2.info.twitter.com                             
+img.twitter.com                                   
+geo2.ton.twitter.com                              
+mobile.blog.twitter.com                           
+koalabird.smfc.twitter.com                        
+audubon.atl4.twitter.com                          
+gif.twitter.com                                   
+audubon.chi1.twitter.com                          
+geo2.platform.twitter.com                         
+koalabird.atlc.twitter.com                        
+hitztage.aksisnet.co.id.twitter.com               
+audubon.smfv.twitter.com                          
+audubon.atlv.twitter.com                          
+pulseone1.netsec.smfc.twitter.com                 
+telkomsel.twitter.com                             
+vpn-lab.smfc.twitter.com                          
+audubon.par1.twitter.com                          
+audubon.smfc.twitter.biz                          
+audubon.mad2.twitter.com                          
+audubon.atla.twitter.biz                          
+audubon.sto1.twitter.com                          
+pages.pic.twitter.com                             
+audubon.sea2.twitter.com                          
+atla.twitter.com                                  
+malwrhunterteampic.twitter.com                    
+stunnel-tpop-to-smf1.twitter.com                  
+ise-admin2.atlc.twitter.com                       
+audubon.atlc.twitter.com                          
+pulseone2.smfc.twitter.com                        
+audubon.sfd1.twitter.com                          
+cacti.smfc.twitter.com                            
+nessus1.smfc.twitter.com                          
+audubon.tyo3.twitter.com                          
+app.tweet.twitter.com                             
+audubon.lax1.twitter.com                          
+2019pic.twitter.com                               
+ldap.atla.twitter.com                             
+mta41.e.twitter.com                               
+                                                  
+netnod-ix-ge-a-sth-4470.twitter.com               
+eqix-da1.twitter.com                              
+audubon.dfw1.twitter.com                          
+syndication-o.twitter.com                         
+geo2.maven.twitter.com                            
+www.platform.twitter.com                          
+nessus1.atla.twitter.com                          
+nessus3.smf1.twitter.com                          
+v.twimg.com                                       
+vmtc.twimg.com                                    
+tailfeather.twimg.com                             
+alerts.smfc.twitter.com                           
+yum.local.twitter.com                             
+splunk-indexer.atla.twitter.com                   
+ldap.smf1.twitter.com                             
+age.twitter.com                                   
+nauth-lab-au1.net.twitter.com                     
+localhost.twitter.com                             
+nauth2.atlc.twitter.com                           
+audubon.sjc1.twitter.com                          
+audubon.lyn1.twitter.com                          
+db-train-ro-app-001.smf1.twitter.com              
+www-cdn.twitter.com                               
+ise-psn2.atlc.twitter.com                         
+happening.mobile.twitter.com                      
+crushus-s3.twitter.com                            
+audubon.smfs.twitter.biz                          
+nessus2.smf1.twitter.com                          
+audubon.smfv.twitter.biz                          
+music.twitter.com                                 
+nauth1.smfc.twitter.com                           
+phishstatspic.twitter.com                         
+splunk-indexer-staging.smf1.twitter.com           
+nessus1.atlc.twitter.com                          
+audubon.dxb2.twitter.com                          
+tweetdeck.localhost.twitter.com                   
+audubon.smfs.twitter.com                          
+u003epic.twitter.com                              
+audubon.lab1.twitter.com                          
+wwww.twitter.com                                  
+uauth.ise.twitter.com                             
+cdn-dev.api.twitter.com                           
+preview-stage.cdn.twitter.com                     
+pulseone.netsec.smfc.twitter.com                  
+api.netsec.smfc.twitter.com                       
+smfc-vpn2-au.net.twitter.com                      
+supplier.twitter.com                              
+atlc-vpn1-au.net.twitter.com                      
+audubon.fra1.twitter.com                          
+cert.twitter.com                                  
+audubon.atla.twitter.com                          
+smf1.twitter.com                                  
+nessus1.wild.twitter.com                          
+securitypic.twitter.com                           
+nwww.twitter.com                                  
+bfwww.twitter.com                                 
+8bwww.twitter.com                                 
+hoping.twitter.com                                
+infosecpic.twitter.com                            
+www.tweetdeck.twitter.com                         
+audubon.lon2.twitter.biz                          
+db-train-rw-master-001.global-db.twttr.net        
+audubon.lon3.twitter.biz                          
+audubon.twitter.biz                               
+pbs-h1.twimg.com                                  
+pbs-h1-ec.twimg.com                               
+xn--aladdn-7va.pic.twitter.com                    
+gs.twimg.com                                      
+audubon.ams1.twitter.biz                          
+1pic.twitter.com                                  
+cdn.digits.com                                    
+tpic.twitter.com                                  
+audubon.nyc2.twitter.biz                          
+audubon.lyn1.twitter.biz                          
+splunk-hec.atla.twitter.com                       
+audubon.sea2.twitter.biz                          
+audubon.iad1.twitter.biz                          
+audubon.tyo1.twitter.biz                          
+audubon.pao1.twitter.biz                          
+audubon.iad2.twitter.biz                          
+audubon.lax1.twitter.biz                          
+p-0.twimg.com                                     
+audubon.atlb.twitter.biz                          
+pulseone2.netsec.smfc.twitter.com                 
+audubon.atl4.twitter.biz                          
+vpn2.smfc.twitter.com                             
+cuckoo.atlb.twitter.com                           
+pulseone.smfc.twitter.com                         
+audubon.sin1.twitter.com                          
+audubon.atl2.twitter.biz                          
+alerts.atlb.twitter.com                           
+audubon.atlb.twitter.com                          
+audubon.fra1.twitter.biz                          
+audubon.sjc2.twitter.biz                          
+audubon.chi1.twitter.biz                          
+atla-bmf-18-sr1.prod.twttr.net                    
+atla-ett-08-sr1.prod.twttr.net                    
+audubon.tyo3.twitter.biz                          
+nauth1.atlc.twitter.biz                           
+nessus4.atla.twitter.com                          
+api.opx.opreamini-facebook.twitter.com            
+audubon.iad2.twitter.com                          
+audubon.atl2.twitter.com                          
+audubon.sfo2.twitter.biz                          
+nauth1.smfc.twitter.biz                           
+vpn-lab-au1.net.twttr.net                         
+widgets.platform.twitter.com                      
+platform0.twitter.com                             
+preview-dev.cdn.twitter.com                       
+mta44.e.twitter.com                               
+eqix-ema-sv.twitter.com                           
+mta38.e.twitter.com                               
+p.twttr.com                                       
+splunk-master.atla.twitter.com                    
+audubon.fra2.twitter.com                          
+yum.smf1.twitter.com                              
+cuckoo.smfc.twitter.com                           
+click.e.twitter.com                               
+audubon.sjc2.twitter.com                          
+audubon.syd2.twitter.com                          
+audubon.ams1.twitter.com                          
+audubon.mia1.twitter.biz                          
+smfc-vpn1-au.net.twitter.com                      
+yum.atla.twitter.com                              
+music-partner.twitter.com                         
+smf1-bhi-08-sr1.prod.twitter.com                  
+nauth1.atlc.twitter.com                           
+splunk-master.smf1.twitter.com                    
+splunk-deployer-staging.smf1.twitter.com          
+audubon.sfd1.twitter.biz                          
+audubon.mil1.twitter.biz                          
+audubon.dfw1.twitter.biz                          
+view.e.twitter.com                                
+nessus1.smfs.twitter.com                          
+audubon.sto1.twitter.biz                          
+audubon.sjc1.twitter.biz                          
+audubon.syd1.twitter.biz                          
+audubon.syd2.twitter.biz                          
+wilyns-proxy.twitter.com                          
+nessus3.atla.twitter.com                          
+wilyns-tsa.smf1.twitter.com                       
+vpn2.atlc.twitter.com                             
+wilyns-tsa.atla.twitter.com                       
+splunk.atla.twitter.com                           
+alerts.atlc.twitter.com                           
+splunk-deployer.atla.twitter.com                  
+audubon.lon1.twitter.biz                          
+pulseone-ui.smfc.twitter.com                      
+splunk.smf1.twitter.com                           
+db-train-ro-app-001.atla.twitter.com              
+audubon.sfo2.twitter.com                          
+nessus1.smf1.twitter.com                          
+cuckoo-lb.atlb.twitter.com                        
+audubon.tyo1.twitter.com                          
+cuckoo.atlc.twitter.com                           
+audubon.smf1.twitter.biz                          
+atl1.twitter.com                                  
+audubon.iad3.twitter.biz                          
+db-train-rw-master-001.atla.twitter.com           
+audubon.local.twitter.biz                         
+audubon.atlv.twitter.biz                          
+nauth2.smfc.twitter.biz                           
+yndication.twimg.com                              
+nauth2.atlc.twitter.biz                           
+audubon.atls.twitter.biz                          
+splunk-hec.smf1.twitter.com                       
+audubon.syd1.twitter.com                          
+audubon.dxb1.twitter.com                          
+audubon.hkg1.twitter.com                          
+koalabird.atlb.twitter.com                        
+support-0.twitter.com                             
+db-train-rw-master-001.smf1.twitter.com           
+preview-0.cdn.twitter.com                         
+images.tweet.twitter.com                          
+vpn1.atlc.twitter.com                             
+audubon.pao1.twitter.com                          
+vpn-lab.atlc.twitter.com                          
+nessus1.atls.twitter.com                          
+audubon.sao1.twitter.com                          
+viz-staging.smf1.twitter.com                      
+splunk-indexer.smf1.twitter.com                   
+widgets.twimg.com                                 
+mta43.e.twitter.com                               
+mta33.e.twitter.com                               
+smf1-nc1-er2.net.twitter.com                      
+mta49.e.twitter.com                               
+mobile-staging2.twitter.com                       
+anywhere.twitter.com                              
+mta9.e.twitter.com                                
+qix-ema-sv8.twitter.com                           
+spring-chicken-bd.twitter.com                     
+stories.twitter.com                               
+spruce-goose-bd.twitter.com                       
+mta14.e.twitter.com                               
+spring-chicken-aa.twitter.com                     
+15.twitter.com                                    
+vine.twitter.com                                  
+mta23.e.twitter.com                               
+apple.twitter.com                                 
+spring-chicken-ai.twitter.com                     
+comiccon.twitter.com                              
+www4.twitter.com                                  
+futbol.twitter.com                                
+eqix-at1.twitter.com                              
+p-dev.twimg.com                                   
+mta31.e.twitter.com                               
+esl.twitter.com                                   
+14.twitter.com                                    
+spruce-goose-ad.twitter.com                       
+spring-chicken-al.twitter.com                     
+btsportscore.twitter.com                          
+spring-chicken-aj.twitter.com                     
+o4.events.twitter.com                             
+spruce-goose-ag.twitter.com                       
+mx4.twitter.com                                   
+failover-urls.api.twitter.com                     
+studio.twitter.com                                
+mta3.e.twitter.com                                
+debates.twitter.com                               
+platform3.twitter.com                             
+m.twitter.com                                     
+eqix-ema-da.twitter.com                           
+tdweb.twitter.com                                 
+nll.twitter.com                                   
+inauguration.twitter.com                          
+mta10.e.twitter.com                               
+10.twitter.com                                    
+mta20.e.twitter.com                               
+mta22.e.twitter.com                               
+careers.twitter.com                               
+urls.api.twitter.com                              
+spring-chicken-bi.twitter.com                     
+media.twitter.com                                 
+mta71.e.twitter.com                               
+audubon.atls.twitter.com                          
+spruce-goose-at.twitter.com                       
+spring-chicken-bv.twitter.com                     
+mta45.e.twitter.com                               
+collector-ops.twitter.com                         
+spruce-goose-bt.twitter.com                       
+mta37.e.twitter.com                               
+assets3-backup.twitter.com                        
+api-test.twitter.com                              
+stream.twitter.com                                
+spring-chicken-br.twitter.com                     
+tdapi.twitter.com                                 
+spruce-goose-ar.twitter.com                       
+mobile-staging4.twitter.com                       
+www1-backup.twitter.com                           
+spring-chicken-bm.twitter.com                     
+api1-backup.twitter.com                           
+watchstadium.twitter.com                          
+spruce-goose-bq.twitter.com                       
+forza.twitter.com                                 
+spring-chicken-ce.twitter.com                     
+spring-chicken-av.twitter.com                     
+spring-chicken-ao.twitter.com                     
+spruce-goose-ac.twitter.com                       
+spruce-goose-aw.twitter.com                       
+blog.de.twitter.com                               
+eqix-ema-la.twitter.com                           
+twemoji.twitter.com                               
+tweet.twitter.com                                 
+mta35.e.twitter.com                               
+spruce-goose-am.twitter.com                       
+mail02.tweet.twitter.com                          
+spring-chicken-ar.twitter.com                     
+tommynow.twitter.com                              
+content.twitter.com                               
+spring-chicken-be.twitter.com                     
+11.twitter.com                                    
+spring-chicken-an.twitter.com                     
+lite-dev.twitter.com                              
+spring-chicken-bs.twitter.com                     
+api2.twitter.com                                  
+spruce-goose-ao.twitter.com                       
+research.twitter.com                              
+spruce-goose-ce.twitter.com                       
+blog-dev.twitter.com                              
+events.twitter.com                                
+0.twitter.com                                     
+mail01.tweet.twitter.com                          
+spring-chicken-bo.twitter.com                     
+urls-real.api.twitter.com                         
+esports.twitter.com                               
+spruce-goose-az.twitter.com                       
+mtv.twitter.com                                   
+spring-chicken-bt.twitter.com                     
+marketing-dev.twitter.com                         
+fonts.twitter.com                                 
+assets1-backup.twitter.com                        
+betastream.twitter.com                            
+spruce-goose-ax.twitter.com                       
+about.twitter.com                                 
+judo.twitter.com                                  
+postmaster.twitter.com                            
+cards-frame.twitter.com                           
+transparency-staging.twitter.com                  
+khalid.twitter.com                                
+api-42-0-0.twitter.com                            
+api-0-5-0.twitter.com                             
+live.twitter.com                                  
+spruce-goose-bo.twitter.com                       
+xbox.twitter.com                                  
+blog.uk.twitter.com                               
+dasient.twitter.com                               
+service-accessibility-monitoring-devel.zone-a.qua2.twitter.com
+arsenal.twitter.com                               
+tnf.twitter.com                                   
+cortex-staging.twitter.com                        
+firefox.twitter.com                               
+audubon.mia1.twitter.com                          
+ads-dev.twitter.com                               
+dreamleague.twitter.com                           
+form.twitter.com                                  
+api-3-0-0.twitter.com                             
+syndication.twitter.com                           
+api-0-4-1.twitter.com                             
+help-internal.twitter.com                         
+ittr-staging.twitter.com                          
+jp.twitter.com                                    
+spring-chicken-aw.twitter.com                     
+spruce-goose-bn.twitter.com                       
+api-0-4-0.twitter.com                             
+cortex.twitter.com                                
+nessus2.atla.twitter.com                          
+sms-smf1.twitter.com                              
+cuckoo-lb.atlc.twitter.com                        
+api-34-0-0.twitter.com                            
+zero.twitter.com                                  
+api-33-0-0.twitter.com                            
+ads-api.twitter.com                               
+spring-chicken-ay.twitter.com                     
+spring-chicken-bx.twitter.com                     
+mobileblog.twitter.com                            
+2010.twitter.com                                  
+legal.twitter.com                                 
+ise-admin1.smfc.twitter.com                       
+pgatourlive.twitter.com                           
+horizon-dev.twitter.com                           
+2019.pic.twitter.com                              
+gtcp2.twitter.com                                 
+api-47-0-0.twitter.com                            
+gtcp3.twitter.com                                 
+vice.twitter.com                                  
+showtime.twitter.com                              
+charlottesville.twitter.com                       
+marketing-staging.twitter.com                     
+static-site.twitter.com                           
+dxb-api.twitter.com                               
+blog-staging.twitter.com                          
+legal-staging.twitter.com                         

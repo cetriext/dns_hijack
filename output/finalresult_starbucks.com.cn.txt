@@ -1,0 +1,432 @@
+NXDOMAIN DATA
+
+old.rewards.starbucks.com.cn                      cn.old.rewards.starbucks.com.cn.                  lookup cn.old.rewards.starbucks.com.cn.: no such host
+cn.stg.openvpn.pos.engagedqr.starbucks.com.cn     cn.stg.openvpn.pos.engagedqr.starbucks.com.cn.    lookup cn.stg.openvpn.pos.engagedqr.starbucks.com.cn.: getaddrinfow: The requested name is valid, but no data of the requested type was found.
+campaign.starbucks.com.cn                         campaign.starbucks.com.cn.w.kunlunle.com.         lookup campaign.starbucks.com.cn.w.kunlunle.com.: no such host
+staging-evp.starbucks.com.cn                      cn.staging-evp.starbucks.com.cn.                  lookup cn.staging-evp.starbucks.com.cn.: no such host
+cn.callcenter.starbucks.com.cn                    cn.callcenter.starbucks.com.cn.                   lookup cn.callcenter.starbucks.com.cn.: no such host
+callcenter.starbucks.com.cn                       cn.callcenter.starbucks.com.cn.                   lookup cn.callcenter.starbucks.com.cn.: no such host
+pcmd.stg.starbucks.com.cn                         pcmd-stg.b0.aicdn.com.                            lookup pcmd-stg.b0.aicdn.com.: no such host
+cn.mopservice.stg.starbucks.com.cn                cn.mopservice.stg.starbucks.com.cn.               lookup cn.mopservice.stg.starbucks.com.cn.: no such host
+mopservice.stg.starbucks.com.cn                   cn.mopservice.stg.starbucks.com.cn.               lookup cn.mopservice.stg.starbucks.com.cn.: no such host
+ps.starbucks.com.cn                               cn.ps.starbucks.com.cn.                           lookup cn.ps.starbucks.com.cn.: no such host
+userpref.starbucks.com.cn                         cn.userpref.starbucks.com.cn.                     lookup cn.userpref.starbucks.com.cn.: no such host
+activity.starbucks.com.cn                         cn.activity.starbucks.com.cn.                     lookup cn.activity.starbucks.com.cn.: no such host
+psapi.starbucks.com.cn                            cn.psapi.starbucks.com.cn.                        lookup cn.psapi.starbucks.com.cn.: no such host
+order-report.starbucks.com.cn                     cn.order-report.starbucks.com.cn.                 lookup cn.order-report.starbucks.com.cn.: no such host
+activity.stg.starbucks.com.cn                     cn.activity.stg.starbucks.com.cn.                 lookup cn.activity.stg.starbucks.com.cn.: no such host
+mopfile.stg.starbucks.com.cn                      mop-test-starbucks.b0.aicdn.com.                  lookup mop-test-starbucks.b0.aicdn.com.: no such host
+
+
+CNAME RECORD DATA
+
+roastery.starbucks.com.cn                         roastery.starbucks.com.cn.w.kunlungr.com.         58.49.248.249
+adapter.egifting.stg.starbucks.com.cn             cn.adapter.egifting.stg.starbucks.com.cn.         180.153.48.249
+ncwechat.starbucks.com.cn                         cn.ncwechat.starbucks.com.cn.                     180.153.24.88
+mss.starbucks.com.cn                              cn.mss.starbucks.com.cn.                          180.153.24.83
+ccapi.starbucks.com.cn                            exidc.starbucks.com.cn.                           120.136.132.41
+3pph5.starbucks.com.cn                            3pph5-starbucks.b0.aicdn.com.                     43.230.89.188
+mopfile.starbucks.com.cn                          mop-starbucks.b0.aicdn.com.                       43.230.89.188
+Roastery.starbucks.com.cn                         roastery.starbucks.com.cn.w.kunlungr.com.         58.49.248.249
+Mss.starbucks.com.cn                              cn.mss.starbucks.com.cn.                          180.153.24.83
+mopservice.starbucks.com.cn                       cn.mopservice.starbucks.com.cn.                   180.153.48.203
+udp-staging-sbux.starbucks.com.cn                 cn.udp-staging-sbux.starbucks.com.cn.             180.153.48.222
+rewards.starbucks.com.cn                          cn.rewards.starbucks.com.cn.                      180.153.48.202
+stg.app.dqr.starbucks.com.cn                      cn.stg.app.dqr.starbucks.com.cn.                  180.153.48.218
+pos.dqr.starbucks.com.cn                          cn.pos.dqr.starbucks.com.cn.                      180.153.48.208
+reservation.stg.starbucks.com.cn                  reservation-stg.b0.aicdn.com.                     43.230.89.188
+invoice.starbucks.com.cn                          cn.invoice.starbucks.com.cn.                      180.153.48.246
+cn.openvpn.west.wx.starbucks.com.cn               cn.openvpn.west.wx.starbucks.com.cn.              180.153.48.188
+achievement.starbucks.com.cn                      achievement-sb.b0.aicdn.com.                      43.230.89.188
+cn.pos.dqr.starbucks.com.cn                       cn.pos.dqr.starbucks.com.cn.                      180.153.48.208
+cn.stg.openvpn.pos.dqr-boards.starbucks.com.cn    cn.stg.openvpn.pos.dqr-boards.starbucks.com.cn.   180.153.48.188
+www.old.giftcard.starbucks.com.cn                 www.old.giftcard.starbucks.com.cn.                180.153.48.188
+www.xbz.starbucks.com.cn                          www.xbz.starbucks.com.cn.                         180.153.48.188
+www.starbucks.com-www.starbucks.com.cn            www.starbucks.com-www.starbucks.com.cn.           180.153.48.188
+www.myroast.starbucks.com.cn                      www.myroast.starbucks.com.cn.                     180.153.48.188
+cn.resource.starbucks.com.cn                      cn.resource.starbucks.com.cn.                     180.153.48.195
+system.starbucks.com.cn                           system.starbucks.com.cn.                          61.147.84.47
+Stg.pos.dqr.starbucks.com.cn                      cn.stg.pos.dqr.starbucks.com.cn.                  180.153.48.216
+stg.pos.dqr.starbucks.com.cn                      cn.stg.pos.dqr.starbucks.com.cn.                  180.153.48.216
+zh.starbucks.com.cn                               zh.starbucks.com.cn.                              180.153.48.188
+www.frappuccinogalaxy.starbucks.com.cn            www.frappuccinogalaxy.starbucks.com.cn.           180.153.48.188
+www.httpwww.starbucks.com.cn                      www.httpwww.starbucks.com.cn.                     180.153.48.188
+greetings.starbucks.com.cn                        cn.greetings.starbucks.com.cn.                    180.153.24.91
+www.invoice.starbucks.com.cn                      www.invoice.starbucks.com.cn.                     180.153.48.188
+rewads.starbucks.com.cn                           rewads.starbucks.com.cn.                          180.153.48.188
+cn.api.egifting.starbucks.com.cn                  cn.api.egifting.starbucks.com.cn.                 180.153.48.207
+cn.openvpn.sjc.invoice.starbucks.com.cn           cn.openvpn.sjc.invoice.starbucks.com.cn.          54.76.135.1
+cn.cards.starbucks.com.cn                         cn.cards.starbucks.com.cn.                        180.153.48.203
+invioce.starbucks.com.cn                          invioce.starbucks.com.cn.                         180.153.48.188
+cn.achievement.starbucks.com.cn                   cn.achievement.starbucks.com.cn.                  180.153.48.188
+wwww.starbucks.com.cn                             wwww.starbucks.com.cn.                            180.153.48.188
+stg.eb.openvpn.egift.starbucks.com.cn             stg.eb.openvpn.egift.starbucks.com.cn.            23.89.5.60
+cn.stg.pos.dqr.starbucks.com.cn                   cn.stg.pos.dqr.starbucks.com.cn.                  180.153.48.216
+www.giftcard.starbucks.com.cn                     www.giftcard.starbucks.com.cn.                    180.153.48.188
+www.artwork.starbucks.com.cn                      www.artwork.starbucks.com.cn.                     180.153.48.188
+www.huadong.starbucks.com.cn                      www.huadong.starbucks.com.cn.                     180.153.48.188
+cn.yb.starbucks.com.cn                            cn.yb.starbucks.com.cn.                           180.153.48.188
+cn.stg.openvpn.pcachepos.dqr.starbucks.com.cn     cn.stg.openvpn.pcachepos.dqr.starbucks.com.cn.    23.89.5.60
+cn.wx.starbucks.com.cn                            cn.wx.starbucks.com.cn.                           180.153.48.254
+e.starbucks.com.cn                                e.starbucks.com.cn.                               61.147.84.47
+stg.img.egifting.starbucks.com.cn                 cn.stg.img.egifting.starbucks.com.cn.             180.153.48.249
+api.pds.starbucks.com.cn                          api.pds.starbucks.com.cn.                         120.136.132.77
+cn.www.starbucks.com.cn                           cn.www.starbucks.com.cn.                          180.153.48.188
+cn.auth.starbucks.com.cn                          cn.auth.starbucks.com.cn.                         180.153.48.203
+cn.coupons.starbucks.com.cn                       cn.coupons.starbucks.com.cn.                      180.153.48.184
+cn.stg.openvpn.pos.dqr.vi.starbucks.com.cn        cn.stg.openvpn.pos.dqr.vi.starbucks.com.cn.       180.153.48.188
+cn.adapter.internal-egifting.starbucks.com.cn     cn.adapter.internal-egifting.starbucks.com.cn.    180.153.48.188
+xbz.starbucks.com.cn                              xbz.starbucks.com.cn.                             180.153.48.188
+www.starbucks.com.cn                              cn.www.starbucks.com.cn.                          180.153.48.188
+stg.starbucks.com.cn                              stg.starbucks.com.cn.                             180.153.48.188
+cn.api.starbucks.com.cn                           cn.api.starbucks.com.cn.                          180.153.48.176
+api.starbucks.com.cn                              cn.api.starbucks.com.cn.                          180.153.48.176
+auth.starbucks.com.cn                             cn.auth.starbucks.com.cn.                         180.153.48.203
+wx.starbucks.com.cn                               cn.wx.starbucks.com.cn.                           180.153.48.254
+starbucks_www.starbucks.com.cn                    starbucks_www.starbucks.com.cn.                   180.153.48.188
+iinvoice.starbucks.com.cn                         iinvoice.starbucks.com.cn.                        180.153.48.188
+reservation.starbucks.com.cn                      reservation-starb.b0.aicdn.com.                   43.230.89.188
+www.old.www.starbucks.com.cn                      www.old.www.starbucks.com.cn.                     180.153.48.188
+cn.stg.img.egifting.starbucks.com.cn              cn.stg.img.egifting.starbucks.com.cn.             180.153.48.249
+Score.sec.starbucks.com.cn                        Score.sec.starbucks.com.cn.                       120.136.132.15
+toggle.starbucks.com.cn                           toggle.starbucks.com.cn.                          120.136.132.41
+testing.starbucks.com.cn                          testing.starbucks.com.cn.                         180.153.48.188
+stg.dqr.starbucks.com.cn                          stg.dqr.starbucks.com.cn.                         180.153.48.188
+cn.rewards.starbucks.com.cn                       cn.rewards.starbucks.com.cn.                      180.153.48.202
+cn.stg.openvpn.pos.dqr.na.starbucks.com.cn        cn.stg.openvpn.pos.dqr.na.starbucks.com.cn.       180.153.48.188
+ecjobs.starbucks.com.cn                           ecjobs.starbucks.com.cn.                          180.153.48.188
+www.www.starbucks.com.cn                          www.www.starbucks.com.cn.                         180.153.48.188
+track.starbucks.com.cn                            track.starbucks.com.cn.                           180.153.48.188
+wvw.starbucks.com.cn                              wvw.starbucks.com.cn.                             180.153.48.188
+fmspartnerapp.stg.starbucks.com.cn                fmspartnerapp.stg.starbucks.com.cn.               180.153.48.188
+cn.pnc.starbucks.com.cn                           cn.pnc.starbucks.com.cn.                          180.153.48.250
+pnc.starbucks.com.cn                              cn.pnc.starbucks.com.cn.                          180.153.48.250
+cn.old-pxp.openvpn.rewards.starbucks.com.cn       cn.old-pxp.openvpn.rewards.starbucks.com.cn.      180.153.48.188
+dpomapi.stg.starbucks.com.cn                      dpomapi.stg.starbucks.com.cn.                     120.136.132.42
+cn.profile.starbucks.com.cn                       cn.profile.starbucks.com.cn.                      180.153.48.203
+cn.img.egifting.starbucks.com.cn                  cn.img.egifting.starbucks.com.cn.                 180.153.48.207
+emsr.starbucks.com.cn                             cn.emsr.starbucks.com.cn.                         180.153.48.194
+casemanager.sec-stg.starbucks.com.cn              casemanager.sec-stg.starbucks.com.cn.             120.136.132.13
+cn.mss.starbucks.com.cn                           cn.mss.starbucks.com.cn.                          180.153.24.83
+cn.invoice.starbucks.com.cn                       cn.invoice.starbucks.com.cn.                      180.153.48.246
+cn.jklp.starbucks.com.cn                          cn.jklp.starbucks.com.cn.                         180.153.24.84
+receipt01.stg.starbucks.com.cn                    receipt01.stg.starbucks.com.cn.                   120.136.132.42
+crmprod.starbucks.com.cn                          crmprod.starbucks.com.cn.                         120.136.132.10
+retailwebappsecd.starbucks.com.cn                 retailwebappsecd.starbucks.com.cn.                139.217.204.123
+cn.openvpn.sms-stg.invoice.starbucks.com.cn       cn.openvpn.sms-stg.invoice.starbucks.com.cn.      180.153.48.188
+e1.starbucks.com.cn                               e1.starbucks.com.cn.                              61.147.84.45
+tony2-cn.old.giftcard.openvpn.starbucks.com.cn    tony2-cn.old.giftcard.openvpn.starbucks.com.cn.   180.153.48.188
+artwork.starbucks.com.cn                          artwork-starbucks.b0.aicdn.com.                   43.230.89.188
+papp-liveshowcb.starbucks.com.cn                  papp-liveshowcb.starbucks.com.cn.                 180.153.48.188
+cn.stg.egifting.starbucks.com.cn                  cn.stg.egifting.starbucks.com.cn.                 180.153.48.249
+stg.egifting.starbucks.com.cn                     cn.stg.egifting.starbucks.com.cn.                 180.153.48.249
+cn.stg.app.dqr.starbucks.com.cn                   cn.stg.app.dqr.starbucks.com.cn.                  180.153.48.218
+cn.stg.invoice.starbucks.com.cn                   cn.stg.invoice.starbucks.com.cn.                  180.153.48.247
+cn.old.giftcard.starbucks.com.cn                  cn.old.giftcard.starbucks.com.cn.                 180.153.48.214
+www.chinatimeline.starbucks.com.cn                www.chinatimeline.starbucks.com.cn.               180.153.48.188
+merchant-api.egifting.starbucks.com.cn            cn.merchant-api.egifting.starbucks.com.cn.        180.153.48.207
+cn.merchant-api.egifting.starbucks.com.cn         cn.merchant-api.egifting.starbucks.com.cn.        180.153.48.207
+cn.bff.starbucks.com.cn                           cn.bff.starbucks.com.cn.                          180.153.48.203
+cn.customerexperience.starbucks.com.cn            cn.customerexperience.starbucks.com.cn.           180.153.48.236
+customerexperience.starbucks.com.cn               cn.customerexperience.starbucks.com.cn.           180.153.48.236
+www.reward.starbucks.com.cn                       www.reward.starbucks.com.cn.                      180.153.48.188
+pulse.sec-stg.starbucks.com.cn                    pulse.sec-stg.starbucks.com.cn.                   120.136.132.14
+cn.appdata.starbucks.com.cn                       cn.appdata.starbucks.com.cn.                      180.153.24.92
+sdms.starbucks.com.cn                             sdms.starbucks.com.cn.                            120.136.132.22
+inovice.starbucks.com.cn                          inovice.starbucks.com.cn.                         180.153.48.188
+papp-im.stg.starbucks.com.cn                      papp-im.stg.starbucks.com.cn.                     180.153.48.188
+Score.sec-stg.starbucks.com.cn                    Score.sec-stg.starbucks.com.cn.                   120.136.132.12
+cccapi.stg.starbucks.com.cn                       cccapi.stg.starbucks.com.cn.                      120.136.132.42
+o2odservice.starbucks.com.cn                      o2odservice.starbucks.com.cn.                     120.136.132.41
+omg05api.stg.starbucks.com.cn                     omg05api.stg.starbucks.com.cn.                    120.136.132.33
+beaconhub.starbucks.com.cn                        cn.beaconhub.starbucks.com.cn.                    180.153.48.198
+cn.stg.api.egifting.starbucks.com.cn              cn.stg.api.egifting.starbucks.com.cn.             180.153.48.249
+cn.beaconhub-staging-sbux.starbucks.com.cn        cn.beaconhub-staging-sbux.starbucks.com.cn.       180.153.48.222
+receipt-web.starbucks.com.cn                      receipt-web.starbucks.com.cn.                     120.136.132.41
+cn.giftcard.starbucks.com.cn                      cn.giftcard.starbucks.com.cn.                     180.153.48.215
+store.starbucks.com.cn                            store.starbucks.com.cn.                           180.153.48.188
+cn.pcc.starbucks.com.cn                           cn.pcc.starbucks.com.cn.                          180.153.48.230
+retailwebaccessecd.starbucks.com.cn               retailwebaccessecd.starbucks.com.cn.              180.153.48.188
+dpfm.stg.starbucks.com.cn                         dpfm.stg.starbucks.com.cn.                        120.136.132.42
+2www.starbucks.com.cn                             2www.starbucks.com.cn.                            180.153.48.188
+cn.adapter.egifting.starbucks.com.cn              cn.adapter.egifting.starbucks.com.cn.             180.153.48.207
+cn.stagingweb.starbucks.com.cn                    cn.stagingweb.starbucks.com.cn.                   180.153.48.183
+cn.greetings.starbucks.com.cn                     cn.greetings.starbucks.com.cn.                    180.153.24.91
+push.starbucks.com.cn                             cn.push.starbucks.com.cn.                         180.153.48.237
+walkingdata.starbucks.com.cn                      walkingdata.starbucks.com.cn.                     120.136.132.41
+3ppapi.stg.starbucks.com.cn                       3ppapi.stg.starbucks.com.cn.                      40.73.71.171
+stg.api.egifting.starbucks.com.cn                 cn.stg.api.egifting.starbucks.com.cn.             180.153.48.249
+3pph5.stg.starbucks.com.cn                        3pph5-stg-starbucks.b0.aicdn.com.                 43.230.89.188
+ups.starbucks.com.cn                              ups.starbucks.com.cn.                             120.136.132.89
+cn.b2bcoupons.starbucks.com.cn                    cn.b2bcoupons.starbucks.com.cn.                   180.153.48.227
+www.xmas.starbucks.com.cn                         www.xmas.starbucks.com.cn.                        180.153.48.188
+yb.starbucks.com.cn                               yb.starbucks.com.cn.                              180.153.48.188
+papp-jmis.starbucks.com.cn                        papp-jmis.starbucks.com.cn.                       180.153.48.188
+userpref.stg.starbucks.com.cn                     userpref.stg.starbucks.com.cn.                    210.73.201.30
+cn.reservationpos.starbucks.com.cn                cn.reservationpos.starbucks.com.cn.               180.153.48.211
+cn.profile.stg.starbucks.com.cn                   cn.profile.stg.starbucks.com.cn.                  180.153.24.86
+profile.stg.starbucks.com.cn                      cn.profile.stg.starbucks.com.cn.                  180.153.24.86
+huabei.starbucks.com.cn                           huabei.starbucks.com.cn.                          180.153.48.188
+pcmd-origin.stg.starbucks.com.cn                  pcmd-origin.stg.starbucks.com.cn.                 180.153.48.188
+papp-imruntime.starbucks.com.cn                   papp-imruntime.starbucks.com.cn.                  180.153.48.188
+o2o-staging-sbux.starbucks.com.cn                 cn.o2o-staging-sbux.starbucks.com.cn.             180.153.48.222
+pcmd.starbucks.com.cn                             pcmdstarbucks.b0.aicdn.com.                       43.230.89.188
+bff.stg.starbucks.com.cn                          cn.bff.stg.starbucks.com.cn.                      180.153.48.222
+cn.ncwechat.starbucks.com.cn                      cn.ncwechat.starbucks.com.cn.                     180.153.24.88
+invoic.starbucks.com.cn                           invoic.starbucks.com.cn.                          180.153.48.188
+cn.openvpn.web.dqr.enterprise.starbucks.com.cn    cn.openvpn.web.dqr.enterprise.starbucks.com.cn.   180.153.48.188
+ec.starbucks.com.cn                               ec.starbucks.com.cn.                              120.136.132.70
+xbzstaging.starbucks.com.cn                       xbzstaging.starbucks.com.cn.                      210.73.201.21
+papp-liveshowcb.stg.starbucks.com.cn              papp-liveshowcb.stg.starbucks.com.cn.             180.153.48.188
+adapter.egifting.starbucks.com.cn                 cn.adapter.egifting.starbucks.com.cn.             180.153.48.207
+togglecdn.stg.starbucks.com.cn                    togglecdn.stg.starbucks.com.cn.                   180.153.48.188
+yrs.starbucks.com.cn                              yrs.starbucks.com.cn.                             180.153.48.188
+giftcaro.starbucks.com.cn                         giftcaro.starbucks.com.cn.                        180.153.48.188
+papp-jac.stg.starbucks.com.cn                     papp-jac.stg.starbucks.com.cn.                    180.153.48.188
+cn.chinatimeline.starbucks.com.cn                 cn.chinatimeline.starbucks.com.cn.                140.206.200.164
+chinatimeline.starbucks.com.cn                    cn.chinatimeline.starbucks.com.cn.                140.206.200.164
+cn.adapter.egifting.stg.starbucks.com.cn          cn.adapter.egifting.stg.starbucks.com.cn.         180.153.48.249
+ybstaging.starbucks.com.cn                        cn.ybstaging.starbucks.com.cn.                    180.153.48.182
+dt-stg.starbucks.com.cn                           dt-stg.starbucks.com.cn.                          180.153.48.188
+adminweb.starbucks.com.cn                         adminweb.starbucks.com.cn.                        180.153.242.133
+egifting.starbucks.com.cn                         cn.egifting.starbucks.com.cn.                     180.153.48.207
+cn.minipromobackend.stg.starbucks.com.cn          cn.minipromobackend.stg.starbucks.com.cn.         180.153.24.93
+ccc-api-staging-sbux.starbucks.com.cn             cn.ccc-api-staging-sbux.starbucks.com.cn.         180.153.48.222
+b2bcoupons.starbucks.com.cn                       cn.b2bcoupons.starbucks.com.cn.                   180.153.48.227
+cn.boss.egifting.starbucks.com.cn                 cn.boss.egifting.starbucks.com.cn.                180.153.48.207
+cn.stg.adapter.egifting.starbucks.com.cn          cn.stg.adapter.egifting.starbucks.com.cn.         180.153.48.249
+cn.onramp-staging-sbux.starbucks.com.cn           cn.onramp-staging-sbux.starbucks.com.cn.          180.153.48.222
+roastery01.stg.starbucks.com.cn                   roastery01.stg.starbucks.com.cn.                  120.136.132.40
+stagingweb.starbucks.com.cn                       cn.stagingweb.starbucks.com.cn.                   180.153.48.183
+stg.invoice.starbucks.com.cn                      cn.stg.invoice.starbucks.com.cn.                  180.153.48.247
+stg.adapter.egifting.starbucks.com.cn             cn.stg.adapter.egifting.starbucks.com.cn.         180.153.48.249
+api.pds.stg.starbucks.com.cn                      api.pds.stg.starbucks.com.cn.                     120.136.132.76
+minipromobackend.stg.starbucks.com.cn             cn.minipromobackend.stg.starbucks.com.cn.         180.153.24.93
+boss.egifting.starbucks.com.cn                    cn.boss.egifting.starbucks.com.cn.                180.153.48.207
+a.dt.starbucks.com.cn                             a.dt.starbucks.com.cn.                            120.136.132.43
+cn.pcc.stg.starbucks.com.cn                       cn.pcc.stg.starbucks.com.cn.                      180.153.24.89
+cn.solutionpartners.adapter.openvpn.internal-egifting.starbucks.com.cncn.solutionpartners.adapter.openvpn.internal-egifting.starbucks.com.cn.180.153.48.188
+cn.stg.openvpn.pos.shield-dqr.starbucks.com.cn    cn.stg.openvpn.pos.shield-dqr.starbucks.com.cn.   180.153.48.188
+starbucks-website.starbucks-china.jklp.starbucks.com.cnjklp.starbucks.com.cn.                            180.153.24.84
+prod-build.starbucks-website.starbucks-china.jklp.starbucks.com.cnjklp.starbucks.com.cn.                            180.153.24.84
+react-dev.starbucks-website.starbucks-china.jklp.starbucks.com.cnjklp.starbucks.com.cn.                            180.153.24.84
+sep-12-styling-fix.starbucks-website.starbucks-china.jklp.starbucks.com.cnjklp.starbucks.com.cn.                            180.153.24.84
+cms.jklp.starbucks.com.cn                         jklp.starbucks.com.cn.                            180.153.24.84
+master.starbucks-website.starbucks-china.jklp.starbucks.com.cnjklp.starbucks.com.cn.                            180.153.24.84
+style-loader.starbucks-website.starbucks-china.jklp.starbucks.com.cnjklp.starbucks.com.cn.                            180.153.24.84
+master.design-studio-site.starbucks-china.jklp.starbucks.com.cnjklp.starbucks.com.cn.                            180.153.24.84
+master.1912pike.starbucks-china.jklp.starbucks.com.cnjklp.starbucks.com.cn.                            180.153.24.84
+papp-jac.starbucks.com.cn                         papp-jac.starbucks.com.cn.                        180.153.48.188
+papp-docviewer.stg.starbucks.com.cn               papp-docviewer.stg.starbucks.com.cn.              180.153.48.188
+staging.starbucks.com.cn                          staging.starbucks.com.cn.                         180.153.48.188
+papp-openapi.stg.starbucks.com.cn                 papp-openapi.stg.starbucks.com.cn.                180.153.48.188
+ams-stg.starbucks.com.cn                          ams-stg.starbucks.com.cn.                         180.153.48.188
+active.starbucks.com.cn                           active-starbucks.b0.aicdn.com.                    43.230.89.188
+static.egifting.starbucks.com.cn                  egifting.b0.aicdn.com.                            43.230.89.188
+cn.boss.egifting.stg.starbucks.com.cn             cn.boss.egifting.stg.starbucks.com.cn.            180.153.48.249
+boss.egifting.stg.starbucks.com.cn                cn.boss.egifting.stg.starbucks.com.cn.            180.153.48.249
+receipt-web.stg.starbucks.com.cn                  receipt-web.stg.starbucks.com.cn.                 120.136.132.42
+beaconhub.stg.starbucks.com.cn                    beaconhub.stg.starbucks.com.cn.                   120.136.132.42
+crmuat.starbucks.com.cn                           crmuat.starbucks.com.cn.                          120.136.132.11
+cn.xbzstaging.starbucks.com.cn                    cn.xbzstaging.starbucks.com.cn.                   180.153.48.188
+pulse.sec.starbucks.com.cn                        pulse.sec.starbucks.com.cn.                       120.136.132.17
+ecjobsdc.starbucks.com.cn                         ecjobsdc.starbucks.com.cn.                        180.153.48.188
+papp-imruntime.stg.starbucks.com.cn               papp-imruntime.stg.starbucks.com.cn.              180.153.48.188
+reservationpos.starbucks.com.cn                   cn.reservationpos.starbucks.com.cn.               180.153.48.211
+inner-app.stg.starbucks.com.cn                    inner-app.stg.starbucks.com.cn.                   180.153.48.188
+giftcard.starbucks.com.cn                         cn.giftcard.starbucks.com.cn.                     180.153.48.215
+auth.stg.starbucks.com.cn                         cn.auth.stg.starbucks.com.cn.                     180.153.24.85
+bff.starbucks.com.cn                              cn.bff.starbucks.com.cn.                          180.153.48.203
+papp.stg.starbucks.com.cn                         papp.stg.starbucks.com.cn.                        180.153.48.188
+waftest.stg.starbucks.com.cn                      cn.waftest.stg.starbucks.com.cn.                  180.153.37.241
+stg.boss.egifting.starbucks.com.cn                cn.stg.boss.egifting.starbucks.com.cn.            180.153.48.249
+cn.reservation.stg.starbucks.com.cn               cn.reservation.stg.starbucks.com.cn.              180.153.24.81
+pcc.starbucks.com.cn                              cn.pcc.starbucks.com.cn.                          180.153.48.230
+ns1.starbucks.com.cn                              ns1.starbucks.com.cn.                             180.153.48.162
+cn.api.egifting.stg.starbucks.com.cn              cn.api.egifting.stg.starbucks.com.cn.             180.153.48.249
+api.egifting.stg.starbucks.com.cn                 cn.api.egifting.stg.starbucks.com.cn.             180.153.48.249
+cn.pgt.starbucks.com.cn                           cn.pgt.starbucks.com.cn.                          180.153.24.80
+
+
+NORECORD RECORD DATA
+
+cn.old.rewards.starbucks.com.cn                   
+                                                  
+cn.ps.starbucks.com.cn                            
+exidc.starbucks.com.cn                            
+egift.starbucks.com.cn                            
+cn.auth.stg.starbucks.com.cn                      
+dac.starbucks.com.cn                              
+cdn.starbucks.com.cn                              
+admin.dqr.starbucks.com.cn                        
+cn.openvpn.stg.2013-admin.dqr.starbucks.com.cn    
+fms.starbucks.com.cn                              
+score.sec.starbucks.com.cn                        
+toggle.stg.starbucks.com.cn                       
+uat.starbucks-website.starbucks-china.jklp.starbucks.com.cn
+papp-jmis.stg.starbucks.com.cn                    
+customerexperiencestg.starbucks.com.cn            
+crmsit.starbucks.com.cn                           
+adapter.internal-egifting.starbucks.com.cn        
+huadong.starbucks.com.cn                          
+cn.reservationpos.stg.starbucks.com.cn            
+evp.starbucks.com.cn                              
+papp-openapi.starbucks.com.cn                     
+stg.adapter.internal-egifting.starbucks.com.cn    
+cn.stg.adapter.internal-egifting.starbucks.com.cn 
+rexapi.starbucks.com.cn                           
+cnmdm.starbucks.com.cn                            
+cn.old.www.starbucks.com.cn                       
+cn.egifting.starbucks.com.cn                      
+dqr.starbucks.com.cn                              
+staging.sbux-api.starbucks.com.cn                 
+stg.sgan.starbucks.com.cn                         
+cn.ams-public-staging-sbux.starbucks.com.cn       
+cn.stores-v2-staging-sbux.starbucks.com.cn        
+stg.servicesapi.openvpn.egifting.starbucks.com.cn 
+cn.stg.web.dqr.starbucks.com.cn                   
+partner.starbucks.com.cn                          
+papp-liveplaytt.starbucks.com.cn                  
+wxp.stg.starbucks.com.cn                          
+cn.stg.admin.dqr.starbucks.com.cn                 
+o2odservice.dev.starbucks.com.cn                  
+stores-v2-staging-sbux.starbucks.com.cn           
+omg05api.starbucks.com.cn                         
+cn.reservation.starbucks.com.cn                   
+old.www.starbucks.com.cn                          
+staging.api.starbucks.com.cn                      
+cn.web.dqr.starbucks.com.cn                       
+roastery.stg.starbucks.com.cn                     
+designstudio.starbucks.com.cn                     
+papp-im.starbucks.com.cn                          
+papp-liveshowtt.starbucks.com.cn                  
+newel.starbucks.com.cn                            
+cn.order.starbucks.com.cn                         
+app.dqr.starbucks.com.cn                          
+ups.stg.starbucks.com.cn                          
+artworks-origin.starbucks.com.cn                  
+partnercpon.starbucks.com.cn                      
+api.egifting.starbucks.com.cn                     
+papp-liveplaytt.stg.starbucks.com.cn              
+togglecdn.starbucks.com.cn                        
+cn.ncwechat.stg.starbucks.com.cn                  
+old.giftcard.starbucks.com.cn                     
+papp-docviewer.starbucks.com.cn                   
+wxp.starbucks.com.cn                              
+pcm.starbucks.com.cn                              
+papp-gateway.stg.starbucks.com.cn                 
+cn.partner.starbucks.com.cn                       
+cccapi.starbucks.com.cn                           
+rexadmin.starbucks.com.cn                         
+cn.artworks-origin.starbucks.com.cn               
+mss.stg.starbucks.com.cn                          
+cn.staging.api.starbucks.com.cn                   
+design-studio-site.starbucks-china.jklp.starbucks.com.cn
+dpomapi.starbucks.com.cn                          
+dfp.arm.starbucks.com.cn                          
+cn.openvpn.la2.stg.admin.dqr.starbucks.com.cn     
+cn.egift.starbucks.com.cn                         
+payment-staging-sbux.starbucks.com.cn             
+cn.push.starbucks.com.cn                          
+cereport.starbucks.com.cn                         
+api.artwork.starbucks.com.cn                      
+order.starbucks.com.cn                            
+middlelayer.starbucks.com.cn                      
+beaconhub-staging-sbux.starbucks.com.cn           
+stg.web.dqr.starbucks.com.cn                      
+jklp.starbucks.com.cn                             
+1912pike.starbucks-china.jklp.starbucks.com.cn    
+smtp.starbucks.com.cn                             
+stg.admin.dqr.starbucks.com.cn                    
+reservationpos.stg.starbucks.com.cn               
+cn.gateway-staging-sbux.starbucks.com.cn          
+sgan.starbucks.com.cn                             
+papp-api.stg.starbucks.com.cn                     
+exidc.cip.starbucks.com.cn                        
+cn.app.dqr.starbucks.com.cn                       
+cn.admin.dqr.starbucks.com.cn                     
+171006-autumn2.1912pike.starbucks-china.jklp.starbucks.com.cn
+gifcard.starbucks.com.cn                          
+Stg.admin.dqr.starbucks.com.cn                    
+ssopbi.starbucks.com.cn                           
+cn.sgan.starbucks.com.cn                          
+roastery01.starbucks.com.cn                       
+inner-app.starbucks.com.cn                        
+cnstrobot.starbucks.com.cn                        
+hostucan.cn                                       
+boards.starbucks.com.cn                           
+ssl406235.yunjiasussl.com                         
+DesignStudio.starbucks.com.cn                     
+gateway-staging-sbux.starbucks.com.cn             
+Stg.dqr.starbucks.com.cn                          
+cn.promotion-api-staging-sbux.starbucks.com.cn    
+merchant-adm.egifting.starbucks.com.cn            
+web17962.starbucks.com.cn                         
+frappuccinogalaxy.starbucks.com.cn                
+liveplaytt.starbucks.com.cn                       
+Xbz.starbucks.com.cn                              
+cn.msr-api-staging-sbux.starbucks.com.cn          
+ns96.starbucks.com.cn                             
+cesurvey.starbucks.com.cn                         
+appdelivery.starbucks.com.cn                      
+cn.ccc-api-staging-sbux.starbucks.com.cn          
+papp-liveshowtt.stg.starbucks.com.cn              
+artwork-api-staging-sbux.starbucks.com.cn         
+entry.starbucks.com.cn                            
+onlines.starbucks.com.cn                          
+promotion-api-staging-sbux.starbucks.com.cn       
+ybpos.starbucks.com.cn                            
+20yrs.starbucks.com.cn                            
+cn.artwork-api-staging-sbux.starbucks.com.cn      
+web17640.starbucks.com.cn                         
+customer-connections-staging-sbux.starbucks.com.cn
+Stg.sgan.starbucks.com.cn                         
+cn.msc-api-staging-sbux.starbucks.com.cn          
+starbucks.com.cn                                  
+cn.appdelivery.starbucks.com.cn                   
+mopsurvey.stg.starbucks.com.cn                    
+cn.xbz.starbucks.com.cn                           
+landlord.stg.starbucks.com.cn                     
+mopsurvey.starbucks.com.cn                        
+artwork-assets-staging-sbux.starbucks.com.cn      
+cn.payment-staging-sbux.starbucks.com.cn          
+customerexperienceSTG.starbucks.com.cn            
+fms.stg.starbucks.com.cn                          
+sablony.starbucks.com.cn                          
+cn.oms-staging-sbux.starbucks.com.cn              
+sbux.starbucks.com.cn                             
+ybposstaging.starbucks.com.cn                     
+jf04zqh.o2odservice.starbucks.com.cn              
+papp-gateway.starbucks.com.cn                     
+cmcc.starbucks.com.cn                             
+docviewer.starbucks.com.cn                        
+oms-staging-sbux.starbucks.com.cn                 
+msc-api-staging-sbux.starbucks.com.cn             
+xmas.starbucks.com.cn                             
+invocie.starbucks.com.cn                          
+web.starbucks.com.cn                              
+www.rewrd.starbucks.com.cn                        
+web3685.starbucks.com.cn                          
+2015summer.starbucks.com.cn                       
+ssl406236.yunjiasussl.com                         
+xk.starbucks.com.cn                               
+23.starbucks.com.cn                               
+tcs.starbucks.com.cn                              
+landlord.starbucks.com.cn                         
+cn.o2o-staging-sbux.starbucks.com.cn              
+onramp-staging-sbux.starbucks.com.cn              
+Xbzstaging.starbucks.com.cn                       
+mobile-admin-staging-sbux.starbucks.com.cn        
+cn.customer-connections-staging-sbux.starbucks.com.cn
+bff.uat.starbucks.com.cn                          
+achievement-api-staging-sbux.starbucks.com.cn     
+rewrds.starbucks.com.cn                           
+msr-api-staging-sbux.starbucks.com.cn             
+cn.udp-staging-sbux.starbucks.com.cn              
+cn.achievement-api-staging-sbux.starbucks.com.cn  
+CEreport.starbucks.com.cn                         
+ww.starbucks.com.cn                               
+ns2.starbucks.com.cn                              
+cn.psapi.starbucks.com.cn                         
+mssplus.starbucks.com.cn                          
+rewards.www.starbucks.com.cn                      

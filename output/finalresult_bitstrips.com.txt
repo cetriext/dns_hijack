@@ -1,0 +1,56 @@
+NXDOMAIN DATA
+
+rendering-server-testing.prod.us-east.bitstrips.comrendering-panel-alb-1539830667.us-east-1.elb.amazonaws.com.lookup rendering-panel-alb-1539830667.us-east-1.elb.amazonaws.com.: no such host
+character-rendering-service.prod.us-east.bitstrips.cominternal-rendering-character-elb-2-2052610638.us-east-1.elb.amazonaws.com.lookup internal-rendering-character-elb-2-2052610638.us-east-1.elb.amazonaws.com.: no such host
+avatar-api.bitstrips.com                          avatar-api.bitstrips.com.                         lookup avatar-api.bitstrips.com.: no such host
+bitlife.bitstrips.com                             bitlife.bitstrips.com.                            lookup bitlife.bitstrips.com.: no such host
+strips.bitstrips.com                              strips.bitstrips.com.s3.amazonaws.com.            lookup strips.bitstrips.com.s3.amazonaws.com.: no such host
+chars.bitstrips.com                               chars.bitstrips.com.s3.amazonaws.com.             lookup chars.bitstrips.com.s3.amazonaws.com.: no such host
+assets.bitstrips.com                              assets.bitstrips.com.s3.amazonaws.com.            lookup assets.bitstrips.com.s3.amazonaws.com.: no such host
+images.bitstrips.com                              images.bitstrips.com.s3.amazonaws.com.            lookup images.bitstrips.com.s3.amazonaws.com.: no such host
+
+
+CNAME RECORD DATA
+
+vpn.bitstrips.com                                 ec2-54-81-34-189.compute-1.amazonaws.com.         54.81.34.189
+rendering-service-internal.prod.us-east.bitstrips.cominternal-rendering-bionic-internal-clb-1972936014.us-east-1.elb.amazonaws.com.172.17.115.14
+o1.email.bitstrips.com                            o1.email.bitstrips.com.                           167.89.14.115
+rendering-service.wip.us-east.bitstrips.com       wip-rendering-classic-1643320849.us-east-1.elb.amazonaws.com.52.3.180.117
+rendering-service.staging.us-east.bitstrips.com   rendering-staging-clb-1722659720.us-east-1.elb.amazonaws.com.52.203.51.71
+static.bitstrips.com                              d3sg1ql3rj9ocl.cloudfront.net.                    52.85.22.129
+cstrips.bitstrips.com                             d2w8mkzmksrerw.cloudfront.net.                    52.85.22.177
+stopbullying.bitstrips.com                        dtrn7o34qf09g.cloudfront.net.                     54.230.71.113
+rendering-service.prod.us-east.bitstrips.com      rendering-main-bionic-clb-1-585683525.us-east-1.elb.amazonaws.com.34.192.143.25
+character-rendering-service.staging.us-east.bitstrips.cominternal-rendering-character-elb-951776253.us-east-1.elb.amazonaws.com.172.17.14.161
+www.bitstrips.com                                 d2pku5tm4qkd1a.cloudfront.net.                    99.86.19.89
+bitstrips.com                                     bitstrips.com.                                    99.86.19.2
+staging-render.bitstrips.com                      d1y5mhdx1rzapa.cloudfront.net.                    54.192.216.68
+bsdb.bitstrips.com                                bsdb.bitstrips.com.                               54.85.119.52
+compose.bitstrips.com                             da8lb468m8h1w.cloudfront.net.                     54.192.216.136
+jobs.bitstrips.com                                jobs.bitstrips.com.                               52.216.89.2
+render.bitstrips.com                              d2ska10063f6mg.cloudfront.net.                    54.230.71.54
+bsauth.bitstrips.com                              bsauth.bitstrips.com.                             54.243.151.211
+resources.bitstrips.com                           d1lxracchihudy.cloudfront.net.                    54.230.71.52
+company.bitstrips.com                             d1n7f1bezhirxv.cloudfront.net.                    54.230.71.4
+blog.bitstrips.com                                blog.bitstrips.com.                               52.216.239.114
+a.bitstrips.com                                   a.bitstrips.com.                                  54.197.243.131
+cassets.bitstrips.com                             dar3c2u68q378.cloudfront.net.                     52.85.22.189
+
+
+NORECORD RECORD DATA
+
+staging-internal.bitstrips.com                    
+secure.bitstrips.com                              
+production-internal.bitstrips.com                 
+comics.tt.bitstrips.com                           
+www.secure.bitstrips.com                          
+uploads.bitstrips.com                             
+cloudgz-ecs.gravityzone.bitdefender.comrender.bitstrips.com
+staging.bitstrips.com                             
+prod.us-east.bitstrips.com                        
+bitproxy.bitstrips.com                            
+l.bitstrips.com                                   
+emoji.bitstrips.com                               
+devbox-character-service.bitstrips.com            
+                                                  
+help.bitstrips.com                                

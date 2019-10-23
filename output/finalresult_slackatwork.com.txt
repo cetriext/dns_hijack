@@ -1,0 +1,15 @@
+NXDOMAIN DATA
+
+
+
+CNAME RECORD DATA
+
+www.slackatwork.com                               slackatwork.com.                                  18.210.141.73
+slackatwork.com                                   slackatwork.com.                                  18.210.141.73
+
+
+NORECORD RECORD DATA
+
+slack-at-work.com                                 
+www.slack-at-work.com                             
+                                                  

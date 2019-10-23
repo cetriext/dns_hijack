@@ -1,0 +1,83 @@
+NXDOMAIN DATA
+
+www.legalrobot.com                                www.legalrobot.com.                               lookup www.legalrobot.com.: no such host
+app.legalrobot.com                                app.legalrobot.com.                               lookup app.legalrobot.com.: no such host
+climatizadorquatroestacoes.com.br                 climatizadorquatroestacoes.com.br.                lookup climatizadorquatroestacoes.com.br.: no such host
+g.legalrobot.com                                  g.legalrobot.com.                                 lookup g.legalrobot.com.: no such host
+nginx-rewrite.legalrobot.com                      nginx-rewrite.legalrobot.com.                     lookup nginx-rewrite.legalrobot.com.: no such host
+www.app.legalrobot.com                            www.app.legalrobot.com.                           lookup www.app.legalrobot.com.: no such host
+api.legalrobot.com                                api.legalrobot.com.                               lookup api.legalrobot.com.: no such host
+www.git.legalrobot.com                            www.git.legalrobot.com.                           lookup www.git.legalrobot.com.: no such host
+k8s-resources.legalrobot.com                      k8s-resources.legalrobot.com.                     lookup k8s-resources.legalrobot.com.: no such host
+
+
+CNAME RECORD DATA
+
+fastlemon.com                                     HDRedirect-LB5-1afb6e2973825a56.elb.us-east-1.amazonaws.com.23.20.239.12
+mail.legalrobot.com                               ghs.googlehosted.com.                             172.217.167.147
+theimeiunlock.com                                 theimeiunlock.com.                                104.27.167.48
+rayfarrflugels.com                                rayfarrflugels.com.                               104.17.197.73
+gestavi.com                                       gestavi.com.                                      104.17.24.109
+qa619oucd2yzdf8rzg.net                            qa619oucd2yzdf8rzg.net.                           104.17.198.73
+tika.gov.tr                                       tika.gov.tr.                                      185.85.204.78
+allriskassurance.net                              allriskassurance.net.                             104.17.25.109
+nyssaniterodeo.com                                nyssaniterodeo.com.                               104.17.25.109
+ssl379807.cloudflaressl.com                       ssl379807.cloudflaressl.com.                      104.20.47.142
+woti.com                                          woti.com.                                         104.25.126.5
+comunicaltfel.ro                                  comunicaltfel.ro.                                 104.18.57.144
+dietbundle.com                                    dietbundle.com.                                   13.73.155.191
+hilltopboxersbostons.com                          hilltopboxersbostons.com.                         104.17.24.109
+celebritycruises.se                               celebritycruises.se.                              94.103.206.211
+legalrobot.com                                    legalrobot.com.                                   104.20.101.60
+lenguarosada.com                                  lenguarosada.com.                                 104.17.22.109
+southafricanartists.com                           southafricanartists.com.                          104.25.126.5
+git.legalrobot.com                                git.legalrobot.com.                               104.20.101.60
+marketist.co                                      marketist.co.                                     104.31.70.84
+cgccomics.com                                     cgccomics.com.                                    104.25.19.12
+ssl379809.cloudflaressl.com                       ssl379809.cloudflaressl.com.                      104.20.48.142
+dev.legalrobot.com                                dev.legalrobot.com.                               104.20.100.60
+ssl809172.cloudflaressl.com                       ssl809172.cloudflaressl.com.                      104.20.47.142
+gccstar.com                                       gccstar.com.                                      107.149.60.110
+frankscustomdraperies.com                         frankscustomdraperies.com.                        91.195.240.103
+maubyview.com                                     maubyview.com.                                    196.245.57.32
+womo-stellplatz.eu                                womo-stellplatz.eu.                               94.130.141.44
+kidsreview.ru                                     kidsreview.ru.                                    104.25.18.12
+ns3.legalrobot.com                                ns3.legalrobot.com.                               162.159.10.152
+ssl389202.cloudflaressl.com                       ssl389202.cloudflaressl.com.                      104.20.47.142
+filmovita.com                                     filmovita.com.                                    104.28.9.92
+ns4.legalrobot.com                                ns4.legalrobot.com.                               162.159.11.72
+ns2.legalrobot.com                                ns2.legalrobot.com.                               162.159.9.194
+underlinesmagazine.com                            underlinesmagazine.com.                           104.31.70.110
+registry.legalrobot.com                           registry.legalrobot.com.                          104.20.100.60
+ssl809171.cloudflaressl.com                       ssl809171.cloudflaressl.com.                      104.20.48.142
+sni170239.cloudflaressl.com                       sni170239.cloudflaressl.com.                      104.20.47.142
+dataclub.biz                                      dataclub.biz.                                     104.27.158.13
+ssl809173.cloudflaressl.com                       ssl809173.cloudflaressl.com.                      104.20.47.142
+ns1.legalrobot.com                                ns1.legalrobot.com.                               162.159.8.75
+ssl441599.cloudflaressl.com                       ssl441599.cloudflaressl.com.                      104.20.47.142
+ssl441600.cloudflaressl.com                       ssl441600.cloudflaressl.com.                      104.20.47.142
+ssl441598.cloudflaressl.com                       ssl441598.cloudflaressl.com.                      104.20.47.142
+test.legalrobot.com                               test.legalrobot.com.                              104.20.101.60
+bw.legalrobot.com                                 bw.legalrobot.com.                                104.20.101.60
+silverdistance.pt                                 silverdistance.pt.                                94.126.169.117
+ghimus.ro                                         ghimus.ro.                                        104.18.53.193
+
+
+NORECORD RECORD DATA
+
+wahouseandlandpackage.com                         
+robinweisel.com                                   
+dbcwoodworking.com                                
+cdbnmoffice.com                                   
+wealthyonefinancial.com                           
+gypsyriverkennels.com                             
+unlimitedimaging.net                              
+trevsservices.biz                                 
+anintroductiongarciniacambogia.online             
+paulspaintballstore.xyz                           
+luser.ro                                          
+guzka.ru                                          
+emadman.top                                       
+amytaladdiction.xyz                               
+                                                  
+laxiongames.es                                    

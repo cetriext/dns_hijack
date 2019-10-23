@@ -1,0 +1,22 @@
+NXDOMAIN DATA
+
+
+
+CNAME RECORD DATA
+
+ar-reserve.starbucksreserve.com                   s00380ptmparreserve-prod.trafficmanager.net.      40.78.135.52
+sirencatalog.starbucksreserve.com                 s00380ptmpsirencatalog-prod.trafficmanager.net.   40.78.135.117
+preview.starbucksreserve.com                      s00380ptmpstarbucksreserve-preview.trafficmanager.net.23.99.151.230
+ar-milan.starbucksreserve.com                     s00380ptmparmilan-prod.trafficmanager.net.        40.77.111.170
+preview.sirencatalog.starbucksreserve.com         s00380ptmpsirencatalog-preview.trafficmanager.net.104.43.141.2
+cert.sirencatalog.starbucksreserve.com            s00348ntmpsirencatalog-cert.trafficmanager.net.   104.40.29.40
+starbucksreserve.com                              starbucksreserve.com.                             40.122.146.42
+cert.starbucksreserve.com                         s00348ntmpstarbucksreserve-cert.trafficmanager.net.137.135.45.103
+roastery.starbucks.com                            roastery.starbucks.com.c.footprint.net.           207.123.39.254
+www.starbucksreserve.com                          s00380ptmpstarbucksreserve-prod.trafficmanager.net.40.122.146.42
+
+
+NORECORD RECORD DATA
+
+www.cert.starbucksreserve.com                     
+                                                  

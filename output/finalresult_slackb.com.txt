@@ -1,0 +1,14 @@
+NXDOMAIN DATA
+
+
+
+CNAME RECORD DATA
+
+dev.slackb.com                                    dev.slackb.com.                                   54.165.121.40
+slackb.com                                        slackb.com.                                       52.3.44.80
+
+
+NORECORD RECORD DATA
+
+www.slackb.com                                    
+                                                  

@@ -1,0 +1,21 @@
+NXDOMAIN DATA
+
+
+
+CNAME RECORD DATA
+
+www.ubunt.com                                     www.ubunt.com.                                    69.172.201.153
+ubunt.com                                         ubunt.com.                                        69.172.201.153
+security.ubunt.com                                security.ubunt.com.                               69.172.201.153
+one.ubunt.com                                     one.ubunt.com.                                    69.172.201.153
+box.ubunt.com                                     box.ubunt.com.                                    69.172.201.153
+download.ubunt.com                                download.ubunt.com.                               69.172.201.153
+help.ubunt.com                                    help.ubunt.com.                                   69.172.201.153
+wiki.ubunt.com                                    wiki.ubunt.com.                                   69.172.201.153
+archive.ubunt.com                                 archive.ubunt.com.                                69.172.201.153
+server.ubunt.com                                  server.ubunt.com.                                 69.172.201.153
+
+
+NORECORD RECORD DATA
+
+                                                  

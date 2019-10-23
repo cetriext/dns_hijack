@@ -1,0 +1,42 @@
+NXDOMAIN DATA
+
+
+
+CNAME RECORD DATA
+
+qa.slack-files.com                                qa.slack.com.                                     54.230.69.112
+qa.slack-redir.net                                qa.slack.com.                                     54.230.69.112
+staging.slack-redir.com                           staging.slack.com.                                3.218.47.163
+qa.slack-redir.com                                qa.slack.com.                                     54.230.69.112
+enterprise.staging.slack.com                      staging.slack.com.                                3.218.47.163
+staging.slack-redir.net                           staging.slack.com.                                3.218.47.163
+irc.qa.slack.com                                  irc.qa.slack.com.                                 13.249.217.248
+slack-redir.net                                   slack-redir.net.                                  3.218.47.163
+staging.slack-files.com                           staging.slack.com.                                3.218.47.163
+staging.slack.com                                 staging.slack.com.                                3.218.47.163
+qa.slack.com                                      qa.slack.com.                                     54.230.69.112
+2015-06-25-14-47.staging.slack.com                staging.slack.com.                                3.218.47.163
+slack.com                                         slack.com.                                        99.86.14.156
+xmpp.qa.slack.com                                 xmpp.qa.slack.com.                                54.230.69.112
+slack-files.com                                   slack-files.com.                                  99.86.14.36
+slack-msgs.com                                    slack-msgs.com.                                   3.213.37.58
+xmpp.staging.slack.com                            staging.slack.com.                                3.218.47.163
+enterprise.qa.slack.com                           enterprise.qa.slack.com.                          99.86.14.185
+dev.slack-imgs.com                                dev-haproxy-edge-multi-az-nlb-ecbcbd78683f6bd8.elb.us-east-1.amazonaws.com.3.219.123.202
+b.slack-imgs.com                                  d1gw4abgzgh48y.cloudfront.net.                    13.249.208.64
+a.slack-imgs.com                                  d1gw4abgzgh48y.cloudfront.net.                    13.249.208.64
+slack-redir.com                                   slack-redir.com.                                  3.213.37.58
+slack-imgs.com                                    slack-imgs.com.                                   13.249.208.64
+irc.staging.slack.com                             staging.slack.com.                                3.218.47.163
+
+
+NORECORD RECORD DATA
+
+qa.slack-msgs.com                                 
+qa.slack-imgs.com                                 
+staging.slack-imgs.com                            
+www.slack-imgs.com                                
+global.slack-imgs.com                             
+dev-2014-09-08.slack-imgs.com                     
+staging.slack-msgs.com                            
+                                                  

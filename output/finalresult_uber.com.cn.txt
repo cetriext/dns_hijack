@@ -1,0 +1,96 @@
+NXDOMAIN DATA
+
+juyanwenjuan.com                                  juyanwenjuan.com.                                 lookup juyanwenjuan.com.: no such host
+bluegogo.com                                      bluegogo.com.                                     lookup bluegogo.com.: no such host
+chengshimaibo.com                                 chengshimaibo.com.                                lookup chengshimaibo.com.: no such host
+sofa.diditaxi.com.cn                              diditaxi.qq.com.                                  lookup diditaxi.qq.com.: getaddrinfow: The requested name is valid, but no data of the requested type was found.
+driver.diditaxi.com.cn                            diditaxi.qq.com.                                  lookup diditaxi.qq.com.: getaddrinfow: The requested name is valid, but no data of the requested type was found.
+intra.xiaojukeji.com                              intra.xiaojukeji.com.                             lookup intra.xiaojukeji.com.: no such host
+rlab.net.cn                                       rlab.net.cn.                                      lookup rlab.net.cn.: no such host
+uber.com.cn                                       uber.com.cn.                                      lookup uber.com.cn.: no such host
+xiaomuji.info                                     xiaomuji.info.                                    lookup xiaomuji.info.: no such host
+didiqiche.com                                     didiqiche.com.                                    lookup didiqiche.com.: no such host
+
+
+CNAME RECORD DATA
+
+video.peixun.xiaojukeji.com                       video.peixun.xiaojukeji.com.cdn.dnsv1.com.        125.211.204.225
+static.comp.didistatic.com                        static.comp.didistatic.com.cdn.dnsv1.com.         125.211.204.225
+static.member.didistatic.com                      static.member.didistatic.com.cdn.dnsv1.com.       211.91.160.204
+static.quan.diditaxi.com.cn                       static.quan.diditaxi.com.cn.cdn.dnsv1.com.        211.91.160.204
+static.xmall.didistatic.com                       static.xmall.didistatic.com.cdn.dnsv1.com.        123.6.4.228
+static.dorado.xiaojukeji.com                      static.dorado.xiaojukeji.com.cdn.dnsv1.com.       110.52.198.122
+juxing.bjfxgg.com                                 juxing.bjfxgg.com.                                116.85.2.29
+static.bs.didistatic.com                          static.bs.didistatic.com.cdn.dnsv1.com.           113.200.17.241
+data.didichuxing.com                              data.didichuxing.com.                             100.69.102.32
+static.wave.xiaojukeji.com                        gz01.router.public.diditaxi.com.cn.               116.85.3.15
+manhattan.webapp.xiaojukeji.com                   gz01.router.public.diditaxi.com.cn.               116.85.3.15
+static.waveapi2.xiaojukeji.com                    gz01.router.public.diditaxi.com.cn.               116.85.3.15
+bus.xiaojukeji.com                                gz01.router.public.diditaxi.com.cn.               116.85.3.15
+lottery.os.xiaojukeji.com                         gz01.router.public.diditaxi.com.cn.               116.85.3.15
+cms.transit.xiaojukeji.com                        gz01.router.public.diditaxi.com.cn.               116.85.3.15
+static.galileo.xiaojukeji.com                     static.galileo.xiaojukeji.com.cdn.dnsv1.com.      150.109.88.39
+static.volcano.xiaojukeji.com                     static.volcano.xiaojukeji.com.cdn.dnsv1.com.      125.39.6.210
+www.didichuxing.com                               us01.router.didiglobal.com.                       117.51.1.4
+xiaojukeji.com                                    xiaojukeji.com.                                   123.207.209.16
+didi-food.com                                     didi-food.com.                                    117.51.1.4
+pic.risk.xiaojukeji.com                           gz01.router.public.diditaxi.com.cn.               116.85.3.15
+api.diditaxi.com.cn                               gz01.router.public.diditaxi.com.cn.               116.85.3.15
+static.qcard.didistatic.com                       static.qcard.didistatic.com.cdn.dnsv1.com.        157.255.134.80
+diditaxi.com.cn                                   diditaxi.com.cn.                                  163.177.71.185
+daijia.kuaidadi.com                               gz01.router.daijia.kuaidadi.com.                  116.85.3.10
+dj.kuaidadi.com                                   gz01.router.daijia.kuaidadi.com.                  116.85.3.10
+dsd.credit.xiaojukeji.com                         gz01.router.public.diditaxi.com.cn.               116.85.3.15
+manhattan.activity.xiaojukeji.com                 gz01.router.public.diditaxi.com.cn.               116.85.3.15
+gongjiao.static.xiaojukeji.com                    gongjiao.static.xiaojukeji.com.cdn.dnsv1.com.     113.200.17.241
+es.xiaojukeji.com                                 es.xiaojukeji.com.                                123.207.209.55
+api.map.diditaxi.com.cn                           hna.router.map.xiaojukeji.com.                    123.207.209.64
+dc.tt                                             dc.tt.                                            116.85.3.31
+openapi.coupon.xiaojukeji.com                     gz01.router.cplat.xiaojukeji.com.                 123.207.209.57
+manhattan.xiaojukeji.com                          mgate.didistatic.com.                             123.207.209.36
+iov.xiaojukeji.com                                bigdata-router.xiaojukeji.com.                    139.199.240.81
+didichuxing.com                                   didichuxing.com.                                  123.207.209.16
+didishangye.com                                   didishangye.com.                                  123.126.121.184
+didiapp.net.cn                                    didiapp.net.cn.                                   116.85.2.15
+
+
+NORECORD RECORD DATA
+
+os.xiaojukeji.com                                 
+business.uber.com.cn                              
+coupon.xiaojukeji.com                             
+frontends-pek1.uber.com.cn                        
+mis.intra.didiyun.com                             
+am.xiaojukeji.com                                 
+get2.uber.com.cn                                  
+licai.xiaojukeji.com                              
+webapp.xiaojukeji.com                             
+ins.xiaojukeji.com                                
+csp.uber.com.cn                                   
+fapiao.uber.com.cn                                
+help.uber.com.cn                                  
+odin.intra.xiaojukeji.com                         
+                                                  
+trip-dc2.uber.com.cn                              
+map.xiaojukeji.com                                
+preview.xiaojukeji.com                            
+chezhu.uber.com.cn                                
+sctrack.email.uber.com.cn                         
+partners2.uber.com.cn                             
+get.uber.com.cn                                   
+jqi4.uber.com.cn                                  
+vault.uber.com.cn                                 
+lg1c.uber.com.cn                                  
+cn-pek1.uber.com.cn                               
+email.uber.com.cn                                 
+riders.uber.com.cn                                
+ip-210-186.uber.com.cn                            
+esmonitor.xiaojukeji.com                          
+frontends.uber.com.cn                             
+help2.uber.com.cn                                 
+developer.uber.com.cn                             
+partners.uber.com.cn                              
+login.uber.com.cn                                 
+hailang.xiaojukeji.com                            
+api.uber.com.cn                                   
+trip.uber.com.cn                                  

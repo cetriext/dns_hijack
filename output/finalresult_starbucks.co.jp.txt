@@ -1,0 +1,99 @@
+NXDOMAIN DATA
+
+assets.app.starbucks.co.jp                        d3om2g625ncp7x.cloudfront.net.                    lookup d3om2g625ncp7x.cloudfront.net.: no such host
+contents.app.starbucks.co.jp                      d372e60kly0jxh.cloudfront.net.                    lookup d372e60kly0jxh.cloudfront.net.: no such host
+loginadmin2.starbucks.co.jp                       loginadmin2.starbucks.co.jp.                      lookup loginadmin2.starbucks.co.jp.: no such host
+scdr.starbucks.co.jp                              scdr.starbucks.co.jp.                             lookup scdr.starbucks.co.jp.: no such host
+general.app.starbucks.co.jp                       d15jlubzovgedk.cloudfront.net.                    lookup d15jlubzovgedk.cloudfront.net.: no such host
+admin.login.starbucks.co.jp                       admin.login.starbucks.co.jp.                      lookup admin.login.starbucks.co.jp.: no such host
+app.starbucks.co.jp                               app.starbucks.co.jp.                              lookup app.starbucks.co.jp.: no such host
+images.app.starbucks.co.jp                        d269nf9knqamo9.cloudfront.net.                    lookup d269nf9knqamo9.cloudfront.net.: no such host
+sc1.starbucks.co.jp                               sc1.starbucks.co.jp.                              lookup sc1.starbucks.co.jp.: no such host
+deploy.starbucks.co.jp                            otlb4u99-1497949890.ap-northeast-1.elb.amazonaws.com.lookup otlb4u99-1497949890.ap-northeast-1.elb.amazonaws.com.: no such host
+
+
+CNAME RECORD DATA
+
+enq.starbucks.co.jp                               enq-prd-frt-1146204163.ap-northeast-1.elb.amazonaws.com.3.114.95.112
+general-udp.app.starbucks.co.jp                   dufbnrrrs2jfw.cloudfront.net.                     13.249.210.63
+card4.starbucks.co.jp                             internal-otlb4u82-1445048468.ap-northeast-1.elb.amazonaws.com.10.123.10.234
+gac2.starbucks.co.jp                              gac-stg-frt-1379190129.ap-northeast-1.elb.amazonaws.com.54.199.188.143
+gift.starbucks.co.jp                              e-gifts-sbj.giftee.co.                            13.249.210.46
+www.web-edi.starbucks.co.jp                       www.web-edi.starbucks.co.jp.                      202.214.21.212
+dev2.starbucks.co.jp                              dev2.starbucks.co.jp.                             13.230.181.9
+sdrepair.starbucks.co.jp                          albpsd01-ext-2067366463.ap-northeast-1.elb.amazonaws.com.52.194.77.96
+login.starbucks.co.jp                             login.starbucks.co.jp.                            13.114.66.54
+member.starbucks.co.jp                            member.starbucks.co.jp.                           54.65.190.50
+cart.starbucks.co.jp                              ols-prd-frt-434658862.ap-northeast-1.elb.amazonaws.com.52.68.109.238
+dev.starbucks.co.jp                               dev.starbucks.co.jp.                              54.230.71.126
+gift-test.starbucks.co.jp                         gift-test.starbucks.co.jp.                        13.249.219.11
+store2.starbucks.co.jp                            store2.starbucks.co.jp.                           13.249.210.54
+card.starbucks.co.jp                              sbc-prd-frt-329278837.ap-northeast-1.elb.amazonaws.com.13.114.59.6
+st.starbucks.co.jp                                st.starbucks.co.jp.                               54.65.69.171
+images-udp.app.starbucks.co.jp                    d3ugsex05crldn.cloudfront.net.                    13.249.210.99
+edi.starbucks.co.jp                               edi.starbucks.co.jp.                              210.148.104.3
+tyo2k306.scdr.starbucks.co.jp                     tyo2k306.scdr.starbucks.co.jp.                    58.138.191.126
+sbgc.starbucks.co.jp                              sbgc.starbucks.co.jp.                             13.113.141.101
+store.starbucks.co.jp                             store.starbucks.co.jp.                            13.249.210.54
+recruit.starbucks.co.jp                           hitomgr.jp.                                       54.199.234.214
+tyo2k307.sc1.starbucks.co.jp                      tyo2k307.sc1.starbucks.co.jp.                     58.138.191.124
+starbucks.co.jp                                   starbucks.co.jp.                                  210.144.9.159
+simphony-dev.starbucks.co.jp                      albvnp01-1612540050.ap-northeast-1.elb.amazonaws.com.13.230.253.106
+login2.starbucks.co.jp                            login2.starbucks.co.jp.                           54.64.115.69
+sbcapi.starbucks.co.jp                            sbcapi.starbucks.co.jp.                           10.123.253.221
+www.starbucks.co.jp                               www.starbucks.co.jp.                              54.230.71.53
+azuresso.starbucks.co.jp                          azuresso.starbucks.co.jp.                         168.63.204.221
+card2.starbucks.co.jp                             sbc-stg-frt-652330756.ap-northeast-1.elb.amazonaws.com.3.114.96.105
+sbgc2.starbucks.co.jp                             sbgc2.starbucks.co.jp.                            13.112.184.15
+general-d-udp.app.starbucks.co.jp                 mbapp-udpprd-alb-general-1192547183.ap-northeast-1.elb.amazonaws.com.13.112.12.13
+ldbapi2.starbucks.co.jp                           internal-ldb-web-api-stg-alb-459932993.ap-northeast-1.elb.amazonaws.com.10.113.198.177
+sts.starbucks.co.jp                               azafp00.cloudapp.net.                             23.99.115.51
+gac.starbucks.co.jp                               gac-prd-frt-1272034431.ap-northeast-1.elb.amazonaws.com.3.113.103.15
+gpp.starbucks.co.jp                               internal-gpp-prd-w-brokercl-1rrdkfq3jj9bu-960842835.ap-northeast-1.elb.amazonaws.com.10.113.160.91
+contents-udp.app.starbucks.co.jp                  d1w0kynx5c82zv.cloudfront.net.                    13.249.210.24
+ldbapi.starbucks.co.jp                            internal-ldb-web-api-prd-alb-1542725609.ap-northeast-1.elb.amazonaws.com.10.113.215.110
+sdweb.starbucks.co.jp                             sdweb.starbucks.co.jp.                            202.214.21.214
+cfs.starbucks.co.jp                               cfs.starbucks.co.jp.                              202.217.33.61
+azureportal.starbucks.co.jp                       azwfe00.cloudapp.net.                             207.46.135.222
+img.sbgc.starbucks.co.jp                          img.sbgc.starbucks.co.jp.                         99.86.19.13
+cart2.starbucks.co.jp                             ols-stg-frt-1391998593.ap-northeast-1.elb.amazonaws.com.52.198.148.5
+ticket.starbucks.co.jp                            ticket-display.giftee.co.                         52.69.188.28
+www2.starbucks.co.jp                              www2.starbucks.co.jp.                             54.230.71.111
+tyo2k303.scdr.starbucks.co.jp                     tyo2k303.scdr.starbucks.co.jp.                    58.138.191.122
+sslvpn.starbucks.co.jp                            sslvpn.starbucks.co.jp.                           202.214.21.213
+sbcapi2.starbucks.co.jp                           sbcapi2.starbucks.co.jp.                          10.123.253.145
+tyo2k305.scdr.starbucks.co.jp                     tyo2k305.scdr.starbucks.co.jp.                    58.138.191.125
+ticket-test.starbucks.co.jp                       ticket-test.starbucks.co.jp.                      52.69.140.77
+member2.starbucks.co.jp                           member2.starbucks.co.jp.                          13.113.69.240
+cfs2.starbucks.co.jp                              cfs2.starbucks.co.jp.                             52.197.102.18
+gift-test2.starbucks.co.jp                        e-gifts-sbj-test2.giftee.co.                      13.249.219.221
+
+
+NORECORD RECORD DATA
+
+www.dev.starbucks.co.jp                           
+antifraud.member2.starbucks.co.jp                 
+api.store2.starbucks.co.jp                        
+api.starbucks.co.jp                               
+storeweb1.starbucks.co.jp                         
+api2.starbucks.co.jp                              
+tree.starbucks.co.jp                              
+www.deploy.starbucks.co.jp                        
+hp.starbucks.co.jp                                
+www.member2.starbucks.co.jp                       
+api.store.starbucks.co.jp                         
+                                                  
+www.login2.starbucks.co.jp                        
+store4.starbucks.co.jp                            
+www.st.starbucks.co.jp                            
+www.store2.starbucks.co.jp                        
+chart.starbucks.co.jp                             
+www.member.starbucks.co.jp                        
+www.dev2.starbucks.co.jp                          
+st-store.starbucks.co.jp                          
+dns1-r.starbucks.co.jp                            
+store1.starbucks.co.jp                            
+www.loginadmin2.starbucks.co.jp                   
+validclick.starbucks.co.jp                        
+mail.mx.starbucks.co.jp                           
+manage.starbucks.co.jp                            

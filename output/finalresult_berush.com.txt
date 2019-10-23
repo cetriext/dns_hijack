@@ -1,0 +1,18 @@
+NXDOMAIN DATA
+
+
+
+CNAME RECORD DATA
+
+sni.cloudflaressl.com                             sni.cloudflaressl.com.                            104.20.48.142
+www.berush.com                                    www.berush.com.                                   104.16.147.47
+berush.com                                        berush.com.                                       104.16.146.47
+ssl424551.cloudflaressl.com                       ssl424551.cloudflaressl.com.                      104.20.48.142
+ssl424550.cloudflaressl.com                       ssl424550.cloudflaressl.com.                      104.20.48.142
+
+
+NORECORD RECORD DATA
+
+bnpparibas.berush.com                             
+teaser.berush.com                                 
+                                                  

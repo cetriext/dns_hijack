@@ -1,0 +1,13 @@
+NXDOMAIN DATA
+
+
+
+CNAME RECORD DATA
+
+www.mobpub.com                                    www.mobpub.com.                                   69.172.201.153
+mobpub.com                                        mobpub.com.                                       69.172.201.153
+
+
+NORECORD RECORD DATA
+
+                                                  

@@ -1,0 +1,39 @@
+NXDOMAIN DATA
+
+
+
+CNAME RECORD DATA
+
+crmsmtp.starbucks.com.sg                          crmsmtp.starbucks.com.sg.                         125.252.110.194
+Member.starbucks.com.sg                           Member.starbucks.com.sg.                          125.252.110.208
+sbux-ax-uat.starbucks.com.sg                      sbux-ax-uat.starbucks.com.sg.                     168.63.248.149
+www.starbucks.com.sg                              starbuck-production-91688787.ap-southeast-1.elb.amazonaws.com.13.228.132.128
+card.starbucks.com.sg                             card.starbucks.com.sg.                            125.252.110.205
+ssl.starbucks.com.sg                              ssl.starbucks.com.sg.                             66.96.209.243
+Card.starbucks.com.sg                             Card.starbucks.com.sg.                            125.252.110.205
+axstorets.starbucks.com.sg                        axstorets.starbucks.com.sg.                       13.67.60.112
+starbucks.com.sg                                  starbucks.com.sg.                                 204.74.99.103
+campaign.starbucks.com.sg                         campaign.starbucks.com.sg.                        52.77.205.186
+sbuxts-test.starbucks.com.sg                      sbuxts-test.starbucks.com.sg.                     52.187.70.255
+sbuxts.starbucks.com.sg                           sbuxts.starbucks.com.sg.                          52.230.86.68
+member.starbucks.com.sg                           member.starbucks.com.sg.                          125.252.110.208
+sbuxstore.starbucks.com.sg                        sbuxstore.starbucks.com.sg.                       52.163.119.191
+ev.starbucks.com.sg                               ev.starbucks.com.sg.                              3.1.127.164
+sbux-ax.starbucks.com.sg                          sbux-ax.starbucks.com.sg.                         52.230.2.199
+mobile.starbucks.com.sg                           aws-starbucks-sg-prod-1438288508.ap-southeast-1.elb.amazonaws.com.3.1.134.170
+www.card.starbucks.com.sg                         webforward.ipmirror.com.                          54.255.202.167
+axts.starbucks.com.sg                             axts.starbucks.com.sg.                            13.76.248.178
+lyncdiscover.starbucks.com.sg                     webdir.online.lync.com.                           52.113.67.14
+
+
+NORECORD RECORD DATA
+
+www.member.starbucks.com.sg                       
+mail1.starbucks.com.sg                            
+sgpimswebp01.starbucks.com.sg                     
+www.sbux-ax.starbucks.com.sg                      
+sbuxstore-test.starbucks.com.sg                   
+www.sbuxts.starbucks.com.sg                       
+www.sbuxstore.starbucks.com.sg                    
+itsd.starbucks.com.sg                             
+                                                  

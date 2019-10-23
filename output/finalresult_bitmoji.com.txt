@@ -1,0 +1,37 @@
+NXDOMAIN DATA
+
+
+
+CNAME RECORD DATA
+
+support.snapstore.com                             snapstore.zendesk.com.                            104.16.55.111
+support.bitmoji.com                               bitmoji.zendesk.com.                              104.16.55.111
+support.lensstudio.snapchat.com                   lensstudio.zendesk.com.                           104.16.52.111
+staging-preview.bitmoji.com                       d3uum73zvxxc7f.cloudfront.net.                    54.192.216.167
+test.bitmoji.com                                  dd0towjxvc0hw.cloudfront.net.                     13.249.210.37
+support.spectacles.com                            spectacles.zendesk.com.                           104.16.54.111
+connect.bitmoji.com                               connect.bitmoji.com.                              18.213.177.75
+www2.bitmoji.com                                  d2rfiz70q92n4t.cloudfront.net.                    54.230.71.116
+www.bitmoji.com                                   d2rfiz70q92n4t.cloudfront.net.                    54.230.71.116
+services.bitmoji.com                              services.bitmoji.com.                             54.243.80.230
+api.bitmoji.com                                   bitmojiapi-1122134302.us-east-1.elb.amazonaws.com.34.192.253.232
+images.bitmoji.com                                d2iv48hg4yxj1k.cloudfront.net.                    54.230.71.22
+bitmoji.com                                       bitmoji.com.                                      13.249.210.95
+sdk.bitmoji.com                                   sdk.bitmoji.com.                                  13.249.210.62
+b.bitmoji.com                                     b.bitmoji.com.                                    54.243.80.230
+api.staging.bitmoji.com                           staging-api.bitmoji.com.                          52.205.228.72
+staging-api.bitmoji.com                           bitmojiapi-staging-859421446.us-east-1.elb.amazonaws.com.52.205.228.72
+preview.bitmoji.com                               d1b35dzudppapw.cloudfront.net.                    13.249.210.109
+support.lensstudio.com                            ghs.googlehosted.com.                             172.217.167.147
+get.bitmoji.com                                   get.bitmoji.com.                                  50.19.92.46
+
+
+NORECORD RECORD DATA
+
+www.images.bitmoji.com                            
+data39.adlooxtracking.comimages.bitmoji.com       
+www.ar24.frimages.bitmoji.com                     
+officecdn.microsoft.comimages.bitmoji.com         
+play.google.comimages.bitmoji.com                 
+devbox-api.bitmoji.com                            
+                                                  

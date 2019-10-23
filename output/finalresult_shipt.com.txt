@@ -1,0 +1,183 @@
+NXDOMAIN DATA
+
+us-east-1.shipt.com                               us-east-1.shipt.com.                              lookup us-east-1.shipt.com.: no such host
+staging-pearl.shipt.com                           staging-pearl.shipt.com.herokudns.com.            lookup staging-pearl.shipt.com.herokudns.com.: no such host
+us-east-1.staging.shipt.com                       us-east-1.staging.shipt.com.                      lookup us-east-1.staging.shipt.com.: no such host
+integration.shipt.com                             integration.shipt.com.                            lookup integration.shipt.com.: no such host
+us-west-2.shipt.com                               us-west-2.shipt.com.                              lookup us-west-2.shipt.com.: no such host
+directory.shipt.com                               directory.shipt.com.                              lookup directory.shipt.com.: no such host
+staging.shipt.com                                 staging.shipt.com.                                lookup staging.shipt.com.: no such host
+dsom.us-east-1.shipt.com                          dsom.us-east-1.shipt.com.                         lookup dsom.us-east-1.shipt.com.: no such host
+staging-autocomplete.shipt.com                    staging-autocomplete.shipt.com.                   lookup staging-autocomplete.shipt.com.: no such host
+us-west-2.staging.shipt.com                       us-west-2.staging.shipt.com.                      lookup us-west-2.staging.shipt.com.: no such host
+dsom.us-east-1.staging.shipt.com                  dsom.us-east-1.staging.shipt.com.                 lookup dsom.us-east-1.staging.shipt.com.: no such host
+hooks.shipt.com                                   hooks.shipt.com.                                  lookup hooks.shipt.com.: no such host
+infra-api-east.shipt.com                          infra-api-east.shipt.com.                         lookup infra-api-east.shipt.com.: no such host
+infra-api-west.shipt.com                          infra-api-west.shipt.com.                         lookup infra-api-west.shipt.com.: no such host
+private-staging-pearl.shipt.com                   private-staging-pearl.shipt.com.herokudns.com.    lookup private-staging-pearl.shipt.com.herokudns.com.: no such host
+staging-search.shipt.com                          staging-search.shipt.com.                         lookup staging-search.shipt.com.: no such host
+status.doppler.market                             status.doppler.market.                            lookup status.doppler.market.: no such host
+
+
+CNAME RECORD DATA
+
+prometheus-dsom.us-east-1.shipt.com               prometheus-dsom.us-east-1.shipt.com.              10.20.86.80
+api.shipt.com                                     api.shipt.com.                                    35.163.179.202
+alertmanager-dsom.us-east-1.shipt.com             alertmanager-dsom.us-east-1.shipt.com.            10.20.86.80
+status.gettimely.com                              6gvv3w51gh7r.stspg-customer.com.                  52.215.192.133
+buildv2.shipt.com                                 buildv2.shipt.com.                                52.6.111.50
+status.hirevue.com                                jpr58pg19chh.stspg-customer.com.                  52.215.192.133
+envoy.shipt.com                                   envoy.shipt.com.                                  35.171.90.59
+vpn-west.shipt.com                                vpn-west.shipt.com.                               52.37.223.212
+shipt.com                                         shipt.com.                                        146.148.55.211
+prometheus-og.us-east-1.shipt.com                 prometheus-og.us-east-1.shipt.com.                10.20.56.37
+alertmanager-og.us-east-1.shipt.com               alertmanager-og.us-east-1.shipt.com.              10.20.56.37
+alertmanager-dsom.us-east-1.staging.shipt.com     alertmanager-dsom.us-east-1.staging.shipt.com.    10.50.53.249
+status.ivanticloud.com                            21nhg6f0gmvz.stspg-customer.com.                  52.215.192.132
+alertmanager.dsom.us-east-1.shipt.com             alertmanager.dsom.us-east-1.shipt.com.            10.20.82.180
+prometheus-dsom.us-east-1.staging.shipt.com       prometheus-dsom.us-east-1.staging.shipt.com.      10.50.53.249
+alertmanager.us-east-1.shipt.com                  alertmanager.us-east-1.shipt.com.                 10.20.72.68
+prometheus.us-west-2.staging.shipt.com            prometheus.us-west-2.staging.shipt.com.           10.52.48.111
+inceptionstatuspage.com                           9g6w7j8v3hny.stspg-customer.com.                  52.215.192.133
+prometheus.dsom.us-east-1.shipt.com               prometheus.dsom.us-east-1.shipt.com.              10.20.64.175
+status.lightelligence.io                          8gd6g1djb1wb.stspg-customer.com.                  52.215.192.133
+prometheus.us-east-1.staging.shipt.com            prometheus.us-east-1.staging.shipt.com.           10.50.35.23
+test.us-east-1.staging.shipt.com                  test.us-east-1.staging.shipt.com.                 10.50.45.62
+build.shipt.com                                   build.shipt.com.                                  3.213.42.24
+jira-software.status.atlassian.com                7yh3h3y0c0x1.stspg-customer.com.                  52.215.192.131
+dashboard-qa.shipt.com                            dashboard-qa.shipt.com.                           192.15.49.69
+alertmanager.us-east-1.staging.shipt.com          alertmanager.us-east-1.staging.shipt.com.         10.50.45.62
+alertmanager.dsom.us-east-1.staging.shipt.com     alertmanager.dsom.us-east-1.staging.shipt.com.    10.50.36.31
+status.xpring.tech                                ddzss5ct6jy0.stspg-customer.com.                  52.215.192.132
+partner-staging-envoy.shipt.com                   partner-staging-envoy.shipt.com.                  34.197.133.153
+www.shipt.com                                     www.shipt.com.                                    146.148.55.211
+status.adjust.com                                 016jhvflz6xd.stspg-customer.com.                  52.215.192.133
+signup.shipt.com                                  signup.shipt.com.                                 54.192.216.251
+staging-signup.shipt.com                          staging-signup.shipt.com.                         54.192.216.147
+jenkins-qa.shipt.com                              jenkins-qa.shipt.com.                             18.210.2.148
+status.atomist.com                                q21yyqqf8fzx.stspg-customer.com.                  52.215.192.131
+whxbrz.shipt.com                                  dnsdelegation.io.                                 182.161.72.137
+alertmanager-og.us-east-1.staging.shipt.com       alertmanager-og.us-east-1.staging.shipt.com.      10.50.48.100
+shipt-admin.us-east-1.shipt.com                   shipt-admin.us-east-1.shipt.com.                  52.20.181.54
+staging-shopper.shipt.com                         staging-shopper.shipt.com.                        52.71.24.91
+secure.partner.shipt.com                          ec2-54-164-13-186.compute-1.amazonaws.com.        54.164.13.186
+card.shipt.com                                    card.shipt.com.                                   10.32.29.84
+app.shipt.com                                     app.shipt.com.                                    34.233.178.252
+prometheus.dsom.us-east-1.staging.shipt.com       prometheus.dsom.us-east-1.staging.shipt.com.      10.50.41.170
+shopper.shipt.com                                 shopper.shipt.com.                                34.233.178.252
+prometheus.us-east-1.shipt.com                    prometheus.us-east-1.shipt.com.                   10.20.72.68
+status.meshify.com                                wkm9q1tlxsgq.stspg-customer.com.                  52.215.192.133
+status.next.tech                                  rrztl65s5xdq.stspg-customer.com.                  52.215.192.132
+help.shipt.com                                    shipt.helpjuice.com.                              50.16.128.128
+shop.shipt.com                                    shop.shipt.com.                                   54.192.216.178
+dsom-imager-prod.shipt.com                        d1vz2m3fprayh5.cloudfront.net.                    54.192.216.75
+status.aumix.com                                  yellow.aumix.com.                                 62.90.191.150
+status.bring.systems                              fjz3y8qwrp81.stspg-customer.com.                  52.215.192.131
+status.beam.dental                                2zgnp4mm4mzl.stspg-customer.com.                  52.215.192.132
+alertmanager.us-west-2.shipt.com                  alertmanager.us-west-2.shipt.com.                 172.16.49.143
+status.rackspeed.de                               19cgrnhr6p7c.stspg-customer.com.                  52.215.192.133
+staging-shoppingcart.shipt.com                    staging-shoppingcart.shipt.com.                   35.155.176.17
+ftpserver.shipt.com                               ec2-52-87-200-168.compute-1.amazonaws.com.        52.87.200.168
+secure.shipt.com                                  secure.shipt.com.                                 34.233.108.15
+alertmanager.us-west-2.staging.shipt.com          alertmanager.us-west-2.staging.shipt.com.         10.52.42.132
+status.vinsuite.com                               8hkgl8djfv17.stspg-customer.com.                  52.215.192.132
+status.shipt.com                                  hjjhgpfdmjbj.stspg-customer.com.                  52.215.192.131
+test.shipt.com                                    test.shipt.com.cdn.cloudflare.net.                104.18.5.216
+shoppingcart.shipt.com                            shoppingcart.shipt.com.                           35.168.50.219
+status.obsrvbl.com                                cymz78fs3b94.stspg-customer.com.                  52.215.192.131
+status.csnsw.cloud                                mzv23vq4kl2t.stspg-customer.com.                  52.215.192.132
+staging-secure.shipt.com                          staging-secure.shipt.com.                         54.164.87.210
+status.emnify.com                                 lvdy5bw80hl4.stspg-customer.com.                  52.215.192.133
+status.nomics.com                                 m39rnc2c6kyq.stspg-customer.com.                  52.215.192.133
+status.cumberland.io                              mr6l11h96thr.stspg-customer.com.                  52.215.192.133
+vpn-east.shipt.com                                vpn-east.shipt.com.                               54.86.88.147
+status.cloudkinnekt.com.au                        ggdfs3x3wn3k.stspg-customer.com.                  52.215.192.131
+status.coins.asia                                 cv2gmj3xqdrm.stspg-customer.com.                  52.215.192.131
+fly.us-west-2.staging.shipt.com                   fly.us-west-2.staging.shipt.com.                  10.52.42.132
+scim-mfys8sjzrymr.shipt.com                       scim-mfys8sjzrymr.shipt.com.                      3.220.138.209
+dev-vault.shipt.com                               dev-vault.shipt.com.                              34.210.210.139
+status.populi.co                                  tcbm8hqjl3zy.stspg-customer.com.                  52.215.192.132
+status.united-hoster.de                           46f7chxnjxpc.stspg-customer.com.                  52.215.192.132
+status.upserve.com                                3jdhxr3vrsb0.stspg-customer.com.                  52.215.192.133
+status.safeguardingmonitor.co.uk                  4py3w5sp63tv.stspg-customer.com.                  52.215.192.133
+api-east.shipt.com                                api-east.shipt.com.                               35.168.50.219
+status.origamirisk.com                            y2nwx7w2cpp7.stspg-customer.com.                  52.215.192.131
+status.uphold.com                                 cnkhkzccj9xw.stspg-customer.com.                  52.215.192.133
+status.dobt.co                                    c73bgtwgrhvh.stspg-customer.com.                  52.215.192.132
+status.windsor-telecom.co.uk                      xz9gzsjmy68h.stspg-customer.com.                  52.215.192.131
+share.shipt.com                                   mbsy.co.                                          54.243.232.129
+blog.shipt.com                                    shipt.wpengine.com.                               146.148.55.211
+sftpserver.shipt.com                              sftpserver.shipt.com.                             54.85.109.154
+beyond.shipt.com                                  dufrh0c3ffj7k.cloudfront.net.                     54.192.216.112
+status.safenetid.com                              6v2fqlm36mwf.stspg-customer.com.                  52.215.192.131
+drone.shipt.com                                   drone.shipt.com.                                  34.202.248.139
+email.shipt.com                                   email.shipt.com.                                  162.223.233.185
+status.maikelve.group                             status.maikelve.group.                            81.19.215.6
+vpn.shipt.com                                     vpn-west.shipt.com.                               52.37.223.212
+status.placetopay.com                             1v8032vvrv5q.stspg-customer.com.                  52.215.192.131
+admin.shipt.com                                   admin.shipt.com.cdn.cloudflare.net.               104.18.4.216
+status.tegaki.ai                                  lccpj5m4tgbh.stspg-customer.com.                  52.215.192.131
+staging-api-east.shipt.com                        staging-api-east.shipt.com.                       34.238.100.28
+staging-shop.shipt.com                            staging-shop.shipt.com.                           54.192.216.36
+prometheus-ds.us-east-1.shipt.com                 prometheus-ds.us-east-1.shipt.com.                10.20.79.191
+status.shipengine.com                             8hdj6gbj1f11.stspg-customer.com.                  52.215.192.133
+staging-app.shipt.com                             staging-app.shipt.com.                            35.155.176.17
+private-staging-app.shipt.com                     private-staging-app.shipt.com.                    10.10.81.233
+skynet.shipt.com                                  skynet.shipt.com.                                 35.163.51.151
+prometheus-og.us-east-1.staging.shipt.com         prometheus-og.us-east-1.staging.shipt.com.        10.50.42.212
+staging-api-west.shipt.com                        staging-api-west.shipt.com.                       54.202.71.197
+rabbit.shipt.com                                  rabbit.shipt.com.                                 54.164.13.186
+api-west.shipt.com                                api-west.shipt.com.                               35.163.179.202
+updates.freshservice.com                          freshservice-525.freshstatus.io.                  34.204.57.176
+review-apps.shipt.com                             review-apps.shipt.com.                            192.15.59.224
+staging-admin.shipt.com                           staging-admin.shipt.com.cdn.cloudflare.net.       104.18.4.216
+status.towcentre.ca                               5f7vn02lsclq.stspg-customer.com.                  52.215.192.131
+status.uneeq.com                                  0sd9y30b0c4w.stspg-customer.com.                  52.215.192.131
+sftp.shipt.com                                    sftp.shipt.com.                                   34.200.2.28
+app.integration.shipt.com                         app.integration.shipt.com.                        54.205.161.47
+ambassadors.shipt.com                             shipt.getambassador.com.                          99.86.19.91
+staging-auth.shipt.com                            staging-auth.shipt.com.                           172.15.56.29
+omp.email.shipt.com                               omp.email.shipt.com.                              199.7.207.93
+staging-api.shipt.com                             staging-api.shipt.com.cdn.cloudflare.net.         104.18.4.216
+alertmanager-ds.us-east-1.shipt.com               alertmanager-ds.us-east-1.shipt.com.              10.20.83.230
+status.just-data.io                               status.just-data.io.                              151.101.1.195
+support.shipt.com                                 shipt.wpengine.com.                               146.148.55.211
+shoppers.shipt.com                                shiptshoppers.helpjuice.com.                      50.16.128.128
+
+
+NORECORD RECORD DATA
+
+segway.shipt.com                                  
+shipt-test-app.staging.shipt.com                  
+prod-kerfuffle.shipt.com                          
+email.kahuna.shipt.com                            
+staging-kerfuffle.shipt.com                       
+kerfuffle.shipt.com                               
+locationapi.staging.shipt.com                     
+mock-locationapi.staging.shipt.com                
+messenger.shipt.com                               
+admin.staging.shipt.com                           
+shipperprofile.staging.shipt.com                  
+customer.staging.shipt.com                        
+driverprofile.staging.shipt.com                   
+beta.shipt.com                                    
+mock-accountingapi.staging.shipt.com              
+                                                  
+messenger.staging.shipt.com                       
+testrecord.shipt.com                              
+pearl.shipt.com                                   
+authapi.staging.shipt.com                         
+metrics.shipt.com                                 
+staging-es.shipt.com                              
+groceries.shipt.com                               
+credits.shipt.com                                 
+fly.staging.shipt.com                             
+private-app.shipt.com                             
+oncall.shipt.com                                  
+ssltest.shipt.com                                 
+cerebro.shipt.com                                 
+build-west.shipt.com                              
+thanos.shipt.com                                  
+status.firmaprofesional.com                       
+wiki.shipt.com                                    
+status.olt-preview.io                             

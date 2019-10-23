@@ -1,0 +1,851 @@
+NXDOMAIN DATA
+
+it-status.zenconnect.fr                           it-status.zenconnect.fr.                          lookup it-status.zenconnect.fr.: no such host
+status.hyperhost.com.au                           status.hyperhost.com.au.                          lookup status.hyperhost.com.au.: no such host
+status.daymarksi.com                              status.daymarksi.com.                             lookup status.daymarksi.com.: no such host
+status.inviewads.com                              status.inviewads.com.                             lookup status.inviewads.com.: no such host
+status.cloudpassage.com                           status.cloudpassage.com.                          lookup status.cloudpassage.com.: no such host
+status.fastly.com                                 889dh1w1xtt0.stspg-customer.com.                  lookup 889dh1w1xtt0.stspg-customer.com.: no such host
+status.socialbakers.com                           lnv050t14nkl.stspg-customer.com.                  lookup lnv050t14nkl.stspg-customer.com.: no such host
+status.airbrake.io                                jq64r4cdpggk.stspg-customer.com.                  lookup jq64r4cdpggk.stspg-customer.com.: no such host
+status.smxemail.com                               0nd2xw7tms6z.stspg-customer.com.                  lookup 0nd2xw7tms6z.stspg-customer.com.: no such host
+status.clio.com                                   8j5qr5p33w9q.stspg-customer.com.                  lookup 8j5qr5p33w9q.stspg-customer.com.: no such host
+status.developer.xero.com                         fhl6dt3s4lnc.stspg-customer.com.                  lookup fhl6dt3s4lnc.stspg-customer.com.: no such host
+status.sofi.com                                   df7tbj85b3s1.stspg-customer.com.                  lookup df7tbj85b3s1.stspg-customer.com.: no such host
+status.sparkpost.com                              7ky1q6zd3fyp.stspg-customer.com.                  lookup 7ky1q6zd3fyp.stspg-customer.com.: no such host
+status.predictiveindex.com                        y0l4g43nfndz.stspg-customer.com.                  lookup y0l4g43nfndz.stspg-customer.com.: no such host
+status.surveypal.com                              4sfyyd782yfk.stspg-customer.com.                  lookup 4sfyyd782yfk.stspg-customer.com.: no such host
+status.acvauctions.com                            6wb6xyt437p0.stspg-customer.com.                  lookup 6wb6xyt437p0.stspg-customer.com.: no such host
+console.prod.gnip.com                             console.prod.gnip.com.                            lookup console.prod.gnip.com.: no such host
+console.gnip.com                                  console.prod.gnip.com.                            lookup console.prod.gnip.com.: no such host
+status.sourcevoid.com                             fncx8y1zkwz1.stspg-customer.com.                  lookup fncx8y1zkwz1.stspg-customer.com.: no such host
+status.people-doc.com                             kblj6k668zvq.stspg-customer.com.                  lookup kblj6k668zvq.stspg-customer.com.: no such host
+status.split.io                                   bn51dbtm6djn.stspg-customer.com.                  lookup bn51dbtm6djn.stspg-customer.com.: no such host
+status.gatech.edu                                 96551857.hostedstatus.com.                        lookup 96551857.hostedstatus.com.: no such host
+status.tyro.com                                   ls9hry0yn38w.stspg-customer.com.                  lookup ls9hry0yn38w.stspg-customer.com.: no such host
+status.twingly.com                                f5cs578xcjbm.stspg-customer.com.                  lookup f5cs578xcjbm.stspg-customer.com.: no such host
+status.adestra.com                                9cdr878qs2hl.stspg-customer.com.                  lookup 9cdr878qs2hl.stspg-customer.com.: no such host
+status.python.org                                 2p66nmmycsj3.stspg-customer.com.                  lookup 2p66nmmycsj3.stspg-customer.com.: no such host
+status.stackpath.com                              ffzgbsl6qbh8.stspg-customer.com.                  lookup ffzgbsl6qbh8.stspg-customer.com.: no such host
+status.caresharing.eu                             99xy4xsxhvly.stspg-customer.com.                  lookup 99xy4xsxhvly.stspg-customer.com.: no such host
+www.compsuitestatus.com                           p5ysbz56p45n.stspg-customer.com.                  lookup p5ysbz56p45n.stspg-customer.com.: no such host
+status.starter.openshift.com                      lhzjj4v7mmyd.stspg-customer.com.                  lookup lhzjj4v7mmyd.stspg-customer.com.: no such host
+status.cns.utexas.edu                             utexas-259.freshstatus.io.                        lookup utexas-259.freshstatus.io.: no such host
+status.catalog360.com                             kbxpsdgyx8t1.stspg-customer.com.                  lookup kbxpsdgyx8t1.stspg-customer.com.: no such host
+status.streamable.com                             b3gp1ll2cwqc.stspg-customer.com.                  lookup b3gp1ll2cwqc.stspg-customer.com.: no such host
+status.drchrono.com                               ftd21120x69r.stspg-customer.com.                  lookup ftd21120x69r.stspg-customer.com.: no such host
+status-dedicated.openshift.com                    vdj5ljfyv8ws.stspg-customer.com.                  lookup vdj5ljfyv8ws.stspg-customer.com.: no such host
+status.ands.org.au                                1m08y4b15rrz.stspg-customer.com.                  lookup 1m08y4b15rrz.stspg-customer.com.: no such host
+status.video.ibm.com                              xgc405cp2b5g.stspg-customer.com.                  lookup xgc405cp2b5g.stspg-customer.com.: no such host
+status.exosite.com                                bjrxlnv3yqfm.stspg-customer.com.                  lookup bjrxlnv3yqfm.stspg-customer.com.: no such host
+status.certify.com                                0x3tdf7xnln2.stspg-customer.com.                  lookup 0x3tdf7xnln2.stspg-customer.com.: no such host
+status.swanwolflabs.com                           y9255jd9r11m.stspg-customer.com.                  lookup y9255jd9r11m.stspg-customer.com.: no such host
+adltrust.kinnser.com                              dy09sgd3xfkq.stspg-customer.com.                  lookup dy09sgd3xfkq.stspg-customer.com.: no such host
+status.sureprep.com                               1h96mjgvb18h.stspg-customer.com.                  lookup 1h96mjgvb18h.stspg-customer.com.: no such host
+status.availity.com                               01b41x2zr4p7.stspg-customer.com.                  lookup 01b41x2zr4p7.stspg-customer.com.: no such host
+status.aspex.be                                   924r1dr3njr9.stspg-customer.com.                  lookup 924r1dr3njr9.stspg-customer.com.: no such host
+status.pingidentity.com                           4743169cznmw.stspg-customer.com.                  lookup 4743169cznmw.stspg-customer.com.: no such host
+status.wistia.com                                 750cwd148kqj.stspg-customer.com.                  lookup 750cwd148kqj.stspg-customer.com.: no such host
+status.cin7.com                                   sm93hyw6571g.stspg-customer.com.                  lookup sm93hyw6571g.stspg-customer.com.: no such host
+cloudstatus.carestreamdental.com                  3yp21dg5g673.stspg-customer.com.                  lookup 3yp21dg5g673.stspg-customer.com.: no such host
+status.tab.travel                                 mwgq1dmhqq0h.stspg-customer.com.                  lookup mwgq1dmhqq0h.stspg-customer.com.: no such host
+status.clarizen.com                               5rsmmbptg34w.stspg-customer.com.                  lookup 5rsmmbptg34w.stspg-customer.com.: no such host
+status.be4000.cisco.com                           svd5tml25x9l.stspg-customer.com.                  lookup svd5tml25x9l.stspg-customer.com.: no such host
+status.tangible.com                               1zck87nz45db.stspg-customer.com.                  lookup 1zck87nz45db.stspg-customer.com.: no such host
+devstatus.twitch.tv                               cjn0pxg8j9zv.stspg-customer.com.                  lookup cjn0pxg8j9zv.stspg-customer.com.: no such host
+status.acquia.com                                 c3bdbqpxhzcc.stspg-customer.com.                  lookup c3bdbqpxhzcc.stspg-customer.com.: no such host
+status.amazee.io                                  6r0x4q786p67.stspg-customer.com.                  lookup 6r0x4q786p67.stspg-customer.com.: no such host
+health.moz.com                                    jq6vr18tpz46.stspg-customer.com.                  lookup jq6vr18tpz46.stspg-customer.com.: no such host
+systemstatus.ghx.com                              ww7q80nc20kq.stspg-customer.com.                  lookup ww7q80nc20kq.stspg-customer.com.: no such host
+status.onprocess.com                              mbz6j15v4cjr.stspg-customer.com.                  lookup mbz6j15v4cjr.stspg-customer.com.: no such host
+status.salsify.com                                p1h2f2dvww7r.stspg-customer.com.                  lookup p1h2f2dvww7r.stspg-customer.com.: no such host
+status.recurly.com                                rq8zvx7w9n0c.stspg-customer.com.                  lookup rq8zvx7w9n0c.stspg-customer.com.: no such host
+internal-status.getbabyscripts.com                4bd35663czq6.stspg-customer.com.                  lookup 4bd35663czq6.stspg-customer.com.: no such host
+status.bettyblocks.com                            sctf2yd2c4b5.stspg-customer.com.                  lookup sctf2yd2c4b5.stspg-customer.com.: no such host
+status.techstyle.com                              q6px6btc93kf.stspg-customer.com.                  lookup q6px6btc93kf.stspg-customer.com.: no such host
+status.eligible.com                               sy1tq9fh7fzp.stspg-customer.com.                  lookup sy1tq9fh7fzp.stspg-customer.com.: no such host
+status.birchbox.com                               tl2bqxfpnnlw.stspg-customer.com.                  lookup tl2bqxfpnnlw.stspg-customer.com.: no such host
+status.gnip.com                                   zjttvm6ql9lp.stspg-customer.com.                  lookup zjttvm6ql9lp.stspg-customer.com.: no such host
+api.twitterstat.us                                zjttvm6ql9lp.stspg-customer.com.                  lookup zjttvm6ql9lp.stspg-customer.com.: no such host
+status.telesign.com                               pcjh4vgksmrs.stspg-customer.com.                  lookup pcjh4vgksmrs.stspg-customer.com.: no such host
+status.cognitohq.com                              p4l4v4rqk6sr.stspg-customer.com.                  lookup p4l4v4rqk6sr.stspg-customer.com.: no such host
+status.bitmovin.com                               05q9dh7vx2mf.stspg-customer.com.                  lookup 05q9dh7vx2mf.stspg-customer.com.: no such host
+status.currencycloud.com                          6c5lkmk3mbdm.stspg-customer.com.                  lookup 6c5lkmk3mbdm.stspg-customer.com.: no such host
+status.cydarmedical.com                           1g1x5fx6nqh7.stspg-customer.com.                  lookup 1g1x5fx6nqh7.stspg-customer.com.: no such host
+status.bitwage.com                                93mfjcqm6kl2.stspg-customer.com.                  lookup 93mfjcqm6kl2.stspg-customer.com.: no such host
+status.bloombox.io                                hngfdb24mysy.stspg-customer.com.                  lookup hngfdb24mysy.stspg-customer.com.: no such host
+status.thecallcenterschool.com                    w1bkdzl7q0tq.stspg-customer.com.                  lookup w1bkdzl7q0tq.stspg-customer.com.: no such host
+status.comalatech.com                             57pnn1njd9sh.stspg-customer.com.                  lookup 57pnn1njd9sh.stspg-customer.com.: no such host
+status.compose.com                                lv9d9t65jjkg.stspg-customer.com.                  lookup lv9d9t65jjkg.stspg-customer.com.: no such host
+klarna-na.status.klarna.com                       hcqyhqhf9m9h.stspg-customer.com.                  lookup hcqyhqhf9m9h.stspg-customer.com.: no such host
+status.dealersocket.com                           qfs8b1frp9p1.stspg-customer.com.                  lookup qfs8b1frp9p1.stspg-customer.com.: no such host
+status.dccc.edu                                   kppl6qy9bsq3.stspg-customer.com.                  lookup kppl6qy9bsq3.stspg-customer.com.: no such host
+status.getadmiral.com                             06v016h0yfb4.stspg-customer.com.                  lookup 06v016h0yfb4.stspg-customer.com.: no such host
+outages.touro.edu                                 232hct7jr33x.stspg-customer.com.                  lookup 232hct7jr33x.stspg-customer.com.: no such host
+status.tidalpay.com                               f7gtc1dztr6s.stspg-customer.com.                  lookup f7gtc1dztr6s.stspg-customer.com.: no such host
+status.deiser.com                                 cw8f98s49lyp.stspg-customer.com.                  lookup cw8f98s49lyp.stspg-customer.com.: no such host
+status.arrayent.com                               223x7vgt5d66.stspg-customer.com.                  lookup 223x7vgt5d66.stspg-customer.com.: no such host
+ot.singlehop.com                                  xc6bpfh9yyqg.stspg-customer.com.                  lookup xc6bpfh9yyqg.stspg-customer.com.: no such host
+status.defenseorchestrator.com                    mq1rp1pdj1mv.stspg-customer.com.                  lookup mq1rp1pdj1mv.stspg-customer.com.: no such host
+
+
+CNAME RECORD DATA
+
+status.clearcareonline.com                        20838548.hostedstatus.com.                        54.230.71.84
+status.hilldickinson.com                          0x88l4bl5ttr.stspg-customer.com.                  52.215.192.133
+status.blueboard.com                              054k1zl3wmp1.stspg-customer.com.                  52.215.192.133
+status.disqus.com                                 fjkv5pmjhd1w.stspg-customer.com.                  52.215.192.132
+status.urbanairship.com                           gk8jfj1gbrzn.stspg-customer.com.                  52.215.192.131
+status.srcclr.net                                 8lgfv32rgh8c.stspg-customer.com.                  52.215.192.132
+trust.opswat.com                                  7mf88krcygn3.stspg-customer.com.                  52.215.192.132
+status.bitbucket.org                              bqlf8qjztdtr.stspg-customer.com.                  52.215.192.131
+status.swisstxt.ch                                tvppkn17kcsy.stspg-customer.com.                  52.215.192.131
+status.soomolearning.com                          lpbknfckjclj.stspg-customer.com.                  52.215.192.133
+status.litmus.com                                 x6rlnj899nk4.stspg-customer.com.                  52.215.192.132
+status.progress.com                               zdtm1jt0cshs.stspg-customer.com.                  52.215.192.132
+status.globalrelay.com                            hv5kyyswpvd4.stspg-customer.com.                  52.215.192.132
+status.linode.com                                 8dn0wstr1chc.stspg-customer.com.                  52.215.192.133
+status.spreedly.com                               mpytyg54s121.stspg-customer.com.                  52.215.192.132
+status.taxcaddy.com                               40g0tqxrymf9.stspg-customer.com.                  52.215.192.133
+status.support.sap.com                            b4rd0jtyw03s.stspg-customer.com.                  52.215.192.133
+status.smartrak.com.au                            snxw5lpwwfcz.stspg-customer.com.                  52.215.192.131
+status.creditcall.com                             qfykdxmdbnvr.stspg-customer.com.                  52.215.192.131
+status.syse.io                                    lbn3p2lx0316.stspg-customer.com.                  52.215.192.131
+status.io.com                                     qdwm6p13pp89.stspg-customer.com.                  52.215.192.131
+status.avetta.com                                 y918d610plh9.stspg-customer.com.                  52.215.192.131
+status.crowdflower.com                            fjj1zdykn046.stspg-customer.com.                  52.215.192.131
+status.finalsite.com                              3nd6kghss2rn.stspg-customer.com.                  52.215.192.131
+status.smsportal.com                              tlf2yl236488.stspg-customer.com.                  52.215.192.131
+dlpcloud.status.symantec.com                      qs9wt8dh2nrp.stspg-customer.com.                  52.215.192.132
+status.caplinked.com                              dvn9hmxdcnlj.stspg-customer.com.                  52.215.192.131
+status.periscopedata.com                          84t5b9y2v84z.stspg-customer.com.                  52.215.192.131
+status.checkpoint.com                             23tk2y3t5qh7.stspg-customer.com.                  52.215.192.131
+itsnoc.slustatus.org                              4drfng8szh4w.stspg-customer.com.                  52.215.192.133
+status.fabricut.com                               k9q3w3g0zzwq.stspg-customer.com.                  52.215.192.131
+status.spookfish.com                              cqwq2lkfjk3p.stspg-customer.com.                  52.215.192.131
+status.braintreepayments.com                      03tltrdl3qkv.stspg-customer.com.                  52.215.192.133
+status.flexera.com                                6ppcgf6d9w2p.stspg-customer.com.                  52.215.192.131
+status.freshbooks.com                             0598znb9bjpl.stspg-customer.com.                  52.215.192.133
+www.traviscistatus.com                            pnpcptp8xh9k.stspg-customer.com.                  52.215.192.133
+status-api.knewton.com                            164xjw1kbyml.stspg-customer.com.                  52.215.192.133
+status.gainsight.com                              zncldvn59n96.stspg-customer.com.                  52.215.192.131
+cloud-status.dimensiondata.com                    5q39cfc7xjbx.stspg-customer.com.                  52.215.192.131
+status.huit.harvard.edu                           0nrlm48qgndm.stspg-customer.com.                  52.215.192.133
+status.empower.abb.com                            r2gjt1g2kjfq.stspg-customer.com.                  52.215.192.133
+status.geempower.com                              r2gjt1g2kjfq.stspg-customer.com.                  52.215.192.133
+status.hustle.com                                 7m7ym689419z.stspg-customer.com.                  52.215.192.131
+trust.zuora.com                                   f70d01brn2px.stspg-customer.com.                  52.215.192.133
+status.iadvize.com                                ks87wbzzwl6w.stspg-customer.com.                  52.215.192.131
+status.jibecloud.net                              jl5bx9sq6qb0.stspg-customer.com.                  52.215.192.131
+status.imgix.com                                  032k0f0j3bsz.stspg-customer.com.                  52.215.192.133
+status.infoblox.com                               qwdhlrdy1q07.stspg-customer.com.                  52.215.192.133
+status.imprivata.com                              y5yk1bg5c0s8.stspg-customer.com.                  52.215.192.131
+status.info.nl                                    38h4zqr0pq2r.stspg-customer.com.                  52.215.192.133
+status.infotjenester.no                           5xg5ylx2441p.stspg-customer.com.                  52.215.192.131
+status.nexmo.com                                  glb-nx-hq.www.nexmo.com.                          159.8.219.250
+status.inreach.garmin.com                         zv3d5pt2y942.stspg-customer.com.                  52.215.192.133
+status.inquicker.com                              jwy6wvyyc643.stspg-customer.com.                  52.215.192.133
+status.instapage.com                              44f9prlc8ks4.stspg-customer.com.                  52.215.192.132
+status.librato.com                                636574ls1dpd.stspg-customer.com.                  52.215.192.131
+trust.mobileiron.com                              1lhk9566yrfp.stspg-customer.com.                  52.215.192.131
+status.iwantmyname.com                            hcfmhvpbqfb6.stspg-customer.com.                  52.215.192.133
+internal.dynstatus.com                            p86kw9p7hl6h.stspg-customer.com.                  52.215.192.132
+status.it.tufts.edu                               yptgql8tn0gn.stspg-customer.com.                  52.215.192.132
+status.itility.cc                                 c2cyz089wml8.stspg-customer.com.                  52.215.192.133
+status.vismaonline.com                            status.vismaonline.com.                           216.146.46.11
+status.kalaidos.ch                                1dhw41t23scj.stspg-customer.com.                  52.215.192.132
+www.cloudflarestatus.com                          yh6f0r4529hb.stspg-customer.com.                  52.215.192.132
+status.klarna.com                                 d9k334s7r9v1.stspg-customer.com.                  52.215.192.132
+status.kenticocloud.com                           d0fg9nzntghj.stspg-customer.com.                  52.215.192.133
+my.status.iron.io                                 vkcdq3y3nvg9.stspg-customer.com.                  52.215.192.133
+status.ingresso.co.uk                             c5fmb6nqlnl0.stspg-customer.com.                  52.215.192.132
+status.cubecraft.net                              status.cubecraft.net.                             104.28.6.176
+status.kustomer.com                               lhn2sb4njk08.stspg-customer.com.                  52.215.192.132
+status.jivesoftware.com                           z72z4j8hpw0v.stspg-customer.com.                  52.215.192.132
+status.apigee.com                                 sgktglt7lk13.stspg-customer.com.                  52.215.192.133
+status.getclef.com                                status.getclef.com.                               144.76.78.12
+status.iron.io                                    lgc8wg9sgd81.stspg-customer.com.                  52.215.192.132
+status.housecanary.com                            pkkpjjckfnnb.stspg-customer.com.                  52.215.192.132
+status.liquidweb.com                              fs1jftf56rrr.stspg-customer.com.                  52.215.192.132
+status.logitech.com                               zbr74ch8kcdy.stspg-customer.com.                  52.215.192.133
+status.shipcloud.io                               dlccblhllckf.stspg-customer.com.                  52.215.192.131
+status.lumecloud.com                              zzf8qpl9f2ng.stspg-customer.com.                  52.215.192.132
+status.lodgemaster.oa-bsa.org                     status.oa-bsa.org.                                52.215.192.133
+private-cloud.dimensiondata.com                   mp866bzyrcxp.stspg-customer.com.                  52.215.192.131
+status.magemojo.com                               b5x9lmxnhtty.stspg-customer.com.                  52.215.192.131
+status.pagerduty.com                              33yy6hwxnwr3.stspg-customer.com.                  52.215.192.133
+status.kraken.io                                  30fg05mstddk.stspg-customer.com.                  52.215.192.131
+status.marketplace.atlassian.com                  n8766lc3ybbs.stspg-customer.com.                  52.215.192.133
+status.fronter.com                                xcg31z2068vk.stspg-customer.com.                  52.215.192.131
+status.fuelrats.com                               mj0v5fmf6bx8.stspg-customer.com.                  52.215.192.132
+status.liaison.com                                brs5j3tts0wv.stspg-customer.com.                  52.215.192.133
+status.fuze.com                                   97f7g0jccfn6.stspg-customer.com.                  52.215.192.131
+sepsbe.status.symantec.com                        vbyyz2jnm48t.stspg-customer.com.                  52.215.192.133
+sos.czops.net                                     s1z1ydj5fwdl.stspg-customer.com.                  52.215.192.131
+status.fullcontact.com                            z6zs7dbwf6h0.stspg-customer.com.                  52.215.192.133
+status.fringe.nl                                  zw4r0nlfmdjn.stspg-customer.com.                  52.215.192.131
+status.zapier.com                                 vg334k121155.stspg-customer.com.                  52.215.192.131
+status.hydip.com                                  5bh4vzjpnn2z.stspg-customer.com.                  52.215.192.133
+status.section.io                                 p4p34cxtdxqy.stspg-customer.com.                  52.215.192.131
+status.mendix.com                                 4rqwgw8gmq9t.stspg-customer.com.                  52.215.192.132
+status.merlot.aero                                xd8pgw8f4p72.stspg-customer.com.                  52.215.192.131
+status.humanapi.co                                q1jk1fnv1cpc.stspg-customer.com.                  52.215.192.131
+status.meltwater.net                              bxzt6x2rdl2t.stspg-customer.com.                  52.215.192.131
+status.met.no                                     4b9b31tffb5x.stspg-customer.com.                  52.215.192.132
+status.maropost.com                               lh4t3mnf81k2.stspg-customer.com.                  52.215.192.133
+status.intercom.com                               1m1j8k4rtldg.stspg-customer.com.                  52.215.192.132
+status.itslearning.com                            g84rkxq1yf5j.stspg-customer.com.                  52.215.192.133
+status.hubplatform.org                            lby7f2cdlb2r.stspg-customer.com.                  52.215.192.133
+status.tablelist.com                              wildcard.tablelist.com.herokudns.com.             34.236.110.238
+status.modicagroup.com                            mgv7yvjpxjpk.stspg-customer.com.                  52.215.192.132
+status.alertlogic.com                             bkbjcmdhhfbp.stspg-customer.com.                  52.215.192.131
+status.jesdating.com                              stats.pingdom.com.                                54.171.9.158
+status.smartselling.cz                            stats.pingdom.com.                                54.171.9.158
+status.3dcart.com                                 hr9mbdftv9t4.stspg-customer.com.                  52.215.192.131
+status.kayako.com                                 status.kayako.com.                                34.200.162.158
+status-page.virtru.com                            8tpb9hmcc1pr.stspg-customer.com.                  52.215.192.132
+status.itglue.com                                 p6qqnhbg7l76.stspg-customer.com.                  52.215.192.133
+cwp.status.symantec.com                           rwb8llbnqvcg.stspg-customer.com.                  52.215.192.132
+status.injixo.com                                 m20586k2p6h5.stspg-customer.com.                  52.215.192.133
+status.cloudinary.com                             d8rszhl2bj7r.stspg-customer.com.                  52.215.192.131
+status.internal.t1cloud.com                       27l561z5l4d8.stspg-customer.com.                  52.215.192.133
+status.codecov.io                                 wdzsn5dlywj9.stspg-customer.com.                  52.215.192.132
+status.onaskcody.com                              c5dltgcmz9rf.stspg-customer.com.                  52.215.192.132
+status.linuxfoundation.org                        q805k4jfhrb4.stspg-customer.com.                  52.215.192.131
+status.onfido.com                                 qqy89g0vtg8z.stspg-customer.com.                  52.215.192.133
+status.paloaltonetworks.com                       wqr4c3swlcv9.stspg-customer.com.                  52.215.192.131
+status.datasift.com                               mtxr145fk9r4.stspg-customer.com.                  52.215.192.131
+status.mdsave.com                                 f5m42dv74594.stspg-customer.com.                  52.215.192.132
+status.kisanhub.com                               hns3t96vg36m.stspg-customer.com.                  52.215.192.133
+status.pantheon.io                                80f0zgsx80zh.stspg-customer.com.                  52.215.192.131
+status.paysafe.io                                 3s97hmkk26kk.stspg-customer.com.                  52.215.192.131
+status.nedapretail.com                            status.nedapretail.com.                           217.114.110.59
+status.medallia.com                               c0gb7fpymld9.stspg-customer.com.                  52.215.192.131
+status.khanacademy.org                            bx4k6bqw7ssg.stspg-customer.com.                  52.215.192.133
+status.logograb.com                               86ldpk3yskch.stspg-customer.com.                  52.215.192.131
+sepc.status.symantec.com                          h3fh7xwxl988.stspg-customer.com.                  52.215.192.131
+status.pbs.org                                    9fc2b0ycsrj8.stspg-customer.com.                  52.215.192.132
+status.messagemedia.com                           tyzcvx74pwdr.stspg-customer.com.                  52.215.192.132
+status.makersphere.org                            srkfthnyhcz9.stspg-customer.com.                  52.215.192.132
+status.mailjet.com                                wkf4h18hjr2r.stspg-customer.com.                  52.215.192.133
+status-nz.myrepublic.net                          jpm42h19q8gx.stspg-customer.com.                  52.215.192.132
+status.pitt.edu                                   g0qfxxz64bs1.stspg-customer.com.                  52.215.192.133
+status.precisionlender.com                        rh3xmnl2j3mx.stspg-customer.com.                  52.215.192.133
+status.pro.openshift.com                          z2c9x1n202hx.stspg-customer.com.                  52.215.192.133
+status.mortech.com                                00797tg51ft7.stspg-customer.com.                  52.215.192.131
+status.mediatemple.net                            sk0wbwpc3xqq.stspg-customer.com.                  52.215.192.133
+status.maxcdn.com                                 qvy4brq2cxlh.stspg-customer.com.                  52.215.192.133
+status.techstyle.net                              status.techstyle.net.                             69.89.68.149
+status.openshift.com                              m0sg3q4t415n.stspg-customer.com.                  52.215.192.132
+status.mozilla.org                                5bjvssbmj16t.stspg-customer.com.                  52.215.192.133
+status.eastersealsnv.org                          ghs.googlehosted.com.                             172.217.167.147
+status.mortech-inc.com                            mortech.statuspage.io.                            52.215.192.132
+status.kushkipagos.com                            hrrc4xwhsj61.stspg-customer.com.                  52.215.192.132
+status.mixer.com                                  00qbcbkrqn0y.stspg-customer.com.                  52.215.192.133
+status.mixhost.jp                                 7z9kh6p7th8s.stspg-customer.com.                  52.215.192.131
+status.pvch.org.au                                1kgz0z6mmsd8.stspg-customer.com.                  52.215.192.131
+status.quest-on-demand.com                        7j6bxwtnrppf.stspg-customer.com.                  52.215.192.133
+status.mypurecloud.com                            mcy41tlb177g.stspg-customer.com.                  52.215.192.132
+status.loungebuddy.com                            tnrgnxw6r4dd.stspg-customer.com.                  52.215.192.132
+status.nulogy.net                                 vh3h7nhb43p3.stspg-customer.com.                  52.215.192.133
+status.mimosa.co                                  cloud.mimosa.co.                                  54.183.35.152
+status.opterus.net                                fwhdrt7nwq33.stspg-customer.com.                  52.215.192.132
+status.nomiadherence.com                          y1ss2y8g27y4.stspg-customer.com.                  52.215.192.131
+status.myshopmanager.com                          8p9nq5pc02ww.stspg-customer.com.                  52.215.192.131
+status.reflektive.com                             btfx2lvlsjph.stspg-customer.com.                  52.215.192.132
+status.nylas.com                                  ltnt5xstwgqp.stspg-customer.com.                  52.215.192.132
+status.redhat.com                                 dn6mqn7xvzz3.stspg-customer.com.                  52.215.192.133
+status.mydex.org                                  7qsg38cr3dgs.stspg-customer.com.                  52.215.192.132
+status.notifications.service.gov.uk               stdg40247zwv.stspg-customer.com.                  52.215.192.131
+status.onstarrez.cloud                            2mk8qb7mfqvn.stspg-customer.com.                  52.215.192.131
+status.revention.com                              ns25wtt69c7g.stspg-customer.com.                  52.215.192.132
+status.onepeloton.com                             mp8rwtf7yt9p.stspg-customer.com.                  52.215.192.133
+status.parakeet.is                                gxpq3hrl08pw.stspg-customer.com.                  52.215.192.131
+status.sketchup.com                               c4vp60l32f17.stspg-customer.com.                  52.215.192.131
+status.smartrak.co.nz                             5xfbnf4yxhkh.stspg-customer.com.                  52.215.192.132
+spearheadstatus.kisanhub.com                      h2sq46s7c7ws.stspg-customer.com.                  52.215.192.133
+status.percolate.com                              042y25nxsqph.stspg-customer.com.                  52.215.192.131
+status.scrutinizer-ci.com                         npzvcz1twg7y.stspg-customer.com.                  52.215.192.133
+status.particle.io                                8d849mp6fy12.stspg-customer.com.                  52.215.192.133
+status.sendwithus.com                             202yx2sdrxr3.stspg-customer.com.                  52.215.192.131
+status.ros.org                                    rhybxq8cmnsd.stspg-customer.com.                  52.215.192.132
+status.npmjs.org                                  wyvgptkd90hm.stspg-customer.com.                  52.215.192.131
+status.sentry.io                                  t687h3m0nh65.stspg-customer.com.                  52.215.192.133
+status.missouri.edu                               ljlfmjhlccbn.stspg-customer.com.                  52.215.192.131
+status.deploybe.cisco.com                         jgkr85fy07yr.stspg-customer.com.                  52.215.192.132
+status.helpshift.com                              b2897hlz70j6.stspg-customer.com.                  52.215.192.132
+status.dialpad.com                                80trk830s0hg.stspg-customer.com.                  52.215.192.132
+status.olark.com                                  ch35l9p6dzhj.stspg-customer.com.                  52.215.192.133
+status.developer.dexcom.com                       763tmpn7rh62.stspg-customer.com.                  52.215.192.133
+status.shopify.com                                status.shopify.com.                               52.215.192.133
+trust.catertrax.com                               bqgrjmjmj71t.stspg-customer.com.                  52.215.192.131
+status.dkvistun.is                                4btyjn7zjppz.stspg-customer.com.                  52.215.192.133
+status.dtacsupport.org                            hlsw86j755hv.stspg-customer.com.                  52.215.192.132
+status.pusher.com                                 p6t5x7tdq8yq.stspg-customer.com.                  52.215.192.131
+status.dungeon.chat                               25vbl2jsmnbw.stspg-customer.com.                  52.215.192.132
+status.e7solutions.com                            d4bpl97ddgnc.stspg-customer.com.                  52.215.192.131
+status.egnyte.com                                 jr196z1ns266.stspg-customer.com.                  52.215.192.133
+status.jwplayer.com                               9chp34zg69jm.stspg-customer.com.                  52.215.192.132
+status.marketcircle.com                           94rxc3vf45k4.stspg-customer.com.                  52.215.192.132
+doc.gnip.com                                      doc.gnip.com.                                     52.219.116.139
+status.nalpeiron.com                              hq8xwfb805j3.stspg-customer.com.                  52.215.192.133
+status.liferay.com                                680xlxdnvzjy.stspg-customer.com.                  52.215.192.133
+status.collabsoft.net                             twvwvckmf3cp.stspg-customer.com.                  52.215.192.132
+status.eposnowhq.com                              3rrzr172nhsy.stspg-customer.com.                  52.215.192.131
+status.singlewire.com                             ybz7szby0rtx.stspg-customer.com.                  52.215.192.131
+status.kickstarter.com                            4p1vb67yqzdy.stspg-customer.com.                  52.215.192.132
+status.nimbox.co.uk                               53m8nc4nhk8f.stspg-customer.com.                  52.215.192.132
+status2.kallikrat.es                              crstfzkmd4ps.stspg-customer.com.                  52.215.192.132
+status-redirect-prod.kallikrat.es                 crstfzkmd4ps.stspg-customer.com.                  52.215.192.132
+status.predix.io                                  mlkhbkhhdfgm.stspg-customer.com.                  52.215.192.133
+status.kipsu.com                                  vhzsbj8lfs6m.stspg-customer.com.                  52.215.192.131
+status.ntppool.org                                8ll7xvh0qt1p.stspg-customer.com.                  52.215.192.131
+status.ledgerx.com                                s0j6gh50rs4z.stspg-customer.com.                  52.215.192.131
+status.quantopian.com                             lyh4mq8w5kcj.stspg-customer.com.                  52.215.192.133
+status.rainforestqa.com                           85mt1tcp5tgf.stspg-customer.com.                  52.215.192.131
+status.skylinehomeloans.com                       4rt14vtqrpdf.stspg-customer.com.                  52.215.192.132
+status.raventools.com                             4y7j9y37gcns.stspg-customer.com.                  52.215.192.131
+status.hiresuccess.com                            vfmk9g4kv2fk.stspg-customer.com.                  52.215.192.132
+status.optile.net                                 yxknp550qjkh.stspg-customer.com.                  52.215.192.132
+status.lightstep.com                              ykt0n7w31hlt.stspg-customer.com.                  52.215.192.132
+status.freightview.com                            ljgmmkkmmmkd.stspg-customer.com.                  52.215.192.131
+status.realcrowd.com                              lbdr552fpvrd.stspg-customer.com.                  52.215.192.132
+status.gfi.com                                    64rgldn77lv0.stspg-customer.com.                  52.215.192.132
+status.shop-ware.com                              bdjkg0tk358l.stspg-customer.com.                  52.215.192.133
+status.ramquest.com                               240fnbv2wz0f.stspg-customer.com.                  52.215.192.132
+status.lmax.com                                   jxq5p24dzglq.stspg-customer.com.                  52.215.192.131
+status.palace.network                             status.palace.network.                            104.25.68.32
+status.outreach.io                                9h1lbctpqb3f.stspg-customer.com.                  52.215.192.133
+status.remind.com                                 xnp124mf1jdv.stspg-customer.com.                  52.215.192.131
+status.rigor.com                                  t2nxj0rg675p.stspg-customer.com.                  52.215.192.131
+status.salemove.com                               l7hw68xb0d8k.stspg-customer.com.                  52.215.192.132
+status.proteus.io                                 fn5cc0qcpx39.stspg-customer.com.                  52.215.192.132
+3down.mit.edu                                     ybxgkydp833s.stspg-customer.com.                  52.215.192.132
+status.redbooth.com                               redbooth.com.                                     3.231.92.140
+status.realtimeboard.com                          trq7m2ycw1t2.stspg-customer.com.                  52.215.192.132
+status.samanage.com                               ms2cphgypmss.stspg-customer.com.                  52.215.192.131
+status.quintype.com                               jdfr6h7vmhpz.stspg-customer.com.                  52.215.192.133
+status.qubole.com                                 tm9bp3v7wmwl.stspg-customer.com.                  52.215.192.133
+status.matterport.com                             xxcv2tbfm7rc.stspg-customer.com.                  52.215.192.133
+status.developers.auspost.com.au                  fkndnmfcbhfn.stspg-customer.com.                  52.215.192.133
+status.safetyculture.com                          gn9hsqdzy5tn.stspg-customer.com.                  52.215.192.131
+status.dome9.com                                  4wk981ct7hmx.stspg-customer.com.                  52.215.192.132
+status.digabit.com                                p56ydqv9s7ty.stspg-customer.com.                  52.215.192.132
+status.envato.com                                 xk6qmscmczy2.stspg-customer.com.                  52.215.192.131
+status.robinpowered.com                           4hy25vm4h6fc.stspg-customer.com.                  52.215.192.132
+status.encircleapp.com                            vc2xbwtskqjf.stspg-customer.com.                  52.215.192.131
+status.eab.com                                    48pfqh69tsf4.stspg-customer.com.                  52.215.192.132
+status.timetable.nyc                              d98cn589qv21.stspg-customer.com.                  52.215.192.131
+status.elitehost.co.za                            jlhnhgbdglhm.stspg-customer.com.                  52.215.192.132
+status.prezi.com                                  nlccmmpcmbph.stspg-customer.com.                  52.215.192.132
+status.enervee.com                                47w0qlfgp627.stspg-customer.com.                  52.215.192.131
+status.mollie.com                                 pbmgmjbdbglp.stspg-customer.com.                  52.215.192.133
+www.inkstatus.com.au                              inkstatus.com.au.                                 45.76.115.151
+status.seamlessdocs.com                           w1zr9gm9z4r3.stspg-customer.com.                  52.215.192.131
+status.saucelabs.com                              71y1d11qjrsv.stspg-customer.com.                  52.215.192.131
+status.secops.bmc.com                             z8b9fr3stz0y.stspg-customer.com.                  52.215.192.132
+status.callrail.com                               clbfknnjdfpl.stspg-customer.com.                  52.215.192.133
+status.sansar.com                                 3h15p6kq898z.stspg-customer.com.                  52.215.192.132
+status.demandbase.com                             45znt53mgqn3.stspg-customer.com.                  52.215.192.133
+status.niabnetwork.com                            prpr7jpyl9p8.stspg-customer.com.                  52.215.192.132
+status.mambu.com                                  vllg7hwd8c9g.stspg-customer.com.                  52.215.192.132
+www.eventbritestatus.com                          12jly8c555w6.stspg-customer.com.                  52.215.192.131
+status.reevoo.com                                 4gjq3qmx9vl8.stspg-customer.com.                  52.215.192.133
+status.compeat.com                                jlr31rqxstg6.stspg-customer.com.                  52.215.192.132
+status.uhin.org                                   hqs8771zytk0.stspg-customer.com.                  52.215.192.133
+status.umbrellar.com                              995twdjzcq5q.stspg-customer.com.                  52.215.192.131
+status.umbrellar.cloud                            995twdjzcq5q.stspg-customer.com.                  52.215.192.131
+status.dispatch.me                                7df21cnvyzvn.stspg-customer.com.                  52.215.192.131
+status.unbelievable-machine.com                   6d0ztp3wlfzk.stspg-customer.com.                  52.215.192.133
+status.uberconference.com                         fwcry0zp4391.stspg-customer.com.                  52.215.192.132
+status.rmunify.com                                ygr8dq1svsnb.stspg-customer.com.                  52.215.192.131
+status.unsplash.com                               gcw6g25tpdkv.stspg-customer.com.                  52.215.192.131
+status.uca.ac.uk                                  ndmnfgcgmhhj.stspg-customer.com.                  52.215.192.131
+status.lunarway.com                               y3w64rc70d83.stspg-customer.com.                  52.215.192.132
+status.segment.com                                yzw83vcxbysq.stspg-customer.com.                  52.215.192.133
+gnip.com                                          gnip.com.                                         13.249.210.75
+status.frame.io                                   fd8yftg0289n.stspg-customer.com.                  52.215.192.133
+status.small-improvements.com                     l807fw49vlx0.stspg-customer.com.                  52.215.192.131
+status.vettersoftware.com                         ncpdqn12k3jy.stspg-customer.com.                  52.215.192.131
+status.breachalert.io                             bk9f3xy4ln5l.stspg-customer.com.                  52.215.192.131
+status.vagaro.com                                 fjfpnmdkhkfn.stspg-customer.com.                  52.215.192.131
+status.sla-cloud.com                              m5wss1h1w0xx.stspg-customer.com.                  52.215.192.131
+status.upthere.com                                3171819smpwc.stspg-customer.com.                  52.215.192.131
+status.bridgeapi.io                               cljgllcjjdhb.stspg-customer.com.                  52.215.192.132
+status.voxmedia.com                               hmblng4814gw.stspg-customer.com.                  52.215.192.133
+status.madcloud.systems                           r41dp5yzjbks.stspg-customer.com.                  52.215.192.131
+status.westpac.co.nz                              zy77lsv0pwv2.stspg-customer.com.                  52.215.192.132
+status.websitesettings.com                        gzmb7vwyhnrb.stspg-customer.com.                  52.215.192.132
+brandwatch.gnip.com                               brandwatch.gnip.com.                              35.175.196.122
+status.voiceit.io                                 6s7lgfx6hks9.stspg-customer.com.                  52.215.192.131
+status.yesware.com                                4vl4kkdcb8tz.stspg-customer.com.                  52.215.192.133
+status.intacct.com                                pz6zvrxbqc0k.stspg-customer.com.                  52.215.192.131
+status.peachworks.com                             4s4j3hyqss3f.stspg-customer.com.                  52.215.192.131
+status.wiredrive.com                              sm3jnx7p7zbp.stspg-customer.com.                  52.215.192.132
+trademeoffice.co.nz                               ylbvky11slq1.stspg-customer.com.                  52.215.192.131
+trust.scribesoft.com                              trust.scribesoft.com.                             3.83.115.155
+status.meadespcshop.com                           3l1383vm8wxk.stspg-customer.com.                  52.215.192.132
+status.yoobic.com                                 l20q5wqwwydb.stspg-customer.com.                  52.215.192.133
+status.dotmailer.com                              8cg3l2bh1wgx.stspg-customer.com.                  52.215.192.131
+vip.status.symantec.com                           qkwd4d4ry5z0.stspg-customer.com.                  52.215.192.132
+status.bucket.io                                  4wpt4v52pq7d.stspg-customer.com.                  52.215.192.131
+websitesecurity.status.symantec.com               b4hb1p3y9n6c.stspg-customer.com.                  52.215.192.133
+status.twitch.tv                                  twitch.map.fastly.net.                            151.101.10.167
+status.rmintegris.com                             xhlhzb3jjzcp.stspg-customer.com.                  52.215.192.131
+www.codeshipstatus.com                            cwx8ktdhck6w.stspg-customer.com.                  52.215.192.132
+status.engsoc.queensu.ca                          zs1xll3gd1zm.stspg-customer.com.                  52.215.192.132
+status.brightsolid.com                            2kwgyfdl89hr.stspg-customer.com.                  52.215.192.132
+status.vapor.cloud                                xqxgnscq34ft.stspg-customer.com.                  52.215.192.133
+www.contentfulstatus.com                          4bv17htq00cz.stspg-customer.com.                  52.215.192.133
+status.korbit.co.kr                               96c0gb8r4rhd.stspg-customer.com.                  52.215.192.132
+status.stride.com                                 kq07xrh9j76p.stspg-customer.com.                  52.215.192.133
+trust.payon.com                                   tb1zct1nd242.stspg-customer.com.                  52.215.192.132
+www.kmstatus.com                                  dqfplnwhhgbl.stspg-customer.com.                  52.215.192.131
+status.kialo.com                                  gpdh9rbs54gm.stspg-customer.com.                  52.215.192.132
+status.vmc.vmware.com                             status.vmc.vmware.com.                            216.146.46.10
+status.ohio.edu                                   gh0qlffm0t9l.stspg-customer.com.                  52.215.192.132
+status.netrepid.com                               zdvwdl51sk4l.stspg-customer.com.                  52.215.192.132
+www.opensrsstatus.com                             k3vdpzlnnrz5.stspg-customer.com.                  52.215.192.133
+status.slab.com                                   6bbw7741mgv0.stspg-customer.com.                  52.215.192.131
+status.prophix.cloud                              bfxyf2d8ddpw.stspg-customer.com.                  52.215.192.132
+status.vmware-services.io                         wf4ltwyfmqkf.stspg-customer.com.                  52.215.192.133
+status.awesomedrives.com                          ldzdgkdj1dtf.stspg-customer.com.                  52.215.192.131
+status.whitewater.ibm.com                         status.whitewater.ibm.com.                        169.60.78.150
+status.cirque.dk                                  status.cirque.dk.                                 52.16.101.103
+status.getsentry.com                              status.getsentry.com.                             35.188.115.58
+status.usertesting.com                            3r8dh4dvpmh5.stspg-customer.com.                  52.215.192.132
+status.harver.com                                 xry8tg5mvzly.stspg-customer.com.                  52.215.192.133
+www.issquareup.com                                hxwnhyfglktf.stspg-customer.com.                  52.215.192.131
+www.issquaredown.com                              hxwnhyfglktf.stspg-customer.com.                  52.215.192.131
+status.vena.io                                    2466ryy8yxzt.stspg-customer.com.                  52.215.192.132
+status.websitebuilder.com                         g9q4z9xmlrsk.stspg-customer.com.                  52.215.192.132
+status.krfc.fm                                    status.krfc.fm.                                   198.74.54.240
+status.carbonblack.com                            hj44ymx0gpj5.stspg-customer.com.                  52.215.192.133
+status.workmarket.com                             p2132zmg6nfz.stspg-customer.com.                  52.215.192.132
+status.scoutapp.com                               cgjftzcd8ssp.stspg-customer.com.                  52.215.192.133
+www.appfirestatus.com                             parking.namesilo.com.                             64.32.22.101
+status.wodify.com                                 00bytzbd1ssp.stspg-customer.com.                  52.215.192.131
+status.wickr.com                                  tkbvpll3gdwl.stspg-customer.com.                  52.215.192.133
+status.voluum.com                                 vy6ccxz1ppzt.stspg-customer.com.                  52.215.192.132
+status.unl.edu                                    ywxxp3c0681s.stspg-customer.com.                  52.215.192.131
+status.cos.io                                     z14ppdrg8x8y.stspg-customer.com.                  52.215.192.132
+status.valimail.com                               lw73ksj9n453.stspg-customer.com.                  52.215.192.133
+status.verifyglobal.com                           pr0rpdvwcx38.stspg-customer.com.                  52.215.192.133
+status.workspot.com                               bfxktrnf6xhf.stspg-customer.com.                  52.215.192.133
+status.usg.edu                                    md30rvszgyyb.stspg-customer.com.                  52.215.192.131
+status.sherpany.com                               ty5vf26gxjv8.stspg-customer.com.                  52.215.192.132
+status.glow.scot                                  tk4u2ghr.easyredirengine.com.                     54.68.182.72
+status.referralsaasquatch.com                     vcl7y4t53hr5.stspg-customer.com.                  52.215.192.131
+trust.asana.com                                   w58858w0sjxx.stspg-customer.com.                  52.215.192.133
+status.servebolt.com                              q2yfb2vglvjl.stspg-customer.com.                  52.215.192.133
+status.workflowy.com                              m8f43n57h83g.stspg-customer.com.                  52.215.192.132
+status.fortnox.se                                 59p4x6wt7tfd.stspg-customer.com.                  52.215.192.133
+status.scrapinghub.com                            crwrkd1tmy0k.stspg-customer.com.                  52.215.192.131
+trust.phtech.com                                  s3m9xv3gww2x.stspg-customer.com.                  52.215.192.132
+status.goabstract.com                             xvwpts30d4f6.stspg-customer.com.                  52.215.192.133
+status.webex.com                                  divjhjhd2ifiw.cloudfront.net.                     54.230.71.12
+status.duda.co                                    j091xm0zc1x9.stspg-customer.com.                  52.215.192.132
+status-loanpro.simnang.com                        7p1ly52j4v28.stspg-customer.com.                  52.215.192.131
+www.buildkitestatus.com                           ltljpr68dygn.stspg-customer.com.                  52.215.192.133
+status.enom.com                                   status.enom.com.                                  64.99.51.41
+status.halite.io                                  cclz5cgngxqc.stspg-customer.com.                  52.215.192.133
+status.hivestreaming.com                          wmjs7ftfvz7z.stspg-customer.com.                  52.215.192.131
+status.wowair.net                                 634xlgsqmtdz.stspg-customer.com.                  52.215.192.133
+status.hotjar.com                                 0b5bdbv94pfm.stspg-customer.com.                  52.215.192.132
+status.dudamobile.com                             status.dudamobile.com.                            3.222.250.202
+www.nameprosstatus.com                            39yd95f5tt9z.stspg-customer.com.                  52.215.192.132
+uplink.kreuzwerker.de                             0yyqg1rhzkdt.stspg-customer.com.                  52.215.192.132
+www.nexmostatus.com                               xb8glk41jfrv.stspg-customer.com.                  52.215.192.131
+status.clus.io                                    status.clus.io.                                   99.86.19.124
+status.secondlifegrid.net                         jb87tnbzq32g.stspg-customer.com.                  52.215.192.133
+status.duolingo.com                               npp8bpkjp8hr.stspg-customer.com.                  52.215.192.133
+www.trellostatus.com                              h5frqhb041yq.stspg-customer.com.                  52.215.192.133
+status.shadowhealth.com                           5dt4z0y5fthv.stspg-customer.com.                  52.215.192.132
+www.yexttrust.com                                 6kwqbft2rtxp.stspg-customer.com.                  52.215.192.131
+statuspage.eposnowhq.com                          h2522dcz6bxy.stspg-customer.com.                  52.215.192.132
+trust.nabancard.com                               174wlfkx5612.stspg-customer.com.                  52.215.192.131
+status.habitat.sh                                 dwzx9n50yrpg.stspg-customer.com.                  52.215.192.132
+status.getvera.com                                5hnm77yq8f6k.stspg-customer.com.                  52.215.192.132
+status.s4e.cl                                     6pcznp9v7k0r.stspg-customer.com.                  52.215.192.133
+www.jimdo-status.com                              wprrgp6p5xgp.stspg-customer.com.                  52.215.192.132
+www.enomstatus.com                                www.enomstatus.com.                               104.27.141.16
+status.gusto.com                                  23f7fp8vs7sz.stspg-customer.com.                  52.215.192.131
+status.patientco.com                              hxttxz9pztgr.stspg-customer.com.                  52.215.192.131
+status.globalgatewaye4.firstdata.com              status.globalgatewaye4.firstdata.com.cdn.cloudflare.net.198.41.220.131
+www.hackeronestatus.com                           fbhzv4f2nk7b.stspg-customer.com.                  52.215.192.131
+status.goodsoftware.co                            kw5q9549bwrw.stspg-customer.com.                  52.215.192.132
+status.pay.jp                                     6rddknyc6jjb.stspg-customer.com.                  52.215.192.132
+status.freeso.net                                 status.freeso.net.                                207.244.67.216
+trust.toutapp.com                                 trust.marketo.com.                                192.28.147.88
+netbase.gnip.com                                  netbase.gnip.com.                                 3.85.45.224
+status.contentful.com                             status.contentful.com.                            99.86.19.110
+status.gurobi.com                                 r388tqw5mvtd.stspg-customer.com.                  52.215.192.133
+status.goreact.com                                mcdhjcv4r6xc.stspg-customer.com.                  52.215.192.131
+status.brightpearl.com                            fbxk6db6rpzg.stspg-customer.com.                  52.215.192.133
+ripjar.gnip.com                                   ripjar.gnip.com.                                  54.234.208.179
+status.goguardian.com                             11n39jp48zv1.stspg-customer.com.                  52.215.192.133
+status.helpscout.net                              7wygpzghm26t.stspg-customer.com.                  52.215.192.133
+precise.gnip.com                                  precise.gnip.com.                                 54.198.21.195
+status.qless.com                                  284qqw8cb0sv.stspg-customer.com.                  52.215.192.131
+status.xomcloud.co.uk                             1x782y91mfgh.stspg-customer.com.                  52.215.192.131
+status.cloudcare.avg.com                          4pwq5jlxr6jy.stspg-customer.com.                  52.215.192.131
+status.trackdrive.net                             ysx5vgfq7zjv.stspg-customer.com.                  52.215.192.131
+status.hotschedules.com                           2r8k806302y9.stspg-customer.com.                  52.215.192.131
+status.treasuredata.com                           m7f9cnfgfvdp.stspg-customer.com.                  52.215.192.132
+status.people.ai                                  tcqzyvkyy0kk.stspg-customer.com.                  52.215.192.133
+status.plivo.com                                  kwh95bwgs0qz.stspg-customer.com.                  52.215.192.131
+status.twilio.com                                 gpkpyklzq55q.stspg-customer.com.                  52.215.192.132
+status.ghost.org                                  r10zygrn4kl3.stspg-customer.com.                  52.215.192.131
+status.peddle.com                                 hy5cxwh7xjmy.stspg-customer.com.                  52.215.192.133
+updates.freshdesk.com                             freshdesk-591.freshstatus.io.                     35.172.171.68
+status.hellosign.com                              djw9397fmqd1.stspg-customer.com.                  52.215.192.133
+status.helloglobo.com                             cpvs3yqzgn94.stspg-customer.com.                  52.215.192.133
+www.scaleftstatus.com                             tht9vjzkz2ln.stspg-customer.com.                  52.215.192.131
+status.granburyrs.com                             xv1rxmvgh2w5.stspg-customer.com.                  52.215.192.131
+status.tsgnl.co                                   status.tsgnl.co.                                  52.215.192.131
+status.olo.com                                    vjfzgz43lmb6.stspg-customer.com.                  52.215.192.132
+status.avalara.com                                m10fpsk86bhy.stspg-customer.com.                  52.215.192.133
+status-internal.sharpspring.com                   730zjxtkvj7x.stspg-customer.com.                  52.215.192.133
+status.edgenuity.com                              hdq23d9hx2sd.stspg-customer.com.                  52.215.192.131
+japan-status.dialpad.com                          phyq7y0lhw4b.stspg-customer.com.                  52.215.192.132
+status.goshippo.com                               x4bhgfp1j1x0.stspg-customer.com.                  52.215.192.131
+status.gradle.com                                 z8s4n2jmrsl0.stspg-customer.com.                  52.215.192.133
+status.holvi.com                                  tdhjl9k3jyrq.stspg-customer.com.                  52.215.192.133
+status.toshl.com                                  status.toshl.com.                                 148.251.50.229
+status.sky.tdc.dk                                 prps06vlsssy.stspg-customer.com.                  52.215.192.133
+status.polymail.io                                jq591wrr0vry.stspg-customer.com.                  52.215.192.131
+status.openkey.co                                 4hk62d2jg86f.stspg-customer.com.                  52.215.192.131
+status.toothpic.com                               4ld8sn27bncs.stspg-customer.com.                  52.215.192.131
+status.pike13.com                                 lkbn6mgdjlt3.stspg-customer.com.                  52.215.192.132
+status.soundviz.com                               mtk821sv0ftx.stspg-customer.com.                  52.215.192.132
+status.hellofax.com                               djw9397fmqd1.stspg-customer.com.                  52.215.192.133
+status.vitalsource.com                            9rltttntv970.stspg-customer.com.                  52.215.192.133
+status.ucdavis.edu                                qc2sx1bvv7pn.stspg-customer.com.                  52.215.192.131
+status.flowroute.com                              2d9q734synyt.stspg-customer.com.                  52.215.192.131
+status.getmango.com                               status.getmango.com.                              54.94.132.158
+status.azion.com                                  nkpjljdlr88q.stspg-customer.com.                  52.215.192.131
+status.symantec.com                               d14sa3mwajwemj.cloudfront.net.                    13.249.210.32
+status.vpn.com                                    gbgs68n8zwt1.stspg-customer.com.                  52.215.192.133
+trust.pixlee.com                                  3gy51jgh778z.stspg-customer.com.                  52.215.192.132
+status.sli.do                                     status.sli.do.                                    13.249.210.54
+status.opsource.net                               hosted.statuspage.io.                             127.0.0.1
+trust.jitterbit.com                               wdh4b96pzcv9.stspg-customer.com.                  52.215.192.132
+up.modeln.com                                     yk5wpjcdvf7j.stspg-customer.com.                  52.215.192.132
+status.hostednetwork.com.au                       status.hostednetwork.net.au.                      52.215.192.131
+status.veracross.com                              whdwbwspqmw5.stspg-customer.com.                  52.215.192.133
+status.brazen.com                                 wr0nyp6cdvj6.stspg-customer.com.                  52.215.192.131
+status.flood.io                                   y0n2k815pjcd.stspg-customer.com.                  52.215.192.131
+status.web.com                                    1f2b5pl2ldb2.stspg-customer.com.                  52.215.192.132
+status.pivotaltracker.com                         mjwp4vwtvdp8.stspg-customer.com.                  52.215.192.133
+www.rackspacestatus.com                           managed.statuspage.io.                            52.215.192.132
+www.dynstatus.com                                 2v2rww1v87yq.stspg-customer.com.                  52.215.192.132
+status.smartygrants.com.au                        877hrz179rbl.stspg-customer.com.                  52.215.192.133
+status.goclio.com                                 8j5qr5p33w9q.statuspagessl.com.                   52.215.192.133
+status.nextiva.com                                n87qfpnmswc2.stspg-customer.com.                  52.215.192.132
+status.hipchat.com                                lgt1kx2s9x9s.stspg-customer.com.                  52.215.192.132
+status.kobie.com                                  ptyb3tk31js2.stspg-customer.com.                  52.215.192.132
+status.smartsheet.com                             tvv76p250rdk.stspg-customer.com.                  52.215.192.131
+status.newrelic.com                               4qjjcrpdj8jh.stspg-customer.com.                  52.215.192.131
+status.sms-magic.com                              pdmhh1wzp5r6.stspg-customer.com.                  52.215.192.133
+status.247e.com                                   vsy0splz6qy3.stspg-customer.com.                  52.215.192.131
+status.fitchratings.com                           status.fitchratings.com.                          208.78.0.235
+status.oit.duke.edu                               gpdmpkjblgnc.stspg-customer.com.                  52.215.192.132
+status.squarespace.com                            1jkhm1drpysj.stspg-customer.com.                  52.215.192.133
+status.uservoice.com                              v46xg3ljl03j.stspg-customer.com.                  52.215.192.132
+www.gnip.com                                      www.gnip.com.                                     54.230.71.43
+trust.calix.com                                   g9xp2l4g1mhf.stspg-customer.com.                  52.215.192.133
+status.tradeshift.com                             dmjff62jn935.stspg-customer.com.                  52.215.192.133
+status.auth0.com                                  awseb-e-5-awsebloa-1mnzea9wdifni-1128497059.us-east-1.elb.amazonaws.com.52.202.120.228
+status.defisolutions.com                          9wvpx360w6cc.stspg-customer.com.                  52.215.192.132
+status.plcm.vc                                    2yv1fkt8gcd5.stspg-customer.com.                  52.215.192.132
+status.smartthings.com                            mf6lzdpt63q3.stspg-customer.com.                  52.215.192.132
+status.lever.co                                   34ygfdwr11jd.stspg-customer.com.                  52.215.192.131
+staging.gnip.com                                  staging.gnip.com.                                 10.32.138.170
+status.rubygems.org                               pclby00q90vc.stspg-customer.com.                  52.215.192.133
+support.gnip.com                                  support.gnip.com.                                 99.86.19.45
+enterprise-status.simacan.com                     2p9q32t7jwpz.stspg-customer.com.                  52.215.192.132
+www.articulatestatus.com                          2v57fs4tmlsy.stspg-customer.com.                  52.215.192.133
+status.paymill.com                                t8wqbqsrnw4b.stspg-customer.com.                  52.215.192.133
+status.barracuda.com                              k481728pjqn6.stspg-customer.com.                  52.215.192.131
+maintenance.mondocteur.fr                         elementary-carp-q25jky751vfa1yh7tdukrbyw.herokudns.com.52.17.172.5
+status.box.com                                    208q92hckwws.stspg-customer.com.                  52.215.192.132
+status.skovik.com                                 blzlq1fg5h10.stspg-customer.com.                  52.215.192.133
+status.munzee.com                                 bd9rx7tg2302.stspg-customer.com.                  52.215.192.132
+status.callhub.io                                 n88mdkztrhk8.stspg-customer.com.                  52.215.192.133
+status.cayan.com                                  cayan.hund.io.                                    34.210.250.153
+status.airtax.io                                  b4fb8c3vdx9z.stspg-customer.com.                  52.215.192.132
+status.teamviewer.com                             gfggtctd0kh2.stspg-customer.com.                  52.215.192.132
+status.factom.com                                 r937b17n81bl.stspg-customer.com.                  52.215.192.133
+status.hostedgraphite.com                         6j73b8w0lj03.stspg-customer.com.                  52.215.192.132
+status.boltthem.es                                jhhfcpfnpppp.statuspagessl.com.                   52.215.192.132
+status.500px.com                                  7twyy5y47y1k.stspg-customer.com.                  52.215.192.131
+status.platform.sh                                l2x5n4czt1ph.stspg-customer.com.                  52.215.192.133
+status.percy.io                                   qm66bvqg0y7j.stspg-customer.com.                  52.215.192.133
+status.pelotoncycle.com                           mp8rwtf7yt9p.stspg-customer.com.                  52.215.192.133
+status.pocketsmith.com                            zvq41ffwws48.stspg-customer.com.                  52.215.192.131
+status.serverdensity.com                          status.serverdensity.com.                         104.27.180.186
+status.vendhq.com                                 83cjrxm756p6.stspg-customer.com.                  52.215.192.132
+status.stitchdata.com                             vkh74xvly3rk.stspg-customer.com.                  52.215.192.133
+status.virtualpbx.com                             q7sxphmzdqdf.stspg-customer.com.                  52.215.192.132
+status.voom.flights                               rvh84nmvjzwx.stspg-customer.com.                  52.215.192.132
+gnip-api.gnip.com                                 gnip-api-prod-snapshot-1392608323.us-west-1.elb.amazonaws.com.52.9.111.250
+www.tmpstatus.com                                 d32vh0ftpfp2.stspg-customer.com.                  52.215.192.131
+status.flexility.net                              cb8xr3jdjll6.stspg-customer.com.                  52.215.192.131
+status.jamf.com                                   5z7bmx2nb2yj.stspg-customer.com.                  52.215.192.133
+status.locus.sh                                   xlm0031cfbsh.stspg-customer.com.                  52.215.192.131
+status.maestrano.com                              cmcnd62llpd5.stspg-customer.com.                  52.215.192.132
+
+
+NORECORD RECORD DATA
+
+status.falconsocial.com                           
+status.bass.cloudpassage.com                      
+status.gamebite.io                                
+status.icheque.com                                
+status.kylie.ai                                   
+status.getcarina.com                              
+                                                  
+stats.screen-magic.com                            
+ssltest.samcday.com.au                            
+sahyadristatus.kisanhub.com                       
+status.merlim.network                             
+status.eastrivercommunitysl.org                   
+status.vrealizeair.vmware.com                     
+flye.gnip.com                                     
+status.connectstat.us                             
+grapherator1.cl2-den-vw.staging.gnip.com          
+status.preview.openshift.com                      
+jim.gnip.com                                      
+newsclip.gnip.com                                 
+rejo.gnip.com                                     
+api.prod.gnip.com                                 
+chirpify.gnip.com                                 
+radiumone.gnip.com                                
+status.proxyserver.com                            
+account-api.prod.gnip.com                         
+medallia3.gnip.com                                
+nagios1.cl2-den-vw.staging.gnip.com               
+hpe.gnip.com                                      
+consumersearch.gnip.com                           
+mutualmind.gnip.com                               
+status.therapservices.net                         
+status.v-rooms.com                                
+api.gnip.com                                      
+status.pullstring.com                             
+statustest.aspex.be                               
+status.unifi.ubnt.com                             
+status.kialo.info                                 
+foobarevil.jig.bz                                 
+status.test.plivo.com                             
+status.staging.helix.com                          
+status.praecipio.com                              
+status3.kallikrat.es                              
+airviewstatus.resmed.com                          
+status.storecast.de                               
+avatar.gnip.com                                   
+status.sterda.com                                 
+simplereach.gnip.com                              
+trust.ripple.com                                  
+staging-engineering.gnip.com                      
+blog-origin.gnip.com                              
+blog.gnip.com                                     
+grapherator.cl0-west1a-aws.review.gnip.com        
+nuvi.gnip.com                                     
+status.esss.se                                    
+trust.talend.com                                  
+status.desk.com                                   
+hootsuite.gnip.com                                
+staging-blog.gnip.com                             
+blueboxstatus.com                                 
+status.meet.schibsted.com                         
+engineering.gnip.com                              
+status.bequick.com                                
+kroger.gnip.com                                   
+status.mediapad.cloud                             
+status.bardenproduce.com.au                       
+status.koordinates.com                            
+engineering-origin.gnip.com                       
+retriever.gnip.com                                
+m2g.gnip.com                                      
+status.buzzfeed.com                               
+gnip-api-staging.gnip.com                         
+status.practicehub.io                             
+status.kraken.com                                 
+amihan.gnip.com                                   
+www.client-vpn.gnip.com                           
+status.victorops.com                              
+historical.gnip.com                               
+status.spektrix.com                               
+status.zipquote.com                               
+garanti.gnip.com                                  
+status.parse.com                                  
+status.bluepay.com                                
+status.8slp.net                                   
+client-vpn.gnip.com                               
+status.kallikrat.es                               
+status.actionforchildren.org.uk                   
+status.bugsnag.com                                
+status.springahead.com                            
+status.identity.xero.com                          
+admin1.cl2-den-vw.ops.gnip.com                    
+status.notonthehighstreet.com                     
+status.c9.io                                      
+status.3qsdn.com                                  
+stream.gnip.com                                   
+status.xero.com                                   
+status.calltower.com                              
+status.duo.com                                    
+status.compose.io                                 
+cloud1.cl2-den-vw.ops.gnip.com                    
+efor.gnip.com                                     
+status.addwish.com                                
+status.sproutlingcloud.com                        
+status.adsnative.com                              
+status.calltrackingmetrics.com                    
+gnip-api.staging.gnip.com                         
+status.sproutsocial.com                           
+status.starrezcloud.io                            
+status.care.org                                   
+status.candlescience.com                          
+status.clearleap.com                              
+status.aircall.io                                 
+status.knewton.com                                
+status.capsulecrm.com                             
+status.hostednetwork.net.au                       
+cs1.bastion.gnip.com                              
+status.nextgames.com                              
+statuspage.tallysolutions.com                     
+status.stake.com                                  
+trust.forcepoint.net                              
+status.salesforceiq.com                           
+status.airclass.com                               
+brent.gnip.com                                    
+status.agent3.net                                 
+unicredit.gnip.com                                
+status.ubnt.com                                   
+status.viacom.com                                 
+grapherator1.cl2-den-vw.prod.gnip.com             
+status.openexchangerates.org                      
+status.catchandrelease.tv                         
+status.alphasights.com                            
+status.amplitude.com                              
+gnip-api.bastion.gnip.com                         
+nagios1.cl2-den-vw.prod.gnip.com                  
+status.stormpath.com                              
+cog.gnip.com                                      
+socialsentinel.gnip.com                           
+nagios.cl2-den-vw.prod.gnip.com                   
+status.central1.com                               
+status.mixpanel.com                               
+nagios.prod.gnip.com                              
+status.otoy.com                                   
+mynewsdesk.bastion.gnip.com                       
+status.ansarada.com                               
+status.adafruit.com                               
+www.nagios.cl2-den-vw.prod.gnip.com               
+ac.sterda.com                                     
+ooo.bastion.gnip.com                              
+jhuapl.gnip.com                                   
+status.hubspot.com                                
+status.artik.cloud                                
+status.asknice.ly                                 
+status.skyfence.com                               
+johndtest.gnip.com                                
+status.atlightspeed.net                           
+status.synapsepay.com                             
+historical.prod.gnip.com                          
+buildkitestatus.com                               
+status.atlassian.com                              
+status.bonsai.io                                  
+status.authorize.net                              
+status.t1cloud.com                                
+status.circleci.com                               
+staging.www.gnip.com                              
+status.autopalsoftware.com                        
+status.lichi.cloudpassage.com                     
+pablo.gnip.com                                    
+status.reasonnet.com                              
+try.gnip.com                                      
+status.qualys.com                                 
+status.wunderlist.com                             
+contributorstatus.crowdflower.com                 
+status.redislabs.com                              
+stage.gnip.com                                    
+maven.gnip.com                                    
+grapherator.prod.gnip.com                         
+status.tapdaq.com                                 
+bastion.gnip.com                                  
+status.cloud.service.gov.uk                       
+status.cronofy.com                                
+status.cloudbees.com                              
+statuspage.io                                     
+status.taplytics.com                              
+status.site5.com                                  
+cheferator1.ops.gnip.com                          
+status.beam.pro                                   
+status.taskmasterpro.com                          
+dojo4.gnip.com                                    
+status.cloudwalk.io                               
+status.prod.gnip.com                              
+cl2-west1a-vpc.ops.gnip.com                       
+status.cloudsmith.io                              
+issquaredown.com                                  
+nordstrom1.gnip.com                               
+status.us10.hana.ondemand.com                     
+ganglia.review.gnip.com                           
+status.telcoswitch.com                            
+grapherator.review.gnip.com                       
+status.clubhouse.io                               
+status.codebarrel.io                              
+trust.proscloud.com                               
+iptest.sterda.com                                 
+status.bitium.com                                 
+status.livechatinc.com                            
+status.esendex.com                                
+yum-repo-cache.review.gnip.com                    
+issquareup.com                                    
+adobe-sjc-2.gnip.com                              
+status.cuvva.com                                  
+social34.gnip.com                                 
+status.esa.io                                     
+status.teliacloud.fi                              
+status.wepay.com                                  
+status.coinapi.io                                 
+status.cyren.com                                  
+status.bizzabo.com                                
+status.theadvertplatform.com                      
+staging-dojo4.gnip.com                            
+status.tenjin.io                                  
+status.evolvehq.com                               
+nuvi4.gnip.com                                    
+status.datadoghq.com                              
+smallmedia.gnip.com                               
+status.exrny.com                                  
+medallia.gnip.com                                 
+status.thecorp.org                                
+status.blueconic.com                              
+status.dataplicity.com                            
+status.gemini.com                                 
+status-beta.forcepoint.net                        
+kantarmedia.gnip.com                              
+status.akkroo.com                                 
+khtrust.kinnser.com                               
+status.thinkific.com                              
+meet-status.schibsted.com                         
+status.copa.do                                    
+status.fivestars.com                              
+search.gnip.com                                   
+status.fidel.uk                                   
+status.booqable.com                               
+status.figma.com                                  
+johnd.gnip.com                                    
+status.brainpop.com                               
+status.feedbackgroop.com                          
+status.botframework.com                           
+cache-child1a.prod.gnip.com                       
+status.tictail.com                                
+status.bonus.ly                                   
+status.feeser.com                                 
+status.app47.com                                  
+status.getbabyscripts.com                         
+status.franklincovey.com                          

@@ -1,0 +1,253 @@
+NXDOMAIN DATA
+
+tappss.emart.com                                  mvno.emart.gtmc.hscdn.com.                        lookup mvno.emart.gtmc.hscdn.com.: no such host
+ms.kr                                             ms.kr.                                            lookup ms.kr.: no such host
+co.kr                                             co.kr.                                            lookup co.kr.: no such host
+kg.kr                                             kg.kr.                                            lookup kg.kr.: no such host
+ne.kr                                             ne.kr.                                            lookup ne.kr.: no such host
+hs.kr                                             hs.kr.                                            lookup hs.kr.: no such host
+go.kr                                             go.kr.                                            lookup go.kr.: no such host
+sc.kr                                             sc.kr.                                            lookup sc.kr.: no such host
+or.kr                                             or.kr.                                            lookup or.kr.: no such host
+es.kr                                             es.kr.                                            lookup es.kr.: no such host
+
+
+CNAME RECORD DATA
+
+www.yunjac.com                                    yunjac.com.                                       202.3.20.229
+jbedunet.com                                      HDRedirect-LB5-1afb6e2973825a56.elb.us-east-1.amazonaws.com.23.20.239.12
+img.hoteljoin.com                                 hoteljoin.com.                                    69.16.230.42
+cdn.devy.kr                                       kbqrshlphcmq775705.cdn.ntruss.com.                101.79.246.130
+autodiscover.emartmall.com                        autodiscover.emartmall.com.                       202.3.23.181
+mail2.istarbucks.co.kr                            mail2.istarbucks.co.kr.                           211.189.124.14
+autodiscover.chosunhotel.co.kr                    autodiscover.chosunhotel.co.kr.                   112.171.14.21
+autodiscover.emart.co.kr                          autodiscover.emart.co.kr.                         202.3.23.181
+autodiscover.chosunhotelbakery.com                autodiscover.chosunhotelbakery.com.               112.171.14.21
+www.istarbucks.co.kr                              www.istarbucks.co.kr.                             182.173.169.11
+academy.istarbucks.co.kr                          academy.istarbucks.co.kr.                         202.3.20.89
+owa.shinsegae.com                                 owa.shinsegae.com.                                112.171.14.22
+webdev.istarbucks.co.kr                           webdev.istarbucks.co.kr.                          60.196.0.170
+msr.istarbucks.co.kr                              msr.istarbucks.co.kr.                             182.173.169.21
+partner.istarbucks.co.kr                          partner.istarbucks.co.kr.                         60.196.0.115
+ssh.shinsegae.com                                 ssh.shinsegae.com.                                112.171.14.21
+image.tourexpress.com                             tourexpress.swacc.skcdn.com.                      58.228.245.67
+lms.istarbucks.co.kr                              lms.istarbucks.co.kr.                             202.3.20.62
+cdn-mo.sivillage.com                              shinsegae.wacc.skcdn.com.                         222.239.240.19
+image.sivillage.com                               shinsegae.wacc.skcdn.com.                         222.239.240.19
+cdnfo.sivillage.com                               shinsegae.wacc.skcdn.com.                         222.239.240.19
+cdn-fo.sivillage.com                              shinsegae.wacc.skcdn.com.                         222.239.240.19
+dev-img.sivillage.com                             shinsegae.wacc.skcdn.com.                         222.239.240.19
+cdnmo.sivillage.com                               shinsegae.wacc.skcdn.com.                         222.239.240.19
+jbime.kr                                          jbime.kr.                                         211.210.30.141
+receipt.istarbucks.co.kr                          receipt.istarbucks.co.kr.                         10.253.42.49
+higlory.net                                       higlory.net.                                      211.210.30.142
+image.tving.com                                   tving-cjimg.cdn.x-cdn.com.                        211.237.6.144
+image.adidas.co.kr                                adidas.swacc.skcdn.com.                           222.239.240.19
+imagebos.adidas.co.kr                             adidas.swacc.skcdn.com.                           222.239.240.19
+imagem.adidas.co.kr                               adidas.swacc.skcdn.com.                           222.239.240.19
+scm.istarbucks.co.kr                              scm.istarbucks.co.kr.                             210.92.198.190
+gwsso.shinsegae.com                               gwsso.shinsegae.com.                              202.3.23.180
+m4strssl.ebse.co.kr                               m4strssl.ebse.skcdn.com.                          58.229.187.2
+ps1.istarbucks.co.kr                              ps1.istarbucks.co.kr.                             182.173.169.36
+image.reebok.co.kr                                reebok.swacc.skcdn.com.                           58.228.245.67
+imagem.reebok.co.kr                               reebok.swacc.skcdn.com.                           58.228.245.67
+wmail.shinsegae.com                               wmail.shinsegae.com.                              112.171.14.21
+img.n2s.co.kr                                     esangmnc.wacc.skcdn.com.                          58.228.245.67
+img.vod.mbn.co.kr                                 mbn.wacc.skcdn.com.                               222.239.240.19
+smart.shinsegae.com                               smart.shinsegae.com.                              202.3.23.181
+jbjue.kr                                          jbjue.kr.                                         211.210.30.142
+autodiscover.westinchosun.co.kr                   autodiscover.westinchosun.co.kr.                  112.171.14.21
+mysite.shinsegae.com                              mysite.shinsegae.com.                             112.171.14.21
+istarbucks.co.kr                                  istarbucks.co.kr.                                 182.173.169.11
+cdnw.tworld.co.kr                                 tworld.wacc.skcdn.com.                            211.110.63.99
+sip.shinsegae.com                                 sip.shinsegae.com.                                112.171.14.6
+static.mariooutlet.com                            static.mariooutlet.com.                           222.122.192.30
+jbnwe.kr                                          jbnwe.kr.                                         211.210.30.141
+autodiscover.chosunbeach.co.kr                    autodiscover.chosunbeach.co.kr.                   112.171.14.21
+auth.istarbucks.co.kr                             auth.istarbucks.co.kr.                            182.173.169.11
+blossom.shinsegae.com                             blossom.shinsegae.com.                            202.3.23.180
+autodiscover.edaynday.com                         autodiscover.edaynday.com.                        202.3.23.181
+ca.wconcept.co.kr                                 wconcept.swacc.skcdn.com.                         222.239.21.133
+ebid.istarbucks.co.kr                             ebid.istarbucks.co.kr.                            210.92.198.190
+images.descentekorea.co.kr                        descentekorea.wacc.skcdn.com.                     58.228.245.67
+jbsce.kr                                          jbsce.kr.                                         211.210.30.141
+dcs-allice.skplanet.com                           dcs-allice.skplanet.com.                          203.235.200.138
+etest.istarbucks.co.kr                            etest.istarbucks.co.kr.                           112.171.12.207
+wp.shinsegae.com                                  wp.shinsegae.com.                                 112.171.14.21
+dev.istarbucks.co.kr                              dev.istarbucks.co.kr.                             112.171.12.33
+jbwje.kr                                          jbwje.kr.                                         211.210.30.141
+log.istarbucks.co.kr                              log.istarbucks.co.kr.                             182.173.169.31
+image.istarbucks.co.kr                            istarbucks.swacc.skcdn.com.                       222.239.21.133
+cdn.music-flo.com                                 image-music-flo.dlacc.skcdn.com.                  175.126.177.78
+images.jtbc.joins.com                             jtbc.wacc.skcdn.com.                              222.239.21.161
+nstatic.jtbc.joins.com                            jtbc.wacc.skcdn.com.                              222.239.21.161
+fs.jtbc.joins.com                                 jtbc.wacc.skcdn.com.                              222.239.21.161
+bbsfile.jtbc.joins.com                            jtbc.wacc.skcdn.com.                              222.239.21.161
+autodiscover.istarbucks.co.kr                     autodiscover.istarbucks.co.kr.                    202.3.23.181
+mep.istarbucks.co.kr                              mep.istarbucks.co.kr.                             182.173.169.41
+imagescdn.gettyimagesbank.com                     multibits.wacc.skcdn.com.                         211.233.18.11
+partners.istarbucks.co.kr                         partners.istarbucks.co.kr.                        182.173.169.41
+dcscdn-allice.skplanet.com                        skp-dcs-allice.swacc.skcdn.com.                   110.45.211.27
+intra.istarbucks.co.kr                            intra.istarbucks.co.kr.                           182.173.169.11
+jise.kr                                           jise.kr.                                          211.210.30.142
+dev-cdn-cj.speedycat.kr                           cj-speedycat.wacc.skcdn.com.                      118.219.57.208
+dev-2-cdn-cj.speedycat.kr                         cj-speedycat.wacc.skcdn.com.                      118.219.57.208
+dev-2-vod-cj.speedycat.kr                         cj-speedycat.wacc.skcdn.com.                      118.219.57.208
+m.academy.istarbucks.co.kr                        m.academy.istarbucks.co.kr.                       202.3.20.89
+img.cjthekitchen.com                              cj-thekitchen.wacc.skcdn.com.                     110.45.211.27
+cdn.reebonzkorea.co.kr                            reebonzkorea.wacc.skcdn.com.                      222.239.240.19
+images.millie.co.kr                               d31s8oug865ekz.cloudfront.net.                    13.249.210.116
+tcuimg.emart.com                                  emart.swacc.skcdn.com.                            110.10.122.72
+tssimg.emart.com                                  emart.swacc.skcdn.com.                            110.10.122.72
+stimg.emart.com                                   emart.swacc.skcdn.com.                            110.10.122.72
+jbjse.kr                                          jbjse.kr.                                         211.210.30.141
+photo.jtbc.joins.com                              jtbc.wacc.skcdn.com.                              222.239.21.161
+blog.istarbucks.co.kr                             blog.istarbucks.co.kr.                            182.173.169.11
+jungin.kr                                         jungin.kr.                                        211.210.30.141
+jbjje.kr                                          jbjje.kr.                                         211.210.30.142
+static.istarbucks.co.kr                           static.istarbucks.co.kr.                          182.173.169.11
+res.ageofring.pupugame.kr                         res.ageofring-enpgames.dlacc.skcdn.com.           211.110.63.100
+webservice.shinsegae.com                          webservice.shinsegae.com.                         112.171.14.21
+tabservice.shinsegae.com                          tabservice.shinsegae.com.                         112.171.14.21
+autodiscover.shinsegae.com                        autodiscover.shinsegae.com.                       202.3.23.181
+vod.midas-i.com                                   vod-mezzomedia.lgucdn.com.                        211.237.6.150
+vod-englishgem.cjenm.skcdn.com                    live-englishgem.cjenm.skcdn.com.                  222.239.21.69
+img.wconcept.co.kr                                img.wconcept.co.kr.                               210.116.100.175
+test.istarbucks.co.kr                             test.istarbucks.co.kr.                            182.173.169.11
+mepdev.istarbucks.co.kr                           mepdev.istarbucks.co.kr.                          182.173.169.41
+cdnw.shop.tworld.co.kr                            tdirect.swacc.skcdn.com.                          222.239.240.19
+cdnm.shop.tworld.co.kr                            tdirect.swacc.skcdn.com.                          222.239.240.19
+jbgse.kr                                          jbgse.kr.                                         211.210.30.142
+msg.shinsegae.com                                 msg.shinsegae.com.                                112.171.14.21
+image.art1.com                                    art1.wacc.skcdn.com.                              58.228.245.67
+meacctdev.istarbucks.co.kr                        meacctdev.istarbucks.co.kr.                       182.173.169.41
+ul.wink.co.kr                                     ul.wink.co.kr.                                    1.2.3.4
+hpd.music-flo.com                                 music-flo.dlacc.skcdn.com.                        211.110.226.78
+cdn.web.img.ssengame.com                          enpgames.dlacc.skcdn.com.                         58.228.245.66
+res.seiya.pupugame.kr                             enpgames.dlacc.skcdn.com.                         58.228.245.66
+hls.music-flo.com                                 auth-music-flo.dlacc.skcdn.com.                   175.126.177.78
+image.wconcept.co.kr                              wconcept.swacc.skcdn.com.                         222.239.21.133
+summer.istarbucks.co.kr                           summer.istarbucks.co.kr.                          60.196.0.100
+kurim.kr                                          kurim.kr.                                         211.210.30.141
+static.wizwid.com                                 wizwid.swacc.skcdn.com.                           211.110.63.99
+cdnm.cjone.com                                    cjone.wacc.skcdn.com.                             58.229.187.6
+file.pickat.com                                   file.pickat.com.                                  216.157.88.23
+autodiscover.emart.com                            autodiscover.emart.com.                           202.3.23.181
+images.nepa.co.kr                                 nepa.swacc.skcdn.com.                             58.228.245.67
+imagem.nepa.co.kr                                 nepa.swacc.skcdn.com.                             58.228.245.67
+img.nepamall.com                                  nepa.swacc.skcdn.com.                             58.228.245.67
+gtqzdl.friendtimes.kr                             friendtimes.dlacc.skcdn.com.                      211.110.212.65
+cdn.closedshops.com                               closedshops.wacc.skcdn.com.                       211.110.63.99
+appss.emart.com                                   appss.emart.com.                                  210.92.198.105
+m.istarbucks.co.kr                                m.istarbucks.co.kr.                               182.173.169.11
+mjbandi.kr                                        mjbandi.kr.                                       211.210.30.141
+cuimg.emart.com                                   cuimg.emart.com.                                  210.92.198.134
+isyongseong.com                                   isyongseong.com.                                  211.210.30.141
+devcdnm.cjone.com                                 dev.cjone.wacc.skcdn.com.                         58.229.187.6
+image.xgolf.com                                   image.xgolf.com.gtmc.hscdn.com.                   222.239.85.158
+image.xgolf.co.kr                                 image.xgolf.com.gtmc.hscdn.com.                   222.239.85.158
+cdns2.monkey3.co.kr                               wisepeer.macc.skcdn.com.                          211.110.212.93
+email.shinsegae.com                               email.shinsegae.com.                              202.3.23.181
+img.midas-i.com                                   img-mezzomedia.lgucdn.com.                        182.162.108.79
+imgorg.jinhakapply.com                            imgorg.jinhakapply.com.                           175.126.118.79
+cdnm.tworld.co.kr                                 tworld.swacc.skcdn.com.                           180.70.134.101
+simg.imadrep.co.kr                                imadrep.wacc.skcdn.com.                           211.110.63.100
+img.mbn.co.kr                                     mbn.wacc.skcdn.com.                               222.239.240.19
+www.skcdn.com                                     skcdn.com.                                        211.110.211.3
+dimg.midas-i.com                                  dimg-mezzomedia.lgucdn.com.                       211.237.6.149
+www.haeseong.kr                                   www.haeseong.kr.                                  112.175.184.74
+image.buttoney.com                                image.buttoney.com.                               211.108.23.6
+img-vod.mk.co.kr                                  mk.wacc.skcdn.com.                                58.228.245.67
+file.mk.co.kr                                     mk.wacc.skcdn.com.                                58.228.245.67
+cdn.gamemeca.com                                  d1iczfyyar5jmg.cloudfront.net.                    99.86.19.65
+cdn.mariooutlet.com                               mariooutlet.wacc.skcdn.com.                       58.228.245.67
+jb-i.kr                                           jb-i.kr.                                          211.210.30.141
+img.sivillage.com                                 shinsegae.wacc.skcdn.com.                         222.239.240.19
+ssimg.emart.com                                   ssimg.emart.com.                                  210.92.198.106
+geumgu.kr                                         geumgu.kr.                                        211.210.30.141
+jbise.kr                                          jbise.kr.                                         211.210.30.141
+jb-sangsan.kr                                     jb-sangsan.kr.                                    211.210.30.142
+jbg.kr                                            jbg.kr.                                           211.210.30.142
+cdn.miguhara.com                                  miguhara.wacc.skcdn.com.                          222.239.240.19
+web.istarbucks.co.kr                              web.istarbucks.co.kr.                             112.171.12.33
+cdn2.dominos.co.kr                                domino.wacc.skcdn.com.                            211.110.63.99
+cdn.dominos.co.kr                                 domino.wacc.skcdn.com.                            211.110.63.99
+jbjae.kr                                          jbjae.kr.                                         211.210.30.142
+jbedu.kr                                          jbedu.kr.                                         211.210.30.139
+advimg.ad-mapps.com                               advimg-mezzomedia.lgucdn.com.                     182.162.108.80
+catchon-kr.cjenm.skcdn.com                        live-englishgem.cjenm.skcdn.com.                  222.239.21.69
+img.tpmn.co.kr                                    tpnm.wacc.skcdn.com.                              222.239.240.19
+static.tpmn.co.kr                                 tpnm.wacc.skcdn.com.                              222.239.240.19
+ssl.skcdn.com                                     ston_testinfra.skcdn.com.                         118.219.57.208
+blossom2.shinsegae.com                            blossom2.shinsegae.com.                           202.3.23.180
+img.tenping.kr                                    tenping.swacc.skcdn.com.                          58.228.245.67
+stillshot.tving.com                               tving-stillshot.cdn.x-cdn.com.                    211.237.6.144
+gselc.kr                                          gselc.kr.                                         211.210.30.141
+s.wink.co.kr                                      cloudfront.wink.co.kr.                            54.230.71.46
+ss.wink.co.kr                                     cloudfront.wink.co.kr.                            54.230.71.46
+thumb2.gettyimageskorea.com                       multibits.wacc.skcdn.com.                         211.233.18.11
+syncmedia.macc.skcdn.com                          syncmedia.macc.skcdn.com.                         58.228.245.66
+jbgce.kr                                          jbgce.kr.                                         211.210.30.142
+optimalmo.inven.co.kr                             inven.swacc.skcdn.com.                            58.225.75.9
+cqzjdl.linekong.co.kr                             cqzjdl.linekong.co.kr.edgesuite.net.              23.15.37.25
+haeseong.kr                                       haeseong.kr.                                      112.175.184.74
+tour.tourexpress.com                              tourexpress.swacc.skcdn.com.                      58.228.245.67
+gecdy.kr                                          gecdy.kr.                                         211.210.30.199
+cdn-sk.momq.co.kr                                 cdn-sk.momq.co.kr.cdnga.net.                      14.0.112.115
+gunsang.kr                                        gunsang.kr.                                       211.210.30.142
+jbisec.kr                                         jbisec.kr.                                        211.210.30.141
+gne.go.kr                                         gne.go.kr.                                        211.251.147.80
+dbmdl.linekong.co.kr                              dbmdl.linekong.co.kr.edgesuite.net.               23.15.37.16
+image.foresttrip.go.kr                            foresttrip.wacc.skcdn.com.                        211.110.63.100
+sl.wink.co.kr                                     sl.wink.co.kr.                                    1.2.3.4
+res.pomu.pupugame.kr                              res.pomu-enpgames.dlacc.skcdn.com.                58.228.245.67
+sszjdl.linekong.co.kr                             sszjdl.linekong.co.kr.edgesuite.net.              23.15.37.17
+vod.cjthemarket.com                               cj-themarket-svc.wacc.skcdn.com.                  211.110.63.99
+img.cjcookit.com                                  cj-themarket-svc.wacc.skcdn.com.                  211.110.63.99
+img.cjthemarket.com                               cj-themarket-svc.wacc.skcdn.com.                  211.110.63.99
+static.wconcept.co.kr                             wconcept.swacc.skcdn.com.                         222.239.21.133
+img.skinrx.co.kr                                  wizwid.swacc.skcdn.com.                           211.110.63.99
+us.wink.co.kr                                     cloudfront.wink.co.kr.                            54.230.71.46
+res.origin.pupugame.kr                            res.origin-enpgames.dlacc.skcdn.com.              222.239.240.19
+qasimg.cjthemarket.com                            cj-themarket.wacc.skcdn.com.                      211.110.63.99
+qasvod.cjcookit.com                               cj-themarket.wacc.skcdn.com.                      211.110.63.99
+qasimg.cjcookit.com                               cj-themarket.wacc.skcdn.com.                      211.110.63.99
+live-englishgem.cjenm.skcdn.com                   live-englishgem.cjenm.skcdn.com.                  222.239.21.69
+optimal.inven.co.kr                               optimal.inven.co.kr.speedycat.kr.                 118.219.56.67
+thumb.pickat.com                                  thumb.pickat.com.                                 95.211.189.152
+imgex.wconcept.co.kr                              wconcept.swacc.skcdn.com.                         222.239.21.133
+ltjddl.linekong.co.kr                             ltjddl.linekong.co.kr.edgesuite.net.              23.15.37.49
+
+
+NORECORD RECORD DATA
+
+www.appdev.istarbucks.co.kr                       
+www.admin.istarbucks.co.kr                        
+facebook.istarbucks.co.kr                         
+www.ccc.istarbucks.co.kr                          
+www.facebook.istarbucks.co.kr                     
+autodiscover.starbucks.co.kr                      
+admin.istarbucks.co.kr                            
+msradmin.istarbucks.co.kr                         
+www.msradmin.istarbucks.co.kr                     
+                                                  
+appdev.istarbucks.co.kr                           
+www.www.istarbucks.co.kr                          
+ccc.istarbucks.co.kr                              
+autodiscover.echosunhotel.com                     
+sns.istarbucks.co.kr                              
+support.gne.go.kr                                 
+srm.istarbucks.co.kr                              
+yxzjdl.linekong.co.kr                             
+screensaver.istarbucks.co.kr                      
+res.crow.pupugame.com                             
+keris.dlacc.skcdn.com                             
+www.milgo.org                                     
+sulchon.net                                       
+im30.shinsegae.com                                
+imgorg.careercatch.co.kr                          
+www.gandhischool.net                              
+milgo.org                                         
+gandhischool.net                                  
+mbn.clive.skcdn.com                               
+cdn.reebonz.co.kr                                 

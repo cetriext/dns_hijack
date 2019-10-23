@@ -1,0 +1,196 @@
+NXDOMAIN DATA
+
+hdmtools.com                                      hdmtools.com.                                     lookup hdmtools.com.: no such host
+format-app.com                                    format-app.com.                                   lookup format-app.com.: no such host
+tqn.com                                           tqn.com.                                          lookup tqn.com.: no such host
+pclncdn.com                                       pclncdn.com.                                      lookup pclncdn.com.: no such host
+tradologic.net                                    tradologic.net.                                   lookup tradologic.net.: no such host
+
+
+CNAME RECORD DATA
+
+secure.affiliatelounge.com                        affiliatelounge.elb.myaffiliates.com.             104.18.229.31
+frontgatetickets.com                              frontgatetickets.com.                             104.154.51.195
+gazellestaging.com                                gazellestaging.com.                               151.101.65.94
+periscope.tv                                      periscope.tv.                                     35.154.196.145
+dosomething.org                                   dosomething.org.                                  54.172.90.245
+iheart.com                                        iheart.com.                                       151.101.64.65
+statuspage.io                                     statuspage.io.                                    52.215.192.129
+combatgent.com                                    combatgent.com.                                   23.227.38.32
+hf-beta.fatline.io                                g.ssl.fastly.net.                                 151.101.40.65
+cdn.listenloop.com                                cdn.listenloop.com.                               104.31.84.48
+api.periscope.tv                                  api.periscope.tv.                                 52.34.250.90
+ibmserviceengage.com                              ibmserviceengage.com.                             151.101.64.65
+scripts.stage.kissmetrics.com                     scripts.stage.kissmetrics.com.                    54.192.216.43
+media.contextweb.com                              prod.contextweb.map.fastlylb.net.                 151.101.0.166
+blueapron.com                                     blueapron.com.                                    18.208.100.246
+seventeen.com                                     seventeen.com.                                    151.101.128.155
+quizlife.com                                      quizlife.com.                                     151.101.64.66
+prod-fastly-ap-south-1.video.periscope.tv         video.periscope.tv.map.fastly.net.                151.101.10.118
+prod-fastly-eu-central-1.video.periscope.tv       video.periscope.tv.map.fastly.net.                151.101.10.118
+prod-fastly-sa-east-1.video.periscope.tv          video.periscope.tv.map.fastly.net.                151.101.10.118
+prod-fastly-ap-southeast-2.video.periscope.tv     video.periscope.tv.map.fastly.net.                151.101.10.118
+signer.periscope.tv                               signer.periscope.tv.                              13.235.207.15
+planwise.com                                      planwise.com.                                     203.26.196.98
+admin.periscope.tv                                admin.periscope.tv.                               35.161.130.214
+depop.com                                         depop.com.                                        151.101.193.172
+dev.client.appletv.cnn.com                        turner-tls.map.fastly.net.                        151.101.1.67
+format-staging.com                                format-staging.com.                               184.72.217.172
+dev-web.periscope.tv                              dev-web.periscope.tv.                             34.249.197.34
+g.ssl.fastly.net                                  g.ssl.fastly.net.                                 151.101.40.65
+prod-fastly-us-east-1.video.periscope.tv          video.periscope.tv.map.fastly.net.                151.101.10.118
+chef.io                                           chef.io.                                          13.249.210.2
+prod-assets.periscope.tv                          prod-assets.periscope.tv.                         13.249.223.145
+www.mbt4.com                                      www.mbt4.com.                                     156.245.198.189
+tn.periscope.tv                                   tn.periscope.tv.                                  13.249.223.145
+tag.marinsm.com                                   g.global-ssl.fastly.net.                          151.101.0.65
+www.thetelecomshop.com                            g.global-ssl.fastly.net.                          151.101.0.65
+scanscout.com                                     scanscout.com.                                    64.130.13.57
+scripts.kissmetrics.com                           doug1izaerwt3.cloudfront.net.                     54.230.69.233
+opscode.com                                       opscode.com.                                      13.249.210.2
+chatman-replay-us-west-2.periscope.tv             chatman-replay-us-west-2.periscope.tv.            52.25.214.42
+fast.wistia.com                                   dualstack.f4.shared.global.fastly.net.            151.101.2.110
+pentos-cdn.staging.polarmobile.com                web.polarmobile.com.                              64.34.71.101
+mainstreet.com                                    mainstreet.com.                                   34.195.162.203
+docs.secretcdn-stg.net                            prod.g.ssl.global.fastly.net.                     151.101.0.65
+prod-masks.periscope.tv                           prod-masks.periscope.tv.                          99.86.9.145
+prod-profile.periscope.tv                         prod-profile.periscope.tv.                        13.249.223.145
+public-api.periscope.tv                           public-api.periscope.tv.                          52.35.154.71
+help.periscope.tv                                 dg7ve5urixupg.cloudfront.net.                     13.32.39.45
+getchef.com                                       getchef.com.                                      99.86.19.77
+dev-signer.periscope.tv                           dev-signer.periscope.tv.                          34.251.253.118
+static-secure.scanscout.com                       wildcard.scanscout.com.edgekey.net.               23.49.21.110
+dev-api.periscope.tv                              dev-api.periscope.tv.                             52.89.153.121
+vidman-us-east-1.periscope.tv                     vidman-us-east-1.periscope.tv.                    34.192.24.180
+content.contextweb.com                            prod.contextweb.map.fastlylb.net.                 151.101.0.166
+wohlers.org                                       wohlers.org.                                      69.163.163.65
+pentos-cdn.polarmobile.com                        web.polarmobile.com.                              64.34.71.101
+prod-fastly-ap-northeast-1.video.periscope.tv     video.periscope.tv.map.fastly.net.                151.101.10.118
+prod-video-eu-west-3.periscope.tv                 web.periscope.map.fastly.net.                     151.101.2.118
+api.iheart.com                                    prod.iheart.map.fastly.net.                       151.101.9.13
+fast.wistia.st                                    dualstack.f4.shared.global.fastly.net.            151.101.2.110
+hls.periscope.tv                                  g.global-ssl.fastly.net.                          151.101.0.65
+gazelle.com                                       gazelle.com.                                      151.101.0.65
+videos.full30.com                                 videos.full30.com.                                45.54.25.25
+videos.funker530.com                              videos.full30.com.                                45.54.25.25
+mobileimg.priceline.com                           mobileimg.priceline.com.                          151.101.2.186
+www.teachingenglish.org.uk                        g.global-ssl.fastly.net.                          151.101.0.65
+prod-video-ap-south-1.periscope.tv                web.periscope.map.fastly.net.                     151.101.2.118
+www.seventeen.com                                 hearst-hdm.map.fastly.net.                        151.101.0.155
+prod-chatman-ancillary-us-west-2.periscope.tv     prod-chatman-ancillary-us-west-2.periscope.tv.    34.211.78.179
+wistia.com                                        wistia.com.                                       151.101.2.110
+www.rackspacestatus.com                           managed.statuspage.io.                            52.215.192.133
+secure.commissionlounge.com                       commissionlounge.elb.myaffiliates.com.            104.18.229.31
+www.priceline.com                                 www.priceline.com.                                151.101.2.186
+format.com                                        format.com.                                       23.21.231.233
+partners.easy-forex.com                           easyforex.elb.myaffiliates.com.                   104.18.229.31
+pscp.tv                                           pscp.tv.                                          52.66.44.116
+prod-ec-us-west-1.video.periscope.tv              cs1137.wpc.edgecastcdn.net.                       152.199.39.149
+prod-ec-ap-northeast-1.video.periscope.tv         cs1137.wpc.edgecastcdn.net.                       152.199.39.149
+prod-ec-ap-southeast-1.video.periscope.tv         cs1137.wpc.edgecastcdn.net.                       152.199.39.149
+fastly.cedexis-test.com                           prod.cedexis-ssl.map.fastly.net.                  151.101.0.65
+playboy.com                                       playboy.com.                                      54.192.216.8
+email.periscope.tv                                email.periscope.tv.                               34.223.221.111
+channels.periscope.tv                             channels.periscope.tv.                            52.42.66.169
+prod-video-us-west-2.periscope.tv                 web.periscope.map.fastly.net.                     151.101.2.118
+vault.periscope.tv                                vault.periscope.tv.                               52.25.2.31
+prod-chatman-ancillary-eu-central-1.periscope.tv  prod-chatman-ancillary-eu-central-1.periscope.tv. 18.194.100.100
+www.periscope.tv                                  web.periscope.tv.                                 13.234.229.250
+web.periscope.tv                                  web.periscope.tv.                                 13.234.229.250
+tripping.com                                      tripping.com.                                     151.101.193.64
+mydays.com                                        mydays.com.                                       188.65.77.134
+gokudos.com                                       gokudos.com.                                      50.63.202.36
+dev-www.periscope.tv                              dev-web.periscope.tv.                             34.249.197.34
+prod-fastly-us-west-1.video.periscope.tv          video.periscope.tv.map.fastly.net.                151.101.10.118
+prod-fastly-ap-southeast-1.video.periscope.tv     video.periscope.tv.map.fastly.net.                151.101.10.118
+cdn.briteverify.com                               g.global-ssl.fastly.net.                          151.101.0.65
+prod-fastly-ap-northeast-2.video.periscope.tv     video.periscope.tv.map.fastly.net.                151.101.10.118
+about.com                                         about.com.                                        151.101.194.114
+prod-video-ap-northeast-2.periscope.tv            web.periscope.map.fastly.net.                     151.101.2.118
+prod-fastly-eu-west-1.video.periscope.tv          video.periscope.tv.map.fastly.net.                151.101.10.118
+embed.periscope.tv                                web.periscope.map.fastly.net.                     151.101.2.118
+prod-video-us-west-1.periscope.tv                 web.periscope.map.fastly.net.                     151.101.2.118
+api.garage.me                                     g.global-ssl.fastly.net.                          151.101.0.65
+prod-video-eu-west-1.periscope.tv                 web.periscope.map.fastly.net.                     151.101.2.118
+prod-ec-us-east-1.video.periscope.tv              cs1137.wpc.edgecastcdn.net.                       152.199.39.149
+prod-video-eu-central-1.periscope.tv              web.periscope.map.fastly.net.                     151.101.2.118
+cdn.wistia.com                                    g.global-ssl.fastly.net.                          151.101.0.65
+prod-fastly-eu-west-3.video.periscope.tv          video.periscope.tv.map.fastly.net.                151.101.10.118
+assets.periscope.tv                               prod-assets.periscope.tv.                         13.249.223.145
+pinterest.com                                     pinterest.com.                                    151.101.0.84
+prod-video-us-east-1.periscope.tv                 web.periscope.map.fastly.net.                     151.101.2.118
+prod-fastly-us-west-2.video.periscope.tv          video.periscope.tv.map.fastly.net.                151.101.10.118
+canary-web.periscope.tv                           canary-web.periscope.tv.                          52.42.41.60
+client.appletv.cnn.com                            turner-tls.map.fastly.net.                        151.101.1.67
+content.gamefuel.info                             f4.shared.global.fastly.net.                      151.101.2.110
+prod-video-ap-northeast-1.periscope.tv            web.periscope.map.fastly.net.                     151.101.2.118
+www.secretcdn-stg.net                             global-ssl.fastly.net.                            151.101.0.249
+prod-video-ap-southeast-1.periscope.tv            web.periscope.map.fastly.net.                     151.101.2.118
+guest.periscope.tv                                guest.periscope.tv.                               52.27.235.176
+app.secretcdn-stg.net                             cache-stg-sjc3569.hosts.secretcdn.net.            199.27.77.112
+api.secretcdn-stg.net                             cache-stg-sjc3569.hosts.secretcdn.net.            199.27.77.112
+replay.periscope.tv                               replay.periscope.tv.                              13.32.39.45
+safety.periscope.tv                               safety.periscope.tv.                              52.11.170.253
+dev-admin.periscope.tv                            dev-admin.periscope.tv.                           52.26.59.235
+vidman-ap-northeast-1.periscope.tv                vidman-ap-northeast-1.periscope.tv.               3.113.93.144
+runnersworld.co.uk                                runnersworld.co.uk.                               151.101.64.200
+canary-channels.periscope.tv                      canary-channels.periscope.tv.                     35.161.67.61
+chatman-replay-eu-central-1.periscope.tv          chatman-replay-eu-central-1.periscope.tv.         18.195.82.203
+pldx.com                                          pldx.com.                                         151.101.128.65
+vidman-eu-central-1.periscope.tv                  vidman-eu-central-1.periscope.tv.                 18.195.58.53
+avvo.com                                          avvo.com.                                         151.101.64.65
+prod-public-api-assets.periscope.tv               prod-public-api-assets.periscope.tv.              13.249.223.145
+status.authorize.net                              py5v2nkvrdpm.stspg-customer.com.                  52.215.192.133
+healthline.com                                    healthline.com.                                   54.192.216.71
+www.techrabbit.com                                techrabbit.com.                                   192.124.249.154
+4ormat.com                                        4ormat.com.                                       23.21.231.233
+chatman-replay-ap-northeast-1.periscope.tv        chatman-replay-ap-northeast-1.periscope.tv.       52.69.16.199
+alienwarearena.com                                alienwarearena.com.                               151.101.128.65
+prod-video-sa-east-1.periscope.tv                 web.periscope.map.fastly.net.                     151.101.2.118
+prod-ec-eu-central-1.video.periscope.tv           cs1137.wpc.edgecastcdn.net.                       152.199.39.149
+prod-chatman-ancillary-us-east-1.periscope.tv     prod-chatman-ancillary-us-east-1.periscope.tv.    52.21.123.198
+prod-chatman-ancillary-ap-northeast-1.periscope.tvprod-chatman-ancillary-ap-northeast-1.periscope.tv.52.69.176.216
+chatman-replay-us-east-1.periscope.tv             chatman-replay-us-east-1.periscope.tv.            3.86.75.84
+dev-replay.periscope.tv                           dev-replay.periscope.tv.                          99.86.9.145
+payman.periscope.tv                               payman.periscope.tv.                              54.187.44.58
+vidman-us-west-1.periscope.tv                     vidman-us-west-1.periscope.tv.                    54.183.64.251
+rubytogether.org                                  rubytogether.org.                                 151.101.0.65
+
+
+NORECORD RECORD DATA
+
+prod-chatman-ancillary-ap-southeast-1.periscope.tv
+chatman-us-west-2.periscope.tv                    
+other.periscope.tv                                
+chatman-us-west-1.periscope.tv                    
+video.periscope.tv                                
+ak.yelpassets.com                                 
+staging.tower.sh                                  
+prod-chatman-ancillary-us-west-1.periscope.tv     
+fleet.tower.sh                                    
+chatman-eu-central-1.periscope.tv                 
+                                                  
+tango.secretcdn-stg.net                           
+chatman-replay-us-west-1.periscope.tv             
+yelpassets.com                                    
+chatman-sa-east-1.periscope.tv                    
+tower.sh                                          
+prod-replay-eu-central-1-public.periscope.tv      
+prod-chatman-ancillary-eu-west-1.periscope.tv     
+i.imgcs.net                                       
+chatman-eu-west-1.periscope.tv                    
+lex-us-west-2.periscope.tv                        
+prod.periscope.tv                                 
+lex-us-west-2.pscp.tv                             
+fl.yelpassets.com                                 
+embed.yelpassets.com                              
+prod-replay-us-west-2-public.periscope.tv         
+chatman-ap-southeast-2.periscope.tv               
+prod-replay-us-east-1-public.periscope.tv         
+prod-replay-eu-west-1-public.periscope.tv         
+dev-m.periscope.tv                                
+chatman-us-east-1.periscope.tv                    
+prod-replay-ap-southeast-2-public.periscope.tv    
+poppyhome.com                                     
+prod-replay-ap-northeast-1-public.periscope.tv    
+chatman-ap-northeast-1.periscope.tv               

@@ -24,6 +24,7 @@ module.exports = function cleanResultsFile(domain, callback){
     if(matchCount === 0){
         logger.error(`Could not find final result files with domain: ${domain}`)
     } else if(matchCount > 1){
+        //to be commented out
         logger.fatal(`Found more final result files with domain: ${domain} count: ${matchCount}`)
     }
     let content = "";

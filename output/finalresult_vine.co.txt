@@ -1,0 +1,97 @@
+NXDOMAIN DATA
+
+twvid.com                                         twvid.com.                                        lookup twvid.com.: no such host
+vncdn.co                                          vncdn.co.                                         lookup vncdn.co.: no such host
+blog.vine.co                                      wild-vine-co-2127603899.us-east-1.elb.amazonaws.com.lookup wild-vine-co-2127603899.us-east-1.elb.amazonaws.com.: no such host
+twimg.com                                         twimg.com.                                        lookup twimg.com.: no such host
+
+
+CNAME RECORD DATA
+
+pbs.twimg.com                                     cs196.wac.edgecastcdn.net.                        192.229.237.96
+g.twimg.com                                       cs196.wac.edgecastcdn.net.                        192.229.237.96
+dnt.twimg.com                                     cs196.wac.edgecastcdn.net.                        192.229.237.96
+g2.twimg.com                                      cs196.wac.edgecastcdn.net.                        192.229.237.96
+cdn.syndication.twimg.com                         cs196.wac.edgecastcdn.net.                        192.229.237.96
+ea.twimg.com                                      cs196.wac.edgecastcdn.net.                        192.229.237.96
+ton.twimg.com                                     cs196.wac.edgecastcdn.net.                        192.229.237.96
+abs.twimg.com                                     cs196.wac.edgecastcdn.net.                        192.229.237.96
+hca.twimg.com                                     cs196.wac.edgecastcdn.net.                        192.229.237.96
+ma.twimg.com                                      cs196.wac.edgecastcdn.net.                        192.229.237.96
+gu.twimg.com                                      cs196.wac.edgecastcdn.net.                        192.229.237.96
+cdn.syndication.twitter.com                       syndication.twitter.com.                          104.244.42.200
+pbs-h2.twimg.com                                  pbs.twimg.com.                                    192.229.237.96
+pbs-ec.twimg.com                                  cs196.wac.edgecastcdn.net.                        192.229.237.96
+video.twimg.com                                   cs296.wpc.edgecastcdn.net.                        117.18.232.102
+ja.help.vine.co                                   domains.tumblr.com.                               66.6.32.22
+platform.twitter.com                              cs472.wac.edgecastcdn.net.                        192.229.237.25
+twitter.com                                       twitter.com.                                      104.244.42.1
+www.twitter.com                                   twitter.com.                                      104.244.42.1
+p.twimg.com                                       wildcard.twimg.com.                               151.101.8.159
+status.twitter.com                                cs322.wac.edgecastcdn.net.                        192.229.237.154
+ar.help.vine.co                                   domains.tumblr.com.                               66.6.32.22
+mtc.cdn.vine.co                                   platform.twitter.map.fastly.net.                  151.101.8.157
+www.vine.co                                       www.vine.co.                                      107.23.22.110
+vine.co                                           vine.co.                                          107.23.22.110
+admin.vine.co                                     admin.vine.co.                                    52.4.7.176
+mtc-0.cdn.vine.co                                 mtc-0.cdn.vine.co.                                199.96.61.2
+platform.vine.co                                  platform.vine.co.                                 107.23.22.110
+
+
+NORECORD RECORD DATA
+
+grape.vine.co                                     
+i3.twimg.com                                      
+mk.prd.vine.co                                    
+p.twitter.com                                     
+www.videobeta.vine.co                             
+brand.vine.co                                     
+ops02.prd.vine.co                                 
+dev-svc.vine.co                                   
+new.vine.co                                       
+jobs.vine.co                                      
+videobeta.vine.co                                 
+plant.vine.co                                     
+preview.cdn.twitter.com                           
+si5.twimg.com                                     
+cdn-dev.api.twitter.com                           
+widgets.platform.twitter.com                      
+p.twttr.com                                       
+si2.twimg.com                                     
+prd.vine.co                                       
+jp.twimg.com                                      
+cdn.api.twitter.com                               
+si1.twimg.com                                     
+v.twimg.com                                       
+                                                  
+cdn.vine.co                                       
+media.vine.co                                     
+get.vine.co                                       
+music.vine.co                                     
+27.prd.vine.co                                    
+pbs-h1-ec.twimg.com                               
+svc.vine.co                                       
+www.blog.vine.co                                  
+atla.vine.co                                      
+help.vine.co                                      
+v.cdn.vine.co                                     
+p-dev.twimg.com                                   
+tailfeather.twimg.com                             
+o.twimg.com                                       
+si3.twimg.com                                     
+vmtc.twimg.com                                    
+archive.vine.co                                   
+widgets.twimg.com                                 
+si4.twimg.com                                     
+si0.twimg.com                                     
+tk.help.vine.co                                   
+devel.vine.co                                     
+www.brand.vine.co                                 
+fr.help.vine.co                                   
+exporter.vine.co                                  
+wildcard.cdn.vine.co                              
+es.help.vine.co                                   
+pypicloud.svc.vine.co                             
+cdn.digits.com                                    
+yearonvine.vine.co                                
+meda.vine.co                                      

@@ -1,0 +1,143 @@
+NXDOMAIN DATA
+
+
+
+CNAME RECORD DATA
+
+pscp.tv                                           pscp.tv.                                          52.66.44.116
+prod-thumbnail.pscp.tv                            prod-thumbnail.pscp.tv.                           13.249.208.239
+web.pscp.tv                                       web.pscp.tv.                                      35.154.102.67
+help.pscp.tv                                      help.pscp.tv.                                     13.32.35.13
+api.pscp.tv                                       api.pscp.tv.                                      34.218.106.109
+email.pscp.tv                                     email.pscp.tv.                                    35.163.16.166
+au.pscp.tv                                        vidman-ap-southeast-2.pscp.tv.                    13.238.251.177
+dev-vidman-us-west-2.pscp.tv                      dev-vidman-us-west-2.pscp.tv.                     52.88.49.34
+prod-fastly-eu-west-3.video.pscp.tv               video.pscp.tv.map.fastly.net.                     151.101.10.164
+prod-fastly-eu-west-1.video.pscp.tv               video.pscp.tv.map.fastly.net.                     151.101.10.164
+prod-profile.pscp.tv                              prod-profile.pscp.tv.                             13.32.35.13
+prod-video-ap-northeast-2.pscp.tv                 pscp.tv.map.fastly.net.                           151.101.2.164
+embed.pscp.tv                                     pscp.tv.map.fastly.net.                           151.101.2.164
+canary-web.pscp.tv                                canary-web.pscp.tv.                               52.39.197.73
+vidman-eu-central-1.pscp.tv                       vidman-eu-central-1.pscp.tv.                      3.121.210.215
+dev-www.pscp.tv                                   dev-web.pscp.tv.                                  52.212.112.112
+dev-web.pscp.tv                                   dev-web.pscp.tv.                                  52.212.112.112
+fr.pscp.tv                                        vidman-eu-west-3.pscp.tv.                         15.188.40.202
+vidman-us-east-1.pscp.tv                          vidman-us-east-1.pscp.tv.                         52.203.88.202
+prod-assets.pscp.tv                               prod-assets.pscp.tv.                              13.32.35.13
+prod-cloudfront-tn-us-west-1-replay.video.pscp.tv prod-cloudfront-tn-us-west-1-replay.video.pscp.tv.13.249.223.94
+canary-guest.pscp.tv                              canary-guest.pscp.tv.                             52.25.20.247
+prod-video-us-east-1.pscp.tv                      pscp.tv.map.fastly.net.                           151.101.2.164
+d.pscp.tv                                         dev-public-api.periscope.tv.                      34.213.145.62
+dev-proxsee.pscp.tv                               dev-proxsee.pscp.tv.                              35.163.54.57
+prod-fastly-ap-northeast-2.video.pscp.tv          video.pscp.tv.map.fastly.net.                     151.101.10.164
+assets.pscp.tv                                    prod-assets.pscp.tv.                              13.32.35.13
+prod-fastly-ap-southeast-2.video.pscp.tv          video.pscp.tv.map.fastly.net.                     151.101.10.164
+prod-fastly-ap-south-1.video.pscp.tv              video.pscp.tv.map.fastly.net.                     151.101.10.164
+de.pscp.tv                                        vidman-eu-central-1.pscp.tv.                      3.121.210.215
+prod-video-ap-northeast-1.pscp.tv                 pscp.tv.map.fastly.net.                           151.101.2.164
+prod-fastly-ap-northeast-1.video.pscp.tv          video.pscp.tv.map.fastly.net.                     151.101.10.164
+prod-exp-video-us-east-1.pscp.tv                  pscp.tv.map.fastly.net.                           151.101.2.164
+www.pscp.tv                                       web.pscp.tv.                                      35.154.102.67
+prod-fastly-ap-southeast-1.video.pscp.tv          video.pscp.tv.map.fastly.net.                     151.101.10.164
+prod-fastly-eu-central-1.video.pscp.tv            video.pscp.tv.map.fastly.net.                     151.101.10.164
+prod-video-ap-southeast-1.pscp.tv                 pscp.tv.map.fastly.net.                           151.101.2.164
+prod-fastly-us-west-1.video.pscp.tv               video.pscp.tv.map.fastly.net.                     151.101.10.164
+prod-fastly-sa-east-1.video.pscp.tv               video.pscp.tv.map.fastly.net.                     151.101.10.164
+kr.pscp.tv                                        vidman-ap-northeast-2.pscp.tv.                    13.125.48.85
+notification-service.pscp.tv                      notification-service.pscp.tv.                     54.68.132.196
+vidman-ap-northeast-1.pscp.tv                     vidman-ap-northeast-1.pscp.tv.                    52.193.27.166
+jp.pscp.tv                                        vidman-ap-northeast-1.pscp.tv.                    52.193.27.166
+or.pscp.tv                                        vidman-us-west-1.pscp.tv.                         52.8.133.136
+canary-safety.pscp.tv                             canary-safety.pscp.tv.                            52.36.106.99
+dev-video-eu-west-1.pscp.tv                       pscp.tv.map.fastly.net.                           151.101.2.164
+prod-cloudfront-tn-us-east-1-replay.video.pscp.tv prod-cloudfront-tn-us-east-1-replay.video.pscp.tv.13.249.223.94
+prod-cloudfront-tn-ap-southeast-1-replay.video.pscp.tvprod-cloudfront-tn-ap-southeast-1-replay.video.pscp.tv.13.32.39.165
+canary-proxsee.pscp.tv                            canary-proxsee.pscp.tv.                           54.187.36.81
+prod-chatman-ancillary-us-east-1.pscp.tv          prod-chatman-ancillary-us-east-1.pscp.tv.         3.227.35.180
+prod-video-ap-southeast-2.pscp.tv                 pscp.tv.map.fastly.net.                           151.101.2.164
+prod-ec-ap-northeast-1.video.pscp.tv              cs1138.wpc.edgecastcdn.net.                       152.199.39.150
+prod-ec-eu-central-1.video.pscp.tv                cs1138.wpc.edgecastcdn.net.                       152.199.39.150
+chatman-replay-us-east-1.pscp.tv                  chatman-replay-us-east-1.pscp.tv.                 3.212.214.12
+ie.pscp.tv                                        vidman-eu-west-1.pscp.tv.                         52.51.195.145
+hls.pscp.tv                                       tv.periscope.map.fastly.net.                      151.101.2.93
+metrics.pscp.tv                                   metrics.pscp.tv.s3-website-us-west-2.amazonaws.com.52.218.233.114
+channels.pscp.tv                                  channels.pscp.tv.                                 34.223.244.240
+prod-thumbnail-small.pscp.tv                      prod-thumbnail-small.pscp.tv.                     13.249.208.239
+api-ws.pscp.tv                                    api-ws.pscp.tv.                                   100.20.26.4
+web-us-east-1.pscp.tv                             web-us-east-1.pscp.tv.                            34.196.181.62
+safety.pscp.tv                                    safety.pscp.tv.                                   34.213.22.121
+dev-api.pscp.tv                                   dev-api.pscp.tv.                                  34.214.227.162
+zz.pscp.tv                                        zz.pscp.tv.                                       52.88.129.112
+turn.pscp.tv                                      turn.pscp.tv.                                     13.235.199.245
+prod-channels-thumbnails.pscp.tv                  prod-channels-thumbnails.pscp.tv.                 13.32.35.13
+prod-cloudfront-tn-ap-northeast-1-replay.video.pscp.tvprod-cloudfront-tn-ap-northeast-1-replay.video.pscp.tv.13.249.223.94
+periscope.tv                                      periscope.tv.                                     35.154.196.145
+prod-ec-us-west-1.video.pscp.tv                   cs1138.wpc.edgecastcdn.net.                       152.199.39.150
+vidman-ap-northeast-2.pscp.tv                     vidman-ap-northeast-2.pscp.tv.                    13.125.48.85
+prod-ec-us-east-1.video.pscp.tv                   cs1138.wpc.edgecastcdn.net.                       152.199.39.150
+vidman-us-west-1.pscp.tv                          vidman-us-west-1.pscp.tv.                         52.8.133.136
+vidman-sa-east-1.pscp.tv                          vidman-sa-east-1.pscp.tv.                         18.231.73.124
+prod-ec-eu-west-1.video.pscp.tv                   cs1138.wpc.edgecastcdn.net.                       152.199.39.150
+prod-video-sa-east-1.pscp.tv                      pscp.tv.map.fastly.net.                           151.101.2.164
+prod-video-us-west-1.pscp.tv                      pscp.tv.map.fastly.net.                           151.101.2.164
+a.pscp.tv                                         public-api.periscope.tv.                          52.35.154.71
+prod-exp-video-eu-west-1.pscp.tv                  pscp.tv.map.fastly.net.                           151.101.2.164
+vidman-eu-west-1.pscp.tv                          vidman-eu-west-1.pscp.tv.                         52.51.195.145
+prod-fastly-us-west-2.video.pscp.tv               video.pscp.tv.map.fastly.net.                     151.101.10.164
+prod-video-ap-south-1.pscp.tv                     pscp.tv.map.fastly.net.                           151.101.2.164
+prod-exp-video-eu-central-1.pscp.tv               pscp.tv.map.fastly.net.                           151.101.2.164
+prod-fastly-us-east-1.video.pscp.tv               video.pscp.tv.map.fastly.net.                     151.101.10.164
+prod-video-eu-west-1.pscp.tv                      pscp.tv.map.fastly.net.                           151.101.2.164
+vidman-ap-southeast-2.pscp.tv                     vidman-ap-southeast-2.pscp.tv.                    13.238.251.177
+die.pscp.tv                                       dev-vidman-eu-west-1.pscp.tv.                     34.246.41.160
+dev-video-us-west-2.pscp.tv                       pscp.tv.map.fastly.net.                           151.101.2.164
+prod-video-eu-west-3.pscp.tv                      pscp.tv.map.fastly.net.                           151.101.2.164
+proxsee.pscp.tv                                   proxsee.pscp.tv.                                  35.163.183.196
+prod-cloudfront-tn-us-west-2-replay.video.pscp.tv prod-cloudfront-tn-us-west-2-replay.video.pscp.tv.13.32.39.165
+chatman-replay-ap-northeast-1.pscp.tv             chatman-replay-ap-northeast-1.pscp.tv.            52.68.237.110
+payman.pscp.tv                                    payman.pscp.tv.                                   34.209.127.141
+chatman-replay-us-west-2.pscp.tv                  chatman-replay-us-west-2.pscp.tv.                 34.223.169.2
+vidman-ap-southeast-1.pscp.tv                     vidman-ap-southeast-1.pscp.tv.                    3.0.246.178
+sg.pscp.tv                                        vidman-ap-southeast-1.pscp.tv.                    3.0.246.178
+prod-chatman-ancillary-ap-northeast-1.pscp.tv     prod-chatman-ancillary-ap-northeast-1.pscp.tv.    13.230.77.31
+prod-chatman-ancillary-eu-central-1.pscp.tv       prod-chatman-ancillary-eu-central-1.pscp.tv.      3.123.79.19
+dev-vidman-eu-west-1.pscp.tv                      dev-vidman-eu-west-1.pscp.tv.                     34.246.41.160
+chatman-replay-eu-central-1.pscp.tv               chatman-replay-eu-central-1.pscp.tv.              52.58.180.24
+web-eu-west-1.pscp.tv                             web-eu-west-1.pscp.tv.                            63.35.37.173
+vidman-us-west-2.pscp.tv                          vidman-us-west-2.pscp.tv.                         54.191.240.129
+vidman-eu-west-3.pscp.tv                          vidman-eu-west-3.pscp.tv.                         15.188.40.202
+guest.pscp.tv                                     guest.pscp.tv.                                    54.191.166.49
+prod-video-eu-central-1.pscp.tv                   pscp.tv.map.fastly.net.                           151.101.2.164
+prod-video-us-west-2.pscp.tv                      pscp.tv.map.fastly.net.                           151.101.2.164
+
+
+NORECORD RECORD DATA
+
+lex-us-west-2.pscp.tv                             
+ec-prod-video-us-west-2.pscp.tv                   
+ec-dev-video-eu-west-1.pscp.tv                    
+dev-lex-us-east-1.pscp.tv                         
+ec-prod-video-ap-southeast-2.pscp.tv              
+ec-prod-video-eu-central-1.pscp.tv                
+ec-prod-video-us-east-1.pscp.tv                   
+ec-prod-video-ap-southeast-1.pscp.tv              
+ec-prod-video-ap-northeast-1.pscp.tv              
+b.pscp.tv                                         
+video.pscp.tv                                     
+ec-prod-video-us-west-1.pscp.tv                   
+ec-prod-video-sa-east-1.pscp.tv                   
+ec-prod-video-eu-west-1.pscp.tv                   
+ec-dev-video-us-west-2.pscp.tv                    
+prod-playback-us-east-1.pscp.tv                   
+                                                  
+syslog.pscp.tv                                    
+other.pscp.tv                                     
+nproxsee.pscp.tv                                  
+lex-us-west-2.periscope.tv                        
+prosee.pscp.tv                                    
+prod-playback-ap-northeast-1.pscp.tv              
+prod-playback-eu-west-1.pscp.tv                   
+prod-playback-ap-southeast-2.pscp.tv              
+prod-playback-eu-central-1.pscp.tv                
+prod-playback-us-west-2.pscp.tv                   
+prod-playback-sa-east-1.pscp.tv                   
