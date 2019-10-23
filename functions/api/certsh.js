@@ -10,7 +10,9 @@ module.exports = function getDomainsFromCRTSH(domain, callback, retry = false){
             callback("error","");
         } else {
             let result = new Set();
-            let matches = body.match(/<TD>\S+.com\S*<\/TD>/ig)
+            console.log(body);
+            let regexp = new RegExp("<TD>\\S*"+domain+"\\S*<\/TD>","ig")
+            let matches = body.match(regexp)
                 if(matches){
                     matches.map((res) => {
                         result.add(res)
@@ -23,7 +25,7 @@ module.exports = function getDomainsFromCRTSH(domain, callback, retry = false){
                 //take care of wild card subdomains
                 content += domain + "\r\n"; 
             })
-            logger.info(`Total number of results for task: crtsh domain: ${domain} expected: ${result.size} found: ${content.split('\n').length}`)
+            logger.info(`Total number of results for task: crtsh domain: ${domain} count: ${result.size}`)
             writeToFile(`crtsh_${domain}.txt`, content, domain);
             callback(null, "success");
             // res.on('data', (chunk) => {
