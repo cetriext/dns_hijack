@@ -10,7 +10,7 @@ module.exports = function getDomainsFromCRTSH(domain, callback, retry = false){
             callback("error","");
         } else {
             let result = new Set();
-            let matches = body.match(/<TD>\S+.com<\/TD>/g)
+            let matches = body.match(/<TD>\S+.com\S*<\/TD>/ig)
                 if(matches){
                     matches.map((res) => {
                         result.add(res)
@@ -19,7 +19,7 @@ module.exports = function getDomainsFromCRTSH(domain, callback, retry = false){
             logger.info(`Getting subdomains from crtsh completed for domain: ${domain}`)
             let content = "";
             result.forEach((domain) => {
-                domain = domain.replace("<TD>","").replace("</TD>","")
+                domain = domain.replace(/<TD>/i,"").replace(/<\/TD>/i,"")
                 //take care of wild card subdomains
                 content += domain + "\r\n"; 
             })
