@@ -28,7 +28,7 @@ module.exports = function cleanResultsFile(domain, callback){
     }
     let content = "";
     result.forEach((entry) => {
-        content += entry + "\r\n"
+        content += entry + "\n"
     })
     fs.writeFileSync(location+ `${domain}_result.txt`, content);
     logger.info(`Done cleaning result file for domain: ${domain} initialCount: ${intitalLength0} finalCount: ${result.size}`)

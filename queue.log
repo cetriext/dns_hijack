@@ -4181,3 +4181,228 @@
 [2019-10-23T17:43:16.218] [TRACE] queue - A job completed in queue: ctlogs domain: vine.co 
 [2019-10-23T17:49:53.428] [TRACE] queue - A job completed in queue: ctlogs domain: ui.com 
 [2019-10-23T18:24:22.027] [TRACE] queue - A job completed in queue: ctlogs domain: starbucks.com 
+[2019-10-23T18:33:49.792] [INFO] queue - Adding job to queue: join domain: berush.com 
+[2019-10-23T18:33:49.798] [INFO] queue - Adding job to queue: join domain: bitmoji.com
+[2019-10-23T18:33:49.805] [INFO] queue - Adding job to queue: join domain: bitstrips.com
+[2019-10-23T18:33:49.807] [INFO] queue - Adding job to queue: join domain: events.semrush.com 
+[2019-10-23T18:33:49.807] [INFO] queue - Adding job to queue: join domain: gnip.com
+[2019-10-23T18:33:49.818] [INFO] queue - Adding job to queue: join domain: greenhouse.io
+[2019-10-23T18:33:49.826] [INFO] queue - Adding job to queue: join domain: hacker101.com
+[2019-10-23T18:33:49.828] [INFO] queue - Adding job to queue: join domain: hackerone-ext-content.com
+[2019-10-23T18:33:49.829] [INFO] queue - Adding job to queue: join domain: hackerone-user-content.com
+[2019-10-23T18:33:49.836] [INFO] queue - Adding job to queue: join domain: hackerone.com
+[2019-10-23T18:33:49.837] [INFO] queue - Adding job to queue: join domain: hackerone.net
+[2019-10-23T18:33:49.847] [INFO] queue - Adding job to queue: join domain: istarbucks.co.kr
+[2019-10-23T18:33:49.849] [INFO] queue - Adding job to queue: join domain: labs-semrush.com
+[2019-10-23T18:33:49.856] [INFO] queue - Adding job to queue: join domain: legalrobot.com
+[2019-10-23T18:33:49.860] [INFO] queue - Adding job to queue: join domain: mobpub.com
+[2019-10-23T18:33:49.867] [INFO] queue - Adding job to queue: join domain: onelogin.com
+[2019-10-23T18:33:49.869] [INFO] queue - Adding job to queue: join domain: paypal.com
+[2019-10-23T18:33:49.870] [INFO] queue - Adding job to queue: join domain: periscope.tv
+[2019-10-23T18:33:49.880] [INFO] queue - Adding job to queue: join domain: pscp.tv
+[2019-10-23T18:33:49.880] [INFO] queue - Adding job to queue: join domain: semrush.com
+[2019-10-23T18:33:49.887] [INFO] queue - Adding job to queue: join domain: shipt.com
+[2019-10-23T18:33:49.898] [INFO] queue - Adding job to queue: join domain: slack-files.com
+[2019-10-23T18:33:49.900] [INFO] queue - Adding job to queue: join domain: slack-imgs.com
+[2019-10-23T18:33:49.900] [INFO] queue - Adding job to queue: join domain: slack-redir.net
+[2019-10-23T18:33:49.910] [INFO] queue - Adding job to queue: join domain: slack.com
+[2019-10-23T18:33:49.920] [INFO] queue - Adding job to queue: join domain: slackatwork.com
+[2019-10-23T18:33:49.921] [INFO] queue - Adding job to queue: join domain: slackb.com
+[2019-10-23T18:33:49.931] [INFO] queue - Adding job to queue: join domain: spaces.pm
+[2019-10-23T18:33:49.933] [INFO] queue - Adding job to queue: join domain: starbucks.ca
+[2019-10-23T18:33:49.940] [INFO] queue - Adding job to queue: join domain: starbucks.co.jp
+[2019-10-23T18:33:49.941] [INFO] queue - Adding job to queue: join domain: starbucks.co.uk
+[2019-10-23T18:33:49.950] [INFO] queue - Adding job to queue: join domain: starbucks.com
+[2019-10-23T18:33:49.951] [INFO] queue - Adding job to queue: join domain: starbucks.com.br
+[2019-10-23T18:33:49.951] [INFO] queue - Adding job to queue: join domain: starbucks.com.cn
+[2019-10-23T18:33:49.961] [INFO] queue - Adding job to queue: join domain: starbucks.com.sg
+[2019-10-23T18:33:49.963] [INFO] queue - Adding job to queue: join domain: starbucks.de
+[2019-10-23T18:33:49.964] [INFO] queue - Adding job to queue: join domain: starbucks.fr
+[2019-10-23T18:33:49.964] [INFO] queue - Adding job to queue: join domain: starbucksreserve.com
+[2019-10-23T18:33:49.972] [INFO] queue - Adding job to queue: join domain: twimg.com
+[2019-10-23T18:33:49.981] [INFO] queue - Adding job to queue: join domain: twitter.com
+[2019-10-23T18:33:49.983] [INFO] queue - Adding job to queue: join domain: uber.com
+[2019-10-23T18:33:49.990] [INFO] queue - Adding job to queue: join domain: uber.com.cn
+[2019-10-23T18:33:49.991] [INFO] queue - Adding job to queue: join domain: ubunt.com
+[2019-10-23T18:33:49.992] [INFO] queue - Adding job to queue: join domain: ui.com
+[2019-10-23T18:33:50.000] [INFO] queue - Adding job to queue: join domain: vine.co
+[2019-10-23T18:33:50.025] [INFO] queue - Job added to queue: join for domain: berush.com 
+[2019-10-23T18:33:50.028] [INFO] queue - Job added to queue: join for domain: bitmoji.com
+[2019-10-23T18:33:50.028] [INFO] queue - Job added to queue: join for domain: bitstrips.com
+[2019-10-23T18:33:50.036] [INFO] queue - Job added to queue: join for domain: events.semrush.com 
+[2019-10-23T18:33:50.038] [INFO] queue - Job added to queue: join for domain: gnip.com
+[2019-10-23T18:33:50.050] [INFO] queue - Job added to queue: join for domain: greenhouse.io
+[2019-10-23T18:33:50.051] [INFO] queue - Job added to queue: join for domain: hacker101.com
+[2019-10-23T18:33:50.060] [INFO] queue - Job added to queue: join for domain: hackerone-ext-content.com
+[2019-10-23T18:33:50.062] [INFO] queue - Job added to queue: join for domain: hackerone-user-content.com
+[2019-10-23T18:33:50.069] [INFO] queue - Job added to queue: join for domain: hackerone.com
+[2019-10-23T18:33:50.079] [INFO] queue - Job added to queue: join for domain: hackerone.net
+[2019-10-23T18:33:50.081] [INFO] queue - Job added to queue: join for domain: istarbucks.co.kr
+[2019-10-23T18:33:50.082] [INFO] queue - Job added to queue: join for domain: labs-semrush.com
+[2019-10-23T18:33:50.082] [INFO] queue - Job added to queue: join for domain: legalrobot.com
+[2019-10-23T18:33:50.083] [INFO] queue - Job added to queue: join for domain: mobpub.com
+[2019-10-23T18:33:50.084] [INFO] queue - Job added to queue: join for domain: onelogin.com
+[2019-10-23T18:33:50.084] [INFO] queue - Job added to queue: join for domain: paypal.com
+[2019-10-23T18:33:50.085] [INFO] queue - Job added to queue: join for domain: periscope.tv
+[2019-10-23T18:33:50.085] [INFO] queue - Job added to queue: join for domain: pscp.tv
+[2019-10-23T18:33:50.085] [INFO] queue - Job added to queue: join for domain: semrush.com
+[2019-10-23T18:33:50.086] [INFO] queue - Job added to queue: join for domain: shipt.com
+[2019-10-23T18:33:50.086] [INFO] queue - Job added to queue: join for domain: slack-files.com
+[2019-10-23T18:33:50.086] [INFO] queue - Job added to queue: join for domain: slack-imgs.com
+[2019-10-23T18:33:50.087] [INFO] queue - Job added to queue: join for domain: slack-redir.net
+[2019-10-23T18:33:50.087] [INFO] queue - Job added to queue: join for domain: slack.com
+[2019-10-23T18:33:50.088] [INFO] queue - Job added to queue: join for domain: slackatwork.com
+[2019-10-23T18:33:50.088] [INFO] queue - Job added to queue: join for domain: slackb.com
+[2019-10-23T18:33:50.088] [INFO] queue - Job added to queue: join for domain: spaces.pm
+[2019-10-23T18:33:50.089] [INFO] queue - Job added to queue: join for domain: starbucks.ca
+[2019-10-23T18:33:50.089] [INFO] queue - Job added to queue: join for domain: starbucks.co.jp
+[2019-10-23T18:33:50.097] [INFO] queue - Job added to queue: join for domain: starbucks.co.uk
+[2019-10-23T18:33:50.098] [INFO] queue - Job added to queue: join for domain: starbucks.com
+[2019-10-23T18:33:50.099] [INFO] queue - Job added to queue: join for domain: starbucks.com.br
+[2019-10-23T18:33:50.100] [INFO] queue - Job added to queue: join for domain: starbucks.com.cn
+[2019-10-23T18:33:50.100] [INFO] queue - Job added to queue: join for domain: starbucks.com.sg
+[2019-10-23T18:33:50.101] [INFO] queue - Job added to queue: join for domain: starbucks.de
+[2019-10-23T18:33:50.101] [INFO] queue - Job added to queue: join for domain: starbucks.fr
+[2019-10-23T18:33:50.101] [INFO] queue - Job added to queue: join for domain: starbucksreserve.com
+[2019-10-23T18:33:50.102] [INFO] queue - Job added to queue: join for domain: twimg.com
+[2019-10-23T18:33:50.102] [INFO] queue - Job added to queue: join for domain: twitter.com
+[2019-10-23T18:33:50.103] [INFO] queue - Job added to queue: join for domain: uber.com
+[2019-10-23T18:33:50.103] [INFO] queue - Job added to queue: join for domain: uber.com.cn
+[2019-10-23T18:33:50.104] [INFO] queue - Job added to queue: join for domain: ubunt.com
+[2019-10-23T18:33:50.105] [INFO] queue - Job added to queue: join for domain: ui.com
+[2019-10-23T18:33:50.105] [INFO] queue - Job added to queue: join for domain: vine.co
+[2019-10-23T18:33:50.127] [INFO] queue - A job has started in queue: join domain: berush.com 
+[2019-10-23T18:33:50.133] [INFO] queue - A job has started in queue: join domain: bitmoji.com
+[2019-10-23T18:33:50.135] [INFO] queue - A job has started in queue: join domain: bitstrips.com
+[2019-10-23T18:33:50.144] [INFO] queue - Lock aquired Successfully for task: join domain: berush.com 
+[2019-10-23T18:33:50.153] [INFO] queue - Lock aquired Successfully for task: join domain: bitmoji.com
+[2019-10-23T18:33:50.165] [INFO] queue - Lock aquired Successfully for task: join domain: bitstrips.com
+[2019-10-23T18:33:50.177] [TRACE] queue - A job completed in queue: join domain: berush.com 
+[2019-10-23T18:33:50.178] [TRACE] queue - A job completed in queue: join domain: bitmoji.com
+[2019-10-23T18:33:50.185] [TRACE] queue - A job completed in queue: join domain: bitstrips.com
+[2019-10-23T18:33:50.186] [INFO] queue - A job has started in queue: join domain: events.semrush.com 
+[2019-10-23T18:33:50.195] [INFO] queue - A job has started in queue: join domain: gnip.com
+[2019-10-23T18:33:50.198] [INFO] queue - A job has started in queue: join domain: greenhouse.io
+[2019-10-23T18:33:50.199] [INFO] queue - Lock aquired Successfully for task: join domain: events.semrush.com 
+[2019-10-23T18:33:50.210] [INFO] queue - Lock aquired Successfully for task: join domain: gnip.com
+[2019-10-23T18:33:50.218] [INFO] queue - Lock aquired Successfully for task: join domain: greenhouse.io
+[2019-10-23T18:33:50.233] [TRACE] queue - A job completed in queue: join domain: events.semrush.com 
+[2019-10-23T18:33:50.235] [TRACE] queue - A job completed in queue: join domain: gnip.com
+[2019-10-23T18:33:50.235] [TRACE] queue - A job completed in queue: join domain: greenhouse.io
+[2019-10-23T18:33:50.246] [INFO] queue - A job has started in queue: join domain: hacker101.com
+[2019-10-23T18:33:50.254] [INFO] queue - A job has started in queue: join domain: hackerone-ext-content.com
+[2019-10-23T18:33:50.255] [INFO] queue - A job has started in queue: join domain: hackerone-user-content.com
+[2019-10-23T18:33:50.257] [INFO] queue - Lock aquired Successfully for task: join domain: hacker101.com
+[2019-10-23T18:33:50.267] [INFO] queue - Lock aquired Successfully for task: join domain: hackerone-ext-content.com
+[2019-10-23T18:33:50.278] [INFO] queue - Lock aquired Successfully for task: join domain: hackerone-user-content.com
+[2019-10-23T18:33:50.290] [TRACE] queue - A job completed in queue: join domain: hacker101.com
+[2019-10-23T18:33:50.298] [TRACE] queue - A job completed in queue: join domain: hackerone-ext-content.com
+[2019-10-23T18:33:50.300] [TRACE] queue - A job completed in queue: join domain: hackerone-user-content.com
+[2019-10-23T18:33:50.308] [INFO] queue - A job has started in queue: join domain: hackerone.com
+[2019-10-23T18:33:50.311] [INFO] queue - A job has started in queue: join domain: hackerone.net
+[2019-10-23T18:33:50.318] [INFO] queue - A job has started in queue: join domain: istarbucks.co.kr
+[2019-10-23T18:33:50.318] [INFO] queue - Lock aquired Successfully for task: join domain: hackerone.com
+[2019-10-23T18:33:50.331] [INFO] queue - Lock aquired Successfully for task: join domain: hackerone.net
+[2019-10-23T18:33:50.349] [INFO] queue - Lock aquired Successfully for task: join domain: istarbucks.co.kr
+[2019-10-23T18:33:50.361] [TRACE] queue - A job completed in queue: join domain: hackerone.com
+[2019-10-23T18:33:50.363] [TRACE] queue - A job completed in queue: join domain: hackerone.net
+[2019-10-23T18:33:50.370] [TRACE] queue - A job completed in queue: join domain: istarbucks.co.kr
+[2019-10-23T18:33:50.372] [INFO] queue - A job has started in queue: join domain: labs-semrush.com
+[2019-10-23T18:33:50.382] [INFO] queue - A job has started in queue: join domain: legalrobot.com
+[2019-10-23T18:33:50.384] [INFO] queue - A job has started in queue: join domain: mobpub.com
+[2019-10-23T18:33:50.385] [INFO] queue - Lock aquired Successfully for task: join domain: labs-semrush.com
+[2019-10-23T18:33:50.396] [INFO] queue - Lock aquired Successfully for task: join domain: legalrobot.com
+[2019-10-23T18:33:50.406] [INFO] queue - Lock aquired Successfully for task: join domain: mobpub.com
+[2019-10-23T18:33:50.423] [TRACE] queue - A job completed in queue: join domain: labs-semrush.com
+[2019-10-23T18:33:50.427] [TRACE] queue - A job completed in queue: join domain: legalrobot.com
+[2019-10-23T18:33:50.434] [INFO] queue - A job has started in queue: join domain: onelogin.com
+[2019-10-23T18:33:50.436] [INFO] queue - A job has started in queue: join domain: paypal.com
+[2019-10-23T18:33:50.445] [TRACE] queue - A job completed in queue: join domain: mobpub.com
+[2019-10-23T18:33:50.448] [INFO] queue - Lock aquired Successfully for task: join domain: onelogin.com
+[2019-10-23T18:33:50.464] [INFO] queue - Lock aquired Successfully for task: join domain: paypal.com
+[2019-10-23T18:33:50.471] [INFO] queue - A job has started in queue: join domain: periscope.tv
+[2019-10-23T18:33:50.479] [TRACE] queue - A job completed in queue: join domain: onelogin.com
+[2019-10-23T18:33:50.481] [TRACE] queue - A job completed in queue: join domain: paypal.com
+[2019-10-23T18:33:50.487] [INFO] queue - Lock aquired Successfully for task: join domain: periscope.tv
+[2019-10-23T18:33:50.499] [INFO] queue - A job has started in queue: join domain: pscp.tv
+[2019-10-23T18:33:50.500] [INFO] queue - A job has started in queue: join domain: semrush.com
+[2019-10-23T18:33:50.508] [TRACE] queue - A job completed in queue: join domain: periscope.tv
+[2019-10-23T18:33:50.510] [INFO] queue - Lock aquired Successfully for task: join domain: pscp.tv
+[2019-10-23T18:33:50.520] [INFO] queue - Lock aquired Successfully for task: join domain: semrush.com
+[2019-10-23T18:33:50.544] [INFO] queue - A job has started in queue: join domain: shipt.com
+[2019-10-23T18:33:50.546] [TRACE] queue - A job completed in queue: join domain: pscp.tv
+[2019-10-23T18:33:50.553] [TRACE] queue - A job completed in queue: join domain: semrush.com
+[2019-10-23T18:33:50.554] [INFO] queue - Lock aquired Successfully for task: join domain: shipt.com
+[2019-10-23T18:33:50.568] [INFO] queue - A job has started in queue: join domain: slack-files.com
+[2019-10-23T18:33:50.576] [INFO] queue - A job has started in queue: join domain: slack-imgs.com
+[2019-10-23T18:33:50.579] [TRACE] queue - A job completed in queue: join domain: shipt.com
+[2019-10-23T18:33:50.586] [INFO] queue - Lock aquired Successfully for task: join domain: slack-files.com
+[2019-10-23T18:33:50.597] [INFO] queue - Lock aquired Successfully for task: join domain: slack-imgs.com
+[2019-10-23T18:33:50.608] [INFO] queue - A job has started in queue: join domain: slack-redir.net
+[2019-10-23T18:33:50.611] [TRACE] queue - A job completed in queue: join domain: slack-files.com
+[2019-10-23T18:33:50.618] [TRACE] queue - A job completed in queue: join domain: slack-imgs.com
+[2019-10-23T18:33:50.620] [INFO] queue - Lock aquired Successfully for task: join domain: slack-redir.net
+[2019-10-23T18:33:50.635] [INFO] queue - A job has started in queue: join domain: slack.com
+[2019-10-23T18:33:50.636] [INFO] queue - A job has started in queue: join domain: slackatwork.com
+[2019-10-23T18:33:50.653] [TRACE] queue - A job completed in queue: join domain: slack-redir.net
+[2019-10-23T18:33:50.654] [INFO] queue - Lock aquired Successfully for task: join domain: slack.com
+[2019-10-23T18:33:50.694] [INFO] queue - Lock aquired Successfully for task: join domain: slackatwork.com
+[2019-10-23T18:33:50.704] [INFO] queue - A job has started in queue: join domain: slackb.com
+[2019-10-23T18:33:50.704] [TRACE] queue - A job completed in queue: join domain: slack.com
+[2019-10-23T18:33:50.705] [TRACE] queue - A job completed in queue: join domain: slackatwork.com
+[2019-10-23T18:33:50.715] [INFO] queue - Lock aquired Successfully for task: join domain: slackb.com
+[2019-10-23T18:33:50.733] [INFO] queue - A job has started in queue: join domain: spaces.pm
+[2019-10-23T18:33:50.733] [INFO] queue - A job has started in queue: join domain: starbucks.ca
+[2019-10-23T18:33:50.734] [TRACE] queue - A job completed in queue: join domain: slackb.com
+[2019-10-23T18:33:50.743] [INFO] queue - Lock aquired Successfully for task: join domain: spaces.pm
+[2019-10-23T18:33:50.745] [INFO] queue - Lock aquired Successfully for task: join domain: starbucks.ca
+[2019-10-23T18:33:50.756] [INFO] queue - A job has started in queue: join domain: starbucks.co.jp
+[2019-10-23T18:33:50.764] [TRACE] queue - A job completed in queue: join domain: spaces.pm
+[2019-10-23T18:33:50.766] [TRACE] queue - A job completed in queue: join domain: starbucks.ca
+[2019-10-23T18:33:50.773] [INFO] queue - Lock aquired Successfully for task: join domain: starbucks.co.jp
+[2019-10-23T18:33:50.784] [INFO] queue - A job has started in queue: join domain: starbucks.co.uk
+[2019-10-23T18:33:50.784] [INFO] queue - A job has started in queue: join domain: starbucks.com
+[2019-10-23T18:33:50.785] [TRACE] queue - A job completed in queue: join domain: starbucks.co.jp
+[2019-10-23T18:33:50.786] [INFO] queue - Lock aquired Successfully for task: join domain: starbucks.co.uk
+[2019-10-23T18:33:50.798] [INFO] queue - Lock aquired Successfully for task: join domain: starbucks.com
+[2019-10-23T18:33:50.816] [INFO] queue - A job has started in queue: join domain: starbucks.com.br
+[2019-10-23T18:33:50.818] [TRACE] queue - A job completed in queue: join domain: starbucks.co.uk
+[2019-10-23T18:33:50.827] [TRACE] queue - A job completed in queue: join domain: starbucks.com
+[2019-10-23T18:33:50.829] [INFO] queue - Lock aquired Successfully for task: join domain: starbucks.com.br
+[2019-10-23T18:33:50.840] [INFO] queue - A job has started in queue: join domain: starbucks.com.cn
+[2019-10-23T18:33:50.848] [INFO] queue - A job has started in queue: join domain: starbucks.com.sg
+[2019-10-23T18:33:50.851] [TRACE] queue - A job completed in queue: join domain: starbucks.com.br
+[2019-10-23T18:33:50.861] [INFO] queue - Lock aquired Successfully for task: join domain: starbucks.com.cn
+[2019-10-23T18:33:50.871] [INFO] queue - Lock aquired Successfully for task: join domain: starbucks.com.sg
+[2019-10-23T18:33:50.882] [INFO] queue - A job has started in queue: join domain: starbucks.de
+[2019-10-23T18:33:50.885] [TRACE] queue - A job completed in queue: join domain: starbucks.com.cn
+[2019-10-23T18:33:50.893] [TRACE] queue - A job completed in queue: join domain: starbucks.com.sg
+[2019-10-23T18:33:50.894] [INFO] queue - Lock aquired Successfully for task: join domain: starbucks.de
+[2019-10-23T18:33:50.898] [INFO] queue - A job has started in queue: join domain: starbucks.fr
+[2019-10-23T18:33:50.898] [INFO] queue - A job has started in queue: join domain: starbucksreserve.com
+[2019-10-23T18:33:50.899] [TRACE] queue - A job completed in queue: join domain: starbucks.de
+[2019-10-23T18:33:50.899] [INFO] queue - Lock aquired Successfully for task: join domain: starbucks.fr
+[2019-10-23T18:33:50.902] [INFO] queue - Lock aquired Successfully for task: join domain: starbucksreserve.com
+[2019-10-23T18:33:50.905] [INFO] queue - A job has started in queue: join domain: twimg.com
+[2019-10-23T18:33:50.906] [TRACE] queue - A job completed in queue: join domain: starbucks.fr
+[2019-10-23T18:33:50.907] [TRACE] queue - A job completed in queue: join domain: starbucksreserve.com
+[2019-10-23T18:33:50.917] [INFO] queue - Lock aquired Successfully for task: join domain: twimg.com
+[2019-10-23T18:33:50.922] [INFO] queue - A job has started in queue: join domain: twitter.com
+[2019-10-23T18:33:50.931] [INFO] queue - A job has started in queue: join domain: uber.com
+[2019-10-23T18:33:50.933] [TRACE] queue - A job completed in queue: join domain: twimg.com
+[2019-10-23T18:33:50.940] [INFO] queue - Lock aquired Successfully for task: join domain: twitter.com
+[2019-10-23T18:33:50.950] [INFO] queue - Lock aquired Successfully for task: join domain: uber.com
+[2019-10-23T18:33:50.955] [INFO] queue - A job has started in queue: join domain: uber.com.cn
+[2019-10-23T18:33:50.963] [TRACE] queue - A job completed in queue: join domain: twitter.com
+[2019-10-23T18:33:50.966] [TRACE] queue - A job completed in queue: join domain: uber.com
+[2019-10-23T18:33:50.972] [INFO] queue - Lock aquired Successfully for task: join domain: uber.com.cn
+[2019-10-23T18:33:50.984] [INFO] queue - A job has started in queue: join domain: ubunt.com
+[2019-10-23T18:33:50.985] [INFO] queue - A job has started in queue: join domain: ui.com
+[2019-10-23T18:33:50.986] [TRACE] queue - A job completed in queue: join domain: uber.com.cn
+[2019-10-23T18:33:50.987] [INFO] queue - Lock aquired Successfully for task: join domain: ubunt.com
+[2019-10-23T18:33:50.998] [INFO] queue - Lock aquired Successfully for task: join domain: ui.com
+[2019-10-23T18:33:51.017] [INFO] queue - A job has started in queue: join domain: vine.co
+[2019-10-23T18:33:51.018] [TRACE] queue - A job completed in queue: join domain: ubunt.com
+[2019-10-23T18:33:51.020] [TRACE] queue - A job completed in queue: join domain: ui.com
+[2019-10-23T18:33:51.030] [INFO] queue - Lock aquired Successfully for task: join domain: vine.co
+[2019-10-23T18:33:51.040] [TRACE] queue - A job completed in queue: join domain: vine.co

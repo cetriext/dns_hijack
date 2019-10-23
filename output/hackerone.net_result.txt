@@ -1876,3 +1876,8 @@ citelic.com
 gp-bbhost.tk
 henk.sexy
 ophionps.com
+errors.hackerone.net
+www.hackerone.net
+hackerone.net
+vpn.hackerone.net
+pn.hackerone.net

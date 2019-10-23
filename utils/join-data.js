@@ -11,7 +11,7 @@ module.exports = function joinAmassData(domain, callback){
             let fileData = fs.readFileSync(location+file, "utf8");
             fileData.split("\n").map((entry) => {
                 if(entry){
-                    entry = entry.replace("\r\n","")
+                    entry = entry.replace("\n","")
                     result.add(entry)
                 }
             })
@@ -19,7 +19,7 @@ module.exports = function joinAmassData(domain, callback){
     })
     let content = "";
     result.forEach((entry) => {
-        content += entry + "\r\n"
+        content += entry + "\n"
     })
     fs.appendFileSync(location+ `${domain}_result.txt`, content);
     logger.info(`Done appending data to result file from amass for domain: ${domain} results added from amass count: ${result.size}`)
