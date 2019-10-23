@@ -1,7 +1,7 @@
 const path = require("path");
 const fs = require("fs");
 const logger = require("log4js").getLogger("app");
-const location = path.join(path.resolve("../"),"output/"); 
+const location = path.join(path.resolve("./"),"output/"); 
 
 module.exports = function cleanResultsFile(domain, callback){
     let dirData = fs.readdirSync(location);

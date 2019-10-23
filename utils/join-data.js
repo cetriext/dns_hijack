@@ -1,7 +1,7 @@
 const path = require("path");
 const fs = require("fs");
 const logger = require("log4js").getLogger("app");
-const location = path.join(path.resolve("../"),"output/"); 
+const location = path.join(path.resolve("./"),"output/"); 
 
 module.exports = function joinAmassData(domain, callback){
     let dirData = fs.readdirSync(location);
@@ -11,6 +11,7 @@ module.exports = function joinAmassData(domain, callback){
             let fileData = fs.readFileSync(location+file, "utf8");
             fileData.split("\n").map((entry) => {
                 if(entry){
+                    entry = entry.replace("\r\n","")
                     result.add(entry)
                 }
             })
