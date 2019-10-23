@@ -2,8 +2,13 @@ const logger = require("log4js").getLogger("app");
 const http = require("request");
 const writeToFile = require("../../utils/write-file");
 
-module.exports = function getDomainsFromCRTSH(domain, callback){
-    http(`https://crt.sh/?Identity=%${domain}`, {method: 'GET'}, (err, res, body) => {
+module.exports = function getDomainsFromCRTSH(domain, callback, retry = false){
+    let url = `https://crt.sh/?Identity=%${domain}`;
+    if(retry){
+        logger.debug(`Retrying task: crtsh for domain: ${domain} as results are zero`)
+        url = url.replace("%","%.")
+    }
+    http(url, {method: 'GET'}, (err, res, body) => {
         if(err){
             logger.fatal(`Error while getting results from crt.sh for domain: ${domain} \r\n Error: ${err}`);
             callback("error","");
@@ -22,6 +27,11 @@ module.exports = function getDomainsFromCRTSH(domain, callback){
                 //take care of wild card subdomains
                 content += domain + "\r\n";
             })
+            if(result.size === 0 && !url.match(/\%\./)){
+                getDomainsFromCRTSH(domain, callback, true)
+                return;
+            }
+            logger.info(`Total number of results for task: crtsh domain: ${domain} expected: ${result.size} found: ${content.split('\n').length}`)
             writeToFile(`crtsh_${domain}.txt`, content, domain);
             callback(null, "success");
             // res.on('data', (chunk) => {

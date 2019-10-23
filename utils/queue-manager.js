@@ -64,15 +64,15 @@ class Queues{
             queue.on("completed", (job, result) => {
                 logger.trace(`A job completed in queue: ${this.queueList[index]} domain: ${job.data.domain}`)
                 if(this.queueList[index] === 'ctlogs'){
-                    this.addJobToQueue("crtsh", job.data.domain)
+                    // this.addJobToQueue("crtsh", job.data.domain)
                 } else if(this.queueList[index] === 'crtsh'){
                     // this.addJobToQueue("censys", job.data.domain)
-                    this.addJobToQueue("fbcrtsh", job.data.domain)
+                    // this.addJobToQueue("fbcrtsh", job.data.domain)
                 } else if(this.queueList[index] === 'fbcrtsh'){
-                    this.addJobToQueue("amass", job.data.domain, 1, "timeout");
+                    // this.addJobToQueue("amass", job.data.domain, 1, "timeout");
                     // this.addJobToQueue("censys", job.data.domain);
                 } else if(this.queueList[index] === 'censys'){
-                    this.addJobToQueue("amass", job.data.domain, 1, "timeout");
+                    // this.addJobToQueue("amass", job.data.domain, 1, "timeout");
                 } else if(this.queueList[index] === 'amass'){
                     //condition here with max variations in amass
                     logger.info(`Adding iteration job to  queue: amass domain: ${job.data.domain}`)
