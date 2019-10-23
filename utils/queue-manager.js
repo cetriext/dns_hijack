@@ -4,7 +4,8 @@ const runAmass = require("./amass");
 const queryCensus = require("../functions/selenium/censys.js");
 const queryCRTSH = require("../functions/api/certsh.js");
 const queryFBcrtsh = require("../functions/api/facebook-crt.js");
-const joindata = require("../utils/join-data")
+const joindata = require("../utils/join-data");
+const cleanResultdata = require("../utils/clean-result-files");
 const log4js = require("log4js");
 const yargs = require("yargs").argv;
 
@@ -40,15 +41,15 @@ const logger = require("log4js").getLogger("queue");
 
 class Queues{
     constructor(){
-        this.queueList = ["ctlogs","censys","crtsh","join","resolve","amass", "fbcrtsh"];
+        this.queueList = ["ctlogs","censys","crtsh","join","clean","amass", "fbcrtsh"];
         this.ctlogsQueue = this.generateAllQueues("ctlogs");
         this.censysQueue = this.generateAllQueues("censys");
         this.crtshQueue = this.generateAllQueues("crtsh");
         this.fbcrtshQueue = this.generateAllQueues("fbcrtsh");
         this.joinQueue = this.generateAllQueues("join");
-        this.resolveQueue = this.generateAllQueues("resolve");
+        this.cleanQueue = this.generateAllQueues("clean");
         this.amassQueue = this.generateAllQueues("amass");
-        this.queuesArray = [this.ctlogsQueue,this.censysQueue, this.crtshQueue, this.joinQueue, this.resolveQueue, this.amassQueue, this.fbcrtshQueue]
+        this.queuesArray = [this.ctlogsQueue,this.censysQueue, this.crtshQueue, this.joinQueue, this.cleanQueue, this.amassQueue, this.fbcrtshQueue]
         this.addEventListeners(this.queuesArray);
         this.processQueues(this.queuesArray);
         this.test();
@@ -61,7 +62,7 @@ class Queues{
             queue.on("active", (job, promise) => {
                 logger.info(`A job has started in queue: ${this.queueList[index]} domain: ${job.data.domain}`)
             })
-            queue.on("completed", (job, result) => {
+            queue.on("completed", async(job, result) => {
                 logger.trace(`A job completed in queue: ${this.queueList[index]} domain: ${job.data.domain}`)
                 if(this.queueList[index] === 'ctlogs'){
                     let count1 = await this.ctlogsQueue.count();
@@ -114,9 +115,9 @@ class Queues{
                 if(!JSON.stringify(err).match(/job stalled more than allowable limit/)){
                     await job.releaseLock().then(() => {logger.info("releasing the lock")});
                     if(this.queueList[index] !== 5){
-                        job.retry().then(() => {
-                            logger.info(`A failed job added to retry in queue: ${this.queueList[index]} with domain: ${job.data.domain}`);
-                        })
+                        // job.retry().then(() => {
+                            // logger.info(`A failed job added to retry in queue: ${this.queueList[index]} with domain: ${job.data.domain}`);
+                        // })
                     }
                 }
             })
@@ -193,6 +194,23 @@ class Queues{
                 logger.error(`Error while taking lock for task: ctlogs domain: ${job.data.domain} \r\n error: ${err}`)
             });
         })
+        this.joinQueue.process(3, (job, done) => {
+            job.takeLock().then((res) => {
+                logger.info(`Lock aquired Successfully for task: join domain: ${job.data.domain}`)
+                joindata(job.data.domain, done);
+            }, (err) => {
+                logger.error(`Error while taking lock for task: join domain: ${job.data.domain} \r\n error: ${err}`)
+            });
+        })
+        
+        this.cleanQueue.process(3, (job, done) => {
+            job.takeLock().then((res) => {
+                logger.info(`Lock aquired Successfully for task: clean domain: ${job.data.domain}`)
+                cleanResultdata(job.data.domain, done);
+            }, (err) => {
+                logger.error(`Error while taking lock for task: clean domain: ${job.data.domain} \r\n error: ${err}`)
+            });
+        })
     }
     async addJobToQueue(queuename, domain, type = 0, mode="timeout"){
         logger.info(`Adding job to queue: ${queuename} domain: ${domain}`);
@@ -205,8 +223,8 @@ class Queues{
             let count6 = await this.crtshQueue.getActiveCount();
             let count7 = await this.joinQueue.count();
             let count8 = await this.joinQueue.getActiveCount();
-            let count9 = await this.resolveQueue.count();
-            let count10 = await this.resolveQueue.getActiveCount();
+            let count9 = await this.cleanQueue.count();
+            let count10 = await this.cleanQueue.getActiveCount();
             let count11 = await this.fbcrtshQueue.count();
             let count12 = await this.fbcrtshQueue.getActiveCount();
             let total = count1+count2+count3+count4+count5+count6+count7+count8+count9+count10+count11+count12;
@@ -262,6 +280,14 @@ class Queues{
             this.fbcrtshQueue.add({domain: domain}).then(() => {
                 logger.info(`Job added to queue: fbcrtsh for domain: ${domain}`)
             })
+        } else if(queuename === 'join'){
+            this.joinQueue.add({domain: domain}).then(() => {
+                logger.info(`Job added to queue: join for domain: ${domain}`)
+            })
+        } else if(queuename === 'clean'){
+            this.cleanQueue.add({domain: domain}).then(() => {
+                logger.info(`Job added to queue: clean for domain: ${domain}`)
+            })
         }
     }
     emptyQueues(){
@@ -297,15 +323,20 @@ class Queues{
     }
     test(){
         let commands = yargs._;
-            let array = ["berush.com ", "bitmoji.com ", "bitstrips.com", "events.semrush.com ", "gnip.com ", "greenhouse.io ", "hacker101.com ", "hackerone-ext-content.com ", "hackerone-user-content.com ", "hackerone.com ", "hackerone.net ", "istarbucks.co.kr ", "labs-semrush.com ", "legalrobot.com ", "mobpub.com ", "onelogin.com ", "paypal.com ", "periscope.tv ", "pscp.tv ", "semrush.com ", "shipt.com", "slack-files.com ", "slack-imgs.com ", "slack-redir.net ", "slack.com ", "slackatwork.com ", "slackb.com ", "spaces.pm ", "starbucks.ca ", "starbucks.co.jp ", "starbucks.co.uk ", "starbucks.com ", "starbucks.com.br ", "starbucks.com.cn ", "starbucks.com.sg ", "starbucks.de ", "starbucks.fr ", "starbucksreserve.com ", "twimg.com ", "twitter.com ", "uber.com ", "uber.com.cn ", "ubunt.com ", "ui.com ", "vine.co "];
+            let array = ["berush.com ", "bitmoji.com", "bitstrips.com", "events.semrush.com ", "gnip.com", "greenhouse.io", "hacker101.com", "hackerone-ext-content.com", "hackerone-user-content.com", "hackerone.com", "hackerone.net", "istarbucks.co.kr", "labs-semrush.com", "legalrobot.com", "mobpub.com", "onelogin.com", "paypal.com", "periscope.tv", "pscp.tv", "semrush.com", "shipt.com", "slack-files.com", "slack-imgs.com", "slack-redir.net", "slack.com", "slackatwork.com", "slackb.com", "spaces.pm", "starbucks.ca", "starbucks.co.jp", "starbucks.co.uk", "starbucks.com", "starbucks.com.br", "starbucks.com.cn", "starbucks.com.sg", "starbucks.de", "starbucks.fr", "starbucksreserve.com", "twimg.com", "twitter.com", "uber.com", "uber.com.cn", "ubunt.com", "ui.com", "vine.co"];
             array.map((domain) => {
+                domain.replace(/ /g,"")
                 if(commands.includes("ctlogs")){
                     this.addJobToQueue("ctlogs", domain)
                 } else if(commands.includes("crtsh")){
                     this.addJobToQueue("crtsh", domain)
                 } else if(commands.includes("fbcrtsh")){
                     this.addJobToQueue("fbcrtsh", domain)
-            }
+                }  else if(commands.includes("join")){
+                    this.addJobToQueue("join", domain)
+                }  else if(commands.includes("clean")){
+                    this.addJobToQueue("clean", domain)
+                }
         })
     }
 }

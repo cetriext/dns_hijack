@@ -1,0 +1,14 @@
+dev-2014-09-08.slack-imgs.com
+qa.slack.com
+slack-imgs.com
+*.slack-imgs.com
+dev.slack-imgs.com
+*.qa.slack.com
+qa.slack-redir.net
+qa.slack-redir.com
+qa.slack-msgs.com
+qa.slack-imgs.com
+qa.slack-files.com
+*.enterprise.qa.slack.com
+*.xmpp.qa.slack.com
+*.irc.qa.slack.com

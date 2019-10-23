@@ -3958,3 +3958,226 @@
 [2019-10-23T16:53:21.075] [TRACE] queue - A job completed in queue: fbcrtsh domain: ui.com 
 [2019-10-23T16:53:38.285] [TRACE] queue - A job completed in queue: fbcrtsh domain: paypal.com 
 [2019-10-23T16:54:19.827] [TRACE] queue - A job completed in queue: fbcrtsh domain: starbucks.com 
+[2019-10-23T17:18:39.477] [INFO] queue - Adding job to queue: ctlogs domain: berush.com 
+[2019-10-23T17:18:39.481] [INFO] queue - Adding job to queue: ctlogs domain: bitmoji.com 
+[2019-10-23T17:18:39.482] [INFO] queue - Adding job to queue: ctlogs domain: bitstrips.com
+[2019-10-23T17:18:39.482] [INFO] queue - Adding job to queue: ctlogs domain: events.semrush.com 
+[2019-10-23T17:18:39.482] [INFO] queue - Adding job to queue: ctlogs domain: gnip.com 
+[2019-10-23T17:18:39.482] [INFO] queue - Adding job to queue: ctlogs domain: greenhouse.io 
+[2019-10-23T17:18:39.482] [INFO] queue - Adding job to queue: ctlogs domain: hacker101.com 
+[2019-10-23T17:18:39.482] [INFO] queue - Adding job to queue: ctlogs domain: hackerone-ext-content.com 
+[2019-10-23T17:18:39.483] [INFO] queue - Adding job to queue: ctlogs domain: hackerone-user-content.com 
+[2019-10-23T17:18:39.483] [INFO] queue - Adding job to queue: ctlogs domain: hackerone.com 
+[2019-10-23T17:18:39.483] [INFO] queue - Adding job to queue: ctlogs domain: hackerone.net 
+[2019-10-23T17:18:39.483] [INFO] queue - Adding job to queue: ctlogs domain: istarbucks.co.kr 
+[2019-10-23T17:18:39.483] [INFO] queue - Adding job to queue: ctlogs domain: labs-semrush.com 
+[2019-10-23T17:18:39.483] [INFO] queue - Adding job to queue: ctlogs domain: legalrobot.com 
+[2019-10-23T17:18:39.484] [INFO] queue - Adding job to queue: ctlogs domain: mobpub.com 
+[2019-10-23T17:18:39.484] [INFO] queue - Adding job to queue: ctlogs domain: onelogin.com 
+[2019-10-23T17:18:39.484] [INFO] queue - Adding job to queue: ctlogs domain: paypal.com 
+[2019-10-23T17:18:39.484] [INFO] queue - Adding job to queue: ctlogs domain: periscope.tv 
+[2019-10-23T17:18:39.484] [INFO] queue - Adding job to queue: ctlogs domain: pscp.tv 
+[2019-10-23T17:18:39.484] [INFO] queue - Adding job to queue: ctlogs domain: semrush.com 
+[2019-10-23T17:18:39.484] [INFO] queue - Adding job to queue: ctlogs domain: shipt.com
+[2019-10-23T17:18:39.485] [INFO] queue - Adding job to queue: ctlogs domain: slack-files.com 
+[2019-10-23T17:18:39.485] [INFO] queue - Adding job to queue: ctlogs domain: slack-imgs.com 
+[2019-10-23T17:18:39.485] [INFO] queue - Adding job to queue: ctlogs domain: slack-redir.net 
+[2019-10-23T17:18:39.485] [INFO] queue - Adding job to queue: ctlogs domain: slack.com 
+[2019-10-23T17:18:39.485] [INFO] queue - Adding job to queue: ctlogs domain: slackatwork.com 
+[2019-10-23T17:18:39.485] [INFO] queue - Adding job to queue: ctlogs domain: slackb.com 
+[2019-10-23T17:18:39.486] [INFO] queue - Adding job to queue: ctlogs domain: spaces.pm 
+[2019-10-23T17:18:39.486] [INFO] queue - Adding job to queue: ctlogs domain: starbucks.ca 
+[2019-10-23T17:18:39.486] [INFO] queue - Adding job to queue: ctlogs domain: starbucks.co.jp 
+[2019-10-23T17:18:39.486] [INFO] queue - Adding job to queue: ctlogs domain: starbucks.co.uk 
+[2019-10-23T17:18:39.486] [INFO] queue - Adding job to queue: ctlogs domain: starbucks.com 
+[2019-10-23T17:18:39.486] [INFO] queue - Adding job to queue: ctlogs domain: starbucks.com.br 
+[2019-10-23T17:18:39.486] [INFO] queue - Adding job to queue: ctlogs domain: starbucks.com.cn 
+[2019-10-23T17:18:39.487] [INFO] queue - Adding job to queue: ctlogs domain: starbucks.com.sg 
+[2019-10-23T17:18:39.487] [INFO] queue - Adding job to queue: ctlogs domain: starbucks.de 
+[2019-10-23T17:18:39.487] [INFO] queue - Adding job to queue: ctlogs domain: starbucks.fr 
+[2019-10-23T17:18:39.487] [INFO] queue - Adding job to queue: ctlogs domain: starbucksreserve.com 
+[2019-10-23T17:18:39.487] [INFO] queue - Adding job to queue: ctlogs domain: twimg.com 
+[2019-10-23T17:18:39.487] [INFO] queue - Adding job to queue: ctlogs domain: twitter.com 
+[2019-10-23T17:18:39.487] [INFO] queue - Adding job to queue: ctlogs domain: uber.com 
+[2019-10-23T17:18:39.487] [INFO] queue - Adding job to queue: ctlogs domain: uber.com.cn 
+[2019-10-23T17:18:39.487] [INFO] queue - Adding job to queue: ctlogs domain: ubunt.com 
+[2019-10-23T17:18:39.488] [INFO] queue - Adding job to queue: ctlogs domain: ui.com 
+[2019-10-23T17:18:39.488] [INFO] queue - Adding job to queue: ctlogs domain: vine.co 
+[2019-10-23T17:18:39.522] [INFO] queue - Job added to queue: ctlogs for domain: berush.com 
+[2019-10-23T17:18:39.522] [INFO] queue - Job added to queue: ctlogs for domain: bitmoji.com 
+[2019-10-23T17:18:39.522] [INFO] queue - Job added to queue: ctlogs for domain: bitstrips.com
+[2019-10-23T17:18:39.522] [INFO] queue - Job added to queue: ctlogs for domain: events.semrush.com 
+[2019-10-23T17:18:39.522] [INFO] queue - Job added to queue: ctlogs for domain: gnip.com 
+[2019-10-23T17:18:39.522] [INFO] queue - Job added to queue: ctlogs for domain: greenhouse.io 
+[2019-10-23T17:18:39.523] [INFO] queue - Job added to queue: ctlogs for domain: hacker101.com 
+[2019-10-23T17:18:39.523] [INFO] queue - Job added to queue: ctlogs for domain: hackerone-ext-content.com 
+[2019-10-23T17:18:39.523] [INFO] queue - Job added to queue: ctlogs for domain: hackerone-user-content.com 
+[2019-10-23T17:18:39.523] [INFO] queue - Job added to queue: ctlogs for domain: hackerone.com 
+[2019-10-23T17:18:39.523] [INFO] queue - Job added to queue: ctlogs for domain: hackerone.net 
+[2019-10-23T17:18:39.523] [INFO] queue - Job added to queue: ctlogs for domain: istarbucks.co.kr 
+[2019-10-23T17:18:39.523] [INFO] queue - Job added to queue: ctlogs for domain: labs-semrush.com 
+[2019-10-23T17:18:39.523] [INFO] queue - Job added to queue: ctlogs for domain: legalrobot.com 
+[2019-10-23T17:18:39.524] [INFO] queue - Job added to queue: ctlogs for domain: mobpub.com 
+[2019-10-23T17:18:39.524] [INFO] queue - Job added to queue: ctlogs for domain: onelogin.com 
+[2019-10-23T17:18:39.524] [INFO] queue - Job added to queue: ctlogs for domain: paypal.com 
+[2019-10-23T17:18:39.524] [INFO] queue - Job added to queue: ctlogs for domain: periscope.tv 
+[2019-10-23T17:18:39.524] [INFO] queue - Job added to queue: ctlogs for domain: pscp.tv 
+[2019-10-23T17:18:39.525] [INFO] queue - Job added to queue: ctlogs for domain: semrush.com 
+[2019-10-23T17:18:39.525] [INFO] queue - Job added to queue: ctlogs for domain: shipt.com
+[2019-10-23T17:18:39.526] [INFO] queue - Job added to queue: ctlogs for domain: slack-files.com 
+[2019-10-23T17:18:39.526] [INFO] queue - Job added to queue: ctlogs for domain: slack-imgs.com 
+[2019-10-23T17:18:39.527] [INFO] queue - Job added to queue: ctlogs for domain: slack-redir.net 
+[2019-10-23T17:18:39.528] [INFO] queue - Job added to queue: ctlogs for domain: slack.com 
+[2019-10-23T17:18:39.528] [INFO] queue - Job added to queue: ctlogs for domain: slackatwork.com 
+[2019-10-23T17:18:39.529] [INFO] queue - Job added to queue: ctlogs for domain: slackb.com 
+[2019-10-23T17:18:39.529] [INFO] queue - Job added to queue: ctlogs for domain: spaces.pm 
+[2019-10-23T17:18:39.529] [INFO] queue - Job added to queue: ctlogs for domain: starbucks.ca 
+[2019-10-23T17:18:39.530] [INFO] queue - Job added to queue: ctlogs for domain: starbucks.co.jp 
+[2019-10-23T17:18:39.541] [INFO] queue - Job added to queue: ctlogs for domain: starbucks.co.uk 
+[2019-10-23T17:18:39.542] [INFO] queue - Job added to queue: ctlogs for domain: starbucks.com 
+[2019-10-23T17:18:39.544] [INFO] queue - Job added to queue: ctlogs for domain: starbucks.com.br 
+[2019-10-23T17:18:39.579] [INFO] queue - Job added to queue: ctlogs for domain: starbucks.com.cn 
+[2019-10-23T17:18:39.582] [INFO] queue - Job added to queue: ctlogs for domain: starbucks.com.sg 
+[2019-10-23T17:18:39.592] [INFO] queue - Job added to queue: ctlogs for domain: starbucks.de 
+[2019-10-23T17:18:39.594] [INFO] queue - Job added to queue: ctlogs for domain: starbucks.fr 
+[2019-10-23T17:18:39.602] [INFO] queue - Job added to queue: ctlogs for domain: starbucksreserve.com 
+[2019-10-23T17:18:39.611] [INFO] queue - Job added to queue: ctlogs for domain: twimg.com 
+[2019-10-23T17:18:39.612] [INFO] queue - Job added to queue: ctlogs for domain: twitter.com 
+[2019-10-23T17:18:39.612] [INFO] queue - Job added to queue: ctlogs for domain: uber.com 
+[2019-10-23T17:18:39.613] [INFO] queue - Job added to queue: ctlogs for domain: uber.com.cn 
+[2019-10-23T17:18:39.625] [INFO] queue - Job added to queue: ctlogs for domain: ubunt.com 
+[2019-10-23T17:18:39.625] [INFO] queue - Job added to queue: ctlogs for domain: ui.com 
+[2019-10-23T17:18:39.632] [INFO] queue - Job added to queue: ctlogs for domain: vine.co 
+[2019-10-23T17:18:39.646] [INFO] queue - A job has started in queue: ctlogs domain: berush.com 
+[2019-10-23T17:18:39.647] [INFO] queue - A job has started in queue: ctlogs domain: bitmoji.com 
+[2019-10-23T17:18:39.649] [INFO] queue - A job has started in queue: ctlogs domain: bitstrips.com
+[2019-10-23T17:18:39.658] [INFO] queue - A job has started in queue: ctlogs domain: events.semrush.com 
+[2019-10-23T17:18:39.660] [INFO] queue - A job has started in queue: ctlogs domain: gnip.com 
+[2019-10-23T17:18:39.661] [INFO] queue - A job has started in queue: ctlogs domain: greenhouse.io 
+[2019-10-23T17:18:39.668] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: berush.com 
+[2019-10-23T17:18:39.681] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: bitmoji.com 
+[2019-10-23T17:18:39.683] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: bitstrips.com
+[2019-10-23T17:18:39.685] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: events.semrush.com 
+[2019-10-23T17:18:39.695] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: gnip.com 
+[2019-10-23T17:18:39.696] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: greenhouse.io 
+[2019-10-23T17:18:52.194] [TRACE] queue - A job completed in queue: ctlogs domain: berush.com 
+[2019-10-23T17:18:52.200] [INFO] queue - A job has started in queue: ctlogs domain: hacker101.com 
+[2019-10-23T17:18:52.204] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: hacker101.com 
+[2019-10-23T17:19:04.459] [TRACE] queue - A job completed in queue: ctlogs domain: bitstrips.com
+[2019-10-23T17:19:04.460] [INFO] queue - A job has started in queue: ctlogs domain: hackerone-ext-content.com 
+[2019-10-23T17:19:04.460] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: hackerone-ext-content.com 
+[2019-10-23T17:19:11.625] [TRACE] queue - A job completed in queue: ctlogs domain: bitmoji.com 
+[2019-10-23T17:19:11.626] [INFO] queue - A job has started in queue: ctlogs domain: hackerone-user-content.com 
+[2019-10-23T17:19:11.626] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: hackerone-user-content.com 
+[2019-10-23T17:19:13.685] [TRACE] queue - A job completed in queue: ctlogs domain: events.semrush.com 
+[2019-10-23T17:19:13.687] [INFO] queue - A job has started in queue: ctlogs domain: hackerone.com 
+[2019-10-23T17:19:13.695] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: hackerone.com 
+[2019-10-23T17:19:45.669] [TRACE] queue - A job completed in queue: ctlogs domain: hackerone-ext-content.com 
+[2019-10-23T17:19:45.672] [INFO] queue - A job has started in queue: ctlogs domain: hackerone.net 
+[2019-10-23T17:19:45.680] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: hackerone.net 
+[2019-10-23T17:19:54.248] [TRACE] queue - A job completed in queue: ctlogs domain: hacker101.com 
+[2019-10-23T17:19:54.258] [INFO] queue - A job has started in queue: ctlogs domain: istarbucks.co.kr 
+[2019-10-23T17:19:54.260] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: istarbucks.co.kr 
+[2019-10-23T17:20:18.756] [TRACE] queue - A job completed in queue: ctlogs domain: hackerone-user-content.com 
+[2019-10-23T17:20:18.758] [INFO] queue - A job has started in queue: ctlogs domain: labs-semrush.com 
+[2019-10-23T17:20:18.765] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: labs-semrush.com 
+[2019-10-23T17:20:39.219] [TRACE] queue - A job completed in queue: ctlogs domain: hackerone.net 
+[2019-10-23T17:20:39.227] [INFO] queue - A job has started in queue: ctlogs domain: legalrobot.com 
+[2019-10-23T17:20:39.229] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: legalrobot.com 
+[2019-10-23T17:20:53.290] [TRACE] queue - A job completed in queue: ctlogs domain: labs-semrush.com 
+[2019-10-23T17:20:53.293] [INFO] queue - A job has started in queue: ctlogs domain: mobpub.com 
+[2019-10-23T17:20:53.299] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: mobpub.com 
+[2019-10-23T17:21:27.761] [TRACE] queue - A job completed in queue: ctlogs domain: hackerone.com 
+[2019-10-23T17:21:27.764] [INFO] queue - A job has started in queue: ctlogs domain: onelogin.com 
+[2019-10-23T17:21:27.774] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: onelogin.com 
+[2019-10-23T17:22:06.311] [TRACE] queue - A job completed in queue: ctlogs domain: istarbucks.co.kr 
+[2019-10-23T17:22:06.315] [INFO] queue - A job has started in queue: ctlogs domain: paypal.com 
+[2019-10-23T17:22:06.327] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: paypal.com 
+[2019-10-23T17:22:17.779] [TRACE] queue - A job completed in queue: ctlogs domain: legalrobot.com 
+[2019-10-23T17:22:17.789] [INFO] queue - A job has started in queue: ctlogs domain: periscope.tv 
+[2019-10-23T17:22:17.791] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: periscope.tv 
+[2019-10-23T17:22:38.691] [TRACE] queue - A job completed in queue: ctlogs domain: onelogin.com 
+[2019-10-23T17:22:38.694] [INFO] queue - A job has started in queue: ctlogs domain: pscp.tv 
+[2019-10-23T17:22:38.700] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: pscp.tv 
+[2019-10-23T17:22:48.780] [TRACE] queue - A job completed in queue: ctlogs domain: periscope.tv 
+[2019-10-23T17:22:48.787] [INFO] queue - A job has started in queue: ctlogs domain: semrush.com 
+[2019-10-23T17:22:48.789] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: semrush.com 
+[2019-10-23T17:23:41.161] [TRACE] queue - A job completed in queue: ctlogs domain: pscp.tv 
+[2019-10-23T17:23:41.162] [INFO] queue - A job has started in queue: ctlogs domain: shipt.com
+[2019-10-23T17:23:41.163] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: shipt.com
+[2019-10-23T17:24:26.877] [TRACE] queue - A job completed in queue: ctlogs domain: semrush.com 
+[2019-10-23T17:24:26.880] [INFO] queue - A job has started in queue: ctlogs domain: slack-files.com 
+[2019-10-23T17:24:26.887] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: slack-files.com 
+[2019-10-23T17:26:36.829] [TRACE] queue - A job completed in queue: ctlogs domain: slack-files.com 
+[2019-10-23T17:26:36.832] [INFO] queue - A job has started in queue: ctlogs domain: slack-imgs.com 
+[2019-10-23T17:26:36.839] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: slack-imgs.com 
+[2019-10-23T17:26:58.367] [TRACE] queue - A job completed in queue: ctlogs domain: slack-imgs.com 
+[2019-10-23T17:26:58.381] [INFO] queue - A job has started in queue: ctlogs domain: slack-redir.net 
+[2019-10-23T17:26:58.381] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: slack-redir.net 
+[2019-10-23T17:28:29.817] [TRACE] queue - A job completed in queue: ctlogs domain: shipt.com
+[2019-10-23T17:28:29.825] [INFO] queue - A job has started in queue: ctlogs domain: slack.com 
+[2019-10-23T17:28:29.827] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: slack.com 
+[2019-10-23T17:28:49.136] [TRACE] queue - A job completed in queue: ctlogs domain: slack-redir.net 
+[2019-10-23T17:28:49.139] [INFO] queue - A job has started in queue: ctlogs domain: slackatwork.com 
+[2019-10-23T17:28:49.147] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: slackatwork.com 
+[2019-10-23T17:29:00.453] [TRACE] queue - A job completed in queue: ctlogs domain: slackatwork.com 
+[2019-10-23T17:29:00.463] [INFO] queue - A job has started in queue: ctlogs domain: slackb.com 
+[2019-10-23T17:29:00.464] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: slackb.com 
+[2019-10-23T17:29:03.462] [TRACE] queue - A job completed in queue: ctlogs domain: slackb.com 
+[2019-10-23T17:29:03.471] [INFO] queue - A job has started in queue: ctlogs domain: spaces.pm 
+[2019-10-23T17:29:03.478] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: spaces.pm 
+[2019-10-23T17:29:04.196] [TRACE] queue - A job completed in queue: ctlogs domain: spaces.pm 
+[2019-10-23T17:29:04.205] [INFO] queue - A job has started in queue: ctlogs domain: starbucks.ca 
+[2019-10-23T17:29:04.207] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: starbucks.ca 
+[2019-10-23T17:29:05.650] [TRACE] queue - A job completed in queue: ctlogs domain: gnip.com 
+[2019-10-23T17:29:05.651] [INFO] queue - A job has started in queue: ctlogs domain: starbucks.co.jp 
+[2019-10-23T17:29:05.652] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: starbucks.co.jp 
+[2019-10-23T17:30:49.303] [TRACE] queue - A job completed in queue: ctlogs domain: starbucks.ca 
+[2019-10-23T17:30:49.308] [INFO] queue - A job has started in queue: ctlogs domain: starbucks.co.uk 
+[2019-10-23T17:30:49.320] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: starbucks.co.uk 
+[2019-10-23T17:32:21.258] [TRACE] queue - A job completed in queue: ctlogs domain: starbucks.co.uk 
+[2019-10-23T17:32:21.261] [INFO] queue - A job has started in queue: ctlogs domain: starbucks.com 
+[2019-10-23T17:32:21.268] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: starbucks.com 
+[2019-10-23T17:32:21.430] [TRACE] queue - A job completed in queue: ctlogs domain: slack.com 
+[2019-10-23T17:32:21.433] [INFO] queue - A job has started in queue: ctlogs domain: starbucks.com.br 
+[2019-10-23T17:32:21.439] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: starbucks.com.br 
+[2019-10-23T17:32:34.039] [TRACE] queue - A job completed in queue: ctlogs domain: starbucks.co.jp 
+[2019-10-23T17:32:34.042] [INFO] queue - A job has started in queue: ctlogs domain: starbucks.com.cn 
+[2019-10-23T17:32:34.048] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: starbucks.com.cn 
+[2019-10-23T17:33:06.241] [TRACE] queue - A job completed in queue: ctlogs domain: starbucks.com.br 
+[2019-10-23T17:33:06.244] [INFO] queue - A job has started in queue: ctlogs domain: starbucks.com.sg 
+[2019-10-23T17:33:06.250] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: starbucks.com.sg 
+[2019-10-23T17:34:03.140] [TRACE] queue - A job completed in queue: ctlogs domain: starbucks.com.sg 
+[2019-10-23T17:34:03.141] [INFO] queue - A job has started in queue: ctlogs domain: starbucks.de 
+[2019-10-23T17:34:03.142] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: starbucks.de 
+[2019-10-23T17:35:18.852] [TRACE] queue - A job completed in queue: ctlogs domain: starbucks.de 
+[2019-10-23T17:35:18.855] [INFO] queue - A job has started in queue: ctlogs domain: starbucks.fr 
+[2019-10-23T17:35:18.862] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: starbucks.fr 
+[2019-10-23T17:35:47.537] [TRACE] queue - A job completed in queue: ctlogs domain: greenhouse.io 
+[2019-10-23T17:35:47.541] [INFO] queue - A job has started in queue: ctlogs domain: starbucksreserve.com 
+[2019-10-23T17:35:47.546] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: starbucksreserve.com 
+[2019-10-23T17:35:58.252] [TRACE] queue - A job completed in queue: ctlogs domain: starbucksreserve.com 
+[2019-10-23T17:35:58.255] [INFO] queue - A job has started in queue: ctlogs domain: twimg.com 
+[2019-10-23T17:35:58.264] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: twimg.com 
+[2019-10-23T17:36:22.422] [TRACE] queue - A job completed in queue: ctlogs domain: starbucks.fr 
+[2019-10-23T17:36:22.430] [INFO] queue - A job has started in queue: ctlogs domain: twitter.com 
+[2019-10-23T17:36:22.432] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: twitter.com 
+[2019-10-23T17:39:53.229] [TRACE] queue - A job completed in queue: ctlogs domain: starbucks.com.cn 
+[2019-10-23T17:39:53.232] [INFO] queue - A job has started in queue: ctlogs domain: uber.com 
+[2019-10-23T17:39:53.242] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: uber.com 
+[2019-10-23T17:39:58.821] [TRACE] queue - A job completed in queue: ctlogs domain: twimg.com 
+[2019-10-23T17:39:58.829] [INFO] queue - A job has started in queue: ctlogs domain: uber.com.cn 
+[2019-10-23T17:39:58.830] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: uber.com.cn 
+[2019-10-23T17:40:03.706] [TRACE] queue - A job completed in queue: ctlogs domain: uber.com.cn 
+[2019-10-23T17:40:03.714] [INFO] queue - A job has started in queue: ctlogs domain: ubunt.com 
+[2019-10-23T17:40:03.717] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: ubunt.com 
+[2019-10-23T17:41:13.103] [TRACE] queue - A job completed in queue: ctlogs domain: paypal.com 
+[2019-10-23T17:41:13.105] [INFO] queue - A job has started in queue: ctlogs domain: ui.com 
+[2019-10-23T17:41:13.113] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: ui.com 
+[2019-10-23T17:41:57.874] [TRACE] queue - A job completed in queue: ctlogs domain: uber.com 
+[2019-10-23T17:41:57.876] [INFO] queue - A job has started in queue: ctlogs domain: vine.co 
+[2019-10-23T17:41:57.883] [INFO] queue - Lock aquired Successfully for task: ctlogs domain: vine.co 
+[2019-10-23T17:42:40.056] [TRACE] queue - A job completed in queue: ctlogs domain: twitter.com 
+[2019-10-23T17:43:16.218] [TRACE] queue - A job completed in queue: ctlogs domain: vine.co 
+[2019-10-23T17:49:53.428] [TRACE] queue - A job completed in queue: ctlogs domain: ui.com 
+[2019-10-23T18:24:22.027] [TRACE] queue - A job completed in queue: ctlogs domain: starbucks.com 

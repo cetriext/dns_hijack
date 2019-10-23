@@ -1980,3 +1980,14 @@ tuastrologa.com
 charged-hosting.net
 status.swanwolflabs.com
 status.sterda.com
+labs-semrush.com
+calendar.labs-semrush.com
+cohort-analysis.labs-semrush.com
+ppc.labs-semrush.com
+sempie.labs-semrush.com
+signa.labs-semrush.com
+sni.cloudflaressl.com
+trends.labs-semrush.com
+wordpress.labs-semrush.com
+www.ppc.labs-semrush.com
+*.wordpress.labs-semrush.com

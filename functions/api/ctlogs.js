@@ -4,6 +4,7 @@ const httpRequest = require("request");
 const logger = require("log4js").getLogger("app");
 
 module.exports = async function queryUsingCTLogs(domain, callback) {
+    domain = domain.replace(/ /g,"");
     logger.info("Started Querying Using ctlogs for domain "+ domain);
     let hashes = new Set();
     let result = new Set();
@@ -33,7 +34,8 @@ module.exports = async function queryUsingCTLogs(domain, callback) {
                         logger.debug(`Task ctlogs for domain ${domain}: Error while making http call for hashes retry: ${errorCount}`)
                     } 
                         logger.error(`Task ctlogs for domain ${domain}: Network Connectivity issues`);
-                        loop(nextPage);
+                        errorCount < 5 ? loop(nextPage): callback("error", "");
+
                         // callback("error","")
                 } else {
                     let err;
@@ -65,6 +67,7 @@ module.exports = async function queryUsingCTLogs(domain, callback) {
                             logger.debug(`Retry attempt: ${errorCount} for domain: ${domain} for hash: ${nextPage}`);
                             loop(nextPage);
                         } else {
+                            callback("error", "failed");
                             logger.error(`Max Retreis exceeded: ${errorCount} for domain: ${domain} for hash: ${nextPage}`);
                         }
                     }
