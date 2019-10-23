@@ -8,6 +8,7 @@ const  result = new Set();
 let errorCount = 0;
 
 module.exports = function getDomainsFromFacebook(domain, callback){
+    domain = domain.replace(/ /g,"")
     url =`https://developers.facebook.com/tools/ct/async/search/?step_size=50&query=${domain}`
     j = http.jar();
     const cookie1 = http.cookie(`datr=${process.env.datr}`);
@@ -54,7 +55,7 @@ function makeHttpCall(url, domain, callback){
                     log.info(`Retrying token error in task: facebookcrt for domain: ${domain} retryCount: ${errorCount}`);
                 }
                 if(!url.match(/next_cursor/)){
-                    log.info(`Total number of estimated result count: ${body.payload.paging.results_total}`)
+                    log.info(`Total number of estimated result for task: fbcrtsh domain: ${domain} count: ${body.payload.paging.results_total}`)
                 }
                 body.payload.data.map((re) => {
                     re.domains.map((domain) => {

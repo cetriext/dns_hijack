@@ -64,14 +64,36 @@ class Queues{
             queue.on("completed", (job, result) => {
                 logger.trace(`A job completed in queue: ${this.queueList[index]} domain: ${job.data.domain}`)
                 if(this.queueList[index] === 'ctlogs'){
+                    let count1 = await this.ctlogsQueue.count();
+                    let count2 = await this.ctlogsQueue.getActiveCount();
+                    if(count1 + count2 === 0){
+                        logger.debug(`Queue empty queuename: CTLOGS`)
+                    }
                     // this.addJobToQueue("crtsh", job.data.domain)
                 } else if(this.queueList[index] === 'crtsh'){
+                    let count1 = await this.crtshQueue.count();
+                    let count2 = await this.crtshQueue.getActiveCount();
+                    if(count1 + count2 === 0){
+                        logger.debug(`Queue empty queuename: CRTSH`)
+                    }
                     // this.addJobToQueue("censys", job.data.domain)
                     // this.addJobToQueue("fbcrtsh", job.data.domain)
                 } else if(this.queueList[index] === 'fbcrtsh'){
+                    
+                    let count1 = await this.fbcrtshQueue.count();
+                    let count2 = await this.fbcrtshQueue.getActiveCount();
+                    if(count1 + count2 === 0){
+                        logger.debug(`Queue empty queuename: FBCRTSH`)
+                    }
                     // this.addJobToQueue("amass", job.data.domain, 1, "timeout");
                     // this.addJobToQueue("censys", job.data.domain);
                 } else if(this.queueList[index] === 'censys'){
+                    
+                    let count1 = await this.censysQueue.count();
+                    let count2 = await this.censysQueue.getActiveCount();
+                    if(count1 + count2 === 0){
+                        logger.debug(`Queue empty queuename: CENSYS`)
+                    }
                     // this.addJobToQueue("amass", job.data.domain, 1, "timeout");
                 } else if(this.queueList[index] === 'amass'){
                     //condition here with max variations in amass
